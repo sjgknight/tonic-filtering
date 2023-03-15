@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= config.title %> | <%= @title || current_page.data.title %></title>
+    <meta name="description" content="<%= strip_truncate(@description || config.description, 120) %>">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <%= stylesheet_link_tag "application" %>
+    <%= favicon_tag "favicon.ico" %>
+    <% if config.font_family %>
+      <link href="https://fonts.googleapis.com/css2?family=<%= config.font_family %>:wght@400;600;700&display=swap" rel="stylesheet">
+    <% end %>
+    <style>
+      :root {
+        --main-color: <%= config.main_color || Tonic::DEFAULT_COLOR %>;
+        --background-color: <%= config.background_color || Tonic::DEFAULT_BG_COLOR %>;
+        --font-family: <%= config.font_family %>;
+      }
+    </style>
+  </head>
+  <body>
+    <%= partial 'templates/components/header' %>
+    <%= yield %>
+    <%= partial 'templates/components/footer' %>
+
+    <%= javascript_include_tag "application" %>
+    <script>
+      window.config = JSON.parse(JSON.stringify(<%= config.to_json %>));
+      <% if current_page.url == '/' %>
+        window.collection = JSON.parse(JSON.stringify(<%= tonic_collection.to_json %>));
+      <% end %>
+    </script>
+  </body>
+</html>

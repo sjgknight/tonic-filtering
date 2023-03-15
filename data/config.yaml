@@ -1,0 +1,23 @@
+# Main settings
+title: My Collection
+description: This is an example of a <a href="https://github.com/Subgin/tonic">Tonic</a> project.
+
+# Style/UI
+main_color: "#6366f1"
+background_color: "#e2e8f0"
+font_family: "Lato"
+links:
+  - text: About Us
+    url: "#"
+  - text: Contact
+    url: "#"
+
+# Sorting
+sorting:
+  default_order: "price asc"
+
+# Filters
+filters:
+  exclude:
+    - video
+    - audio
