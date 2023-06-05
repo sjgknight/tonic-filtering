@@ -12,7 +12,9 @@
   </div>
   <div class="card-body">
     <span class="text-gray-500"><%= strip_truncate(item.description, 60) %></span>
-    <p><%= render_tags(item.tags) %></p>
+    <!-- <p><%= render_tags(item.tags) %></p> -->
+    <p><%= render_tag_links(item.tags) %></p>
+
   </div>
 
   <% if page_url = detail_page_url(item) %>

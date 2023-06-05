@@ -1,3 +1,11 @@
+SK notes:
+
+For this to work, I made some very minor changes to the repo (to make the tags links). 
+
+My yaml export needs reformatting. 
+
+
+
 # Tonic
 
 > 🍸 Digital Collections Framework

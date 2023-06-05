@@ -22,6 +22,13 @@ module Tonic
       end.join(" ")
     end
 
+    def render_tag_links(tags)
+      return if !tags
+        tags.sort.map do |tag|
+        "<a href='?tags=#{tag}' class='tag'>#{tag}</a>".html_safe
+      end.join(" ")
+    end
+
     def render_hash(hash)
       hash.map do |k, v|
         if is_hash?(v)
