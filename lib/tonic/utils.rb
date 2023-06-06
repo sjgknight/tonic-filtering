@@ -29,6 +29,40 @@ module Tonic
       end.join(" ")
     end
 
+    def render_principle_links(principles)
+      return if !principles
+        "<b>Principles:</b>" + principles.sort.map do |principle|
+        "<a href='?global=#{principle}' class='tag'>#{data.collection.select { |item| item.name == principle }.map(&:title).join}</a>".html_safe
+      end.join(" ")
+    end
+
+ def render_links(fields)
+  fields.map do |field|
+    next unless current_page.data[field]
+
+    values = data.collection.flat_map(&field).compact.uniq.sort
+    next if values.empty?
+
+    link_html = values.map do |value|
+      matching_items = data.collection.select { |item| item.send(field)&.include?(value) }
+      titles = matching_items.map(&:title).join(", ")
+      link_url = "#{base_url}?global=#{value}"
+      link_to('hello world', link_url, { :class => 'tag'})
+    end.join(" ")
+
+    "<b>#{field.capitalize}:</b> #{link_html}".html_safe
+  end.compact.join(" ").html_safe
+end
+
+def render_link_values(value)
+  value.map do |v|
+      matching_items = data.collection.select { |item| item.name == v }
+      titles = matching_items.map(&:title).join(", ")
+      link_url = "http://192.168.0.4:4567/?global=#{v}"
+      link_to(titles, link_url, { :class => 'tag'})
+  end.join(" ").html_safe
+end
+
     def render_hash(hash)
       hash.map do |k, v|
         if is_hash?(v)

@@ -1,3 +1,15 @@
+For each file, (1) for each entry, add a Category: {{filename}} to get cases/principles, etc.; (2) for each entry lowercase all yaml keys; (3) for each entry, change title to name, and airtable_createdTime to published_at; (4) for all occurrences of the list of {{filename}} properties (cases/principles/etc), change them to 'item.'
+
+https://stackoverflow.com/questions/48471273/middleman-hierachical-yaml-data-by-key-name
+
+https://middlemanapp.com/basics/frontmatter/
+
+IT doesn't seem to like arbitrary key names, OR it does but they have to be consistent and not introduced in the last two? 
+https://github.com/Subgin/tonic#detail-pages
+
+https://middlemanapp.com/basics/helper-methods/ 
+
+
 SK notes:
 
 For this to work, I made some very minor changes to the repo (to make the tags links). 

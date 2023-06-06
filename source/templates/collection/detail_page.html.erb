@@ -2,8 +2,9 @@
 layout: layout
 ---
 
-<% @title = item.name %>
+<% @title = item.title %>
 <% @description = item.description %>
+
 
 <div class="mt-6 mb-24 px-8 md:px-32 mx-auto max-w-screen-xl">
   <div class="flex justify-between items-center mb-4">
@@ -26,6 +27,7 @@ layout: layout
 
   <p><%= render_tag_links(item.tags) %></p>
 
+
   <div class="text-gray-500"><%= @description %></div>
 
   <div class="my-6">
@@ -34,8 +36,10 @@ layout: layout
       <div class="my-3">
         <b><%= attribute.titleize %></b>
         <span class="text-gray-500">
-          <% if value.is_a?(Array) %>
-            <%= render_tags(value) %>
+          <% if value.is_a?(Array) && attribute == 'tag' %>
+            <%= render_tag_links(value) %>
+          <% elsif value.is_a?(Array) %>
+            <%= render_link_values(value) %>
           <% elsif is_bool?(value) %>
             <%= value ? "Yes" : "No" %>
           <% elsif value.is_a?(String) && is_url?(value) %>

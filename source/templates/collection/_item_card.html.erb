@@ -8,16 +8,19 @@
   <% end %>
   <div class="card-header">
     <span><%= item.category %></span>
-    <h3><%= item.name %></h3>
+    <h3><%= item.title %></h3>
   </div>
   <div class="card-body">
     <span class="text-gray-500"><%= strip_truncate(item.description, 60) %></span>
     <!-- <p><%= render_tags(item.tags) %></p> -->
     <p><%= render_tag_links(item.tags) %></p>
 
-  </div>
+<!--    <p><%= render_principle_links(item.principles) %></p> -->
+
+<!--    <p><%= render_links(['principles','cases','strategies','stakeholders','sources']) %></p> -->
 
   <% if page_url = detail_page_url(item) %>
     <div class="card-actions"><%= link_to 'More', page_url, class: 'btn' %></div>
   <% end %>
+
 </article>

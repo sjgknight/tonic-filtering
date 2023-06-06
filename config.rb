@@ -1,5 +1,7 @@
 require "lib/tonic"
 
+config[:host] = 'localhost'
+
 activate :directory_indexes
 activate :inline_svg
 activate :external_pipeline,
