@@ -58,7 +58,7 @@ def render_link_values(value)
   value.map do |v|
       matching_items = data.collection.select { |item| item.name == v }
       titles = matching_items.map(&:title).join(", ")
-      link_url = "http://192.168.0.4:4567/?global=#{v}"
+      link_url = "/?global=#{v}"
       link_to(titles, link_url, { :class => 'tag'})
   end.join(" ").html_safe
 end

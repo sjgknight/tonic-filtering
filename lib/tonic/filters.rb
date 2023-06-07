@@ -87,6 +87,7 @@ module Tonic
     end
 
     def tags_filter(attribute)
+
       tags = fetch_values(attribute).sort
 
       partial("templates/filters/tags", locals: { attribute: attribute, tags: tags })

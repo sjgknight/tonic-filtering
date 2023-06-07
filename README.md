@@ -1,21 +1,28 @@
-For each file, (1) for each entry, add a Category: {{filename}} to get cases/principles, etc.; (2) for each entry lowercase all yaml keys; (3) for each entry, change title to name, and airtable_createdTime to published_at; (4) for all occurrences of the list of {{filename}} properties (cases/principles/etc), change them to 'item.'
 
-https://stackoverflow.com/questions/48471273/middleman-hierachical-yaml-data-by-key-name
+This repo represents a collection of linked items. In this case they were exported from airtable, but there's no need for that.
 
-https://middlemanapp.com/basics/frontmatter/
+To setup:
 
-IT doesn't seem to like arbitrary key names, OR it does but they have to be consistent and not introduced in the last two? 
-https://github.com/Subgin/tonic#detail-pages
+1. change all 'airtable_id:' attributes to 'name:'
+1. change 'Tags' to lowercase ?
+1. merge the output yaml files, for each adding a new 'category' for the filename (cases, principles, etc.)
+1. artificially add a [0] first item in the array that contains all your attributes
+1. change airtable_createdTime to created_at
 
-https://middlemanapp.com/basics/helper-methods/ 
+A few things that could be improved: 
 
+1. The function smart_filter uses the first item in the collection to identify the properties of each attribute (the yaml keys). That means the first item *must* contain every attribute that is used anywhere, otherwise an error is thrown. 
+1. The base_url function I added a kludge somewhere that needs fixing
+1. css, etc. 
+1. At the moment any array field will be processed with the new functions below, which may not be desireable. 
 
-SK notes:
+The changes I made to base tonic are:
 
-For this to work, I made some very minor changes to the repo (to make the tags links). 
+1. I modified the render_tags function(? is that what they're called in ruby) or partial(?), to render_tag_links so that the links on the cards are live, and filter the content. Thats in utils.rb
+1. I added render_links and render_link_values functions such that (1) one could use render_links to display the attribute links on the cards, by attribute name; and (2) the values of attributes are displayed in full on the page details. In utils.rb
+1. There are corresponding edits in detail_page.html.erb and _item_card.html.erb
 
-My yaml export needs reformatting. 
-
+...I think that was it. 
 
 
 # Tonic

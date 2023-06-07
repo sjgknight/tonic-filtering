@@ -1,0 +1,386 @@
+- Description: "\u201CAI can fundamentally violate the principle of equal access.\
+    \ Universities in the U.S. are using deterministic algorithmic systems to recommend\
+    \ applicants they should admit. These are often custom-built to meet the school\u2019\
+    s preferences, and have a host of issues that can lead to discrimination, including\
+    \ use of historical data of previously admitted students to inform the model.\
+    \ Since many elite universities have historically been attended by wealthy white\
+    \ males, any model that uses these data risks perpetuating past trends.105 Such\
+    \ systems will likely employ ML in the future, which would make bias harder to\
+    \ detect. This could result in universities discriminating under the guise of\
+    \ objectivity. \n\nLooking forward: If AI is used to track and predict student\
+    \ student performance in such a way that limits the eligibility to study certain\
+    \ subjects or have access to certain educational opportunities, the right to education\
+    \ will be put at risk. Given the growth of research into early childhood predictors\
+    \ of success, it is likely that such a system could be used to restrict the opportunities\
+    \ of students at increasingly younger ages, resulting in significant discrimination,\
+    \ with students coming from underprivileged backgrounds ultimately being denied\
+    \ opportunities because people from that background tend to have more negative\
+    \ outcomes. Such a system would ignore the students that overcome adversity to\
+    \ achieve academic and professional success, and would entrench existing educational\
+    \ inequalities.\u201D ([Access Now, 2018, p. 28](zotero://select/groups/4907410/items/KIU6F9PR))\
+    \ ([pdf](zotero://open-pdf/groups/4907410/items/598C5P37?page=28&annotation=DR727J3N))"
+  tags:
+  - Dropout risk and grade prediction
+  airtable_createdTime: '2023-05-29T07:26:14.000Z'
+  name: rec8YSr2IJxVndTKb
+  title: Tracking performance limits access to education
+  Challenges:
+  - test
+  Principles:
+  - test
+  Cases:
+  - test
+  Stakeholders:
+  - test
+  Strategies:
+  - test
+- Challenges:
+  - recHsgB7ki6GknJnX
+  Description: "\u201CA school uses a chatbot virtual assistant on its website to\
+    \ guide learners and parents through administrative tasks such as enrolment for\
+    \ courses, paying course fees or logging technical support issues. The system\
+    \ is also used to help students to find learning opportunities, provide feedback\
+    \ on pronunciation or comprehension. The virtual assistant is also used to support\
+    \ students with special educational needs through administrative tasks. The following\
+    \ guiding questions highlight areas that require attention: \u2022 Does the AI\
+    \ system clearly signal that its social interaction is simulated and that it has\
+    \ no capacities of feeling or empathy? Societal and environmental wellbeing \u2022\
+    \ Is there a strategy to monitor and test if the AI system is meeting the goals,\
+    \ purposes and intended applications? Technical robustness and safety \u2022 Is\
+    \ there a mechanism to allow teachers and school leaders to flag issues related\
+    \ to privacy or data protection? Privacy and data governance\u201D ([European\
+    \ Commission, 2022, p. 25](zotero://select/groups/4907410/items/3BCJVLT9)) ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=25&annotation=ERDZJU8P))"
+  Strategies:
+  - rec7daqDHSCuc70yS
+  - recTWhZ88TbQLcNaQ
+  - recOo7Pmo4FBYcu7P
+  tags:
+  - Resource management and administration
+  airtable_createdTime: '2023-05-19T13:58:49.000Z'
+  name: recAlOHJhEy5nDwA6
+  title: Using chatbots to guide learners and parents through administrative tasks
+- Challenges:
+  - recHHr97jsyNDnlsJ
+  - recefglLZ3oJWw2SZ
+  Description: "\u201CPerpetuating bias in criminal justice: There are many documented\
+    \ cases of AI gone wrong in the criminal justice system. The use of AI in this\
+    \ context often occurs in two different areas: risk scoring\u2014evaluating whether\
+    \ or not a defendant is likely to reoffend in order to recommend sentencing and\
+    \ set bail\u2014or so-called \u201Cpredictive policing,\u201D using insights from\
+    \ various data points to predict where or when crime will occur and direct law\
+    \ enforcement action accordingly.38 In many cases, these efforts are likely well-intentioned.\
+    \ Use of machine learning for risk scoring of defendants is advertised as removing\
+    \ the known human bias of judges in their sentencing and bail decisions.39 And\
+    \ predictive policing efforts seek to best allocate often-limited police resources\
+    \ to prevent crime, though there is always a high risk of mission creep.40 However,\
+    \ the recommendations of these AI systems often further exacerbate the very bias\
+    \ they are trying to mitigate, either directly or by incorporating factors that\
+    \ are proxies for bias.\u201D ([Access Now, 2018, p. 15](zotero://select/groups/4907410/items/KIU6F9PR))\
+    \ ([pdf](zotero://open-pdf/groups/4907410/items/598C5P37?page=15&annotation=RY637D35))"
+  tags:
+  - non-education
+  airtable_createdTime: '2023-05-29T07:21:09.000Z'
+  name: recDAvfsflBF0WKpf
+  title: Perpetuating bias in criminal justice
+- Description: "\u201CAI Enables Adaptivity in Learning Adaptivity has been recognized\
+    \ as a key way in which technology can improve learning.25 AI can be a toolset\
+    \ for improving the adaptivity of edtech. AI may improve a technology\u2019s ability\
+    \ to meet students where they are, build on their strengths, and grow their knowledge\
+    \ and skills. Because of AI\u2019s powers of work with natural forms of input\
+    \ and the foundational strengths of AI models (as discussed in the What is AI?\
+    \ section), AI can be an especially strong toolkit for expanding the adaptivity\
+    \ provided to students. And yet, especially with AI, adaptivity is always more\
+    \ specific and limited than what a broad phrase like \u201Cmeet students where\
+    \ they are\u201D might suggest. Core limits arise from the nature of the model\
+    \ at the heart of any specific AI-enabled system. Models are approximations of\
+    \ reality. When important parts of human learning are left out of the model or\
+    \ less fully developed, the resulting adaptivity will also be limited, and the\
+    \ resulting supports for learning may be brittle or narrow. Consequently, this\
+    \ section on Learning focuses on one key concept: Work toward AI models that fit\
+    \ the fullness of visions for learning\u2014and avoid limiting learning to what\
+    \ AI can currently model well. AI models are demonstrating greater skills because\
+    \ of advances in what are called \u201Clarge language models\u201D or sometimes\
+    \ \u201Cfoundational models.\u201D These very general models still have limits.\
+    \ For example, generative AI models discussed in the mainstream news can quickly\
+    \ generate convincing essays about a wide variety of topics while other models\
+    \ can draw credible images based on just a few prompts. Despite the excitement\
+    \ about foundational models, experts in our\u201D ([Cardona et al., 2023, p. 18](zotero://select/groups/4907410/items/ZI7HP57C))\
+    \ ([pdf](zotero://open-pdf/groups/4907410/items/4YFQW35Q?page=22&annotation=39EVQUQW))\n\
+    \u201Clistening sessions warned that AI models are narrower than visions for human\
+    \ learning and that designing learning environments with these limits in mind\
+    \ remains very important. The models are also brittle and can\u2019t perform well\
+    \ when contexts change. In addition, they don\u2019t have the same \u201Ccommon\
+    \ sense\u201D judgment that people have, often responding in ways that are unnatural\
+    \ or incorrect.26 Given the unexpected ways in which foundational models miss\
+    \ the mark, keeping humans in the loop remains highly important.\u201D ([Cardona\
+    \ et al., 2023, p. 19](zotero://select/groups/4907410/items/ZI7HP57C)) ([pdf](zotero://open-pdf/groups/4907410/items/4YFQW35Q?page=23&annotation=XGC6UNEN))\n"
+  airtable_createdTime: '2023-05-29T08:00:33.000Z'
+  name: recHAwvOykeiUxFsY
+  title: AI for Adaptive Learning
+- tags:
+  - Automated feedback
+  airtable_createdTime: '2023-05-19T14:13:58.000Z'
+  name: recKURlVVYGCInW8y
+  title: AES white paper
+- tags:
+  - Automated content creation
+  airtable_createdTime: '2023-05-19T14:15:04.000Z'
+  name: recKWQBBplr1vXmRc
+  title: Teacher uses tool to automate creation of some material
+- tags:
+  - Automated content creation
+  airtable_createdTime: '2023-05-18T18:42:40.000Z'
+  name: recMalmQowxcka9V6
+  title: A regional government is investing in a tool to automate content creation
+    for all teachers
+- Description: "\u201CDriving financial discrimination against the marginalized: Algorithms\
+    \ have long been used to create credit scores and inform loan screening. However,\
+    \ with the rise of big data, systems are now using machine learning to incorporate\
+    \ and analyze non-financial data points to determine creditworthiness, from where\
+    \ people live, to their internet browsing habits, to their purchasing decisions.\
+    \ The outputs these systems produce are known as e-scores, and unlike formal credit\
+    \ scores they are largely unregulated. As data scientist Cathy O\u2019Neil has\
+    \ pointed out, these scores are often discriminatory and create pernicious feedback\
+    \ loops.4\u201D ([Access Now, 2018, p. 16](zotero://select/groups/4907410/items/KIU6F9PR))\
+    \ ([pdf](zotero://open-pdf/groups/4907410/items/598C5P37?page=16&annotation=GTXRLF2L))"
+  airtable_createdTime: '2023-05-29T07:22:53.000Z'
+  name: recNNFrnCiGxTP4WE
+  title: Financial discrimination
+- Challenges:
+  - rec5VzvnIZcaNKqDh
+  - recL5M2Hye2XHK7zg
+  - recvQ90DajNCwPiGP
+  - recefglLZ3oJWw2SZ
+  - recdmBNNa98cN8Sda
+  - recxjc79LvLdKa4rl
+  Description: "\u201CA school is considering how AI systems can help reduce barriers\
+    \ for students with special educational needs. The school is currently trialling\
+    \ an AI system to detect student support demands early on and provide tailored\
+    \ instructional support. By detecting patterns of corresponding characteristics\
+    \ from measures such as learning performance, standardised tests attention span\
+    \ or reading speed, the system suggests probabilities of specific diagnoses and\
+    \ related recommendations for interventions. The following guiding questions highlight\
+    \ areas that require attention: \u2022 Are procedures in place for teachers to\
+    \ monitor and intervene, for example in situations where empathy is required when\
+    \ dealing with learners or parents? Human agency and oversight \u2022 Is information\
+    \ available to assure learners and parents of the system\u2019s technical robustness\
+    \ and safety? Technical robustness and safety \u2022 Is the teacher role clearly\
+    \ defined so as to ensure that there is a teacher in the loop while the AI system\
+    \ is being used? How does the AI system affect the didactical role of the teacher?\
+    \ Human agency and oversight\u201D ([European Commission, 2022, p. 23](zotero://select/groups/4907410/items/3BCJVLT9))\
+    \ ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=23&annotation=QT7FXESI))"
+  Strategies:
+  - recTWhZ88TbQLcNaQ
+  - recegTm800wJXGjO1
+  tags:
+  - Dropout risk and grade prediction
+  airtable_createdTime: '2023-05-19T13:56:36.000Z'
+  name: recOOmVQviRyJGvea
+  title: Providing individualised interventions for special needs
+- Challenges:
+  - recBc3GCNokDL220T
+  - recHsgB7ki6GknJnX
+  Description: "A school uses the data collected when students enrol to predict and\
+    \ better organise the number of students who will attend in the coming year. The\
+    \ AI system is also used to assist with forward planning, resource allocation,\
+    \ class allocations and budgeting. This has enabled the school to consider more\
+    \ student attributes than before, for example, to increase gender parity and student\
+    \ diversity. The school is now considering using prior grades and other metrics\
+    \ like standardised tests to develop targets for their students to achieve and\
+    \ to support educators to predict student success on a per subject basis. The\
+    \ following guiding questions highlight areas that require attention: \u2022 Who\
+    \ is responsible for the ongoing monitoring of results produced by the AI system\
+    \ and how the results are being used to enhance teaching, learning and assessment?\
+    \ Accountability \u2022 Are there mechanisms to ensure that sensitive data is\
+    \ kept anonymous? Are there procedures in place to limit access to the data only\
+    \ to those who need it? Privacy and data governance \u2022 How is the effectiveness\
+    \ and impact of the AI system being evaluated and how does this evaluation consider\
+    \ key values of education? Accountability"
+  Strategies:
+  - recOo7Pmo4FBYcu7P
+  - recRTVqtvPcBS6zps
+  tags:
+  - Resource management and administration
+  airtable_createdTime: '2023-05-19T13:58:44.000Z'
+  name: recSXcY4cnofb4zTP
+  title: Managing student enrolment and resource planning
+- airtable_createdTime: '2023-06-05T15:18:06.000Z'
+  name: recTQ7eABknthRQo8
+  title: Teacher evaluation fails to acknowledge individual contexts and teacher autonomy
+- Description: "\u201CAssisting the spread of disinformation: AI can be used to create\
+    \ and disseminate targeted propaganda, and that problem is compounded by AI-powered\
+    \ social media algorithms driven by \u201Cengagement,\u201D which promote content\
+    \ most likely to be clicked on. Machine learning powers the data analysis social\
+    \ media companies use to create profiles of users for targeted advertising. In\
+    \ addition, bots disguised as real users further spread content outside of narrowly\
+    \ targeted social media circles by both sharing links to false sources and actively\
+    \ interacting with users as chatbots using natural language processing.45 In addition,\
+    \ the specter of \u201Cdeep fakes,\u201D AI systems capable of creating realistic-sounding\
+    \ video and audio recordings of real people, is causing many to believe the technology\
+    \ will be used in the future to create forged videos of world leaders for malicious\
+    \ ends. Although it appears that deep fakes have yet to be used as part of real\
+    \ propaganda or disinformation campaigns, and the forged audio and video is still\
+    \ not good enough to seem completely human, the AI behind deep fakes continues\
+    \ to advance, and there is potential for sowing chaos, instigating conflict, and\
+    \ further causing a crisis of truth that should not be discounted.46\u201D ([Access\
+    \ Now, 2018, p. 16](zotero://select/groups/4907410/items/KIU6F9PR)) ([pdf](zotero://open-pdf/groups/4907410/items/598C5P37?page=16&annotation=9DGUCL8R))"
+  airtable_createdTime: '2023-05-29T07:22:23.000Z'
+  name: recVLyzjb1UfqbrIh
+  title: Disinformation spread
+- Description: "\u201CPerpetuating bias in the job market: Hiring processes have long\
+    \ been fraught with bias and discrimination. In response, an entire industry has\
+    \ emerged that uses AI with the goal of removing human bias from the process.\
+    \ However, many products ultimately risk perpetuating the very bias they seek\
+    \ to mitigate. As in other areas a major cause of this is the prevalent use of\
+    \ historical data of past \u201Csuccessful\u201D employees to train the ML models,\
+    \ thus naturally reproducing the bias in prior hiring.47\u201D ([Access Now, 2018,\
+    \ p. 16](zotero://select/groups/4907410/items/KIU6F9PR)) ([pdf](zotero://open-pdf/groups/4907410/items/598C5P37?page=16&annotation=DQUC6GAH))"
+  airtable_createdTime: '2023-05-29T07:22:41.000Z'
+  name: recWNt6W4v0xr3x0Z
+  title: Hiring bias
+- tags:
+  - Safety and wellbeing
+  airtable_createdTime: '2023-05-18T18:42:27.000Z'
+  name: reccWWRCdr9ZKJBZE
+  title: A company has approached researchers to fund a small evaluation of a wellbeing
+    app being deployed in local schools
+- Challenges:
+  - rec5VzvnIZcaNKqDh
+  - recL5M2Hye2XHK7zg
+  - recvQ90DajNCwPiGP
+  - recxjc79LvLdKa4rl
+  Description: "\u201CA primary school is using an Intelligent Tutoring System to\
+    \ automatically direct learners to resources specific to their learning needs.\
+    \ The AI based system uses learner data to adapt problems to the learner\u2019\
+    s predicted knowledge levels. As well as providing constant feedback to the learner,\
+    \ the system provides real-time information on their progress on a teacher dashboard.\
+    \ The following guiding questions highlight areas that require attention: \u2022\
+    \ Are the system processes and outcomes focussed on the expected learning outcomes\
+    \ for the learners? How reliable are the predictions, assessments and classifications\
+    \ of the AI system in explaining and evaluating the relevance of its use? Transparency\
+    \ \u2022 Does the system provide appropriate interaction modes for learners with\
+    \ disabilities or special education needs? Is the AI system designed to treat\
+    \ learners respectfully adapting to their individual needs? Diversity, non-Discrimination\
+    \ and Fairness \u2022 Are there monitoring systems in place to prevent overconfidence\
+    \ in or overreliance on the AI system? Human agency and oversight\u201D ([European\
+    \ Commission, 2022, p. 22](zotero://select/groups/4907410/items/3BCJVLT9)) ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=22&annotation=TIV9II8S))"
+  Strategies:
+  - rechaQXedBh3OsMjZ
+  - recegTm800wJXGjO1
+  - rec35PeHdUmtalypk
+  tags:
+  - Adaptive and personalised learning
+  airtable_createdTime: '2023-05-19T13:52:56.000Z'
+  name: reciNqxyfUgE5XM7t
+  title: "Using adaptive learning technologies to adapt to each learner\u2019s ability"
+- Challenges:
+  - rec5VzvnIZcaNKqDh
+  - recL5M2Hye2XHK7zg
+  - recvQ90DajNCwPiGP
+  - recefglLZ3oJWw2SZ
+  - recdmBNNa98cN8Sda
+  - recxjc79LvLdKa4rl
+  Description: "\u201CA school is looking at how AI systems can support the assessment\
+    \ of student written assignments. A provider has recommended an automated essay\
+    \ scoring system which uses large natural language models to assess various aspects\
+    \ of text with high accuracy. The system can be used to check student assignments,\
+    \ automatically identify errors, and assign grades. The system can also be used\
+    \ to generate sample essays. Over time, the system can train large artificial\
+    \ neural networks with historical cases that contain various types of student\
+    \ mistakes to provide even more accurate grading. The system has a plagiarism\
+    \ detection option which can be used to automatically detect instances of plagiarism\
+    \ or copyright infringement in written work submitted by students. The following\
+    \ guiding questions highlight areas that require attention: \u2022 Are there procedures\
+    \ in place to ensure that AI use will not lead to discrimination or unfair behaviour\
+    \ for all users? Diversity, non-discrimination and fairness \u2022 Who is responsible\
+    \ for the ongoing monitoring of results produced by the AI system and how the\
+    \ results are being used to enhance teaching, learning and assessment? Accountability\
+    \ \u2022 Do teachers and school leaders understand how specific assessment or\
+    \ personalisation algorithms work within the AI system? Transparency\u201D ([European\
+    \ Commission, 2022, p. 24](zotero://select/groups/4907410/items/3BCJVLT9)) ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=24&annotation=7VK8CJ4X))"
+  Strategies:
+  - rechaQXedBh3OsMjZ
+  - recRTVqtvPcBS6zps
+  - rec81gtnlFS5W2BBF
+  tags:
+  - Automated feedback
+  airtable_createdTime: '2023-05-19T13:58:20.000Z'
+  name: recmS3zSMbR3ofAR5
+  title: Scoring essays using automated tools
+- Description: "\u201COne long-standing type of AI-enabled technology is an Intelligent\
+    \ Tutoring System (ITS).27 In an early success, scientists were able to build\
+    \ accurate models of how human experts solve mathematical problems. The resulting\
+    \ model was incorporated into a system that would observe student problem solving\
+    \ as they worked on mathematical problems on a computer. Researchers who studied\
+    \ human tutors found that feedback on specific steps (and not just right or wrong\
+    \ solutions) is a likely key to why tutoring is so effective.28 For example, when\
+    \ a student diverged from the expert model, the system gave feedback to help the\
+    \ student get back on track.29 Importantly, this feedback went beyond right or\
+    \ wrong, and instead, the model was able to provide feedback on specific steps\
+    \ of a solution process. A significant advancement of AI, therefore, can be its\
+    \ ability to provide adaptivity at the step-by-step level and its ability to do\
+    \ so at scale with modest cost. \n\nAs a research and development (R&D) field\
+    \ emerged to advance ITS, the work has gone beyond mathematics problems to additional\
+    \ important issues beyond step-by-step problem solving. In the early work, some\
+    \ limitations can be observed. The kinds of problems that an ITS could support\
+    \ were logical or mathematical, and they were closed tasks, with clear expectations\
+    \ for what a solution and solution process should look like. Also, the \u201C\
+    approximation of reality\u201D in early AI models related to cognition and not\
+    \ to other elements of human learning, for example, social or motivational aspects.\
+    \ Over time, these early limitations have been addressed in two ways: by expanding\
+    \ the AI models and by involving humans in the loop, a perspective that is also\
+    \ important now. Today, for example, if an ITS specializes in feedback as a student\
+    \ practices, a human teacher could still be responsible for motivating student\
+    \ engagement and self-regulation along with other aspects of instruction. In other\
+    \ contemporary examples, the computer ITS might focus on problem solving practice,\
+    \ while teachers work with students in small groups. Further, students can be\
+    \ in the loop with AI, as is the case with \u201Copen learner models\u201D\u2014\
+    a type of AI-enabled system that provides information to support student self-monitoring\
+    \ and reflection.30\u201D ([Cardona et al., 2023, p. 19](zotero://select/groups/4907410/items/ZI7HP57C))\
+    \ ([pdf](zotero://open-pdf/groups/4907410/items/4YFQW35Q?page=23&annotation=AIT4G5YT))\n\
+    \n\u201CAlthough R&D along the lines of an ITS should not limit the view of what\u2019\
+    s possible, such an example is useful because so much research and evaluation\
+    \ has been done on the ITS approach. Researchers have looked across all the available\
+    \ high-quality studies in a meta-analysis and concluded that ITS approaches are\
+    \ effective.31 Right now, many school systems are looking at high-intensity human\
+    \ tutoring to help students with unfinished learning. Human tutoring is very expensive,\
+    \ and it is hard to find enough high-quality human tutors. With regard to large-scale\
+    \ needs, if it is possible for an ITS to supplement what human tutors do, it might\
+    \ be possible to extend beyond the amount of tutoring that people can provide\
+    \ to students.\u201D ([Cardona et al., 2023, p. 20](zotero://select/groups/4907410/items/ZI7HP57C))\
+    \ ([pdf](zotero://open-pdf/groups/4907410/items/4YFQW35Q?page=24&annotation=TJ94T9HD))"
+  airtable_createdTime: '2023-05-29T08:02:31.000Z'
+  name: reco7BYWc7reRuaCh
+  title: ITS
+- tags:
+  - Dropout risk and grade prediction
+  airtable_createdTime: '2023-05-19T14:13:50.000Z'
+  name: recpFE7h6QhaEpNAQ
+  title: UK exam algorithm
+- Challenges:
+  - rec5VzvnIZcaNKqDh
+  - recL5M2Hye2XHK7zg
+  - recvQ90DajNCwPiGP
+  - recxjc79LvLdKa4rl
+  Description: "\u201CA post-primary school is considering the use of a personalised\
+    \ online student dashboard which will provide feedback to learners and support\
+    \ the development of their self-regulation skills. Instead of focusing on what\
+    \ the learner has learned, the visualisations provide the student with a view\
+    \ of how they are learning. The following guiding questions highlight areas that\
+    \ require attention: \u2022 Does the AI system clearly signal that its social\
+    \ interaction is simulated and that it has no capacities of feeling or empathy?\
+    \ Societal and environmental wellbeing \u2022 Is access to learner data protected\
+    \ and stored in a secure location and used only for the purposes for which the\
+    \ data was collected? Privacy and data governance \u2022 Is there a Service Level\
+    \ Agreement in place, clearly outlining the Support and Maintenance Services and\
+    \ steps to be taken to address reported problems? Accountability\u201D ([European\
+    \ Commission, 2022, p. 23](zotero://select/groups/4907410/items/3BCJVLT9)) ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=23&annotation=WEY6JTEU))"
+  Strategies:
+  - recOo7Pmo4FBYcu7P
+  - recRTVqtvPcBS6zps
+  - rec7daqDHSCuc70yS
+  tags:
+  - Automated feedback
+  airtable_createdTime: '2023-05-19T13:55:23.000Z'
+  name: recrVkbG0XGe2Ca0v
+  title: Using student dashboards to guide learners through their learning
