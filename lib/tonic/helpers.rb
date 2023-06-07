@@ -2,7 +2,7 @@ module Tonic
   module Helpers
     def config
       data.config.reverse_merge(
-        title: "Tonic Example",
+        title: "Ethics Principles, Challenges, Cases, and Strategies",
         detail_pages: true,
         item_card_image: true,
         sorting: { default_order: Tonic::DEFAULT_ORDER }

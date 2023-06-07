@@ -1,6 +1,6 @@
 require "lib/tonic"
 
-config[:host] = 'localhost'
+set :build_dir, 'docs'
 
 activate :directory_indexes
 activate :inline_svg
@@ -15,6 +15,7 @@ configure :development do
 end
 
 configure :build do
+  config[:host] = 'https://sjgknight.github.io/tonic-filtering'
   ignore File.join(config[:js_dir], "*") # handled by External Pipeline
   activate :asset_hash
   activate :minify_css
