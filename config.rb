@@ -1,6 +1,7 @@
 require "lib/tonic"
 
-config[:host] = 'localhost'
+#config[:host] = 'localhost'
+set :build_dir, 'docs'
 
 activate :directory_indexes
 activate :inline_svg
