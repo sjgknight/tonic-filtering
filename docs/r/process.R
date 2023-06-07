@@ -63,24 +63,46 @@ empty_item <- ymlthis::yml(author=F, date=F) %>%
 
 combi <- combi %>% flatten() %>% append(empty_item, .)
 
-#make sure that all the arrays are represented as such (and not string)
-#fields[grep("tags", fields, invert=T)]
+
+convertStringToList <- function(value) {
+  if (length(value) == 1) {
+    as.list(value)
+  } else {
+    value
+  }
+}
+
+combi <- map(combi, function(yaml_item) {
+  map_at(yaml_item, fields, convertStringToList)
+})
+
+#write to file
+yaml::write_yaml(combi, file = "data/collection.yml", fileEncoding = "UTF-8")
+
+#I want to take this line and functionalise over fields
+#ymlthis::yml_toplevel(list("tags" = as.list(.[["Tags"]]))) %>%
+#check IF length == 1, if yes apply ^.
 # co <- combi %>%
-#   purrr::map(., ~{
-#     yam_element <- .x
-#     yam_element %>%
-#       ymlthis::as_yml() %>%
-#         purrr::map(fields, function(field){
+#    purrr::map(., ~{
+#      yam_element <- unlist(.x)
+#      yam_element %>%
+#        ymlthis::as_yml() %>%
+#         map(., function(key){
+#           if(all(
+#             length(yam_element[[key]])==1,
+#             key %in% fields)){
+#             ymlthis::yml_toplevel(c(
+#                            list(field = as.list(.[[field]])))) %>%
+#                            return()
+#           }
+#         })})
+#
+#          purrr::map(fields, function(field){
 #           ymlthis::yml_toplevel(c(
 #             list(field = as.list(.[[field]])))) %>%
 #             return()
 #         })
 #   })
 #
-
-
-
-#write to file
-yaml::write_yaml(combi, file = "data/collection.yml", fileEncoding = "UTF-8")
 
 #ym <- yaml::read_yaml("data/test.yml")

@@ -1,7 +1,7 @@
 <article class="card flex flex-col justify-between" id="<%= item.dom_id %>">
   <% if config.item_card_image && bg_image = item.images&.first %>
     <% if page_url = detail_page_url(item) %>
-      <a class="card-image" href="<%= page_url %>" style="background-image: url('<%= bg_image %>')"></a>
+      <a class="card-image" href="<%= page_url %>!" style="background-image: url('<%= bg_image %>')"></a>
     <% else %>
       <div class="card-image" style="background-image: url('<%= bg_image %>')"></div>
     <% end %>
@@ -17,7 +17,7 @@
 
 <!--    <p><%= render_principle_links(item.principles) %></p> -->
 
-<!--    <p><%= render_links(['principles','cases','strategies','stakeholders','sources']) %></p> -->
+<!--    <p><%= render_links(['Principles','Cases','Strategies','Stakeholders','Sources']) %></p> -->
 
   <% if page_url = detail_page_url(item) %>
     <div class="card-actions"><%= link_to 'More', page_url, class: 'btn' %></div>
