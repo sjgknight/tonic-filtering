@@ -20,7 +20,7 @@ links:
 
 # Sorting
 sorting:
-  default_order: "category asc"
+  default_order: "Title asc"
 
 # Filters
 filters:
