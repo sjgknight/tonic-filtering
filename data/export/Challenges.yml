@@ -565,6 +565,12 @@
     \ it difficult to pinpoint accountable parties. In cases of injury or negative\
     \ consequence, such an accountability gap may harm the autonomy and violate the\
     \ rights of the affected individuals.\u201D (Leslie, 2019, p. 4)\n\n"
+  Reference:
+  - 'Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A
+    guide for the responsible design and implementation of AI systems in the public
+    sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  Sources:
+  - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-18T19:10:49.000Z'
   airtable_id: rec8hxSSEudaplJiA
   title: Lack of accountability through automated decisions leading to loss of autonomy
@@ -825,6 +831,12 @@
     \ sort of privacy invasion can consequently harm a person\u2019s more basic right\
     \ to pursue their goals and life plans free from unchosen influence.\u201D (Leslie,\
     \ 2019, p. 5) \n"
+  Reference:
+  - 'Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A
+    guide for the responsible design and implementation of AI systems in the public
+    sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  Sources:
+  - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-18T19:10:38.000Z'
   airtable_id: recBc3GCNokDL220T
   title: Privacy breaches
@@ -912,6 +924,11 @@
     \n\u201C\u201CInstitutions or organizations where research data are held have\
     \ a responsibility to establish appropriate institutional security safeguards\u201D\
     \ (TCPS2, Chapter 5, C. Safeguarding Information).\u201D (Fedoruk, 2017, p. 12)\n"
+  Reference:
+  - Fedoruk, L. (2017b). Ethics in The Scholarship of Teaching and Learning. University
+    of Calgary Taylor Institute for Teaching and Learning. https://taylorinstitute.ucalgary.ca/resources/ethics-scholarship-teaching-and-learning
+  Sources:
+  - recQzldmBLByP78Uu
   airtable_createdTime: '2023-05-19T13:05:35.000Z'
   airtable_id: recCkVZngvMA5I5uv
   title: SoTL power
@@ -2459,6 +2476,13 @@
     \ Models, Consequences and Ethical Action Selection\u201D in _Advances in Autonomous\
     \ Robotics Systems, Lecture Notes in Computer Science Volume_, M. Mistry, A. Leonardis,\
     \ Witkowski, and C. Melhuish, eds. pp. 85\u201396. Springer, 2014.\"\np.175-177\n"
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
   Strategies:
   - recsonQhKLmX4D1ao
   airtable_createdTime: '2023-06-05T12:09:07.000Z'
@@ -2479,6 +2503,12 @@
   - recOHnq45Fq7YWsRO
   - recxcFmvPG5wrCqpO
   - recKdujFoPJr4ZAhZ
+  Reference:
+  - 'Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A
+    guide for the responsible design and implementation of AI systems in the public
+    sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  Sources:
+  - recfYC5jjPmpLfSlM
   Strategies:
   - rechaQXedBh3OsMjZ
   - rec81gtnlFS5W2BBF
@@ -2657,6 +2687,17 @@
     \ _Making Noise and Hearing Things_, July 12, 2016.\"\np.184, IEEE, 2019\n"
   Principles:
   - reczVPIH1y2OMpAJH
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  - 'Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A
+    guide for the responsible design and implementation of AI systems in the public
+    sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  Sources:
+  - recpXl48pJdKDhc6f
+  - recfYC5jjPmpLfSlM
   Tags:
   - AI
   airtable_createdTime: '2023-05-18T13:41:32.000Z'
@@ -3031,6 +3072,12 @@
     \ and cohesive societies are built on relations of trust, empathy, and mutual\
     \ understanding. As AI technologies become more prevalent, it is important that\
     \ these relations be preserved.\u201D (Leslie, 2019, p. 5)\n"
+  Reference:
+  - 'Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A
+    guide for the responsible design and implementation of AI systems in the public
+    sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  Sources:
+  - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T09:32:07.000Z'
   airtable_id: reckPjhcWwLgjX9p5
   title: Breakdown in trust in loss of exposure to diverse human-human interactions
@@ -3549,7 +3596,7 @@
   title: How do we embed values throughout AI workflows?
 - airtable_createdTime: '2023-05-18T18:55:13.000Z'
   airtable_id: recv6cN7XSt5GW32Y
-  title: Sustainabiity
+  title: Sustainability
 - Cases:
   - reciNqxyfUgE5XM7t
   - recrVkbG0XGe2Ca0v
@@ -3564,6 +3611,12 @@
     \ and they can create harmful inefficiencies by virtue of the dedication of limited\
     \ public resources to inefficient or even detrimental AI technologies.\u201D (Leslie,\
     \ 2019, p. 5)\n"
+  Reference:
+  - 'Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A
+    guide for the responsible design and implementation of AI systems in the public
+    sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  Sources:
+  - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T09:32:44.000Z'
   airtable_id: recvQ90DajNCwPiGP
   title: Concerns with merit of new systems
@@ -3986,6 +4039,11 @@
     \ for research that relies exclusively on the secondary use of non-identifiable\
     \ information\u201D (TCPS2, Chapter 5, D. Consent and Secondary Use of Identifiable\
     \ Information for Research Purposes).\u201D (Fedoruk, 2017, p. 14)\n"
+  Reference:
+  - Fedoruk, L. (2017b). Ethics in The Scholarship of Teaching and Learning. University
+    of Calgary Taylor Institute for Teaching and Learning. https://taylorinstitute.ucalgary.ca/resources/ethics-scholarship-teaching-and-learning
+  Sources:
+  - recQzldmBLByP78Uu
   airtable_createdTime: '2023-05-19T13:10:14.000Z'
   airtable_id: reczg5MObRbgzTeob
   title: SoTL secondary use of student data

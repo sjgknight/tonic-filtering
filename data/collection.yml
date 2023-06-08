@@ -16,7 +16,15 @@
   - test
   Principles:
   - test
+  Stakeholder-actors:
+  - test
+  Stakeholders-impacted:
+  - test
   Rights:
+  - test
+  Stakeholder-impacted:
+  - test
+  Stakeholder-as-actor:
   - test
   title: test
   description: test
@@ -2104,23 +2112,6 @@
     between Humans and Social Robots,” in _Robot Ethics: The Ethical and Social Implications
     of Robotics,_ P. Lin, K. Abney, and G. Bekey, Eds., pp. 205. Cambridge, MA: MIT
     Press, 2011.'
-- category: Strategies
-  name: rec7RfHxpQolMR5v9
-  tags: []
-  created_at: '2023-06-05T10:40:35.000Z'
-  description: '## RecommendationsTo ensure representation of stakeholders, organizations
-    should enact a planned and controlled set of activities to account for the interests
-    of the full range of stakeholders or practitioners who will be working alongsideA/IS
-    and incorporating their insights to build upon, rather than circumvent or ignore,
-    thesocial and practical wisdom of involved practitioners and other stakeholders.##
-    Further Resources•C. Schroeter, et al., “[Realization and User Evaluation of a
-    Companion Robot for People with Mild Cognitive Impairments](http://www.tu-ilmenau.de/fileadmin/media/neurob/publications/conferences_int/2013/Schroeter-ICRA-2013-fin.pdf),”
-    _Proceedings of IEEE International Conference on Robotics and Automation (ICRA
-    2013)_, Karlsruhe, Germany 2013. pp. 1145–1151.•T. L. [Chen, et al. ](http://ieeexplore.ieee.org/abstract/document/6476704/)“[Robots
-    for Humanity: Using Assistive Robotics to Empower People with Disabilities](http://ieeexplore.ieee.org/document/6476704/),”
-    _IEEE Robotics and Automation Magazine, _vol. 20, no. 1, pp. 30–39, 2013.R. Hartson,
-    and P. S. Pyla. _The UX Book: Process and Guidelines for Ensuring a Quality User
-    Experience_. Waltham, MA: Elsevier, 2012"p.130-131'
 - Cases:
   - recrVkbG0XGe2Ca0v
   - recAlOHJhEy5nDwA6
@@ -3897,6 +3888,8 @@
     LA, Feb. 1 -3, 2018."p.180-181'
 - Challenges:
   - recmRF2P1OOASMfNF
+  Sources:
+  - recpXl48pJdKDhc6f
   title: Consider developing strategies for specific context of humanitarian action
   category: Strategies
   name: recMgYQ7EqHAyDfi1
@@ -7701,7 +7694,12 @@
     Do one’s disciplinary requirements for collecting, analyzing, or representing
     information clash with the specific needs of the context? If so, what are the
     potential ethical consequences?” (Markham and Buchanan, 2012, p. 10)
-- title: A local school has installed a tool to help tackle antisocial behaviour,
+- Stakeholder-actors:
+  - recwbivinQr5lOP5r
+  Stakeholders-impacted:
+  - reci4jOiaZbCd37eY
+  - rec0af1wTjdFwMqsw
+  title: A local school has installed a tool to help tackle antisocial behaviour,
     and truantism risk
   category: Cases
   name: rec1RzTKH08fWjSbT
@@ -7744,6 +7742,18 @@
   - recUYS0TFpk2MhVD7
   Sources:
   - rec9jnxuHOioQn4DC
+  Stakeholder-actors:
+  - recGRt9lWJvxx5GAE
+  - recTYTKZphOqdzYoL
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - recSaPtMj9rxfu4uu
+  Stakeholders-impacted:
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - reci4jOiaZbCd37eY
+  - recdkIzRDcuurhTmM
+  - rec0af1wTjdFwMqsw
   Strategies:
   - rec7daqDHSCuc70yS
   - recTWhZ88TbQLcNaQ
@@ -7837,13 +7847,27 @@
   tags:
   - Automated-feedback
   created_at: '2023-05-19T14:13:58.000Z'
-- title: Teacher uses tool to automate creation of some material
+- Stakeholder-actors:
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - recGRt9lWJvxx5GAE
+  Stakeholders-impacted:
+  - reci4jOiaZbCd37eY
+  - recdkIzRDcuurhTmM
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  title: Teacher uses tool to automate creation of some material
   category: Cases
   name: recKWQBBplr1vXmRc
   tags:
   - Automated-content-creation
   created_at: '2023-05-19T14:15:04.000Z'
-- title: A regional government is investing in a tool to automate content creation
+- Stakeholder-actors:
+  - recSaPtMj9rxfu4uu
+  - recGRt9lWJvxx5GAE
+  Stakeholders-impacted:
+  - reckhslKpo5ZlVNpl
+  title: A regional government is investing in a tool to automate content creation
     for all teachers
   category: Cases
   name: recMalmQowxcka9V6
@@ -7878,6 +7902,17 @@
   - recWLcMWDPE9Fd1pE
   Sources:
   - rec9jnxuHOioQn4DC
+  Stakeholder-actors:
+  - recGRt9lWJvxx5GAE
+  - recTYTKZphOqdzYoL
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - recSaPtMj9rxfu4uu
+  Stakeholders-impacted:
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - reci4jOiaZbCd37eY
+  - recdkIzRDcuurhTmM
   Strategies:
   - recTWhZ88TbQLcNaQ
   - recegTm800wJXGjO1
@@ -7910,6 +7945,19 @@
   - recUYS0TFpk2MhVD7
   Sources:
   - rec9jnxuHOioQn4DC
+  Stakeholder-actors:
+  - recGRt9lWJvxx5GAE
+  - recTYTKZphOqdzYoL
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - recSaPtMj9rxfu4uu
+  - recwbivinQr5lOP5r
+  Stakeholders-impacted:
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - reci4jOiaZbCd37eY
+  - recdkIzRDcuurhTmM
+  - rec0af1wTjdFwMqsw
   Strategies:
   - recOo7Pmo4FBYcu7P
   - recRTVqtvPcBS6zps
@@ -7978,7 +8026,16 @@
     past “successful” employees to train the ML models, thus naturally reproducing
     the bias in prior hiring.47” ([Access Now, 2018, p. 16](zotero://select/groups/4907410/items/KIU6F9PR))
     ([pdf](zotero://open-pdf/groups/4907410/items/598C5P37?page=16&annotation=DQUC6GAH))'
-- title: A company has approached researchers to fund a small evaluation of a wellbeing
+- Stakeholder-actors:
+  - recGRt9lWJvxx5GAE
+  - recz1WGGiX1qkZTxC
+  - recTYTKZphOqdzYoL
+  Stakeholders-impacted:
+  - recVHjstaBpfkQwvp
+  - reci4jOiaZbCd37eY
+  - rec0af1wTjdFwMqsw
+  - recwbivinQr5lOP5r
+  title: A company has approached researchers to fund a small evaluation of a wellbeing
     app being deployed in local schools
   category: Cases
   name: reccWWRCdr9ZKJBZE
@@ -7996,6 +8053,17 @@
   - reco4DUa3rsjP0hyg
   Sources:
   - rec9jnxuHOioQn4DC
+  Stakeholder-actors:
+  - recGRt9lWJvxx5GAE
+  - recTYTKZphOqdzYoL
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - recSaPtMj9rxfu4uu
+  Stakeholders-impacted:
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - reci4jOiaZbCd37eY
+  - recdkIzRDcuurhTmM
   Strategies:
   - rechaQXedBh3OsMjZ
   - recegTm800wJXGjO1
@@ -8033,6 +8101,17 @@
   - recwjv8IMAZFWfMSr
   Sources:
   - rec9jnxuHOioQn4DC
+  Stakeholder-actors:
+  - recGRt9lWJvxx5GAE
+  - recTYTKZphOqdzYoL
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - recSaPtMj9rxfu4uu
+  Stakeholders-impacted:
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - reci4jOiaZbCd37eY
+  - recdkIzRDcuurhTmM
   Strategies:
   - rechaQXedBh3OsMjZ
   - recRTVqtvPcBS6zps
@@ -8109,7 +8188,20 @@
     be possible to extend beyond the amount of tutoring that people can provide to
     students.” ([Cardona et al., 2023, p. 20](zotero://select/groups/4907410/items/ZI7HP57C))
     ([pdf](zotero://open-pdf/groups/4907410/items/4YFQW35Q?page=24&annotation=TJ94T9HD))'
-- title: UK exam algorithm
+- Stakeholder-actors:
+  - recGRt9lWJvxx5GAE
+  - recTYTKZphOqdzYoL
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - recSaPtMj9rxfu4uu
+  - reci4jOiaZbCd37eY
+  Stakeholders-impacted:
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - reci4jOiaZbCd37eY
+  - recdkIzRDcuurhTmM
+  - rec0af1wTjdFwMqsw
+  title: UK exam algorithm
   category: Cases
   name: recpFE7h6QhaEpNAQ
   tags:
@@ -8126,6 +8218,17 @@
   - reczcRriFbQQpn8iX
   Sources:
   - rec9jnxuHOioQn4DC
+  Stakeholder-actors:
+  - recGRt9lWJvxx5GAE
+  - recTYTKZphOqdzYoL
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - recSaPtMj9rxfu4uu
+  Stakeholders-impacted:
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - reci4jOiaZbCd37eY
+  - recdkIzRDcuurhTmM
   Strategies:
   - recOo7Pmo4FBYcu7P
   - recRTVqtvPcBS6zps
@@ -8151,7 +8254,6 @@
     ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=23&annotation=WEY6JTEU))'
 - Principles:
   - recUYS0TFpk2MhVD7
-  title: pri
   category: Cases
   name: recskjpMFnQ0emSKI
   tags: []
@@ -8674,7 +8776,12 @@
     A Case Study from Louisiana’s Industrial Corridor.](https://www.sciencehistory.org/sites/default/files/studies-in-sustainability-ottinger2009.pdf)
     Center for Contemporary History and Policy, 2008.•[Expert and Citizen Assessment
     of Science and ](https://ecastnetwork.org/about/)[Technology (ECAST) Network ](https://ecastnetwork.org/about/)"p.82-83'
-- title: Lack of accountability through automated decisions leading to loss of autonomy
+- Reference: 'Leslie, D. (2019). Understanding artificial intelligence ethics and
+    safety: A guide for the responsible design and implementation of AI systems in
+    the public sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  Sources:
+  - recfYC5jjPmpLfSlM
+  title: Lack of accountability through automated decisions leading to loss of autonomy
   category: Challenges
   name: rec8hxSSEudaplJiA
   tags: []
@@ -8921,6 +9028,11 @@
     by [CtrlShift](https://www.ctrl-shift.co.uk/)."p.111-112'
 - Cases:
   - recSXcY4cnofb4zTP
+  Reference: 'Leslie, D. (2019). Understanding artificial intelligence ethics and
+    safety: A guide for the responsible design and implementation of AI systems in
+    the public sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  Sources:
+  - recfYC5jjPmpLfSlM
   title: Privacy breaches
   category: Challenges
   name: recBc3GCNokDL220T
@@ -8939,7 +9051,11 @@
     that influence and shape their development. This sort of privacy invasion can
     consequently harm a person’s more basic right to pursue their goals and life plans
     free from unchosen influence.” (Leslie, 2019, p. 5) '
-- title: SoTL power
+- Reference: Fedoruk, L. (2017b). Ethics in The Scholarship of Teaching and Learning.
+    University of Calgary Taylor Institute for Teaching and Learning. https://taylorinstitute.ucalgary.ca/resources/ethics-scholarship-teaching-and-learning
+  Sources:
+  - recQzldmBLByP78Uu
+  title: SoTL power
   category: Challenges
   name: recCkVZngvMA5I5uv
   tags: []
@@ -10397,7 +10513,13 @@
     P. Gomes, “[Computational Sustainability: Computational Methods for a Sustainable
     ](https://www.nae.edu/File.aspx?id=17673)[Environment, Economy, and Society](https://www.nae.edu/File.aspx?id=17673)”
     in The Bridge: Linking Engineering and Society_."__p.83-86_'
-- Strategies:
+- Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
+    on Ethics of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J.
+    Silva Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and
+    Well-Being (Vol. 95, pp. 11–16). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
   - recsonQhKLmX4D1ao
   title: How can AI model norms to govern its action
   category: Challenges
@@ -10505,6 +10627,11 @@
   - recOHnq45Fq7YWsRO
   - recxcFmvPG5wrCqpO
   - recKdujFoPJr4ZAhZ
+  Reference: 'Leslie, D. (2019). Understanding artificial intelligence ethics and
+    safety: A guide for the responsible design and implementation of AI systems in
+    the public sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  Sources:
+  - recfYC5jjPmpLfSlM
   Strategies:
   - rechaQXedBh3OsMjZ
   - rec81gtnlFS5W2BBF
@@ -10628,6 +10755,17 @@
   - recDAvfsflBF0WKpf
   Principles:
   - reczVPIH1y2OMpAJH
+  Reference:
+  - IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics
+    of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva Sequeira,
+    G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being (Vol.
+    95, pp. 11–16). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2
+  - 'Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A
+    guide for the responsible design and implementation of AI systems in the public
+    sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  Sources:
+  - recpXl48pJdKDhc6f
+  - recfYC5jjPmpLfSlM
   title: Reinforcing or creating bias
   category: Challenges
   name: recefglLZ3oJWw2SZ
@@ -11035,7 +11173,12 @@
     A\_RES\_70\_1\_E.pdf](http://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_70_1_E.pdf).•United
     Nations Global Pulse, Big Data for Development: Challenges and Opportunities,
     2012."p139-140'
-- title: Breakdown in trust in loss of exposure to diverse human-human interactions
+- Reference: 'Leslie, D. (2019). Understanding artificial intelligence ethics and
+    safety: A guide for the responsible design and implementation of AI systems in
+    the public sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  Sources:
+  - recfYC5jjPmpLfSlM
+  title: Breakdown in trust in loss of exposure to diverse human-human interactions
   category: Challenges
   name: reckPjhcWwLgjX9p5
   tags: []
@@ -11529,7 +11672,7 @@
     Journal of Business Ethics _16, no. 8, pp. 855–865, 1997. ****• K. Crawford and
     R. Calo, “[There Is a Blind Spot in AI Research,](http://www.nature.com/news/there-is-a-blind-spot-in-ai-research-1.20805)”
     _Nature _538, pp. 311–313, 2016.  '
-- title: Sustainabiity
+- title: Sustainability
   category: Challenges
   name: recv6cN7XSt5GW32Y
   tags: []
@@ -11539,6 +11682,11 @@
   - recrVkbG0XGe2Ca0v
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
+  Reference: 'Leslie, D. (2019). Understanding artificial intelligence ethics and
+    safety: A guide for the responsible design and implementation of AI systems in
+    the public sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  Sources:
+  - recfYC5jjPmpLfSlM
   title: Concerns with merit of new systems
   category: Challenges
   name: recvQ90DajNCwPiGP
@@ -11918,7 +12066,11 @@
     humans apply to other humans and the norms they apply to A/IS. Norm implementations
     should be evaluatedspecifically against the norms that thecommunity expects the
     A/IS to follow."p.183'
-- title: SoTL secondary use of student data
+- Reference: Fedoruk, L. (2017b). Ethics in The Scholarship of Teaching and Learning.
+    University of Calgary Taylor Institute for Teaching and Learning. https://taylorinstitute.ucalgary.ca/resources/ethics-scholarship-teaching-and-learning
+  Sources:
+  - recQzldmBLByP78Uu
+  title: SoTL secondary use of student data
   category: Challenges
   name: reczg5MObRbgzTeob
   tags: []
@@ -12588,7 +12740,10 @@
     audience of other stakeholders such as review boards, ethicists, and students,
     by providing a current discussion of important ethical issues and pertinent literature
     in the field” (Markham and Buchanan, 2012, p. 2)
-- Link: https://taylorinstitute.ucalgary.ca/resources/ethics-scholarship-teaching-and-learning
+- Challenges:
+  - recCkVZngvMA5I5uv
+  - reczg5MObRbgzTeob
+  Link: https://taylorinstitute.ucalgary.ca/resources/ethics-scholarship-teaching-and-learning
   Reference: |
     Fedoruk, L. (2017b). _Ethics in The Scholarship of Teaching and Learning_. University of Calgary Taylor Institute for Teaching and Learning. <https://taylorinstitute.ucalgary.ca/resources/ethics-scholarship-teaching-and-learning>
   Rights:
@@ -13011,7 +13166,14 @@
     aimed at showing the legal issues regarding data processing. An impressive amount
     of information about ethical issues can be found in the SHERPA project website
     (<https://www.project-sherpa.eu/>)
-- Link: https://doi.org/10.5281/ZENODO.3240529
+- Challenges:
+  - recefglLZ3oJWw2SZ
+  - recBc3GCNokDL220T
+  - rec8hxSSEudaplJiA
+  - recdmBNNa98cN8Sda
+  - reckPjhcWwLgjX9p5
+  - recvQ90DajNCwPiGP
+  Link: https://doi.org/10.5281/ZENODO.3240529
   Principles:
   - recImuZ3T4iDiNP2B
   - rec5216SybPPylYdD
@@ -13076,11 +13238,6 @@
     of your AI project. Please note, that this guide is a living document that will
     evolve and improve with input from users, affected stakeholders, and interested
     parties. We need your participation."p.3'
-- title: Khan-review systematic literature analysis
-  category: Sources
-  name: recghzZiaFoua9VYW
-  tags: []
-  created_at: '2023-06-08T15:46:40.000Z'
 - Link: ' https://www.britishgerontology.org/about-bsg/bsg-ethical-guidelines'
   Reference: |
     British Society of Gerontology. (2012). _BSG Ethical Guidelines_. British Society of Gerontology. <https://www.britishgerontology.org/about-bsg/bsg-ethical-guidelines>
@@ -13254,6 +13411,8 @@
   - recb50cfuQUWDAHZW
   - recJfAMUB8HdjVQYD
   - recmRF2P1OOASMfNF
+  - recefglLZ3oJWw2SZ
+  - recdlFwsToNXtcvGC
   Link: https://doi.org/10.1007/978-3-030-12524-0_2
   Principles:
   - recxc8SQN09R985HI
@@ -13303,6 +13462,7 @@
   - rec2679E9TXh1DCL8
   - recgn2UvSD4OhzGI4
   - recKWkdYO98PeEKDz
+  - recMgYQ7EqHAyDfi1
   title: IEEE
   category: Sources
   name: recpXl48pJdKDhc6f
@@ -13439,52 +13599,154 @@
     bot, you should consider a broad set of responsibilities you have when developing
     any data-centric AI system, including ethics, privacy, security, safety, inclusion,
     transparency and accountability.” (Microsoft, 2018, p. 1)
-- title: Parents
+- Stakeholder-impacted:
+  - reccWWRCdr9ZKJBZE
+  - rec1RzTKH08fWjSbT
+  - recAlOHJhEy5nDwA6
+  - recSXcY4cnofb4zTP
+  - recpFE7h6QhaEpNAQ
+  title: Parents
   category: Stakeholders
   name: rec0af1wTjdFwMqsw
   tags: []
   created_at: '2023-05-18T14:40:34.000Z'
-- title: Technology-providers
+- Stakeholder-as-actor:
+  - reccWWRCdr9ZKJBZE
+  - recMalmQowxcka9V6
+  - recKWQBBplr1vXmRc
+  - reciNqxyfUgE5XM7t
+  - recrVkbG0XGe2Ca0v
+  - recOOmVQviRyJGvea
+  - recmS3zSMbR3ofAR5
+  - recSXcY4cnofb4zTP
+  - recAlOHJhEy5nDwA6
+  - recpFE7h6QhaEpNAQ
+  title: Technology-providers
   category: Stakeholders
   name: recGRt9lWJvxx5GAE
   tags: []
   created_at: '2023-05-18T14:40:23.000Z'
-- title: Policy-makers
+- Stakeholder-as-actor:
+  - recMalmQowxcka9V6
+  - reciNqxyfUgE5XM7t
+  - recrVkbG0XGe2Ca0v
+  - recOOmVQviRyJGvea
+  - recmS3zSMbR3ofAR5
+  - recSXcY4cnofb4zTP
+  - recAlOHJhEy5nDwA6
+  - recpFE7h6QhaEpNAQ
+  title: Policy-makers
   category: Stakeholders
   name: recSaPtMj9rxfu4uu
   tags: []
   created_at: '2023-05-18T14:40:23.000Z'
-- title: Technology-developers-and-designers
+- Stakeholder-as-actor:
+  - reccWWRCdr9ZKJBZE
+  - reciNqxyfUgE5XM7t
+  - recrVkbG0XGe2Ca0v
+  - recOOmVQviRyJGvea
+  - recmS3zSMbR3ofAR5
+  - recSXcY4cnofb4zTP
+  - recAlOHJhEy5nDwA6
+  - recpFE7h6QhaEpNAQ
+  title: Technology-developers-and-designers
   category: Stakeholders
   name: recTYTKZphOqdzYoL
   tags: []
   created_at: '2023-06-05T14:49:01.000Z'
-- title: Teachers-of-children
+- Stakeholder-as-actor:
+  - recKWQBBplr1vXmRc
+  - reciNqxyfUgE5XM7t
+  - recrVkbG0XGe2Ca0v
+  - recOOmVQviRyJGvea
+  - recmS3zSMbR3ofAR5
+  - recSXcY4cnofb4zTP
+  - recAlOHJhEy5nDwA6
+  - recpFE7h6QhaEpNAQ
+  Stakeholder-impacted:
+  - reccWWRCdr9ZKJBZE
+  - recKWQBBplr1vXmRc
+  - reciNqxyfUgE5XM7t
+  - recrVkbG0XGe2Ca0v
+  - recOOmVQviRyJGvea
+  - recmS3zSMbR3ofAR5
+  - recSXcY4cnofb4zTP
+  - recAlOHJhEy5nDwA6
+  - recpFE7h6QhaEpNAQ
+  title: Teachers-of-children
   category: Stakeholders
   name: recVHjstaBpfkQwvp
   tags: []
   created_at: '2023-05-18T13:51:22.000Z'
-- title: Learners-adults
+- Stakeholder-impacted:
+  - recKWQBBplr1vXmRc
+  - reciNqxyfUgE5XM7t
+  - recrVkbG0XGe2Ca0v
+  - recOOmVQviRyJGvea
+  - recmS3zSMbR3ofAR5
+  - recSXcY4cnofb4zTP
+  - recAlOHJhEy5nDwA6
+  - recpFE7h6QhaEpNAQ
+  title: Learners-adults
   category: Stakeholders
   name: recdkIzRDcuurhTmM
   tags: []
   created_at: '2023-06-05T14:49:46.000Z'
-- title: Learners-children
+- Stakeholder-as-actor:
+  - recpFE7h6QhaEpNAQ
+  Stakeholder-impacted:
+  - reccWWRCdr9ZKJBZE
+  - rec1RzTKH08fWjSbT
+  - recKWQBBplr1vXmRc
+  - reciNqxyfUgE5XM7t
+  - recrVkbG0XGe2Ca0v
+  - recOOmVQviRyJGvea
+  - recmS3zSMbR3ofAR5
+  - recSXcY4cnofb4zTP
+  - recAlOHJhEy5nDwA6
+  - recpFE7h6QhaEpNAQ
+  title: Learners-children
   category: Stakeholders
   name: reci4jOiaZbCd37eY
   tags: []
   created_at: '2023-06-05T14:49:50.000Z'
-- title: Teachers-of-adults
+- Stakeholder-as-actor:
+  - recKWQBBplr1vXmRc
+  - reciNqxyfUgE5XM7t
+  - recrVkbG0XGe2Ca0v
+  - recOOmVQviRyJGvea
+  - recmS3zSMbR3ofAR5
+  - recSXcY4cnofb4zTP
+  - recAlOHJhEy5nDwA6
+  - recpFE7h6QhaEpNAQ
+  Stakeholder-impacted:
+  - recMalmQowxcka9V6
+  - recKWQBBplr1vXmRc
+  - reciNqxyfUgE5XM7t
+  - recrVkbG0XGe2Ca0v
+  - recOOmVQviRyJGvea
+  - recmS3zSMbR3ofAR5
+  - recSXcY4cnofb4zTP
+  - recAlOHJhEy5nDwA6
+  - recpFE7h6QhaEpNAQ
+  title: Teachers-of-adults
   category: Stakeholders
   name: reckhslKpo5ZlVNpl
   tags: []
   created_at: '2023-05-18T13:51:22.000Z'
-- title: Institutional-leaders
+- Stakeholder-as-actor:
+  - rec1RzTKH08fWjSbT
+  - recSXcY4cnofb4zTP
+  Stakeholder-impacted:
+  - reccWWRCdr9ZKJBZE
+  title: Institutional-leaders
   category: Stakeholders
   name: recwbivinQr5lOP5r
   tags: []
   created_at: '2023-05-18T13:51:22.000Z'
-- title: Researchers
+- Stakeholder-as-actor:
+  - reccWWRCdr9ZKJBZE
+  title: Researchers
   category: Stakeholders
   name: recz1WGGiX1qkZTxC
   tags: []

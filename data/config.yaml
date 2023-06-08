@@ -13,8 +13,10 @@ font_family: "Arimo"
 links:
   - text: About
     url: "/about"
-  - text: Contact
-    url: "#"
+  - text: Challenges
+    url: "/?category=Challenges"
+  - text: Snippets
+    url: "/snippets"
 
 #detail_pages: true
 

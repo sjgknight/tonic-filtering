@@ -1,4 +1,9 @@
-- Tags:
+- Stakeholder-actors:
+  - recwbivinQr5lOP5r
+  Stakeholders-impacted:
+  - reci4jOiaZbCd37eY
+  - rec0af1wTjdFwMqsw
+  Tags:
   - Safety and wellbeing
   airtable_createdTime: '2023-05-19T14:13:27.000Z'
   airtable_id: rec1RzTKH08fWjSbT
@@ -54,6 +59,18 @@
   - recUYS0TFpk2MhVD7
   Sources:
   - rec9jnxuHOioQn4DC
+  Stakeholder-actors:
+  - recGRt9lWJvxx5GAE
+  - recTYTKZphOqdzYoL
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - recSaPtMj9rxfu4uu
+  Stakeholders-impacted:
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - reci4jOiaZbCd37eY
+  - recdkIzRDcuurhTmM
+  - rec0af1wTjdFwMqsw
   Strategies:
   - rec7daqDHSCuc70yS
   - recTWhZ88TbQLcNaQ
@@ -130,12 +147,26 @@
   airtable_createdTime: '2023-05-19T14:13:58.000Z'
   airtable_id: recKURlVVYGCInW8y
   title: AES white paper
-- Tags:
+- Stakeholder-actors:
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - recGRt9lWJvxx5GAE
+  Stakeholders-impacted:
+  - reci4jOiaZbCd37eY
+  - recdkIzRDcuurhTmM
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  Tags:
   - Automated content creation
   airtable_createdTime: '2023-05-19T14:15:04.000Z'
   airtable_id: recKWQBBplr1vXmRc
   title: Teacher uses tool to automate creation of some material
-- Tags:
+- Stakeholder-actors:
+  - recSaPtMj9rxfu4uu
+  - recGRt9lWJvxx5GAE
+  Stakeholders-impacted:
+  - reckhslKpo5ZlVNpl
+  Tags:
   - Automated content creation
   airtable_createdTime: '2023-05-18T18:42:40.000Z'
   airtable_id: recMalmQowxcka9V6
@@ -184,6 +215,17 @@
   - recWLcMWDPE9Fd1pE
   Sources:
   - rec9jnxuHOioQn4DC
+  Stakeholder-actors:
+  - recGRt9lWJvxx5GAE
+  - recTYTKZphOqdzYoL
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - recSaPtMj9rxfu4uu
+  Stakeholders-impacted:
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - reci4jOiaZbCd37eY
+  - recdkIzRDcuurhTmM
   Strategies:
   - recTWhZ88TbQLcNaQ
   - recegTm800wJXGjO1
@@ -216,6 +258,19 @@
   - recUYS0TFpk2MhVD7
   Sources:
   - rec9jnxuHOioQn4DC
+  Stakeholder-actors:
+  - recGRt9lWJvxx5GAE
+  - recTYTKZphOqdzYoL
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - recSaPtMj9rxfu4uu
+  - recwbivinQr5lOP5r
+  Stakeholders-impacted:
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - reci4jOiaZbCd37eY
+  - recdkIzRDcuurhTmM
+  - rec0af1wTjdFwMqsw
   Strategies:
   - recOo7Pmo4FBYcu7P
   - recRTVqtvPcBS6zps
@@ -262,7 +317,16 @@
   airtable_createdTime: '2023-05-29T07:22:41.000Z'
   airtable_id: recWNt6W4v0xr3x0Z
   title: Hiring bias
-- Tags:
+- Stakeholder-actors:
+  - recGRt9lWJvxx5GAE
+  - recz1WGGiX1qkZTxC
+  - recTYTKZphOqdzYoL
+  Stakeholders-impacted:
+  - recVHjstaBpfkQwvp
+  - reci4jOiaZbCd37eY
+  - rec0af1wTjdFwMqsw
+  - recwbivinQr5lOP5r
+  Tags:
   - Safety and wellbeing
   airtable_createdTime: '2023-05-18T18:42:27.000Z'
   airtable_id: reccWWRCdr9ZKJBZE
@@ -294,6 +358,17 @@
   - reco4DUa3rsjP0hyg
   Sources:
   - rec9jnxuHOioQn4DC
+  Stakeholder-actors:
+  - recGRt9lWJvxx5GAE
+  - recTYTKZphOqdzYoL
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - recSaPtMj9rxfu4uu
+  Stakeholders-impacted:
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - reci4jOiaZbCd37eY
+  - recdkIzRDcuurhTmM
   Strategies:
   - rechaQXedBh3OsMjZ
   - recegTm800wJXGjO1
@@ -334,6 +409,17 @@
   - recwjv8IMAZFWfMSr
   Sources:
   - rec9jnxuHOioQn4DC
+  Stakeholder-actors:
+  - recGRt9lWJvxx5GAE
+  - recTYTKZphOqdzYoL
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - recSaPtMj9rxfu4uu
+  Stakeholders-impacted:
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - reci4jOiaZbCd37eY
+  - recdkIzRDcuurhTmM
   Strategies:
   - rechaQXedBh3OsMjZ
   - recRTVqtvPcBS6zps
@@ -390,7 +476,20 @@
   airtable_createdTime: '2023-05-29T08:02:31.000Z'
   airtable_id: reco7BYWc7reRuaCh
   title: ITS
-- Tags:
+- Stakeholder-actors:
+  - recGRt9lWJvxx5GAE
+  - recTYTKZphOqdzYoL
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - recSaPtMj9rxfu4uu
+  - reci4jOiaZbCd37eY
+  Stakeholders-impacted:
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - reci4jOiaZbCd37eY
+  - recdkIzRDcuurhTmM
+  - rec0af1wTjdFwMqsw
+  Tags:
   - Dropout risk and grade prediction
   airtable_createdTime: '2023-05-19T14:13:50.000Z'
   airtable_id: recpFE7h6QhaEpNAQ
@@ -419,6 +518,17 @@
   - reczcRriFbQQpn8iX
   Sources:
   - rec9jnxuHOioQn4DC
+  Stakeholder-actors:
+  - recGRt9lWJvxx5GAE
+  - recTYTKZphOqdzYoL
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - recSaPtMj9rxfu4uu
+  Stakeholders-impacted:
+  - recVHjstaBpfkQwvp
+  - reckhslKpo5ZlVNpl
+  - reci4jOiaZbCd37eY
+  - recdkIzRDcuurhTmM
   Strategies:
   - recOo7Pmo4FBYcu7P
   - recRTVqtvPcBS6zps
@@ -432,4 +542,3 @@
   - recUYS0TFpk2MhVD7
   airtable_createdTime: '2023-06-08T06:38:41.000Z'
   airtable_id: recskjpMFnQ0emSKI
-  title: pri

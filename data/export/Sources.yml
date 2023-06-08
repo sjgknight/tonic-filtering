@@ -650,7 +650,10 @@
   airtable_createdTime: '2023-05-19T07:13:58.000Z'
   airtable_id: recQiVQ7CTC72xp6O
   title: AoIR report 2
-- Description: "\u201CThis new Taylor Institute Guide takes the researcher through\
+- Challenges:
+  - recCkVZngvMA5I5uv
+  - reczg5MObRbgzTeob
+  Description: "\u201CThis new Taylor Institute Guide takes the researcher through\
     \ the essentials of the Canadian standards for ethical practice in the scholarship\
     \ of teaching and learning (SoTL). It began with Lisa Fedoruk\u2019s review of\
     \ the Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans\
@@ -1088,7 +1091,14 @@
   airtable_createdTime: '2023-06-05T14:13:41.000Z'
   airtable_id: recctRdjoSccU3vcD
   title: PANELFIT guidelines for data protection
-- Description: |
+- Challenges:
+  - recefglLZ3oJWw2SZ
+  - recBc3GCNokDL220T
+  - rec8hxSSEudaplJiA
+  - recdmBNNa98cN8Sda
+  - reckPjhcWwLgjX9p5
+  - recvQ90DajNCwPiGP
+  Description: |
     "The Public Policy Programme at The Alan Turing Institute was set up in May 2018 with the aim of developing research, tools, and techniques that help governments innovate with data-intensive technologies and improve the quality of people's lives. We work alongside policy makers to explore how data science and artificial intelligence can inform public policy and improve the provision of public services. We believe that governments can reap the benefits of these technologies only if they make considerations of ethics and safety a first priority. This document provides end-to-end guidance on how to apply principles of AI ethics and safety to the design and implementation of algorithmic systems in the public sector. We will shortly release a workbook to bring the recommendations made in this guide to life. The workbook will contain case studies highlighting how the guidance contained here can be applied to concrete AI projects. It will also contain exercises and practical tools to help strengthen the process-based governance of your AI project. Please note, that this guide is a living document that will evolve and improve with input from users, affected stakeholders, and interested parties. We need your participation."
     p.3
   Link: https://doi.org/10.5281/ZENODO.3240529
@@ -1139,9 +1149,6 @@
   airtable_id: recfYC5jjPmpLfSlM
   title: Turing responsible design and implementation of AI systems in the public
     sector
-- airtable_createdTime: '2023-06-08T15:46:40.000Z'
-  airtable_id: recghzZiaFoua9VYW
-  title: Khan-review systematic literature analysis
 - Description: "Structure:\n1. Background sets out need relating to the target topic\n\
     2. Preliminary questions - two key questions to ask \u2018what might it be like\
     \ to take part in the research\u2019 and \u2018as a result of your work might\
@@ -1317,6 +1324,8 @@
   - recb50cfuQUWDAHZW
   - recJfAMUB8HdjVQYD
   - recmRF2P1OOASMfNF
+  - recefglLZ3oJWw2SZ
+  - recdlFwsToNXtcvGC
   Description: "\"Autonomous and intelligent technical systems are specifically designed\
     \ to reduce the necessity for human intervention in our day-to-day lives. In so\
     \ doing, these new systems are also raising concerns about their impact on individuals\
@@ -1381,6 +1390,7 @@
   - rec2679E9TXh1DCL8
   - recgn2UvSD4OhzGI4
   - recKWkdYO98PeEKDz
+  - recMgYQ7EqHAyDfi1
   Tags:
   - AI
   - ethics-guideline

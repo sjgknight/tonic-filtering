@@ -112,6 +112,7 @@ GEM
     rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
+    redcarpet (3.6.0)
     rexml (3.2.5)
     ruby-ll (2.1.2)
       ansi
@@ -142,9 +143,11 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  kramdown
   middleman (~> 4.4)
   middleman-inline_svg (~> 0.1)
   middleman-livereload (~> 3.4)
+  redcarpet
   video_info (~> 4.0)
   wdm (>= 0.1.0)
 

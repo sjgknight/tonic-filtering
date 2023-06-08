@@ -5,6 +5,17 @@
 
 pacman::p_load(magrittr, dplyr, tidyjson, purrr)
 
+# Prompt the user for confirmation
+confirmation <- readline("Are you sure you want to proceed? (y/n): ")
+
+# Check the user's response
+if (tolower(confirmation) == "y") {
+  # Proceed with the desired action
+  # ...
+  # Your code here
+  # ...
+
+
 #shell("pip install airtable-export")
 shell(paste0("airtable-export export appFOCCNDUuGhYPB2 Principles Cases Challenges Sources Stakeholders Strategies --key=",
              Sys.getenv("AIRTABLE_API_KEY"),
@@ -12,7 +23,7 @@ shell(paste0("airtable-export export appFOCCNDUuGhYPB2 Principles Cases Challeng
 )
 
 dir <- here::here("data/")
-# fs::file_move("export", dir)
+fs::file_move("export", dir)
 
 tables <- c("Principles", "Strategies", "Cases", "Challenges", "Sources", "Stakeholders")
 
@@ -80,6 +91,12 @@ combi <- map(combi, function(yaml_item) {
 
 #write to file
 yaml::write_yaml(combi, file = "data/collection.yml", fileEncoding = "UTF-8")
+
+print("Action confirmed!")
+} else {
+  # Perform any necessary actions if the user chooses not to proceed
+  print("Action canceled.")
+}
 
 #I want to take this line and functionalise over fields
 #ymlthis::yml_toplevel(list("tags" = as.list(.[["Tags"]]))) %>%
