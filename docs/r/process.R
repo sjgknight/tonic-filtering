@@ -6,7 +6,7 @@
 pacman::p_load(magrittr, dplyr, tidyjson, purrr)
 
 #shell("pip install airtable-export")
-# shell(paste0("airtable-export export appFOCCNDUuGhYPB2 Principles Cases Challenges Sources Stakeholders Strategies --key=",
+#shell(paste0("airtable-export export appFOCCNDUuGhYPB2 Principles Cases Challenges Sources Stakeholders Strategies --key=",
 #              Sys.getenv("AIRTABLE_API_KEY"),
 #              " --yaml")
 # )
@@ -24,7 +24,9 @@ combi <- purrr::map(tables, function(table){
     ymlthis::yml_category(glue::glue("{table}")) %>%
     ymlthis::yml_toplevel(c("name" = .[["airtable_id"]])) %>%
     ymlthis::yml_discard("airtable_id") %>%
-    ymlthis::yml_toplevel(list("tags" = as.list(.[["Tags"]]))) %>%
+    ymlthis::yml_toplevel(list("tags" = as.list(
+      stringr::str_replace_all(
+        .[["Tags"]], " ", "-")))) %>%
     ymlthis::yml_discard("Tags") %>%
     ymlthis::yml_toplevel(c("created_at" = .[["airtable_createdTime"]])) %>%
     ymlthis::yml_discard("airtable_createdTime") %>%
@@ -47,7 +49,7 @@ combi <- purrr::map(tables, function(table){
 #remove the toplevel
 
 fields <- ymlthis:::flatten_yml_names(combi) %>% unique()
-fields_manual <- c("title", "description", "created_at", "name", "Reference", "Link")
+fields_manual <- c("title", "description", "created_at", "name", "Reference", "Link", "category")
 fields <- base::Filter(function(field) !any(grepl(
   paste0(fields_manual, collapse="|"), field)), fields)
 

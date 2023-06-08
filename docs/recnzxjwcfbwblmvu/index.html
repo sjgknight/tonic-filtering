@@ -1,28 +1,28 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My Collection | Principle of Discriminatory non-harm for fairness, key considerations for outcome fairness</title>
+    <title>Ethics Principles, Challenges, Cases, and Strategies | Principle of Discriminatory non-harm for fairness, key considerations for outcome fairness</title>
     <meta name="description" content="“As part of this minimum safeguarding of discriminatory non-harm, forethought and well-informed consideration must be...">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="../tonic-filtering/stylesheets/application-39e33491.css" rel="stylesheet" />
-    <link href="../tonic-filtering/images/favicon.ico" rel="icon" type="image/ico" />
-      <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="../stylesheets/application-39e33491.css" rel="stylesheet" />
+    <link href="../images/favicon.ico" rel="icon" type="image/ico" />
+      <link href="https://fonts.googleapis.com/css2?family=Arimo:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
       :root {
-        --main-color: #6366f1;
-        --background-color: #e2e8f0;
-        --font-family: Lato;
+        --main-color: #0f4beb;
+        --background-color: #ebebeb;
+        --font-family: Arimo;
       }
     </style>
   </head>
   <body>
     <div id="header" class="flex justify-between w-full px-6 py-3 items-center">
   <div class="flex items-center">
-      <a href="/" class="text-2xl text-white">My Collection</a>
+      <a href="/" class="text-2xl text-white">Ethics Principles, Challenges, Cases, and Strategies</a>
   </div>
   <div class="flex gap-4">
     <div class="hidden sm:inline">
-        <a href="#" class="nav-link">About Us</a>
+        <a href="/about" class="nav-link">About</a>
         <a href="#" class="nav-link">Contact</a>
     </div>
 
@@ -95,13 +95,13 @@
 
   </div>
 
-  <span>["Strategies"]</span>
+  <span>Strategies</span>
   <h1>Principle of Discriminatory non-harm for fairness, key considerations for outcome fairness</h1>
 
   <div class="image-gallery">
   </div>
 
-  <p><a href='?tags=reflection-discussion' class='tag'>reflection-discussion</a></p>
+  <p><a href='/?tags=reflection-discussion' class='tag'>reflection-discussion</a></p>
 
 
   <div class="text-gray-500">“As part of this minimum safeguarding of discriminatory non-harm, forethought and well-informed consideration must be put into how you are going to define and measure the fairness of the impacts and outcomes of the AI system you are developing.There is a great diversity of beliefs in the area of outcome fairness as to how to properly classify what makes the consequences of an algorithmically supported decision equitable, fair, and allocatively just. Different approaches—detailed below—stress different principles: some focus on demographic parity, some on individual fairness, others on error rates equitably distributed across subpopulations.Your determination of outcome fairness should heavily depend both on the specific use case for which the fairness of outcome is being considered and the technical feasibility of incorporating your chosen criteria into the construction of the AI system. (Note that different fairness-aware methods involve different types of technical interventions at the pre-processing, modelling, or postprocessing stages of production). Again, this means that determining your fairness definition should be a cooperative and multidisciplinary effort across the project team.You will find below a summary table of some of the main definitions of outcome fairness that have been integrated by researchers into formal models as well as a list of current articles and technical resources, which should be consulted to orient your team to the relevant knowledge base. (Note that this is a rapidly developing field, so your technical team should keep updated about further advances.) The first four fairness types fall under the category of group fairness and allow for comparative criteria of non-discrimination to be considered in model construction and evaluation. The final two fairness types focus instead on cases of individual fairness, where context-specific issues of effective bias are considered and assessed at the level of the individual agent.Take note, though, that these technical approaches have limited scope in terms of the bigger picture issues of algorithmic fairness that we have already stressed. Many of the formal approaches work only in use cases that have distributive or allocative consequences. In order to carry out group comparisons, these approaches require access to data about sensitive/protected attributes (that may often be unavailable or unreliable) as well as accurate demographic information about the underlying population distribution. Furthermore, there are unavoidable trade-offs and inconsistences between these technical definitions that must be weighed in determining which of them are best fit for your use case. Consult those on your project team with the technical expertise to consider the use case appropriateness of a desired formal approach.” (Leslie, 2019, p. 18)Some Formalisable Definitions of Outcome Fairness:- **Demographic/ Statistical Parity (group fairness): **An outcome is fair if each group in the selected set receives benefit in equal or similar proportions, i.e. if there is no correlation between a sensitive or protected attribute and the allocative result. This approach is intended to prevent disparate impact, which occurs when the outcome of an algorithmic process disproportionately harms members of disadvantaged or protected groups.- **True positive rate (group fairness): **An outcome is fair if the ‘true positive’ rates of an algorithmic prediction or classification are equal across groups. This approach is intended to align the goals of bias mitigation and accuracy by ensuring that the accuracy of the model is equivalent between relevant population subgroups. This method is also referred to as ‘equal opportunity’ fairness because it aims to secure equalised odds of an advantageous outcome for qualified individuals in a given population regardless of the protected or disadvantaged groups of which they are members- **False positive rate parity (group fairness): **An outcome is fair if it does not disparately mistreat people belonging to a given social group by misclassifying them at a higher rate than the members of a second social group, for this would place the members of the first group at an unfair disadvantage. This approach is motivated by the position that sensitive groups and advantaged groups should have similar error rates in outcomes of algorithmic decisions.- **Positive predictive value parity (group fairness): **An outcome is fair if the rates of positive predictive value (the fraction of correctly predicted positive cases out of all predicted positive cases) are equal across sensitive and advantaged groups. Outcome fairness is defined here in terms of a parity of precision, where the probability of members from different groups actually having the quality they are predicted to have is the same across groups.- **Individual fairness (individual fairness): **An outcome is fair if it treats individuals with similar relevant qualifications similarly. This approach relies on the establishment of a similarity metric that shows the degree to which pairs of individuals are alike with regard to a specific task.- **Counterfactual fairness (individual fairness): **An outcome is fair if an automated decision made about an individual belonging to a sensitive group would have been the same were that individual a member of a different group in a closest possible alternative (or counterfactual) world. Like the individual fairness approach, this method of defining fairness focuses on the specific circumstances of an affected decision subject, but, by using the tools of contrastive explanation, it moves beyond individual fairness insofar as it brings out the causal influences behind the algorithmic output. It also presents the possibility of offering the subject of an automated decision knowledge of what factors, if changed, could have influenced a different outcome. This could provide them with actionable recourse to change an unfavourable decision.(Leslie, 2019, p. 19)"Once you and your project team have thoroughly considered the use case appropriateness as well as technical feasibility of the formal models of fairness most relevant for your system and have incorporated the model into your application, you should prepare a Fairness Position Statement (FPS) in which the fairness criteria being employed in the AI system is made explicit and explained in plain and non-technical language. This FPS should then be made publicly available for review by all affected stakeholders." (Leslie, 2019, p.20)</div>
@@ -136,14 +136,14 @@
 
     <footer class="fixed bottom-0 z-20 p-2 w-full border-t bg-white shadow-lg text-center">
   <span class="text-sm text-gray-500">
-      My Collection | powered by <a href="https://github.com/Subgin/tonic">Tonic v0.17.0</a>
+      Follow Simon Knight on <a href="https://twitter.com/sjgknight">Twitter</a>
   </span>
 </footer>
 
 
-    <script src="../tonic-filtering/javascripts/application.js"></script>
+    <script src="../application-b6b72200.js"></script>
     <script>
-      window.config = JSON.parse(JSON.stringify({"title":"My Collection","detail_pages":true,"item_card_image":true,"sorting":{"default_order":"price asc"},"description":"This is an example of a \u003ca href=\"https://github.com/Subgin/tonic\"\u003eTonic\u003c/a\u003e project.","main_color":"#6366f1","background_color":"#e2e8f0","font_family":"Lato","links":[{"text":"About Us","url":"#"},{"text":"Contact","url":"#"}],"filters":{"exclude":["video","audio"]}}));
+      window.config = JSON.parse(JSON.stringify({"title":"Ethics Principles, Challenges, Cases, and Strategies","detail_pages":true,"item_card_image":true,"sorting":{"default_order":"Title asc"},"description":"This is an example of a \u003ca href=\"https://github.com/Subgin/tonic\"\u003eTonic\u003c/a\u003e project.\nYou can view the modified code at \u003ca href=\"https://github.com/sjgknight/tonic-filtering\"\u003esjgknight/tonic-fltering\u003c/a\u003e\n","main_color":"#0f4beb","background_color":"#ebebeb","font_family":"Arimo","links":[{"text":"About","url":"/about"},{"text":"Contact","url":"#"}],"filters":{"exclude":["video","audio","link","created_at"],"type":{"Rights":"tags","Category":"radio_buttons","tags":"tags","Title":"text","childOf":"select","equivalentTo":"select","created_at":"date_range"}},"footer_content":"Follow Simon Knight on \u003ca href=\"https://twitter.com/sjgknight\"\u003eTwitter\u003c/a\u003e"}));
     </script>
   </body>
 </html>
