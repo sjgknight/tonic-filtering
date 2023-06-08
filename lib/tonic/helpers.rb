@@ -26,8 +26,7 @@ module Tonic
       if item.detail_page_link.present?
         item.detail_page_link
       elsif config.detail_pages
-      #"/#{config.base_url}/#{item.id}"
-      #"tonic-filtering/#{item.id}"
+      #tried to add base_url here
         "/#{item.id}"
       end
     end

@@ -18,9 +18,10 @@
 <!--    <p><%= render_principle_links(item.principles) %></p> -->
 
 <!--    <p><%= render_links(['Principles','Cases','Strategies','Stakeholders','Sources']) %></p> -->
+<!-- tried to add base_url before page_url here -->
 
   <% if page_url = detail_page_url(item) %>
-    <div class="card-actions"><%= link_to 'More', "#{config.http_prefix}#{page_url}", class: 'btn' %></div>
+    <div class="card-actions"><%= link_to 'More', "#{page_url}", class: 'btn' %></div>
   <% end %>
 
 </article>

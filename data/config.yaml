@@ -16,7 +16,7 @@ links:
   - text: Contact
     url: "#"
 
-detail_pages: true
+#detail_pages: true
 
 # Sorting
 sorting:
@@ -36,6 +36,7 @@ filters:
     Title: text
     childOf: select
     equivalentTo: select
+    created_at: date_range
 
 #was trying to order these but that's not here
   # - `text`
@@ -47,4 +48,4 @@ filters:
   # - `tags`
   # - `boolean`
 
-footer_content: Follow me on <a href="https://twitter.com/sjgknight">Twitter</a>
+footer_content: Follow Simon Knight on <a href="https://twitter.com/sjgknight">Twitter</a>

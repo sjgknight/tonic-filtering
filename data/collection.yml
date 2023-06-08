@@ -7659,13 +7659,13 @@
   category: Cases
   name: rec1RzTKH08fWjSbT
   tags:
-  - Safety and wellbeing
+  - Safety-and-wellbeing
   created_at: '2023-05-19T14:13:27.000Z'
 - title: Tracking performance limits access to education
   category: Cases
   name: rec8YSr2IJxVndTKb
   tags:
-  - Dropout risk and grade prediction
+  - Dropout-risk-and-grade-prediction
   created_at: '2023-05-29T07:26:14.000Z'
   description: '“AI can fundamentally violate the principle of equal access. Universities
     in the U.S. are using deterministic algorithmic systems to recommend applicants
@@ -7701,7 +7701,7 @@
   category: Cases
   name: recAlOHJhEy5nDwA6
   tags:
-  - Resource management and administration
+  - Resource-management-and-administration
   created_at: '2023-05-19T13:58:49.000Z'
   description: '“A school uses a chatbot virtual assistant on its website to guide
     learners and parents through administrative tasks such as enrolment for courses,
@@ -7780,20 +7780,20 @@
   category: Cases
   name: recKURlVVYGCInW8y
   tags:
-  - Automated feedback
+  - Automated-feedback
   created_at: '2023-05-19T14:13:58.000Z'
 - title: Teacher uses tool to automate creation of some material
   category: Cases
   name: recKWQBBplr1vXmRc
   tags:
-  - Automated content creation
+  - Automated-content-creation
   created_at: '2023-05-19T14:15:04.000Z'
 - title: A regional government is investing in a tool to automate content creation
     for all teachers
   category: Cases
   name: recMalmQowxcka9V6
   tags:
-  - Automated content creation
+  - Automated-content-creation
   created_at: '2023-05-18T18:42:40.000Z'
 - title: Financial discrimination
   category: Cases
@@ -7826,7 +7826,7 @@
   category: Cases
   name: recOOmVQviRyJGvea
   tags:
-  - Dropout risk and grade prediction
+  - Dropout-risk-and-grade-prediction
   created_at: '2023-05-19T13:56:36.000Z'
   description: '“A school is considering how AI systems can help reduce barriers for
     students with special educational needs. The school is currently trialling an
@@ -7856,7 +7856,7 @@
   category: Cases
   name: recSXcY4cnofb4zTP
   tags:
-  - Resource management and administration
+  - Resource-management-and-administration
   created_at: '2023-05-19T13:58:44.000Z'
   description: 'A school uses the data collected when students enrol to predict and
     better organise the number of students who will attend in the coming year. The
@@ -7918,7 +7918,7 @@
   category: Cases
   name: reccWWRCdr9ZKJBZE
   tags:
-  - Safety and wellbeing
+  - Safety-and-wellbeing
   created_at: '2023-05-18T18:42:27.000Z'
 - Challenges:
   - rec5VzvnIZcaNKqDh
@@ -7937,7 +7937,7 @@
   category: Cases
   name: reciNqxyfUgE5XM7t
   tags:
-  - Adaptive and personalised learning
+  - Adaptive-and-personalised-learning
   created_at: '2023-05-19T13:52:56.000Z'
   description: '“A primary school is using an Intelligent Tutoring System to automatically
     direct learners to resources specific to their learning needs. The AI based system
@@ -7973,7 +7973,7 @@
   category: Cases
   name: recmS3zSMbR3ofAR5
   tags:
-  - Automated feedback
+  - Automated-feedback
   created_at: '2023-05-19T13:58:20.000Z'
   description: '“A school is looking at how AI systems can support the assessment
     of student written assignments. A provider has recommended an automated essay
@@ -8043,7 +8043,7 @@
   category: Cases
   name: recpFE7h6QhaEpNAQ
   tags:
-  - Dropout risk and grade prediction
+  - Dropout-risk-and-grade-prediction
   created_at: '2023-05-19T14:13:50.000Z'
 - Challenges:
   - rec5VzvnIZcaNKqDh
@@ -8062,7 +8062,7 @@
   category: Cases
   name: recrVkbG0XGe2Ca0v
   tags:
-  - Automated feedback
+  - Automated-feedback
   created_at: '2023-05-19T13:55:23.000Z'
   description: '“A post-primary school is considering the use of a personalised online
     student dashboard which will provide feedback to learners and support the development

@@ -20,8 +20,11 @@ activate :external_pipeline,
 
 redirect "about.html", to: "pages/about.html"
 
+set :build_dir, 'docs'
+#set :relative_links, true
+
 configure :development do
-  #set :base_url, "/hello/"
+  set :base_url, "/"
   activate :livereload
 end
 
@@ -29,11 +32,9 @@ configure :build do
   #config[:host] = 'https://sjgknight.github.io'
   #set :http_prefix, "/tonic-filtering/"
   #set :base_url, "/tonic-filtering"
-  set :build_dir, 'docs'
   ignore File.join(config[:js_dir], "*") # handled by External Pipeline
   activate :asset_hash
   activate :minify_css
-  #set :relative_links, true
   activate :relative_assets
 end
 

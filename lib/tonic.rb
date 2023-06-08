@@ -28,7 +28,7 @@ module Tonic
     # Create a detail page for each item if enabled
     if raw_config.fetch("detail_pages", true)
       context.data.collection.each do |item|
-        #context.proxy "/#{base_url}/#{Tonic::Utils.slugify(item.name)}.html", "/templates/collection/detail_page.html", locals: { item: item }
+        ##tried to add base_url here
         context.proxy "/#{Tonic::Utils.slugify(item.name)}.html", "/templates/collection/detail_page.html", locals: { item: item }
       end
     end

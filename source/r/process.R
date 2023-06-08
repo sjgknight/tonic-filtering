@@ -24,7 +24,9 @@ combi <- purrr::map(tables, function(table){
     ymlthis::yml_category(glue::glue("{table}")) %>%
     ymlthis::yml_toplevel(c("name" = .[["airtable_id"]])) %>%
     ymlthis::yml_discard("airtable_id") %>%
-    ymlthis::yml_toplevel(list("tags" = as.list(.[["Tags"]]))) %>%
+    ymlthis::yml_toplevel(list("tags" = as.list(
+      stringr::str_replace_all(
+        .[["Tags"]], " ", "-")))) %>%
     ymlthis::yml_discard("Tags") %>%
     ymlthis::yml_toplevel(c("created_at" = .[["airtable_createdTime"]])) %>%
     ymlthis::yml_discard("airtable_createdTime") %>%

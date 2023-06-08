@@ -25,7 +25,7 @@ module Tonic
     def render_tag_links(tags)
       return if !tags
         tags.sort.map do |tag|
-        "<a href='?tags=#{tag}' class='tag'>#{tag}</a>".html_safe
+        "<a href='/?tags=#{tag}' class='tag'>#{tag}</a>".html_safe
       end.join(" ")
     end
 
@@ -46,8 +46,9 @@ module Tonic
     link_html = values.map do |value|
       matching_items = data.collection.select { |item| item.send(field)&.include?(value) }
       titles = matching_items.map(&:title).join(", ")
-      link_url = "#{config.base_url}?global=#{value}"
-      link_to('hello world', link_url, { :class => 'tag'})
+      #tried to prepend base_url before global here
+      link_url = "/?global=#{value}"
+      link_to(titles, link_url, { :class => 'tag'})
     end.join(" ")
 
     "<b>#{field.capitalize}:</b> #{link_html}".html_safe
