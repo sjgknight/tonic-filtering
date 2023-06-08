@@ -10,6 +10,8 @@
   - test
   equivalentTo:
   - test
+  PrincipleCollation:
+  - test
   Cases:
   - test
   Principles:
@@ -565,7 +567,19 @@
   name: recL7CrHMutQEBBu7
   tags: []
   created_at: '2023-05-19T10:58:11.000Z'
-- Sources:
+- PrincipleCollation:
+  - recYP5QdyBcP0gruN
+  - recW30jj9GzhNGTuX
+  - recG3YFWxYITJ7HdM
+  - recS88wQCG2Q3vCmN
+  - recZQWPVfsVKa7q8t
+  - recnatLtMuR1D5OXt
+  - recqLh2ycsve2o5QO
+  - recCTIw7k9DYnAN2g
+  - recMBWhG4UXydd71J
+  - rec1VlvAnhNs3MkbA
+  - recbsOi9a2k1nJswY
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - recgn2UvSD4OhzGI4
@@ -617,6 +631,18 @@
   created_at: '2023-06-05T05:32:52.000Z'
 - Challenges:
   - recdmBNNa98cN8Sda
+  PrincipleCollation:
+  - recl9ptNqbtslS9s6
+  - rec2lbN7lCx1fQKnh
+  - rec3tM5qcjsVoGf8o
+  - recQEQ1NAj92jByY5
+  - recQECJl1tr5x63ig
+  - recNFvfNqfB2VwhZ8
+  - recBuQv8QRql0Ow4q
+  - recH0fKGdRvDSVpQm
+  - recr4fWTm3a7tbJ4G
+  - recZzygIMFc8xIAnW
+  - recrpsLqCTq9nWSND
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -799,7 +825,10 @@
     such as workers, women, persons with disabilities, ethnic minorities, children,
     consumers or others at risk of exclusion.” (High-Level Expert Group on AI, 2019,
     p. 11)
-- Sources:
+- PrincipleCollation:
+  - rec5tUjckYAzHmc7e
+  - recO0PpscH27fFkXA
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - recJQF6QfQGlcSzDm
@@ -1226,7 +1255,21 @@
   name: reclur1ImQFlLyYof
   tags: []
   created_at: '2023-05-19T09:41:35.000Z'
-- Sources:
+- PrincipleCollation:
+  - rec3rTrXMiXaZjy7s
+  - reci6dYShRhu4H0ad
+  - recLwscIEEHBzI5Nq
+  - recl9ptNqbtslS9s6
+  - recgk6VOEM4y4w7gV
+  - recEhiFWkyd6l5Kim
+  - rec2LOHao3FmjpwIv
+  - recdmyjbklrgjcfc3
+  - recm9sVI6QmlMdHor
+  - recRopSKW7iYgFHlz
+  - recVOZptlmWy2vW4P
+  - reco1j4ikYZLaYZi6
+  - reck7CXWZJAjaLrDR
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - rec0GhefNkhJqW0c2
@@ -1307,6 +1350,8 @@
 - Challenges:
   - recYHYaeqVHR93Kuo
   - recO1L6GoFMkA6Lt4
+  PrincipleCollation:
+  - rec3rTrXMiXaZjy7s
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -1533,6 +1578,8 @@
   - recCpTJXuuowqsqQa
   - recHHr97jsyNDnlsJ
   - recKzhZVabDuYM6rG
+  PrincipleCollation:
+  - rec5tUjckYAzHmc7e
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -7661,7 +7708,9 @@
   tags:
   - Safety-and-wellbeing
   created_at: '2023-05-19T14:13:27.000Z'
-- title: Tracking performance limits access to education
+- Sources:
+  - recH8KmnURSknCr5y
+  title: Tracking performance limits access to education
   category: Cases
   name: rec8YSr2IJxVndTKb
   tags:
@@ -7693,6 +7742,8 @@
   - recqdGhz7l1cGnQeU
   - recWLcMWDPE9Fd1pE
   - recUYS0TFpk2MhVD7
+  Sources:
+  - rec9jnxuHOioQn4DC
   Strategies:
   - rec7daqDHSCuc70yS
   - recTWhZ88TbQLcNaQ
@@ -7720,6 +7771,8 @@
 - Challenges:
   - recHHr97jsyNDnlsJ
   - recefglLZ3oJWw2SZ
+  Sources:
+  - recH8KmnURSknCr5y
   title: Perpetuating bias in criminal justice
   category: Cases
   name: recDAvfsflBF0WKpf
@@ -7740,7 +7793,9 @@
     these AI systems often further exacerbate the very bias they are trying to mitigate,
     either directly or by incorporating factors that are proxies for bias.” ([Access
     Now, 2018, p. 15](zotero://select/groups/4907410/items/KIU6F9PR)) ([pdf](zotero://open-pdf/groups/4907410/items/598C5P37?page=15&annotation=RY637D35))'
-- title: AI for Adaptive Learning
+- Sources:
+  - recY4zreDoWrsbsv7
+  title: AI for Adaptive Learning
   category: Cases
   name: recHAwvOykeiUxFsY
   tags: []
@@ -7795,7 +7850,9 @@
   tags:
   - Automated-content-creation
   created_at: '2023-05-18T18:42:40.000Z'
-- title: Financial discrimination
+- Sources:
+  - recH8KmnURSknCr5y
+  title: Financial discrimination
   category: Cases
   name: recNNFrnCiGxTP4WE
   tags: []
@@ -7819,6 +7876,8 @@
   Principles:
   - reco4DUa3rsjP0hyg
   - recWLcMWDPE9Fd1pE
+  Sources:
+  - rec9jnxuHOioQn4DC
   Strategies:
   - recTWhZ88TbQLcNaQ
   - recegTm800wJXGjO1
@@ -7849,6 +7908,8 @@
   Principles:
   - reczcRriFbQQpn8iX
   - recUYS0TFpk2MhVD7
+  Sources:
+  - rec9jnxuHOioQn4DC
   Strategies:
   - recOo7Pmo4FBYcu7P
   - recRTVqtvPcBS6zps
@@ -7878,7 +7939,9 @@
   name: recTQ7eABknthRQo8
   tags: []
   created_at: '2023-06-05T15:18:06.000Z'
-- title: Disinformation spread
+- Sources:
+  - recH8KmnURSknCr5y
+  title: Disinformation spread
   category: Cases
   name: recVLyzjb1UfqbrIh
   tags: []
@@ -7900,7 +7963,9 @@
     sowing chaos, instigating conflict, and further causing a crisis of truth that
     should not be discounted.46” ([Access Now, 2018, p. 16](zotero://select/groups/4907410/items/KIU6F9PR))
     ([pdf](zotero://open-pdf/groups/4907410/items/598C5P37?page=16&annotation=9DGUCL8R))'
-- title: Hiring bias
+- Sources:
+  - recH8KmnURSknCr5y
+  title: Hiring bias
   category: Cases
   name: recWNt6W4v0xr3x0Z
   tags: []
@@ -7929,6 +7994,8 @@
   - recwjv8IMAZFWfMSr
   - recaMsksKInFYbnCL
   - reco4DUa3rsjP0hyg
+  Sources:
+  - rec9jnxuHOioQn4DC
   Strategies:
   - rechaQXedBh3OsMjZ
   - recegTm800wJXGjO1
@@ -7952,8 +8019,7 @@
     needs? Is the AI system designed to treat learners respectfully adapting to their
     individual needs? Diversity, non-Discrimination and Fairness • Are there monitoring
     systems in place to prevent overconfidence in or overreliance on the AI system?
-    Human agency and oversight” ([European Commission, 2022, p. 22](zotero://select/groups/4907410/items/3BCJVLT9))
-    ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=22&annotation=TIV9II8S))'
+    Human agency and oversight” (European Commission, 2022, p. 22)'
 - Challenges:
   - rec5VzvnIZcaNKqDh
   - recL5M2Hye2XHK7zg
@@ -7965,6 +8031,8 @@
   - recaMsksKInFYbnCL
   - reczcRriFbQQpn8iX
   - recwjv8IMAZFWfMSr
+  Sources:
+  - rec9jnxuHOioQn4DC
   Strategies:
   - rechaQXedBh3OsMjZ
   - recRTVqtvPcBS6zps
@@ -7993,7 +8061,9 @@
     and school leaders understand how specific assessment or personalisation algorithms
     work within the AI system? Transparency” ([European Commission, 2022, p. 24](zotero://select/groups/4907410/items/3BCJVLT9))
     ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=24&annotation=7VK8CJ4X))'
-- title: ITS
+- Sources:
+  - recY4zreDoWrsbsv7
+  title: ITS
   category: Cases
   name: reco7BYWc7reRuaCh
   tags: []
@@ -8054,6 +8124,8 @@
   - recqdGhz7l1cGnQeU
   - recUYS0TFpk2MhVD7
   - reczcRriFbQQpn8iX
+  Sources:
+  - rec9jnxuHOioQn4DC
   Strategies:
   - recOo7Pmo4FBYcu7P
   - recRTVqtvPcBS6zps
@@ -12103,7 +12175,14 @@
     novel and potentially more intrusive technologies like brain-computer interfaces
     (BCI), which can translate brainwaves into control signals and vice versa.” (Schroeder
     et al., 2009, p. 5)
-- Link: https://education.ec.europa.eu/node/2285
+- Cases:
+  - reciNqxyfUgE5XM7t
+  - recrVkbG0XGe2Ca0v
+  - recOOmVQviRyJGvea
+  - recmS3zSMbR3ofAR5
+  - recSXcY4cnofb4zTP
+  - recAlOHJhEy5nDwA6
+  Link: https://education.ec.europa.eu/node/2285
   Principles:
   - recUYS0TFpk2MhVD7
   - recqdGhz7l1cGnQeU
@@ -12201,7 +12280,45 @@
     to the inevitable dilemmas and challenges that are part of the CBPR process.”
     (Centre for Social Justice and Community Action and National Co-ordinating Centre
     for Public Engagement, 2012, p. 7)'
-- Challenges:
+- Link: https://doi.org/10.1145/3530019.3531329
+  PrincipleCollation:
+  - recG3YFWxYITJ7HdM
+  - recS88wQCG2Q3vCmN
+  - recW30jj9GzhNGTuX
+  - recYP5QdyBcP0gruN
+  - rec3rTrXMiXaZjy7s
+  - rec5tUjckYAzHmc7e
+  - recl9ptNqbtslS9s6
+  - recZQWPVfsVKa7q8t
+  - rec3tM5qcjsVoGf8o
+  - recLwscIEEHBzI5Nq
+  - recNFvfNqfB2VwhZ8
+  - recO0PpscH27fFkXA
+  - recgk6VOEM4y4w7gV
+  - rechhdJ1P2uBHmBJx
+  - reci6dYShRhu4H0ad
+  - recsJ2B2umNP3DulI
+  - recQECJl1tr5x63ig
+  - recQEQ1NAj92jByY5
+  - recUb7Jo7VY1Hx5Co
+  - rec2lbN7lCx1fQKnh
+  - recBuQv8QRql0Ow4q
+  Reference: |
+    Khan, A. A., Badshah, S., Liang, P., Waseem, M., Khan, B., Ahmad, A., Fahmideh, M., Niazi, M., & Akbar, M. A. (2022). Ethics of AI: A Systematic Literature Review of Principles and Challenges. _The International Conference on Evaluation and Assessment in Software Engineering 2022_, 383–392. <https://doi.org/10.1145/3530019.3531329>
+  title: 'Khan-review systematic literature analysis '
+  category: Sources
+  name: recFglyNv1cgX2zx7
+  tags:
+  - research-paper
+  created_at: '2023-06-08T15:02:40.000Z'
+  description: A review piece
+- Cases:
+  - rec8YSr2IJxVndTKb
+  - recDAvfsflBF0WKpf
+  - recVLyzjb1UfqbrIh
+  - recWNt6W4v0xr3x0Z
+  - recNNFrnCiGxTP4WE
+  Challenges:
   - recHHr97jsyNDnlsJ
   - recJjTMjpfE0WHSWu
   Link: https://www.accessnow.org/cms/assets/uploads/2018/11/AI-and-Human-Rights.pdf
@@ -12403,6 +12520,42 @@
     on the AIATSIS Ethics webpage.2 We plan to expand our range of resources and tools.”
     (Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS),
     2020, p. 3)'
+- Link: https://doi.org/10.1109/TTS.2021.3052127
+  PrincipleCollation:
+  - recG3YFWxYITJ7HdM
+  - recS88wQCG2Q3vCmN
+  - recW30jj9GzhNGTuX
+  - recYP5QdyBcP0gruN
+  - rec3rTrXMiXaZjy7s
+  - rec5tUjckYAzHmc7e
+  - recl9ptNqbtslS9s6
+  - recZQWPVfsVKa7q8t
+  - rec3tM5qcjsVoGf8o
+  - recMBWhG4UXydd71J
+  - recNFvfNqfB2VwhZ8
+  - recqLh2ycsve2o5QO
+  - recAEIWzHfWw7JYJH
+  - recEhiFWkyd6l5Kim
+  - recZzygIMFc8xIAnW
+  - rec1VlvAnhNs3MkbA
+  - rec2LOHao3FmjpwIv
+  - recbsOi9a2k1nJswY
+  - recH0fKGdRvDSVpQm
+  - recnatLtMuR1D5OXt
+  - recrpsLqCTq9nWSND
+  - recr4fWTm3a7tbJ4G
+  - recCTIw7k9DYnAN2g
+  - recdmyjbklrgjcfc3
+  Reference: |
+    Schiff, D. (2020). _AI Ethics Global Document Collection_ [Data set]. IEEE. <https://ieee-dataport.org/open-access/ai-ethics-global-document-collection-0>
+    Schiff, D., Borenstein, J., Biddle, J., & Laas, K. (2021). AI Ethics in the Public, Private, and NGO Sectors: A Review of a Global Document Collection. _IEEE Transactions on Technology and Society_, _2_(1), 31–42. <https://doi.org/10.1109/TTS.2021.3052127>
+  title: Schiff-review AI Ethics Global Document Collection
+  category: Sources
+  name: recQXTU23awCZtU2a
+  tags:
+  - research-paper
+  created_at: '2023-06-08T15:01:40.000Z'
+  description: A review piece
 - Link: https://aoir.org/reports/ethics2.pdf
   Reference: |
     Markham, A., & Buchanan, E. (2012). Ethical Decision-Making and Internet Research: Recommendations from the AoIR Ethics Working Committee (Version 2.0). AoIR. <https://aoir.org/reports/ethics2.pdf>
@@ -12520,7 +12673,10 @@
     of the Treaty of Waitangi.Identified ethical issues from existing policy, articles,
     and guidelines and aligned these to Maori values.Undertook consultation with stakeholder
     groups'
-- Link: https://www2.ed.gov/documents/ai-report/ai-report.pdf
+- Cases:
+  - reco7BYWc7reRuaCh
+  - recHAwvOykeiUxFsY
+  Link: https://www2.ed.gov/documents/ai-report/ai-report.pdf
   Reference: |
     Cardona, M. A., Rodríguez, R. J., & Ishmael, K. (2023). Artificial Intelligence and the Future of Teaching and Learning: Insights and Recommendations. U.S. Department of Education, Office of Educational Technology. <https://www2.ed.gov/documents/ai-report/ai-report.pdf>
   Rights:
@@ -12658,6 +12814,48 @@
     and conducting studies using visual research methods. Finally, Part D lists resources
     that we have drawn on, and that users of these guidelines may find informative.”
     (Cox et al., 2014, p. 3)
+- Link: https://doi.org/10.1038/s42256-019-0088-2
+  PrincipleCollation:
+  - recG3YFWxYITJ7HdM
+  - recS88wQCG2Q3vCmN
+  - recW30jj9GzhNGTuX
+  - recYP5QdyBcP0gruN
+  - rec3rTrXMiXaZjy7s
+  - rec5tUjckYAzHmc7e
+  - rec3tM5qcjsVoGf8o
+  - recLwscIEEHBzI5Nq
+  - recO0PpscH27fFkXA
+  - rechhdJ1P2uBHmBJx
+  - reci6dYShRhu4H0ad
+  - recqLh2ycsve2o5QO
+  - recsJ2B2umNP3DulI
+  - recAEIWzHfWw7JYJH
+  - recQECJl1tr5x63ig
+  - recQEQ1NAj92jByY5
+  - recUb7Jo7VY1Hx5Co
+  - recZzygIMFc8xIAnW
+  - rec1VlvAnhNs3MkbA
+  - rec2LOHao3FmjpwIv
+  - rec2lbN7lCx1fQKnh
+  - recKt2LyhX48RpbtK
+  - recm9sVI6QmlMdHor
+  - reco1j4ikYZLaYZi6
+  - recRopSKW7iYgFHlz
+  - recUiZ5lcg30F10Ns
+  - recVOZptlmWy2vW4P
+  - recWg8LODvWwEikAo
+  - rec26Igx0Uax18EHh
+  - rec7XT5tn9q11nNbX
+  Reference: |
+    Jobin, A., Ienca, M., & Vayena, E. (2019a). / Supplementary File The global landscape of AI ethics guidelines. _Nature Machine Intelligence_, _1_(9), 389–399. <https://doi.org/10.1038/s42256-019-0088-2>
+    Jobin, A., Ienca, M., & Vayena, E. (2019b). The global landscape of AI ethics guidelines. _Nature Machine Intelligence_, _1_(9), Article 9. <https://doi.org/10.1038/s42256-019-0088-2>
+  title: Jobin-review global landscape of AI ethics guidelines
+  category: Sources
+  name: recZ82hfuUzG775I3
+  tags:
+  - research-paper
+  created_at: '2023-06-08T15:02:41.000Z'
+  description: A review piece
 - Link: https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018
   Principles:
   - recLHILkx2JDFsLbX
@@ -12841,8 +13039,8 @@
     Leslie, D. (2019). _Understanding artificial intelligence ethics and safety: A guide for the responsible design and implementation of AI systems in the public sector_. The Alan Turing Institute. <https://doi.org/10.5281/ZENODO.3240529>
   Rights:
   - CC-By
-  - CC-NC
   - CC-SA
+  - CC-NC
   Strategies:
   - recmhwo8kmYkBZ7Sy
   - recgswAsiepwEclOd
@@ -12878,6 +13076,11 @@
     of your AI project. Please note, that this guide is a living document that will
     evolve and improve with input from users, affected stakeholders, and interested
     parties. We need your participation."p.3'
+- title: Khan-review systematic literature analysis
+  category: Sources
+  name: recghzZiaFoua9VYW
+  tags: []
+  created_at: '2023-06-08T15:46:40.000Z'
 - Link: ' https://www.britishgerontology.org/about-bsg/bsg-ethical-guidelines'
   Reference: |
     British Society of Gerontology. (2012). _BSG Ethical Guidelines_. British Society of Gerontology. <https://www.britishgerontology.org/about-bsg/bsg-ethical-guidelines>
@@ -13153,6 +13356,30 @@
     process 4. unanticipated, distressing emotions 5. unexpected revelations” (\[National
     Disability Authority, 2009, p. 13]\(zotero://select/groups/4907410/items/LT3RKDKU))
     (\[pdf]\(zotero://open-pdf/groups/4907410/items/HY72W4CC?page=15))'
+- Link: https://doi.org/10.2139/ssrn.3518482
+  PrincipleCollation:
+  - recG3YFWxYITJ7HdM
+  - recS88wQCG2Q3vCmN
+  - recW30jj9GzhNGTuX
+  - recYP5QdyBcP0gruN
+  - rec3rTrXMiXaZjy7s
+  - rec5tUjckYAzHmc7e
+  - recl9ptNqbtslS9s6
+  - recZQWPVfsVKa7q8t
+  - recMBWhG4UXydd71J
+  - recgk6VOEM4y4w7gV
+  - recEhiFWkyd6l5Kim
+  - recbsOi9a2k1nJswY
+  - reck7CXWZJAjaLrDR
+  Reference: |
+    Fjeld, J., Achten, N., Hilligoss, H., Nagy, A., & Srikumar, M. (2020). Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for AI (SSRN Scholarly Paper No. 3518482). <https://doi.org/10.2139/ssrn.3518482>
+  title: Fjeld-review mapping consensus in AI ethics
+  category: Sources
+  name: recrDXMNtbEk0mCAY
+  tags:
+  - research-paper
+  created_at: '2023-06-08T15:02:41.000Z'
+  description: A review piece
 - Link: https://data.europa.eu/doi/10.2777/18849
   Reference: |
     European Commission. Directorate-General for Research. (2010). _Syllabus on ethics in research: Addendum to the European textbook on ethics in research_. Publications Office. <https://data.europa.eu/doi/10.2777/18849>

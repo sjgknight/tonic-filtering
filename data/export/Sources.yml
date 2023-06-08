@@ -227,7 +227,14 @@
   airtable_createdTime: '2023-05-19T05:11:00.000Z'
   airtable_id: rec7O4POwgYQFt2Xg
   title: Social, Ethical, and Legal Issues in Presence Research and Applications.
-- Description: "\u201CThese Guidelines are to be used in schools across Europe and\
+- Cases:
+  - reciNqxyfUgE5XM7t
+  - recrVkbG0XGe2Ca0v
+  - recOOmVQviRyJGvea
+  - recmS3zSMbR3ofAR5
+  - recSXcY4cnofb4zTP
+  - recAlOHJhEy5nDwA6
+  Description: "\u201CThese Guidelines are to be used in schools across Europe and\
     \ we shall actively promote them through the Erasmus+ programme. Collectively\
     \ or individually, teachers and school leaders will now have a solid basis to\
     \ venture out and expand their use of these technologies in a considerate, safe\
@@ -324,7 +331,47 @@
   airtable_id: recEUvvWsvLXjiGRC
   title: Community-based participatory research A guide to ethical principles and
     practice.
-- Challenges:
+- Description: |
+    A review piece
+  Link: https://doi.org/10.1145/3530019.3531329
+  PrincipleCollation:
+  - recG3YFWxYITJ7HdM
+  - recS88wQCG2Q3vCmN
+  - recW30jj9GzhNGTuX
+  - recYP5QdyBcP0gruN
+  - rec3rTrXMiXaZjy7s
+  - rec5tUjckYAzHmc7e
+  - recl9ptNqbtslS9s6
+  - recZQWPVfsVKa7q8t
+  - rec3tM5qcjsVoGf8o
+  - recLwscIEEHBzI5Nq
+  - recNFvfNqfB2VwhZ8
+  - recO0PpscH27fFkXA
+  - recgk6VOEM4y4w7gV
+  - rechhdJ1P2uBHmBJx
+  - reci6dYShRhu4H0ad
+  - recsJ2B2umNP3DulI
+  - recQECJl1tr5x63ig
+  - recQEQ1NAj92jByY5
+  - recUb7Jo7VY1Hx5Co
+  - rec2lbN7lCx1fQKnh
+  - recBuQv8QRql0Ow4q
+  Reference: "Khan, A. A., Badshah, S., Liang, P., Waseem, M., Khan, B., Ahmad, A.,\
+    \ Fahmideh, M., Niazi, M., & Akbar, M. A. (2022). Ethics of AI: A Systematic Literature\
+    \ Review of Principles and Challenges. _The International Conference on Evaluation\
+    \ and Assessment in Software Engineering 2022_, 383\u2013392. <https://doi.org/10.1145/3530019.3531329>\n"
+  Tags:
+  - research-paper
+  airtable_createdTime: '2023-06-08T15:02:40.000Z'
+  airtable_id: recFglyNv1cgX2zx7
+  title: 'Khan-review systematic literature analysis '
+- Cases:
+  - rec8YSr2IJxVndTKb
+  - recDAvfsflBF0WKpf
+  - recVLyzjb1UfqbrIh
+  - recWNt6W4v0xr3x0Z
+  - recNNFrnCiGxTP4WE
+  Challenges:
   - recHHr97jsyNDnlsJ
   - recJjTMjpfE0WHSWu
   Description: "\u201CAccess Now defends and extends the digital rights of users at\
@@ -534,6 +581,44 @@
   airtable_createdTime: '2023-06-05T13:53:20.000Z'
   airtable_id: recPr1Vbe9mTKyXIc
   title: AIATSIS code of ethics
+- Description: |
+    A review piece
+  Link: https://doi.org/10.1109/TTS.2021.3052127
+  PrincipleCollation:
+  - recG3YFWxYITJ7HdM
+  - recS88wQCG2Q3vCmN
+  - recW30jj9GzhNGTuX
+  - recYP5QdyBcP0gruN
+  - rec3rTrXMiXaZjy7s
+  - rec5tUjckYAzHmc7e
+  - recl9ptNqbtslS9s6
+  - recZQWPVfsVKa7q8t
+  - rec3tM5qcjsVoGf8o
+  - recMBWhG4UXydd71J
+  - recNFvfNqfB2VwhZ8
+  - recqLh2ycsve2o5QO
+  - recAEIWzHfWw7JYJH
+  - recEhiFWkyd6l5Kim
+  - recZzygIMFc8xIAnW
+  - rec1VlvAnhNs3MkbA
+  - rec2LOHao3FmjpwIv
+  - recbsOi9a2k1nJswY
+  - recH0fKGdRvDSVpQm
+  - recnatLtMuR1D5OXt
+  - recrpsLqCTq9nWSND
+  - recr4fWTm3a7tbJ4G
+  - recCTIw7k9DYnAN2g
+  - recdmyjbklrgjcfc3
+  Reference: "Schiff, D. (2020). _AI Ethics Global Document Collection_ [Data set].\
+    \ IEEE. <https://ieee-dataport.org/open-access/ai-ethics-global-document-collection-0>\n\
+    Schiff, D., Borenstein, J., Biddle, J., & Laas, K. (2021). AI Ethics in the Public,\
+    \ Private, and NGO Sectors: A Review of a Global Document Collection. _IEEE Transactions\
+    \ on Technology and Society_, _2_(1), 31\u201342. <https://doi.org/10.1109/TTS.2021.3052127>\n"
+  Tags:
+  - research-paper
+  airtable_createdTime: '2023-06-08T15:01:40.000Z'
+  airtable_id: recQXTU23awCZtU2a
+  title: Schiff-review AI Ethics Global Document Collection
 - Description: "\u201CThis document aligns with and extends the first AoIR document.\
     \ This document represents a series of considerations designed to support and\
     \ inform those responsible for making decisions about the ethics of internet research.\
@@ -655,7 +740,10 @@
   airtable_createdTime: '2023-06-05T14:27:07.000Z'
   airtable_id: recV9YJfbssdD2lty
   title: Te Ara Tika Guidelines for Maori Research Ethics
-- Description: "\u201CWe will consider \u201Ceducational technology\u201D (edtech)\
+- Cases:
+  - reco7BYWc7reRuaCh
+  - recHAwvOykeiUxFsY
+  Description: "\u201CWe will consider \u201Ceducational technology\u201D (edtech)\
     \ to include both (a) technologies specifically designed for educational use,\
     \ as well as (b) general technologies that are widely used in educational settings.\u201D\
     \ (Cardona et al., 2023, p. 1)\n\u201CAI can be defined as \u201Cautomation based\
@@ -798,6 +886,50 @@
   airtable_createdTime: '2023-06-05T14:02:36.000Z'
   airtable_id: recYWeamyNKERwiEb
   title: Ethical Visual Research Methods
+- Description: |
+    A review piece
+  Link: https://doi.org/10.1038/s42256-019-0088-2
+  PrincipleCollation:
+  - recG3YFWxYITJ7HdM
+  - recS88wQCG2Q3vCmN
+  - recW30jj9GzhNGTuX
+  - recYP5QdyBcP0gruN
+  - rec3rTrXMiXaZjy7s
+  - rec5tUjckYAzHmc7e
+  - rec3tM5qcjsVoGf8o
+  - recLwscIEEHBzI5Nq
+  - recO0PpscH27fFkXA
+  - rechhdJ1P2uBHmBJx
+  - reci6dYShRhu4H0ad
+  - recqLh2ycsve2o5QO
+  - recsJ2B2umNP3DulI
+  - recAEIWzHfWw7JYJH
+  - recQECJl1tr5x63ig
+  - recQEQ1NAj92jByY5
+  - recUb7Jo7VY1Hx5Co
+  - recZzygIMFc8xIAnW
+  - rec1VlvAnhNs3MkbA
+  - rec2LOHao3FmjpwIv
+  - rec2lbN7lCx1fQKnh
+  - recKt2LyhX48RpbtK
+  - recm9sVI6QmlMdHor
+  - reco1j4ikYZLaYZi6
+  - recRopSKW7iYgFHlz
+  - recUiZ5lcg30F10Ns
+  - recVOZptlmWy2vW4P
+  - recWg8LODvWwEikAo
+  - rec26Igx0Uax18EHh
+  - rec7XT5tn9q11nNbX
+  Reference: "Jobin, A., Ienca, M., & Vayena, E. (2019a). / Supplementary File The\
+    \ global landscape of AI ethics guidelines. _Nature Machine Intelligence_, _1_(9),\
+    \ 389\u2013399. <https://doi.org/10.1038/s42256-019-0088-2>\nJobin, A., Ienca,\
+    \ M., & Vayena, E. (2019b). The global landscape of AI ethics guidelines. _Nature\
+    \ Machine Intelligence_, _1_(9), Article 9. <https://doi.org/10.1038/s42256-019-0088-2>\n"
+  Tags:
+  - research-paper
+  airtable_createdTime: '2023-06-08T15:02:41.000Z'
+  airtable_id: recZ82hfuUzG775I3
+  title: Jobin-review global landscape of AI ethics guidelines
 - Description: "\"The **National Statement** is intended for use by:\n- any researcher\
     \ conducting research with human participants\n- any member of an ethical review\
     \ body reviewing that research\n- those involved in research governance\n- potential\
@@ -987,8 +1119,8 @@
     Leslie, D. (2019). _Understanding artificial intelligence ethics and safety: A guide for the responsible design and implementation of AI systems in the public sector_. The Alan Turing Institute. <https://doi.org/10.5281/ZENODO.3240529>
   Rights:
   - CC-By
-  - CC-NC
   - CC-SA
+  - CC-NC
   Strategies:
   - recmhwo8kmYkBZ7Sy
   - recgswAsiepwEclOd
@@ -1007,6 +1139,9 @@
   airtable_id: recfYC5jjPmpLfSlM
   title: Turing responsible design and implementation of AI systems in the public
     sector
+- airtable_createdTime: '2023-06-08T15:46:40.000Z'
+  airtable_id: recghzZiaFoua9VYW
+  title: Khan-review systematic literature analysis
 - Description: "Structure:\n1. Background sets out need relating to the target topic\n\
     2. Preliminary questions - two key questions to ask \u2018what might it be like\
     \ to take part in the research\u2019 and \u2018as a result of your work might\
@@ -1287,6 +1422,30 @@
   airtable_createdTime: '2023-06-05T13:59:01.000Z'
   airtable_id: recr4dvMvPupPbFfo
   title: Ethical guidance for Research with People with Disabilities
+- Description: |
+    A review piece
+  Link: https://doi.org/10.2139/ssrn.3518482
+  PrincipleCollation:
+  - recG3YFWxYITJ7HdM
+  - recS88wQCG2Q3vCmN
+  - recW30jj9GzhNGTuX
+  - recYP5QdyBcP0gruN
+  - rec3rTrXMiXaZjy7s
+  - rec5tUjckYAzHmc7e
+  - recl9ptNqbtslS9s6
+  - recZQWPVfsVKa7q8t
+  - recMBWhG4UXydd71J
+  - recgk6VOEM4y4w7gV
+  - recEhiFWkyd6l5Kim
+  - recbsOi9a2k1nJswY
+  - reck7CXWZJAjaLrDR
+  Reference: |
+    Fjeld, J., Achten, N., Hilligoss, H., Nagy, A., & Srikumar, M. (2020). Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for AI (SSRN Scholarly Paper No. 3518482). <https://doi.org/10.2139/ssrn.3518482>
+  Tags:
+  - research-paper
+  airtable_createdTime: '2023-06-08T15:02:41.000Z'
+  airtable_id: recrDXMNtbEk0mCAY
+  title: Fjeld-review mapping consensus in AI ethics
 - Description: "\u201CThe syllabus presented here is designed for use in the training\
     \ of researchers and research ethics committee members throughout the European\
     \ Union and beyond. It is intended to be accessible to scientific and lay\_readers,\

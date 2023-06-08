@@ -6,10 +6,10 @@
 pacman::p_load(magrittr, dplyr, tidyjson, purrr)
 
 #shell("pip install airtable-export")
-#shell(paste0("airtable-export export appFOCCNDUuGhYPB2 Principles Cases Challenges Sources Stakeholders Strategies --key=",
-#              Sys.getenv("AIRTABLE_API_KEY"),
-#              " --yaml")
-# )
+shell(paste0("airtable-export export appFOCCNDUuGhYPB2 Principles Cases Challenges Sources Stakeholders Strategies --key=",
+             Sys.getenv("AIRTABLE_API_KEY"),
+             " --yaml")
+)
 
 dir <- here::here("data/")
 # fs::file_move("export", dir)
