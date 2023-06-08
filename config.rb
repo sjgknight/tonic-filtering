@@ -18,6 +18,8 @@ activate :external_pipeline,
          source: "dist",
          latency: 1
 
+redirect "about.html", to: "pages/about.html"
+
 configure :development do
   #set :base_url, "/hello/"
   activate :livereload
@@ -31,10 +33,9 @@ configure :build do
   ignore File.join(config[:js_dir], "*") # handled by External Pipeline
   activate :asset_hash
   activate :minify_css
-  set :relative_links, true
+  #set :relative_links, true
   activate :relative_assets
 end
-
 
 
 Tonic.start(self)
