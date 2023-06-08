@@ -1,7 +1,44 @@
 ---
-layout: layout
 title: About
 description: "This is an about page"
 ---
 
-Hello world
+<div id="about" class="mx-auto w-3/5 bg-neutral-50 round-sm border-2 border-solid border-slate-300">
+<!--I hate css-->
+
+<p> The idea of this collection was to collate a set of ethics guidelines particularly focused on education and AI (separately and together). The focal guidelines are under various open licenses, that should permit their reuse in this way; each element from the items should be cited. </p>
+
+<p> This setup allows us to disaggregate the various elements, and to map connections: </p>
+
+<ul>
+<li> Inter-guideline, i.e., between them. So we can see which elements are similar/different, and draw on the resources of one guideline in addressing challenges or principles from another </li>
+<li> Intra-guideline, i.e., within them. So we can see really clearly how, e.g., particular challenges relate to the principles within the document itself. Some guidelines do this explicitly but through a flat document, while often it is implicit. </li>
+</ul>
+
+<p>Below is an example of pulling the filtered data in, in a pre-defined way. </p>
+
+</div>
+
+<h3> Examples of 'SoTL' in Title, and category is 'Strategies' </h3>
+
+<%
+  # Filter the tonic_collection based on specific conditions
+  # match looks for the text
+  # category is obvious, etc.
+  display_items = tonic_collection.select do |item|
+    item[:title]&.match(/SoTL/i) && item[:category] == "Strategies"
+  end
+%>
+
+<div id="collection-container" class="mt-4 grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+  <% display_items.each do |item| %>
+    <%= partial 'templates/collection/item_card', locals: { item: item } %>
+  <% end %>
+</div>
+
+
+<div name="additional-content" div class="content-center">
+
+  <h2>Additional Content</h2>
+  <p>This is some additional content you want to display below the collection...it ain't markdown</p>
+</div>

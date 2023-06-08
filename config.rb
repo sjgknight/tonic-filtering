@@ -4,6 +4,8 @@ set :url_root, 'https://sjgknight.github.io/tonic-filtering'
 #set :base_url, "/hello/"
 set :build_dir, 'docs'
 
+set :markdown_engine, :kramdown
+redirect "about.html", to: "pages/about.html"
 
 #I cannot get a base url variable in utils.rb or inside
 #helpers.rb def detail_page_url(item) to pre-pend.
@@ -19,8 +21,6 @@ activate :external_pipeline,
          command: build? ? "yarn run build" : "yarn run start",
          source: "dist",
          latency: 1
-
-redirect "about.html", to: "pages/about.html"
 
 configure :development do
   set :base_url, "/"

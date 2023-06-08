@@ -5,6 +5,7 @@ module Tonic
         title: "Ethics Principles, Challenges, Cases, and Strategies",
         detail_pages: true,
         item_card_image: true,
+        text_box: "#fcfcfb",
         sorting: { default_order: Tonic::DEFAULT_ORDER }
       )
     end
