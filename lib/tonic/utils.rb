@@ -46,7 +46,7 @@ module Tonic
     link_html = values.map do |value|
       matching_items = data.collection.select { |item| item.send(field)&.include?(value) }
       titles = matching_items.map(&:title).join(", ")
-      link_url = "#{base_url}?global=#{value}"
+      link_url = "#{config.base_url}?global=#{value}"
       link_to('hello world', link_url, { :class => 'tag'})
     end.join(" ")
 

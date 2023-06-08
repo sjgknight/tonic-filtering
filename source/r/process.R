@@ -6,7 +6,7 @@
 pacman::p_load(magrittr, dplyr, tidyjson, purrr)
 
 #shell("pip install airtable-export")
-# shell(paste0("airtable-export export appFOCCNDUuGhYPB2 Principles Cases Challenges Sources Stakeholders Strategies --key=",
+#shell(paste0("airtable-export export appFOCCNDUuGhYPB2 Principles Cases Challenges Sources Stakeholders Strategies --key=",
 #              Sys.getenv("AIRTABLE_API_KEY"),
 #              " --yaml")
 # )
@@ -47,7 +47,7 @@ combi <- purrr::map(tables, function(table){
 #remove the toplevel
 
 fields <- ymlthis:::flatten_yml_names(combi) %>% unique()
-fields_manual <- c("title", "description", "created_at", "name", "Reference", "Link")
+fields_manual <- c("title", "description", "created_at", "name", "Reference", "Link", "category")
 fields <- base::Filter(function(field) !any(grepl(
   paste0(fields_manual, collapse="|"), field)), fields)
 

@@ -1,23 +1,50 @@
 # Main settings
-title: My Collection
-description: This is an example of a <a href="https://github.com/Subgin/tonic">Tonic</a> project.
+title: Ethics Principles, Challenges, Cases, and Strategies
+description: |
+  This is an example of a <a href="https://github.com/Subgin/tonic">Tonic</a> project.
+  You can view the modified code at <a href="https://sjgknight.github.com/sjgknight/tonic-filtering">sjgknight/tonic-fltering</a>
+
+#base_url: "hello-world/"
 
 # Style/UI
-main_color: "#6366f1"
-background_color: "#e2e8f0"
-font_family: "Lato"
+main_color: "#0f4beb"
+background_color: "#ebebeb"
+font_family: "Arimo"
 links:
-  - text: About Us
-    url: "#"
+  - text: About
+    url: "/about"
   - text: Contact
     url: "#"
 
+detail_pages: true
+
 # Sorting
 sorting:
-  default_order: "price asc"
+  default_order: "category asc"
 
 # Filters
 filters:
   exclude:
     - video
     - audio
+    - link
+    - created_at
+  type:
+    Rights: tags
+    Category: radio_buttons
+    tags: tags
+    Title: text
+    childOf: select
+    equivalentTo: select
+
+#was trying to order these but that's not here
+  # - `text`
+  # - `select`
+  # - `radio_buttons`
+  # - `numeric_range`
+  # - `numeric_select_range`
+  # - `date_range`
+  # - `tags`
+  # - `boolean`
+
+footer_content: Follow me on <a href="https://twitter.com/sjgknight">Twitter</a>

@@ -20,7 +20,7 @@
 <!--    <p><%= render_links(['Principles','Cases','Strategies','Stakeholders','Sources']) %></p> -->
 
   <% if page_url = detail_page_url(item) %>
-    <div class="card-actions"><%= link_to 'More', page_url, class: 'btn' %></div>
+    <div class="card-actions"><%= link_to 'More', "#{config.http_prefix}#{page_url}", class: 'btn' %></div>
   <% end %>
 
 </article>

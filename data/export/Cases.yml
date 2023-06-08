@@ -46,6 +46,10 @@
     \ there a mechanism to allow teachers and school leaders to flag issues related\
     \ to privacy or data protection? Privacy and data governance\u201D ([European\
     \ Commission, 2022, p. 25](zotero://select/groups/4907410/items/3BCJVLT9)) ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=25&annotation=ERDZJU8P))"
+  Principles:
+  - recqdGhz7l1cGnQeU
+  - recWLcMWDPE9Fd1pE
+  - recUYS0TFpk2MhVD7
   Strategies:
   - rec7daqDHSCuc70yS
   - recTWhZ88TbQLcNaQ
@@ -165,6 +169,9 @@
     \ is being used? How does the AI system affect the didactical role of the teacher?\
     \ Human agency and oversight\u201D ([European Commission, 2022, p. 23](zotero://select/groups/4907410/items/3BCJVLT9))\
     \ ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=23&annotation=QT7FXESI))"
+  Principles:
+  - reco4DUa3rsjP0hyg
+  - recWLcMWDPE9Fd1pE
   Strategies:
   - recTWhZ88TbQLcNaQ
   - recegTm800wJXGjO1
@@ -192,6 +199,9 @@
     \ to those who need it? Privacy and data governance \u2022 How is the effectiveness\
     \ and impact of the AI system being evaluated and how does this evaluation consider\
     \ key values of education? Accountability"
+  Principles:
+  - reczcRriFbQQpn8iX
+  - recUYS0TFpk2MhVD7
   Strategies:
   - recOo7Pmo4FBYcu7P
   - recRTVqtvPcBS6zps
@@ -260,6 +270,10 @@
     \ and Fairness \u2022 Are there monitoring systems in place to prevent overconfidence\
     \ in or overreliance on the AI system? Human agency and oversight\u201D ([European\
     \ Commission, 2022, p. 22](zotero://select/groups/4907410/items/3BCJVLT9)) ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=22&annotation=TIV9II8S))"
+  Principles:
+  - recwjv8IMAZFWfMSr
+  - recaMsksKInFYbnCL
+  - reco4DUa3rsjP0hyg
   Strategies:
   - rechaQXedBh3OsMjZ
   - recegTm800wJXGjO1
@@ -294,6 +308,10 @@
     \ \u2022 Do teachers and school leaders understand how specific assessment or\
     \ personalisation algorithms work within the AI system? Transparency\u201D ([European\
     \ Commission, 2022, p. 24](zotero://select/groups/4907410/items/3BCJVLT9)) ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=24&annotation=7VK8CJ4X))"
+  Principles:
+  - recaMsksKInFYbnCL
+  - reczcRriFbQQpn8iX
+  - recwjv8IMAZFWfMSr
   Strategies:
   - rechaQXedBh3OsMjZ
   - recRTVqtvPcBS6zps
@@ -371,6 +389,10 @@
     \ Agreement in place, clearly outlining the Support and Maintenance Services and\
     \ steps to be taken to address reported problems? Accountability\u201D ([European\
     \ Commission, 2022, p. 23](zotero://select/groups/4907410/items/3BCJVLT9)) ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=23&annotation=WEY6JTEU))"
+  Principles:
+  - recqdGhz7l1cGnQeU
+  - recUYS0TFpk2MhVD7
+  - reczcRriFbQQpn8iX
   Strategies:
   - recOo7Pmo4FBYcu7P
   - recRTVqtvPcBS6zps
@@ -380,3 +402,8 @@
   airtable_createdTime: '2023-05-19T13:55:23.000Z'
   airtable_id: recrVkbG0XGe2Ca0v
   title: Using student dashboards to guide learners through their learning
+- Principles:
+  - recUYS0TFpk2MhVD7
+  airtable_createdTime: '2023-06-08T06:38:41.000Z'
+  airtable_id: recskjpMFnQ0emSKI
+  title: pri

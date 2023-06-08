@@ -122,7 +122,14 @@
   - recU6u0AZbcNj1ik9
   title: Safeguard their autonomy, their power to express themselves, and their right
     to be heard
-- Sources:
+- Description: "\u201C\u2022 Design and deploy AI systems to foster and to cultivate\
+    \ the welfare of all stakeholders whose interests are affected by their use \u2022\
+    \ Do no harm with these technologies and minimise the risks of their misuse or\
+    \ abuse\u201D (Leslie, 2019, p. 10)\n\u201C\u2022 Prioritise the safety and the\
+    \ mental and physical integrity of people when scanning horizons of technological\
+    \ possibility and when conceiving of and deploying AI applications\u201D (Leslie,\
+    \ 2019, p. 11)\n"
+  Sources:
   - recfYC5jjPmpLfSlM
   Strategies:
   - recmhwo8kmYkBZ7Sy
@@ -373,7 +380,14 @@
   - recU6u0AZbcNj1ik9
   title: Secure their capacities to make well-considered and independent contributions
     to the life of the community
-- Sources:
+- Description: "\u201C\u2022 Ensure their abilities to make free and informed decisions\
+    \ about their own lives \u2022 Safeguard their autonomy, their power to express\
+    \ themselves, and their right to be heard \u2022 Secure their capacities to make\
+    \ well-considered and independent contributions to the life of the community \u2022\
+    \ Support their abilities to flourish, to fully develop themselves, and to pursue\
+    \ their passions and talents according to their own freely determined life plans\u201D\
+    \ (Leslie, 2019, p. 10)\n"
+  Sources:
   - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T09:38:40.000Z'
   airtable_id: recImuZ3T4iDiNP2B
@@ -403,6 +417,8 @@
   - recnCULdYQ36cpZR7
   airtable_createdTime: '2023-05-25T18:06:39.000Z'
   airtable_id: recK5zFiq18A3wHAE
+  equivalentTo:
+  - recSqx6wklVpDzx3s
   title: Fairness
 - Description: "**Creators shall specify and operators shall adhere to the knowledge\
     \ and skill required for **\_**safe and effective operation.**\n## Background\n\
@@ -499,7 +515,12 @@
   title: Prioritise the safety and the mental and physical integrity of people when
     scanning horizons of technological possibility and when conceiving of and deploying
     AI applications
-- Sources:
+- Description: |
+    "1.10 Respect for human beings is a recognition of their intrinsic value. In human research, this recognition includes abiding by the values of research merit and integrity, justice and beneficence. Respect also requires having due regard for the welfare, beliefs, perceptions, customs and cultural heritage, both individual and collective, of those involved in research.
+    1.11 Researchers and their institutions should respect the privacy, confidentiality and cultural sensitivities of the participants and, where relevant, of their communities. Any specific agreements made with the participants or the community should be fulfilled.
+    1.12 Respect for human beings involves giving due scope, throughout the research process, to the capacity of human beings to make their own decisions.
+    1.13 Where participants are unable to make their own decisions or have diminished capacity to do so, respect for them involves empowering them where possible and providing for their protection as necessary." (NS 1.10-1.13)
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - recgn2UvSD4OhzGI4
@@ -509,6 +530,10 @@
   - rechaQXedBh3OsMjZ
   airtable_createdTime: '2023-05-18T13:40:06.000Z'
   airtable_id: recLHILkx2JDFsLbX
+  equivalentTo:
+  - recImuZ3T4iDiNP2B
+  - recRbUmCzD09d6KZS
+  - recSwTdeEk6XbEgXU
   title: Respect for persons
 - Sources:
   - recZRK4rseqW5VsRL
@@ -528,6 +553,22 @@
   title: Consider long-range and indirect impacts
 - Challenges:
   - recdmBNNa98cN8Sda
+  Description: |
+    "Unless proposed research has merit, and the researchers who are to carry out the research have integrity, the involvement of human participants in the research cannot be ethically justifiable." (NS, preamble)
+    "1.1 Research that has merit is:
+    1. (a) justifiable by its potential benefit, which may include its contribution to knowledge and understanding, to improved social welfare and individual wellbeing, and to the skill and expertise of researchers. What constitutes potential benefit and whether it justifies research may sometimes require consultation with the relevant communities
+    2. (b) designed or developed using methods appropriate for achieving the aims of the proposal
+    3. (c) based on a thorough study of the current literature, as well as previous studies. This does not exclude the possibility of novel research for which there is little or no literature available, or research requiring a quick response to an unforeseen situation
+    4. (d) designed to ensure that respect for the participants is not compromised by the aims of the research, by the way it is carried out, or by the results
+    5. (e) conducted or supervised by persons or teams with experience, qualifications and competence that are appropriate for the research
+    6. (f ) conducted using facilities and resources appropriate for the research.
+    1.2 Where prior peer review has judged that a project has research merit, the question of its research merit is no longer subject to the judgement of those ethically reviewing the research.
+    1.3 Research that is conducted with integrity is carried out by researchers with a commitment to:
+    1. (a) searching for knowledge and understanding
+    2. (b) following recognised principles of research conduct
+    3. (c) conducting research honestly
+    4. (d) disseminating and communicating results, whether favourable or unfavourable, in ways that permit scrutiny and contribute to public knowledge and understanding."
+    (NS 1.1-1.3)
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -554,6 +595,10 @@
 - Challenges:
   - recO1L6GoFMkA6Lt4
   - recAoyMGCCLhaSqEb
+  Description: |
+    "respect the privacy, confidentiality and cultural sensitivities of the participants and, where relevant, of their communities."
+  Sources:
+  - recZRK4rseqW5VsRL
   Strategies:
   - recpUrzG3GpRiwqnz
   - recgWFCdfcVaeaPQO
@@ -568,7 +613,7 @@
   airtable_createdTime: '2023-05-19T07:41:54.000Z'
   airtable_id: recPg7Ov0priGGtLm
   childOf:
-  - rec42P8U9usfYCtv9
+  - recLHILkx2JDFsLbX
   title: Privacy
 - Sources:
   - recZRK4rseqW5VsRL
@@ -586,7 +631,7 @@
 - Description: "\u201Crespect for human autonomy The fundamental rights upon which\
     \ the EU is founded are directed towards ensuring respect for the freedom and\
     \ autonomy of human beings. Humans interacting with AI systems must be able to\
-    \ keep full and effective selfdetermination over themselves, and be able to partake\
+    \ keep full and effective self-determination over themselves, and be able to partake\
     \ in the democratic process. AI systems should not unjustifiably subordinate,\
     \ coerce, deceive, manipulate, condition or herd humans. Instead, they should\
     \ be designed to augment, complement and empower human cognitive, social and cultural\
@@ -595,8 +640,7 @@
     \ This means securing human oversight28 over work processes in AI systems. AI\
     \ systems may also fundamentally change the work sphere. It should support humans\
     \ in the working environment, and aim for the creation of meaningful work.\u201D\
-    \ (\\[High-Level Expert Group on AI, 2019, p. 12]\\(zotero://select/groups/4907410/items/XPCD8D3T))\
-    \ (\\[pdf]\\(zotero://open-pdf/groups/4907410/items/CPFPH28M?page=14&annotation=SV7HKKW7))\n"
+    \ (High-Level Expert Group on AI, 2019, p. 12)\n"
   Sources:
   - recnCULdYQ36cpZR7
   Strategies:
@@ -606,6 +650,9 @@
   - rec81gtnlFS5W2BBF
   airtable_createdTime: '2023-05-25T18:05:56.000Z'
   airtable_id: recQEiU22Qy1E0YuA
+  equivalentTo:
+  - recKdujFoPJr4ZAhZ
+  - rec6tz9Phzck0hvT8
   title: Respect for human autonomy
 - Description: "\u201CHuman beings should remain free to make life decisions for themselves.\
     \ This entails freedom from sovereign intrusion, but also requires intervention\
@@ -623,6 +670,8 @@
   - recnCULdYQ36cpZR7
   airtable_createdTime: '2023-05-25T18:03:04.000Z'
   airtable_id: recRBt2kSianfxfwe
+  equivalentTo:
+  - recKdujFoPJr4ZAhZ
   title: Freedom of the individual
 - Description: "\u201CHuman dignity encompasses the idea that every human being possesses\
     \ an \u201Cintrinsic worth\u201D, which should never be diminished, compromised\
@@ -638,6 +687,8 @@
   - recnCULdYQ36cpZR7
   airtable_createdTime: '2023-05-25T18:01:03.000Z'
   airtable_id: recRbUmCzD09d6KZS
+  equivalentTo:
+  - recLHILkx2JDFsLbX
   title: Respect for human dignity
 - Challenges:
   - recHHr97jsyNDnlsJ
@@ -650,9 +701,8 @@
     \ AI systems should be as inclusive as possible, representing different population\
     \ groups). This also requires adequate respect for potentially vulnerable persons\
     \ and groups,21 such as workers, women, persons with disabilities, ethnic minorities,\
-    \ children, consumers or others at risk of exclusion.\u201D (\\[High-Level Expert\
-    \ Group on AI, 2019, p. 11]\\(zotero://select/groups/4907410/items/XPCD8D3T))\
-    \ (\\[pdf]\\(zotero://open-pdf/groups/4907410/items/CPFPH28M?page=13&annotation=HJHNIH4K))\n"
+    \ children, consumers or others at risk of exclusion.\u201D (High-Level Expert\
+    \ Group on AI, 2019, p. 11)\n"
   Sources:
   - recnCULdYQ36cpZR7
   Strategies:
@@ -660,8 +710,20 @@
   - recq6GeKNegFQdzS9
   airtable_createdTime: '2023-05-25T18:04:46.000Z'
   airtable_id: recScYLR2TNiv7iKf
+  equivalentTo:
+  - reczVPIH1y2OMpAJH
+  - recKdujFoPJr4ZAhZ
   title: Equality, non-discrimination and solidarity
-- Sources:
+- Description: |
+    "1.4 In research that is just:
+    1. (a) taking into account the scope and objectives of the proposed research, the selection, exclusion and inclusion of categories of research participants is fair, and is accurately described in the results of the research
+    2. (b) the process of recruiting participants is fair
+    3. (c) there is no unfair burden of participation in research on particular groups
+    4. (d) there is fair distribution of the benefits of participation in research
+    5. (e) there is no exploitation of participants in the conduct of research
+    6. (f) there is fair access to the benefits of research.
+    1.5 Research outcomes should be made accessible to research participants in a way that is timely and clear." (NS 1.4-1.5)
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - recJQF6QfQGlcSzDm
@@ -670,6 +732,8 @@
   - reccAKmFQRH7IiuJi
   airtable_createdTime: '2023-05-18T14:26:19.000Z'
   airtable_id: recSqx6wklVpDzx3s
+  equivalentTo:
+  - recZToVrPeFlFq0Aw
   title: Justice
 - Description: |
     "A/IS can be an enormous force for good in society provided they are designed to respect human rights, align with human values, and holistically increase well-being while empowering as many people as possible. They should also be designed to safeguard our environment and natural resources. These values should guide policy makers as well as engineers, designers, and developers. Advances in A/IS should be in the service of all people, rather than benefiting solely small groups, a single nation, or a corporation." p.7
@@ -692,8 +756,7 @@
     \ term \u201Ccitizens\u2019 rights\u201D is used here, this is not to deny or\
     \ neglect the rights of third-country nationals and irregular (or illegal) persons\
     \ in the EU who also have rights under international law, and \u2013 therefore\
-    \ in the area of AI systems.\u201D (\\[High-Level Expert Group on AI, 2019, p.\
-    \ 11]\\(zotero://select/groups/4907410/items/XPCD8D3T)) (\\[pdf]\\(zotero://open-pdf/groups/4907410/items/CPFPH28M?page=13&annotation=Q7UHABIJ))\n"
+    \ in the area of AI systems.\u201D (High-Level Expert Group on AI, 2019, p. 11)\n"
   Sources:
   - recnCULdYQ36cpZR7
   airtable_createdTime: '2023-05-25T18:05:21.000Z'
@@ -718,6 +781,34 @@
   - recKdujFoPJr4ZAhZ
   title: Agency (including respect for views, opportunity to be heard (participation,
     input into research, fair representation)
+- Cases:
+  - recrVkbG0XGe2Ca0v
+  - recSXcY4cnofb4zTP
+  - recskjpMFnQ0emSKI
+  - recAlOHJhEy5nDwA6
+  Description: "\u201CPrivacy and data governance including respect for privacy, quality\
+    \ and integrity of data, and access to data.\u201D (European Commission, 2022,\
+    \ p. 18)\n"
+  Sources:
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - recOo7Pmo4FBYcu7P
+  airtable_createdTime: '2023-06-08T06:30:26.000Z'
+  airtable_id: recUYS0TFpk2MhVD7
+  title: Privacy and data governance
+- Cases:
+  - recOOmVQviRyJGvea
+  - recAlOHJhEy5nDwA6
+  Description: "\u201CTechnical robustness and safety including resilience to attack,\
+    \ security and general safety, accuracy, reliability, and reproducibility.\u201D\
+    \ (European Commission, 2022, p. 19)\n"
+  Sources:
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - recTWhZ88TbQLcNaQ
+  airtable_createdTime: '2023-06-08T06:34:37.000Z'
+  airtable_id: recWLcMWDPE9Fd1pE
+  title: Technical robustness and safety
 - Description: "**A/IS shall be created and operated to provide an unambiguous rationale\
     \ for decisions made.**\n## Background\nThe programming, output, and purpose of\
     \ A/IS are often not discernible by the general public. Based on the cultural\
@@ -772,7 +863,17 @@
   - rec9uueW1gq31CcBo
   - recuQpwelm0FwdAib
   title: Accountability
-- Sources:
+- Description: "\u201C\u2022 Treat all individuals equally and protect social equity\
+    \ \u2022 Use digital technologies as an essential support for the protection of\
+    \ fair and equal treatment under the law \u2022 Prioritise social welfare, public\
+    \ interest, and the consideration of the social and ethical impacts of innovation\
+    \ in determining the legitimacy and desirability of AI technologies \u2022 Use\
+    \ AI to empower and to advance the interests and well-being of as many individuals\
+    \ as possible \u2022 Think big-picture about the wider impacts of the AI technologies\
+    \ you are conceiving and developing. Think about the ramifications of their effects\
+    \ and externalities for others around the globe, for future generations, and for\
+    \ the biosphere as a whole\u201D (Leslie, 2019, p. 11)\n"
+  Sources:
   - recfYC5jjPmpLfSlM
   Strategies:
   - recGS9OVQ7qAjvIYE
@@ -792,6 +893,22 @@
   - recZToVrPeFlFq0Aw
   title: Use digital technologies as an essential support for the protection of fair
     and equal treatment under the law
+- Cases:
+  - reciNqxyfUgE5XM7t
+  - recmS3zSMbR3ofAR5
+  Description: "\u201CDiversity, non-discrimination, and fairness including accessibility,\
+    \ universal design, the avoidance of unfair bias, and stakeholder participation,\
+    \ which allows use regardless of age, gender, abilities, or characteristics -\
+    \ with a particular focus for students with special needs.\u201D (\\[European\
+    \ Commission, 2022, p. 18]\\(zotero://select/groups/4907410/items/3BCJVLT9)) (\\\
+    [pdf]\\(zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=18&annotation=WFTMSW2T))\n"
+  Sources:
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - rec35PeHdUmtalypk
+  airtable_createdTime: '2023-06-08T06:31:50.000Z'
+  airtable_id: recaMsksKInFYbnCL
+  title: Diversity, non-discrimination, and fairness
 - Sources:
   - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T11:00:14.000Z'
@@ -961,9 +1078,8 @@
     \ situations where AI systems can cause or exacerbate adverse impacts due to asymmetries\
     \ of power or information, such as between employers and employees, businesses\
     \ and consumers or governments and citizens. Preventing harm also entails consideration\
-    \ of the natural environment and all living beings.\u201D (\\[High-Level Expert\
-    \ Group on AI, 2019, p. 12]\\(zotero://select/groups/4907410/items/XPCD8D3T))\
-    \ (\\[pdf]\\(zotero://open-pdf/groups/4907410/items/CPFPH28M?page=14&annotation=AGB72ZIY))\n"
+    \ of the natural environment and all living beings.\u201D (High-Level Expert Group\
+    \ on AI, 2019, p. 12)\n"
   Sources:
   - recnCULdYQ36cpZR7
   Strategies:
@@ -976,6 +1092,8 @@
   - recaTTvWN1olqx608
   airtable_createdTime: '2023-05-25T18:06:18.000Z'
   airtable_id: reclPiw2VvNOSTzv5
+  equivalentTo:
+  - recmzjcGKv3yNOxbl
   title: Prevention of harm
 - Sources:
   - recfYC5jjPmpLfSlM
@@ -987,7 +1105,15 @@
   - rectPrYetyr4YIuq8
   title: Safeguard the integrity of interpersonal dialogue, meaningful human connection,
     and social cohesion
-- Sources:
+- Description: |
+    "1.6 The likely benefit of the research must justify any risks of harm or discomfort to participants. The likely benefit may be to the participants, to the wider community, or to both.
+    1.7 Researchers are responsible for:
+    1. (a) designing the research to minimise the risks of harm or discomfort to participants
+    2. (b) clarifying for participants the potential benefits and risks of the research
+    3. (c) the welfare of the participants in the research context.
+    1.8 Where there are no likely benefits to participants, the risk to participants should be lower than would be ethically acceptable where there are such likely benefits.
+    1.9 Where the risks to participants are no longer justified by the potential benefits of the research, the research must be suspended to allow time to consider whether it should be discontinued or at least modified. This decision may require consultation between researchers, participants, the relevant ethical review body, and the institution. The review body must be notified promptly of such suspension, and of any decisions following it (see paragraphs 5.5.7 to 5.5.10)." (NS 1.6-1.9)
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - rec0GhefNkhJqW0c2
@@ -1005,7 +1131,23 @@
   - reccAKmFQRH7IiuJi
   airtable_createdTime: '2023-05-18T14:25:01.000Z'
   airtable_id: recmzjcGKv3yNOxbl
+  equivalentTo:
+  - rec7n2TGrH9RHYpQj
+  - reclPiw2VvNOSTzv5
   title: Beneficence
+- Cases:
+  - reciNqxyfUgE5XM7t
+  - recOOmVQviRyJGvea
+  Description: "\u201CHuman agency and oversight including fundamental rights, children\u2019\
+    s rights, human agency, and human oversight.\u201D (\\[European Commission, 2022,\
+    \ p. 18]\\(zotero://select/groups/4907410/items/3BCJVLT9)) (\\[pdf]\\(zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=18&annotation=YBKGBYD4))\n"
+  Sources:
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - recegTm800wJXGjO1
+  airtable_createdTime: '2023-06-08T06:32:23.000Z'
+  airtable_id: reco4DUa3rsjP0hyg
+  title: Human agency and oversight
 - Sources:
   - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T09:41:37.000Z'
@@ -1014,6 +1156,19 @@
   - rectPrYetyr4YIuq8
   title: Encourage all voices to be heard and all opinions to be weighed seriously
     and sincerely throughout the production and use lifecycle
+- Cases:
+  - recrVkbG0XGe2Ca0v
+  - recAlOHJhEy5nDwA6
+  Description: "\u201CSocietal and environmental wellbeing including sustainability\
+    \ and environmental friendliness, social impact, society, and democracy.\u201D\
+    \ (European Commission, 2022, p. 18)\n"
+  Sources:
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - rec7daqDHSCuc70yS
+  airtable_createdTime: '2023-06-08T06:31:30.000Z'
+  airtable_id: recqdGhz7l1cGnQeU
+  title: Societal and environmental wellbeing
 - Challenges:
   - recYHYaeqVHR93Kuo
   - recO1L6GoFMkA6Lt4
@@ -1030,7 +1185,20 @@
   childOf:
   - recKdujFoPJr4ZAhZ
   title: Informed consent
-- Sources:
+- Description: "\u201C\u2022 Safeguard the integrity of interpersonal dialogue, meaningful\
+    \ human connection, and social cohesion \u2022 Prioritise diversity, participation,\
+    \ and inclusion at all points in the design, development, and deployment processes\
+    \ of AI innovation. \u2022 Encourage all voices to be heard and all opinions to\
+    \ be weighed seriously and sincerely throughout the production and use lifecycle\
+    \ \u2022 Use the advancement and proliferation of AI technologies to strengthen\
+    \ the developmentally essential relationship between interacting human beings.\
+    \ \u2022 Utilise AI innovations pro-socially so as to enable bonds of interpersonal\
+    \ solidarity to form and individuals to be socialised and recognised by each other\
+    \ \u2022 Use AI technologies to foster this capacity to connect so as to reinforce\
+    \ the edifice of trust, empathy, reciprocal responsibility, and mutual understanding\
+    \ upon which all ethically wellfounded social orders rest\u201D (Leslie, 2019,\
+    \ p. 10)\n"
+  Sources:
   - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T09:39:45.000Z'
   airtable_id: rectPrYetyr4YIuq8
@@ -1065,6 +1233,19 @@
   - rectPrYetyr4YIuq8
   title: Utilise AI innovations pro-socially so as to enable bonds of interpersonal
     solidarity to form and individuals to be socialised and recognised by each other
+- Cases:
+  - reciNqxyfUgE5XM7t
+  - recmS3zSMbR3ofAR5
+  Description: "\u201CTransparency including traceability, explainability and communication.\u201D\
+    \ (\\[European Commission, 2022, p. 18]\\(zotero://select/groups/4907410/items/3BCJVLT9))\
+    \ (\\[pdf]\\(zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=18&annotation=GKNH3GVZ))\n"
+  Sources:
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - rechaQXedBh3OsMjZ
+  airtable_createdTime: '2023-06-08T06:32:12.000Z'
+  airtable_id: recwjv8IMAZFWfMSr
+  title: Transparency
 - Description: "\"**A/IS shall be created and operated to respect, promote, and protect\
     \ internationally recognized human rights.**\n## Background\nHuman benefit is\
     \ a crucial goal of A/IS, as is respect for human rights set out in works including,\
@@ -1159,6 +1340,8 @@
   - rec81gtnlFS5W2BBF
   airtable_createdTime: '2023-05-25T18:07:49.000Z'
   airtable_id: recxcFmvPG5wrCqpO
+  childOf:
+  - recOHnq45Fq7YWsRO
   title: Explicability
 - Sources:
   - recZRK4rseqW5VsRL
@@ -1214,3 +1397,20 @@
   childOf:
   - recLHILkx2JDFsLbX
   title: Protection of vulnerable persons
+- Cases:
+  - recrVkbG0XGe2Ca0v
+  - recmS3zSMbR3ofAR5
+  - recSXcY4cnofb4zTP
+  Description: "\u201CAccountability including auditability, minimisation and reporting\
+    \ of negative impact, trade-offs, and redress. The considerations and requirements\
+    \ can help educators, school leaders and technology providers to adequately assess\
+    \ the impact, address the potential risks, and realise the benefits of an AI system\
+    \ deployed and used in education. As such they guide the development, deployment\
+    \ and use of trustworthy AI systems.\u201D (European Commission, 2022, p. 19)\n"
+  Sources:
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - recRTVqtvPcBS6zps
+  airtable_createdTime: '2023-06-08T06:34:38.000Z'
+  airtable_id: reczcRriFbQQpn8iX
+  title: Accountability (Edu)

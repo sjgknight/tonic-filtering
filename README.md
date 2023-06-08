@@ -1,28 +1,38 @@
 
 This repo represents a collection of linked items. In this case they were exported from airtable, but there's no need for that.
 
-To setup:
+To setup, there is a script [source/r/process.R] which will import from airtable and do the following.
 
 1. change all 'airtable_id:' attributes to 'name:'
 1. change 'Tags' to lowercase ?
 1. merge the output yaml files, for each adding a new 'category' for the filename (cases, principles, etc.)
 1. artificially add a [0] first item in the array that contains all your attributes
 1. change airtable_createdTime to created_at
+1. ensure that types are consistent
 
 A few things that could be improved: 
 
 1. The function smart_filter uses the first item in the collection to identify the properties of each attribute (the yaml keys). That means the first item *must* contain every attribute that is used anywhere, otherwise an error is thrown. 
-1. The base_url function I added a kludge somewhere that needs fixing
+1. I cannot get 'base_url' to work as a variable I can call in templates. For deploying on github pages we need this otherwise it looks for the pages at top level not the subdirectory. I've hard coded some values some places (and for now deployed to netlify anyway)
 1. css, etc. 
-1. At the moment any array field will be processed with the new functions below, which may not be desireable. 
+1. At the moment any array field will be processed with the new functions below, which may not be desirable. 
 
 The changes I made to base tonic are:
 
 1. I modified the render_tags function(? is that what they're called in ruby) or partial(?), to render_tag_links so that the links on the cards are live, and filter the content. Thats in utils.rb
 1. I added render_links and render_link_values functions such that (1) one could use render_links to display the attribute links on the cards, by attribute name; and (2) the values of attributes are displayed in full on the page details. In utils.rb
 1. There are corresponding edits in detail_page.html.erb and _item_card.html.erb
+1. I don't currently have any pages that aren't from data, but it would be useful to have both (1) an about page, and (2) descriptive pages that pull data in lists. Middleman docs describe setting up a blog, and dynamic pages...but not just, regular fixed-content pages
+1. I mucked up some of the processing.R stuff so a bunch of things are now lists where they should be strings
+1. In filters.rb it would be good if it read the order of declared filters in config.yaml and used that for any declared (and then any not-excluded but undeclared are just given in whatever the default is)
+1. I'd like to be able to use this line inside standalone pages to display a set of cards I've pre-filtered with some wraparound text
+
+>   <div id="collection-container" class="mt-4 grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+      <% tonic_collection.each do |item| %>
+        <%= partial 'templates/collection/item_card', locals: { item: item } %>
 
 ...I think that was it. 
+I thought hugo documentation was hard to navigate, middleman is something else...
 
 
 # Tonic

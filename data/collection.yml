@@ -6,15 +6,13 @@
   - test
   childOf:
   - test
-  category:
-  - test
   tags:
   - test
   equivalentTo:
   - test
-  Principles:
-  - test
   Cases:
+  - test
+  Principles:
   - test
   Rights:
   - test
@@ -24,6 +22,7 @@
   name: test
   Reference: test
   Link: test
+  category: test
 - Challenges:
   - recCpTJXuuowqsqQa
   - recHHr97jsyNDnlsJ
@@ -55,8 +54,7 @@
   childOf:
   - recmzjcGKv3yNOxbl
   title: Minimise risks of harms
-  category:
-  - Principles
+  category: Principles
   name: rec42P8U9usfYCtv9
   tags: []
   created_at: '2023-05-18T14:25:20.000Z'
@@ -68,8 +66,7 @@
   - recsvi4LnhEEPyQ1h
   title: Ensure their abilities to make free and informed decisions about their own
     lives
-  category:
-  - Principles
+  category: Principles
   name: rec5216SybPPylYdD
   tags: []
   created_at: '2023-05-19T09:39:12.000Z'
@@ -78,8 +75,7 @@
   childOf:
   - recuQpwelm0FwdAib
   title: Effectiveness
-  category:
-  - Principles
+  category: Principles
   name: rec5N7PaVEFRs2o8R
   tags: []
   created_at: '2023-06-03T18:23:44.000Z'
@@ -139,8 +135,7 @@
   childOf:
   - recmzjcGKv3yNOxbl
   title: Maximise potential for benefits
-  category:
-  - Principles
+  category: Principles
   name: rec6O9e1nYBJtQUTj
   tags: []
   created_at: '2023-05-18T14:25:53.000Z'
@@ -156,8 +151,7 @@
   - recU6u0AZbcNj1ik9
   title: Safeguard their autonomy, their power to express themselves, and their right
     to be heard
-  category:
-  - Principles
+  category: Principles
   name: rec6tz9Phzck0hvT8
   tags: []
   created_at: '2023-05-19T09:39:25.000Z'
@@ -171,11 +165,16 @@
   equivalentTo:
   - recmzjcGKv3yNOxbl
   title: CARE for the wellbeing of each and all
-  category:
-  - Principles
+  category: Principles
   name: rec7n2TGrH9RHYpQj
   tags: []
   created_at: '2023-05-19T10:57:44.000Z'
+  description: “• Design and deploy AI systems to foster and to cultivate the welfare
+    of all stakeholders whose interests are affected by their use • Do no harm with
+    these technologies and minimise the risks of their misuse or abuse” (Leslie, 2019,
+    p. 10)“• Prioritise the safety and the mental and physical integrity of people
+    when scanning horizons of technological possibility and when conceiving of and
+    deploying AI applications” (Leslie, 2019, p. 11)
 - Sources:
   - recpXl48pJdKDhc6f
   equivalentTo:
@@ -184,8 +183,7 @@
   - recQEiU22Qy1E0YuA
   title: 'Pillar of the Ethically Aligned Design Conceptual Framework: Political Self-Determination
     and Data Agency'
-  category:
-  - Principles
+  category: Principles
   name: rec9uueW1gq31CcBo
   tags: []
   created_at: '2023-06-03T18:26:38.000Z'
@@ -202,8 +200,7 @@
   - rectPrYetyr4YIuq8
   title: Use the advancement and proliferation of AI technologies to strengthen the
     developmentally essential relationship between interacting human beings.
-  category:
-  - Principles
+  category: Principles
   name: recArMNCiaj832hZ1
   tags: []
   created_at: '2023-05-19T09:42:36.000Z'
@@ -215,8 +212,7 @@
   - rectPrYetyr4YIuq8
   title: Prioritise diversity, participation, and inclusion at all points in the design,
     development, and deployment processes of AI innovation.
-  category:
-  - Principles
+  category: Principles
   name: recB9JaNSRmLbD8eE
   tags: []
   created_at: '2023-05-19T09:41:36.000Z'
@@ -227,8 +223,7 @@
   title: Use AI technologies to foster this capacity to connect so as to reinforce
     the edifice of trust, empathy, reciprocal responsibility, and mutual understanding
     upon which all ethically wellfounded social orders rest
-  category:
-  - Principles
+  category: Principles
   name: recC49LlmCoNq2Svy
   tags: []
   created_at: '2023-05-19T10:57:01.000Z'
@@ -237,8 +232,7 @@
   childOf:
   - recuQpwelm0FwdAib
   title: Awareness of misuse
-  category:
-  - Principles
+  category: Principles
   name: recCFSnZpjvw0PcUE
   tags: []
   created_at: '2023-06-03T18:24:55.000Z'
@@ -285,8 +279,7 @@
   - rec9uueW1gq31CcBo
   - recuQpwelm0FwdAib
   title: Data agency
-  category:
-  - Principles
+  category: Principles
   name: recD6uFlCKFiHl414
   tags: []
   created_at: '2023-06-03T18:19:32.000Z'
@@ -359,8 +352,7 @@
   childOf:
   - recZToVrPeFlFq0Aw
   title: Treat all individuals equally and protect social equity
-  category:
-  - Principles
+  category: Principles
   name: recDRQE1qQQNI65Xn
   tags: []
   created_at: '2023-05-19T10:59:36.000Z'
@@ -371,8 +363,7 @@
   - rec9uueW1gq31CcBo
   - recuQpwelm0FwdAib
   title: Transparency
-  category:
-  - Principles
+  category: Principles
   name: recFVLYl0cMH88Lzv
   tags: []
   created_at: '2023-06-03T18:24:07.000Z'
@@ -428,8 +419,7 @@
   - recU6u0AZbcNj1ik9
   title: Secure their capacities to make well-considered and independent contributions
     to the life of the community
-  category:
-  - Principles
+  category: Principles
   name: recGb4WZzr34RXKr0
   tags: []
   created_at: '2023-05-19T09:39:33.000Z'
@@ -438,18 +428,24 @@
   equivalentTo:
   - recLHILkx2JDFsLbX
   title: RESPECT the dignity of individual persons
-  category:
-  - Principles
+  category: Principles
   name: recImuZ3T4iDiNP2B
   tags: []
   created_at: '2023-05-19T09:38:40.000Z'
+  description: “• Ensure their abilities to make free and informed decisions about
+    their own lives • Safeguard their autonomy, their power to express themselves,
+    and their right to be heard • Secure their capacities to make well-considered
+    and independent contributions to the life of the community • Support their abilities
+    to flourish, to fully develop themselves, and to pursue their passions and talents
+    according to their own freely determined life plans” (Leslie, 2019, p. 10)
 - Challenges:
   - recHHr97jsyNDnlsJ
   Sources:
   - recnCULdYQ36cpZR7
+  equivalentTo:
+  - recSqx6wklVpDzx3s
   title: Fairness
-  category:
-  - Principles
+  category: Principles
   name: recK5zFiq18A3wHAE
   tags: []
   created_at: '2023-05-25T18:06:39.000Z'
@@ -477,8 +473,7 @@
   childOf:
   - recuQpwelm0FwdAib
   title: Competence
-  category:
-  - Principles
+  category: Principles
   name: recKWrfJzX52AXSIf
   tags: []
   created_at: '2023-06-03T18:25:02.000Z'
@@ -555,8 +550,7 @@
   childOf:
   - recLHILkx2JDFsLbX
   title: Autonomy
-  category:
-  - Principles
+  category: Principles
   name: recKdujFoPJr4ZAhZ
   tags: []
   created_at: '2023-05-18T13:40:06.000Z'
@@ -567,8 +561,7 @@
   title: Prioritise the safety and the mental and physical integrity of people when
     scanning horizons of technological possibility and when conceiving of and deploying
     AI applications
-  category:
-  - Principles
+  category: Principles
   name: recL7CrHMutQEBBu7
   tags: []
   created_at: '2023-05-19T10:58:11.000Z'
@@ -580,12 +573,28 @@
   - recinajIdAe7hRxjN
   - recegTm800wJXGjO1
   - rechaQXedBh3OsMjZ
+  equivalentTo:
+  - recImuZ3T4iDiNP2B
+  - recRbUmCzD09d6KZS
+  - recSwTdeEk6XbEgXU
   title: Respect for persons
-  category:
-  - Principles
+  category: Principles
   name: recLHILkx2JDFsLbX
   tags: []
   created_at: '2023-05-18T13:40:06.000Z'
+  description: '"1.10 Respect for human beings is a recognition of their intrinsic
+    value. In human research, this recognition includes abiding by the values of research
+    merit and integrity, justice and beneficence. Respect also requires having due
+    regard for the welfare, beliefs, perceptions, customs and cultural heritage, both
+    individual and collective, of those involved in research.1.11 Researchers and
+    their institutions should respect the privacy, confidentiality and cultural sensitivities
+    of the participants and, where relevant, of their communities. Any specific agreements
+    made with the participants or the community should be fulfilled.1.12 Respect for
+    human beings involves giving due scope, throughout the research process, to the
+    capacity of human beings to make their own decisions.1.13 Where participants are
+    unable to make their own decisions or have diminished capacity to do so, respect
+    for them involves empowering them where possible and providing for their protection
+    as necessary." (NS 1.10-1.13)'
 - Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -595,16 +604,14 @@
   childOf:
   - recSqx6wklVpDzx3s
   title: Fairness in distribution of burden and benefits of research
-  category:
-  - Principles
+  category: Principles
   name: recMGB4iC5oaCtr5x
   tags: []
   created_at: '2023-05-18T14:26:57.000Z'
 - Challenges:
   - recOpn4I30te1qiKl
   title: Consider long-range and indirect impacts
-  category:
-  - Principles
+  category: Principles
   name: recNB5h9bK4gEE9uc
   tags: []
   created_at: '2023-06-05T05:32:52.000Z'
@@ -631,14 +638,39 @@
   - rec7m69DQyCw3rlFg
   - recqY2lEigz82Xmh5
   title: Merit and Integrity
-  category:
-  - Principles
+  category: Principles
   name: recOHnq45Fq7YWsRO
   tags: []
   created_at: '2023-05-18T14:26:57.000Z'
+  description: '"Unless proposed research has merit, and the researchers who are to
+    carry out the research have integrity, the involvement of human participants in
+    the research cannot be ethically justifiable." (NS, preamble)"1.1 Research that
+    has merit is:1. (a) justifiable by its potential benefit, which may include its
+    contribution to knowledge and understanding, to improved social welfare and individual
+    wellbeing, and to the skill and expertise of researchers. What constitutes potential
+    benefit and whether it justifies research may sometimes require consultation with
+    the relevant communities2. (b) designed or developed using methods appropriate
+    for achieving the aims of the proposal3. (c) based on a thorough study of the
+    current literature, as well as previous studies. This does not exclude the possibility
+    of novel research for which there is little or no literature available, or research
+    requiring a quick response to an unforeseen situation4. (d) designed to ensure
+    that respect for the participants is not compromised by the aims of the research,
+    by the way it is carried out, or by the results5. (e) conducted or supervised
+    by persons or teams with experience, qualifications and competence that are appropriate
+    for the research6. (f ) conducted using facilities and resources appropriate for
+    the research.1.2 Where prior peer review has judged that a project has research
+    merit, the question of its research merit is no longer subject to the judgement
+    of those ethically reviewing the research.1.3 Research that is conducted with
+    integrity is carried out by researchers with a commitment to:1. (a) searching
+    for knowledge and understanding2. (b) following recognised principles of research
+    conduct3. (c) conducting research honestly4. (d) disseminating and communicating
+    results, whether favourable or unfavourable, in ways that permit scrutiny and
+    contribute to public knowledge and understanding."(NS 1.1-1.3)'
 - Challenges:
   - recO1L6GoFMkA6Lt4
   - recAoyMGCCLhaSqEb
+  Sources:
+  - recZRK4rseqW5VsRL
   Strategies:
   - recpUrzG3GpRiwqnz
   - recgWFCdfcVaeaPQO
@@ -651,13 +683,14 @@
   - recwWov6KzmwU0FQW
   - recG86YsfXnKY9kNc
   childOf:
-  - rec42P8U9usfYCtv9
+  - recLHILkx2JDFsLbX
   title: Privacy
-  category:
-  - Principles
+  category: Principles
   name: recPg7Ov0priGGtLm
   tags: []
   created_at: '2023-05-19T07:41:54.000Z'
+  description: '"respect the privacy, confidentiality and cultural sensitivities of
+    the participants and, where relevant, of their communities."'
 - Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -669,8 +702,7 @@
   childOf:
   - recOHnq45Fq7YWsRO
   title: ensuring respect for persons is maintained in the design
-  category:
-  - Principles
+  category: Principles
   name: recQ9DIFEsOEkCx3O
   tags: []
   created_at: '2023-05-18T14:28:05.000Z'
@@ -681,16 +713,18 @@
   - recdtW2BdWmY6WSP5
   - recEHwRaLD44KPk8v
   - rec81gtnlFS5W2BBF
+  equivalentTo:
+  - recKdujFoPJr4ZAhZ
+  - rec6tz9Phzck0hvT8
   title: Respect for human autonomy
-  category:
-  - Principles
+  category: Principles
   name: recQEiU22Qy1E0YuA
   tags: []
   created_at: '2023-05-25T18:05:56.000Z'
   description: “respect for human autonomy The fundamental rights upon which the EU
     is founded are directed towards ensuring respect for the freedom and autonomy
     of human beings. Humans interacting with AI systems must be able to keep full
-    and effective selfdetermination over themselves, and be able to partake in the
+    and effective self-determination over themselves, and be able to partake in the
     democratic process. AI systems should not unjustifiably subordinate, coerce, deceive,
     manipulate, condition or herd humans. Instead, they should be designed to augment,
     complement and empower human cognitive, social and cultural skills. The allocation
@@ -698,13 +732,14 @@
     principles and leave meaningful opportunity for human choice. This means securing
     human oversight28 over work processes in AI systems. AI systems may also fundamentally
     change the work sphere. It should support humans in the working environment, and
-    aim for the creation of meaningful work.” (\[High-Level Expert Group on AI, 2019,
-    p. 12]\(zotero://select/groups/4907410/items/XPCD8D3T)) (\[pdf]\(zotero://open-pdf/groups/4907410/items/CPFPH28M?page=14&annotation=SV7HKKW7))
+    aim for the creation of meaningful work.” (High-Level Expert Group on AI, 2019,
+    p. 12)
 - Sources:
   - recnCULdYQ36cpZR7
+  equivalentTo:
+  - recKdujFoPJr4ZAhZ
   title: Freedom of the individual
-  category:
-  - Principles
+  category: Principles
   name: recRBt2kSianfxfwe
   tags: []
   created_at: '2023-05-25T18:03:04.000Z'
@@ -722,9 +757,10 @@
     (High-Level Expert Group on AI, 2019, p. 10)
 - Sources:
   - recnCULdYQ36cpZR7
+  equivalentTo:
+  - recLHILkx2JDFsLbX
   title: Respect for human dignity
-  category:
-  - Principles
+  category: Principles
   name: recRbUmCzD09d6KZS
   tags: []
   created_at: '2023-05-25T18:01:03.000Z'
@@ -744,9 +780,11 @@
   Strategies:
   - recTjwhqfrJoaRxYo
   - recq6GeKNegFQdzS9
+  equivalentTo:
+  - reczVPIH1y2OMpAJH
+  - recKdujFoPJr4ZAhZ
   title: Equality, non-discrimination and solidarity
-  category:
-  - Principles
+  category: Principles
   name: recScYLR2TNiv7iKf
   tags: []
   created_at: '2023-05-25T18:04:46.000Z'
@@ -759,8 +797,8 @@
     should be as inclusive as possible, representing different population groups).
     This also requires adequate respect for potentially vulnerable persons and groups,21
     such as workers, women, persons with disabilities, ethnic minorities, children,
-    consumers or others at risk of exclusion.” (\[High-Level Expert Group on AI, 2019,
-    p. 11]\(zotero://select/groups/4907410/items/XPCD8D3T)) (\[pdf]\(zotero://open-pdf/groups/4907410/items/CPFPH28M?page=13&annotation=HJHNIH4K))
+    consumers or others at risk of exclusion.” (High-Level Expert Group on AI, 2019,
+    p. 11)
 - Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -768,12 +806,23 @@
   - recnFHf9V2VtAVJMx
   - recq6GeKNegFQdzS9
   - reccAKmFQRH7IiuJi
+  equivalentTo:
+  - recZToVrPeFlFq0Aw
   title: Justice
-  category:
-  - Principles
+  category: Principles
   name: recSqx6wklVpDzx3s
   tags: []
   created_at: '2023-05-18T14:26:19.000Z'
+  description: '"1.4 In research that is just:1. (a) taking into account the scope
+    and objectives of the proposed research, the selection, exclusion and inclusion
+    of categories of research participants is fair, and is accurately described in
+    the results of the research2. (b) the process of recruiting participants is fair3.
+    (c) there is no unfair burden of participation in research on particular groups4.
+    (d) there is fair distribution of the benefits of participation in research5.
+    (e) there is no exploitation of participants in the conduct of research6. (f)
+    there is fair access to the benefits of research.1.5 Research outcomes should
+    be made accessible to research participants in a way that is timely and clear."
+    (NS 1.4-1.5)'
 - Sources:
   - recpXl48pJdKDhc6f
   equivalentTo:
@@ -782,8 +831,7 @@
   - reckb3cgfeDh1EeUP
   title: 'Pillar of the Ethically Aligned Design Conceptual Framework: Universal Human
     Values'
-  category:
-  - Principles
+  category: Principles
   name: recSwTdeEk6XbEgXU
   tags: []
   created_at: '2023-06-03T18:26:10.000Z'
@@ -797,8 +845,7 @@
 - Sources:
   - recnCULdYQ36cpZR7
   title: Citizens' rights
-  category:
-  - Principles
+  category: Principles
   name: recTLqwMltPHHQDxH
   tags: []
   created_at: '2023-05-25T18:05:21.000Z'
@@ -810,8 +857,8 @@
     impacted by AI systems and should be safeguarded. When the term “citizens’ rights”
     is used here, this is not to deny or neglect the rights of third-country nationals
     and irregular (or illegal) persons in the EU who also have rights under international
-    law, and – therefore in the area of AI systems.” (\[High-Level Expert Group on
-    AI, 2019, p. 11]\(zotero://select/groups/4907410/items/XPCD8D3T)) (\[pdf]\(zotero://open-pdf/groups/4907410/items/CPFPH28M?page=13&annotation=Q7UHABIJ))
+    law, and – therefore in the area of AI systems.” (High-Level Expert Group on AI,
+    2019, p. 11)
 - Challenges:
   - recCpTJXuuowqsqQa
   Sources:
@@ -829,11 +876,41 @@
   - recKdujFoPJr4ZAhZ
   title: Agency (including respect for views, opportunity to be heard (participation,
     input into research, fair representation)
-  category:
-  - Principles
+  category: Principles
   name: recU6u0AZbcNj1ik9
   tags: []
   created_at: '2023-05-18T14:19:44.000Z'
+- Cases:
+  - recrVkbG0XGe2Ca0v
+  - recSXcY4cnofb4zTP
+  - recskjpMFnQ0emSKI
+  - recAlOHJhEy5nDwA6
+  Sources:
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - recOo7Pmo4FBYcu7P
+  title: Privacy and data governance
+  category: Principles
+  name: recUYS0TFpk2MhVD7
+  tags: []
+  created_at: '2023-06-08T06:30:26.000Z'
+  description: “Privacy and data governance including respect for privacy, quality
+    and integrity of data, and access to data.” (European Commission, 2022, p. 18)
+- Cases:
+  - recOOmVQviRyJGvea
+  - recAlOHJhEy5nDwA6
+  Sources:
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - recTWhZ88TbQLcNaQ
+  title: Technical robustness and safety
+  category: Principles
+  name: recWLcMWDPE9Fd1pE
+  tags: []
+  created_at: '2023-06-08T06:34:37.000Z'
+  description: “Technical robustness and safety including resilience to attack, security
+    and general safety, accuracy, reliability, and reproducibility.” (European Commission,
+    2022, p. 19)
 - Sources:
   - recpXl48pJdKDhc6f
   childOf:
@@ -841,8 +918,7 @@
   - rec9uueW1gq31CcBo
   - recuQpwelm0FwdAib
   title: Accountability
-  category:
-  - Principles
+  category: Principles
   name: recWlipA3L9QTydWS
   tags: []
   created_at: '2023-06-03T18:24:44.000Z'
@@ -893,11 +969,20 @@
   equivalentTo:
   - recSqx6wklVpDzx3s
   title: PROTECT the priorities of social values, justice, and the public interest
-  category:
-  - Principles
+  category: Principles
   name: recZToVrPeFlFq0Aw
   tags: []
   created_at: '2023-05-19T10:59:26.000Z'
+  description: “• Treat all individuals equally and protect social equity • Use digital
+    technologies as an essential support for the protection of fair and equal treatment
+    under the law • Prioritise social welfare, public interest, and the consideration
+    of the social and ethical impacts of innovation in determining the legitimacy
+    and desirability of AI technologies • Use AI to empower and to advance the interests
+    and well-being of as many individuals as possible • Think big-picture about the
+    wider impacts of the AI technologies you are conceiving and developing. Think
+    about the ramifications of their effects and externalities for others around the
+    globe, for future generations, and for the biosphere as a whole” (Leslie, 2019,
+    p. 11)
 - Challenges:
   - recHHr97jsyNDnlsJ
   Sources:
@@ -906,11 +991,27 @@
   - recZToVrPeFlFq0Aw
   title: Use digital technologies as an essential support for the protection of fair
     and equal treatment under the law
-  category:
-  - Principles
+  category: Principles
   name: recZbEXiEs1AlDdn3
   tags: []
   created_at: '2023-05-19T10:59:55.000Z'
+- Cases:
+  - reciNqxyfUgE5XM7t
+  - recmS3zSMbR3ofAR5
+  Sources:
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - rec35PeHdUmtalypk
+  title: Diversity, non-discrimination, and fairness
+  category: Principles
+  name: recaMsksKInFYbnCL
+  tags: []
+  created_at: '2023-06-08T06:31:50.000Z'
+  description: “Diversity, non-discrimination, and fairness including accessibility,
+    universal design, the avoidance of unfair bias, and stakeholder participation,
+    which allows use regardless of age, gender, abilities, or characteristics - with
+    a particular focus for students with special needs.” (\[European Commission, 2022,
+    p. 18]\(zotero://select/groups/4907410/items/3BCJVLT9)) (\[pdf]\(zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=18&annotation=WFTMSW2T))
 - Sources:
   - recfYC5jjPmpLfSlM
   childOf:
@@ -921,8 +1022,7 @@
     conceiving and developing. Think about the ramifications of their effects and
     externalities for others around the globe, for future generations, and for the
     biosphere as a whole
-  category:
-  - Principles
+  category: Principles
   name: recduyDUAsQdJ4EMy
   tags: []
   created_at: '2023-05-19T11:00:14.000Z'
@@ -936,8 +1036,7 @@
   - recSwTdeEk6XbEgXU
   - rec9uueW1gq31CcBo
   title: Wellbeing
-  category:
-  - Principles
+  category: Principles
   name: receFm7cGasHwpJZO
   tags: []
   created_at: '2023-05-28T19:19:19.000Z'
@@ -1004,8 +1103,7 @@
   childOf:
   - recOHnq45Fq7YWsRO
   title: that is designed to achieve its aims rigorously
-  category:
-  - Principles
+  category: Principles
   name: recgDkzdE9dfpTxCK
   tags: []
   created_at: '2023-05-18T14:28:03.000Z'
@@ -1018,8 +1116,7 @@
   title: Prioritise social welfare, public interest, and the consideration of the
     social and ethical impacts of innovation in determining the legitimacy and desirability
     of AI technologies
-  category:
-  - Principles
+  category: Principles
   name: recgEYKqzkCYqPmXW
   tags: []
   created_at: '2023-05-19T10:59:56.000Z'
@@ -1029,8 +1126,7 @@
   - rec7n2TGrH9RHYpQj
   title: Design and deploy AI systems to foster and to cultivate the welfare of all
     stakeholders whose interests are affected by their use
-  category:
-  - Principles
+  category: Principles
   name: rechB1SCdOpa940OZ
   tags: []
   created_at: '2023-05-19T10:57:48.000Z'
@@ -1041,8 +1137,7 @@
   childOf:
   - recOHnq45Fq7YWsRO
   title: and with suitable resources to conduct the work as proposed
-  category:
-  - Principles
+  category: Principles
   name: recheWZC64aZRgmpo
   tags: []
   created_at: '2023-05-18T14:28:06.000Z'
@@ -1055,8 +1150,7 @@
   childOf:
   - recOHnq45Fq7YWsRO
   title: do research that is justifiable by potential benefit
-  category:
-  - Principles
+  category: Principles
   name: recint2IxoR8aILCp
   tags: []
   created_at: '2023-05-18T14:27:54.000Z'
@@ -1069,8 +1163,7 @@
   childOf:
   - recOHnq45Fq7YWsRO
   title: and that the work is carried out with suitable expertise
-  category:
-  - Principles
+  category: Principles
   name: recjViPnz3atRIOpD
   tags: []
   created_at: '2023-05-18T14:28:05.000Z'
@@ -1081,8 +1174,7 @@
   - rec03QV2RUJkP3dfo
   - recffbHgJO0d179DG
   title: Respect for democracy, justice and the rule of law
-  category:
-  - Principles
+  category: Principles
   name: reckb3cgfeDh1EeUP
   tags: []
   created_at: '2023-05-25T18:04:04.000Z'
@@ -1104,9 +1196,10 @@
   - recTjwhqfrJoaRxYo
   - recq6GeKNegFQdzS9
   - recaTTvWN1olqx608
+  equivalentTo:
+  - recmzjcGKv3yNOxbl
   title: Prevention of harm
-  category:
-  - Principles
+  category: Principles
   name: reclPiw2VvNOSTzv5
   tags: []
   created_at: '2023-05-25T18:06:18.000Z'
@@ -1120,8 +1213,7 @@
     can cause or exacerbate adverse impacts due to asymmetries of power or information,
     such as between employers and employees, businesses and consumers or governments
     and citizens. Preventing harm also entails consideration of the natural environment
-    and all living beings.” (\[High-Level Expert Group on AI, 2019, p. 12]\(zotero://select/groups/4907410/items/XPCD8D3T))
-    (\[pdf]\(zotero://open-pdf/groups/4907410/items/CPFPH28M?page=14&annotation=AGB72ZIY))
+    and all living beings.” (High-Level Expert Group on AI, 2019, p. 12)
 - Sources:
   - recfYC5jjPmpLfSlM
   Strategies:
@@ -1130,8 +1222,7 @@
   - rectPrYetyr4YIuq8
   title: Safeguard the integrity of interpersonal dialogue, meaningful human connection,
     and social cohesion
-  category:
-  - Principles
+  category: Principles
   name: reclur1ImQFlLyYof
   tags: []
   created_at: '2023-05-19T09:41:35.000Z'
@@ -1151,23 +1242,68 @@
   - rec0WScLo6sUnoOQN
   - recJMrMEZnz9rYlnD
   - reccAKmFQRH7IiuJi
+  equivalentTo:
+  - rec7n2TGrH9RHYpQj
+  - reclPiw2VvNOSTzv5
   title: Beneficence
-  category:
-  - Principles
+  category: Principles
   name: recmzjcGKv3yNOxbl
   tags: []
   created_at: '2023-05-18T14:25:01.000Z'
+  description: '"1.6 The likely benefit of the research must justify any risks of
+    harm or discomfort to participants. The likely benefit may be to the participants,
+    to the wider community, or to both.1.7 Researchers are responsible for:1. (a)
+    designing the research to minimise the risks of harm or discomfort to participants2.
+    (b) clarifying for participants the potential benefits and risks of the research3.
+    (c) the welfare of the participants in the research context.1.8 Where there are
+    no likely benefits to participants, the risk to participants should be lower than
+    would be ethically acceptable where there are such likely benefits.1.9 Where the
+    risks to participants are no longer justified by the potential benefits of the
+    research, the research must be suspended to allow time to consider whether it
+    should be discontinued or at least modified. This decision may require consultation
+    between researchers, participants, the relevant ethical review body, and the institution.
+    The review body must be notified promptly of such suspension, and of any decisions
+    following it (see paragraphs 5.5.7 to 5.5.10)." (NS 1.6-1.9)'
+- Cases:
+  - reciNqxyfUgE5XM7t
+  - recOOmVQviRyJGvea
+  Sources:
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - recegTm800wJXGjO1
+  title: Human agency and oversight
+  category: Principles
+  name: reco4DUa3rsjP0hyg
+  tags: []
+  created_at: '2023-06-08T06:32:23.000Z'
+  description: “Human agency and oversight including fundamental rights, children’s
+    rights, human agency, and human oversight.” (\[European Commission, 2022, p. 18]\(zotero://select/groups/4907410/items/3BCJVLT9))
+    (\[pdf]\(zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=18&annotation=YBKGBYD4))
 - Sources:
   - recfYC5jjPmpLfSlM
   childOf:
   - rectPrYetyr4YIuq8
   title: Encourage all voices to be heard and all opinions to be weighed seriously
     and sincerely throughout the production and use lifecycle
-  category:
-  - Principles
+  category: Principles
   name: recoXK4tOGqoh2nE3
   tags: []
   created_at: '2023-05-19T09:41:37.000Z'
+- Cases:
+  - recrVkbG0XGe2Ca0v
+  - recAlOHJhEy5nDwA6
+  Sources:
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - rec7daqDHSCuc70yS
+  title: Societal and environmental wellbeing
+  category: Principles
+  name: recqdGhz7l1cGnQeU
+  tags: []
+  created_at: '2023-06-08T06:31:30.000Z'
+  description: “Societal and environmental wellbeing including sustainability and
+    environmental friendliness, social impact, society, and democracy.” (European
+    Commission, 2022, p. 18)
 - Challenges:
   - recYHYaeqVHR93Kuo
   - recO1L6GoFMkA6Lt4
@@ -1182,8 +1318,7 @@
   childOf:
   - recKdujFoPJr4ZAhZ
   title: Informed consent
-  category:
-  - Principles
+  category: Principles
   name: recsvi4LnhEEPyQ1h
   tags: []
   created_at: '2023-05-18T13:40:06.000Z'
@@ -1192,18 +1327,28 @@
   equivalentTo:
   - recLHILkx2JDFsLbX
   title: CONNECT with each other sincerely, openly, and inclusively
-  category:
-  - Principles
+  category: Principles
   name: rectPrYetyr4YIuq8
   tags: []
   created_at: '2023-05-19T09:39:45.000Z'
+  description: “• Safeguard the integrity of interpersonal dialogue, meaningful human
+    connection, and social cohesion • Prioritise diversity, participation, and inclusion
+    at all points in the design, development, and deployment processes of AI innovation.
+    • Encourage all voices to be heard and all opinions to be weighed seriously and
+    sincerely throughout the production and use lifecycle • Use the advancement and
+    proliferation of AI technologies to strengthen the developmentally essential relationship
+    between interacting human beings. • Utilise AI innovations pro-socially so as
+    to enable bonds of interpersonal solidarity to form and individuals to be socialised
+    and recognised by each other • Use AI technologies to foster this capacity to
+    connect so as to reinforce the edifice of trust, empathy, reciprocal responsibility,
+    and mutual understanding upon which all ethically wellfounded social orders rest”
+    (Leslie, 2019, p. 10)
 - Sources:
   - recpXl48pJdKDhc6f
   equivalentTo:
   - recOHnq45Fq7YWsRO
   title: 'Pillar of the Ethically Aligned Design Conceptual Framework: Technical Dependability'
-  category:
-  - Principles
+  category: Principles
   name: recuQpwelm0FwdAib
   tags: []
   created_at: '2023-06-03T18:27:42.000Z'
@@ -1224,8 +1369,7 @@
   title: Support their abilities to flourish, to fully develop themselves, and to
     pursue their passions and talents according to their own freely determined life
     plans
-  category:
-  - Principles
+  category: Principles
   name: recv9z5lu6zZspHYA
   tags: []
   created_at: '2023-05-19T09:39:38.000Z'
@@ -1235,19 +1379,32 @@
   - rectPrYetyr4YIuq8
   title: Utilise AI innovations pro-socially so as to enable bonds of interpersonal
     solidarity to form and individuals to be socialised and recognised by each other
-  category:
-  - Principles
+  category: Principles
   name: recvLGtdSLYOV3Azw
   tags: []
   created_at: '2023-05-19T09:42:38.000Z'
+- Cases:
+  - reciNqxyfUgE5XM7t
+  - recmS3zSMbR3ofAR5
+  Sources:
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - rechaQXedBh3OsMjZ
+  title: Transparency
+  category: Principles
+  name: recwjv8IMAZFWfMSr
+  tags: []
+  created_at: '2023-06-08T06:32:12.000Z'
+  description: “Transparency including traceability, explainability and communication.”
+    (\[European Commission, 2022, p. 18]\(zotero://select/groups/4907410/items/3BCJVLT9))
+    (\[pdf]\(zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=18&annotation=GKNH3GVZ))
 - Sources:
   - recpXl48pJdKDhc6f
   childOf:
   - recSwTdeEk6XbEgXU
   - rec9uueW1gq31CcBo
   title: Respect for human rights
-  category:
-  - Principles
+  category: Principles
   name: recxc8SQN09R985HI
   tags: []
   created_at: '2023-05-28T19:19:19.000Z'
@@ -1314,9 +1471,10 @@
   - reczFKqCos9f1opXO
   - recJyzFLE9ry4YEbb
   - rec81gtnlFS5W2BBF
+  childOf:
+  - recOHnq45Fq7YWsRO
   title: Explicability
-  category:
-  - Principles
+  category: Principles
   name: recxcFmvPG5wrCqpO
   tags: []
   created_at: '2023-05-25T18:07:49.000Z'
@@ -1342,8 +1500,7 @@
   childOf:
   - recOHnq45Fq7YWsRO
   title: and grounded in literature and prior knowledge
-  category:
-  - Principles
+  category: Principles
   name: recy4stJ6Y4e2Fezp
   tags: []
   created_at: '2023-05-18T14:28:04.000Z'
@@ -1355,8 +1512,7 @@
   - rec7n2TGrH9RHYpQj
   title: Do no harm with these technologies and minimise the risks of their misuse
     or abuse
-  category:
-  - Principles
+  category: Principles
   name: recy6hrMpKZ7TOn3Q
   tags: []
   created_at: '2023-05-19T10:57:55.000Z'
@@ -1368,8 +1524,7 @@
   - recNB5h9bK4gEE9uc
   title: Use AI to empower and to advance the interests and well-being of as many
     individuals as possible
-  category:
-  - Principles
+  category: Principles
   name: recyigniIRfB6DPTu
   tags: []
   created_at: '2023-05-19T11:00:08.000Z'
@@ -1395,11 +1550,29 @@
   childOf:
   - recLHILkx2JDFsLbX
   title: Protection of vulnerable persons
-  category:
-  - Principles
+  category: Principles
   name: reczVPIH1y2OMpAJH
   tags: []
   created_at: '2023-05-18T14:20:33.000Z'
+- Cases:
+  - recrVkbG0XGe2Ca0v
+  - recmS3zSMbR3ofAR5
+  - recSXcY4cnofb4zTP
+  Sources:
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - recRTVqtvPcBS6zps
+  title: Accountability (Edu)
+  category: Principles
+  name: reczcRriFbQQpn8iX
+  tags: []
+  created_at: '2023-06-08T06:34:38.000Z'
+  description: “Accountability including auditability, minimisation and reporting
+    of negative impact, trade-offs, and redress. The considerations and requirements
+    can help educators, school leaders and technology providers to adequately assess
+    the impact, address the potential risks, and realise the benefits of an AI system
+    deployed and used in education. As such they guide the development, deployment
+    and use of trustworthy AI systems.” (European Commission, 2022, p. 19)
 - Principles:
   - recU6u0AZbcNj1ik9
   - recOHnq45Fq7YWsRO
@@ -1408,8 +1581,7 @@
   Sources:
   - recnCULdYQ36cpZR7
   title: Overview of considerations in transparency
-  category:
-  - Strategies
+  category: Strategies
   name: rec03QV2RUJkP3dfo
   tags: []
   created_at: '2023-05-28T19:04:35.000Z'
@@ -1465,8 +1637,7 @@
   - rec6r8OkE2Q2EdiM3
   title: Questions to consider in key stages of AI and machine learning based research,
     regarding legitmacy and power in consent
-  category:
-  - Strategies
+  category: Strategies
   name: rec09f7Nm4RTf6WjE
   tags:
   - reflection-questions
@@ -1498,8 +1669,7 @@
   Sources:
   - recfYC5jjPmpLfSlM
   title: Principle of Accountability, key considerations
-  category:
-  - Strategies
+  category: Strategies
   name: rec0GhefNkhJqW0c2
   tags:
   - reflection-discussion
@@ -1619,8 +1789,7 @@
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - Sustainable and environmentally
     friendly AI
-  category:
-  - Strategies
+  category: Strategies
   name: rec0WScLo6sUnoOQN
   tags:
   - governance-question
@@ -1650,8 +1819,7 @@
   Sources:
   - recpXl48pJdKDhc6f
   title: Trust identity verification services to validate and protect identity
-  category:
-  - Strategies
+  category: Strategies
   name: rec1Ha94n5xbeqcOY
   tags: []
   created_at: '2023-06-05T09:39:00.000Z'
@@ -1671,8 +1839,7 @@
   - recpXl48pJdKDhc6f
   title: Educate the learners in formal education, the public, professionals, and
     policy makers for designing, and working alongside, AI to advance the SDGs.
-  category:
-  - Strategies
+  category: Strategies
   name: rec2679E9TXh1DCL8
   tags:
   - education
@@ -1742,12 +1909,12 @@
   - reciNqxyfUgE5XM7t
   Principles:
   - reczVPIH1y2OMpAJH
+  - recaMsksKInFYbnCL
   Sources:
   - rec9jnxuHOioQn4DC
   title: Guiding questions for educators regarding Diversity, non-Discrimination,
     and Fairness of AI in Education
-  category:
-  - Strategies
+  category: Strategies
   name: rec35PeHdUmtalypk
   tags:
   - reflection-questions
@@ -1769,8 +1936,7 @@
   - rec6r8OkE2Q2EdiM3
   title: Questions to consider in key stages of AI and machine learning based research,
     regarding sociotechnical context
-  category:
-  - Strategies
+  category: Strategies
   name: rec3q0xKZABgZf9Dg
   tags:
   - reflection-questions
@@ -1798,8 +1964,7 @@
   Sources:
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - Resilience to attack and security
-  category:
-  - Strategies
+  category: Strategies
   name: rec4oGONFgYMu3JGf
   tags:
   - governance-question
@@ -1835,8 +2000,7 @@
   Sources:
   - recQzldmBLByP78Uu
   title: Questions to consider in SoTL research method selection
-  category:
-  - Strategies
+  category: Strategies
   name: rec55h8FhGKyGPNgw
   tags:
   - reflection-questions
@@ -1856,8 +2020,7 @@
   - recpXl48pJdKDhc6f
   title: Monitor impact of affective AI in care on human-human relationships and implement
     safeguards
-  category:
-  - Strategies
+  category: Strategies
   name: rec5CFheImo8onTcd
   tags: []
   created_at: '2023-06-05T11:35:18.000Z'
@@ -1894,8 +2057,7 @@
     between Humans and Social Robots,” in _Robot Ethics: The Ethical and Social Implications
     of Robotics,_ P. Lin, K. Abney, and G. Bekey, Eds., pp. 205. Cambridge, MA: MIT
     Press, 2011.'
-- category:
-  - Strategies
+- category: Strategies
   name: rec7RfHxpQolMR5v9
   tags: []
   created_at: '2023-06-05T10:40:35.000Z'
@@ -1917,12 +2079,12 @@
   - recAlOHJhEy5nDwA6
   Principles:
   - recmzjcGKv3yNOxbl
+  - recqdGhz7l1cGnQeU
   Sources:
   - rec9jnxuHOioQn4DC
   title: Guiding questions for educators regarding Societal and Environmental Wellbeing
     of AI in Education
-  category:
-  - Strategies
+  category: Strategies
   name: rec7daqDHSCuc70yS
   tags:
   - reflection-questions
@@ -1942,8 +2104,7 @@
   Sources:
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - Access to data
-  category:
-  - Strategies
+  category: Strategies
   name: rec7m69DQyCw3rlFg
   tags:
   - governance-question
@@ -1987,8 +2148,7 @@
   - recnCULdYQ36cpZR7
   title: Questions to consider in key stages of AI and machine learning based research,
     regarding transparency and explainability
-  category:
-  - Strategies
+  category: Strategies
   name: rec81gtnlFS5W2BBF
   tags:
   - reflection-questions
@@ -2088,8 +2248,7 @@
   - rec6r8OkE2Q2EdiM3
   title: Questions to consider in key stages of AI and machine learning based research,
     regarding corporate-academic research interaction
-  category:
-  - Strategies
+  category: Strategies
   name: rec8cNT8sPSFtMSAc
   tags:
   - reflection-questions
@@ -2118,8 +2277,7 @@
   - rec6r8OkE2Q2EdiM3
   title: Questions to consider in key stages of AI and machine learning based research,
     regarding downstream responsibility
-  category:
-  - Strategies
+  category: Strategies
   name: rec8dLtyDCwvjMWge
   tags:
   - reflection-questions
@@ -2177,8 +2335,7 @@
   Sources:
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - Reliability and reproducibility
-  category:
-  - Strategies
+  category: Strategies
   name: rec95I69E1YcGg0Sa
   tags:
   - governance-question
@@ -2215,8 +2372,7 @@
   - recpXl48pJdKDhc6f
   title: Company culture, values, codes, and power structures should enable speaking
     to ethical concerns
-  category:
-  - Strategies
+  category: Strategies
   name: rec9SSyrfFkmuJkCe
   tags: []
   created_at: '2023-06-05T10:31:54.000Z'
@@ -2242,8 +2398,7 @@
   - recpXl48pJdKDhc6f
   title: Systematic analysis of consequences, transparency, user agency, and safeguards
     are central to implementation of AI nudges
-  category:
-  - Strategies
+  category: Strategies
   name: rec9TbOu2ZXUZG4A5
   tags: []
   created_at: '2023-06-05T11:36:59.000Z'
@@ -2349,8 +2504,7 @@
   Sources:
   - recpXl48pJdKDhc6f
   title: Design recommendations for affective systems
-  category:
-  - Strategies
+  category: Strategies
   name: rec9UfowPkXtPUBC9
   tags: []
   created_at: '2023-06-05T11:29:43.000Z'
@@ -2413,8 +2567,7 @@
   Sources:
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - Fallback plan and general safety
-  category:
-  - Strategies
+  category: Strategies
   name: recAMa23XxDLEzMn8
   tags:
   - governance-question
@@ -2464,8 +2617,7 @@
   - recfYC5jjPmpLfSlM
   title: Principle of Discriminatory non-harm for fairness, key considerations for
     implementation fairness
-  category:
-  - Strategies
+  category: Strategies
   name: recAhcg8OdusJvk43
   tags:
   - reflection-discussion
@@ -2557,8 +2709,7 @@
   - rec6r8OkE2Q2EdiM3
   title: Questions to consider in key stages of AI and machine learning based research,
     regarding aims and risks
-  category:
-  - Strategies
+  category: Strategies
   name: recAnT7HDpWYvdJ1V
   tags:
   - reflection-questions
@@ -2586,8 +2737,7 @@
   - rec6r8OkE2Q2EdiM3
   title: Questions to consider in key stages of AI and machine learning based research,
     regarding data collection
-  category:
-  - Strategies
+  category: Strategies
   name: recB7MF7TeUKH3chO
   tags:
   - reflection-questions
@@ -2651,8 +2801,7 @@
   Sources:
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - Accuracy
-  category:
-  - Strategies
+  category: Strategies
   name: recBUdrJ8n1tIJLTz
   tags:
   - governance-question
@@ -2686,8 +2835,7 @@
   Sources:
   - recpXl48pJdKDhc6f
   title: Establish corporate ethics review boards
-  category:
-  - Strategies
+  category: Strategies
   name: recCN9eqkgKT3KjCB
   tags: []
   created_at: '2023-06-05T10:38:42.000Z'
@@ -2709,8 +2857,7 @@
   Sources:
   - recQzldmBLByP78Uu
   title: Questions to consider in SoTL research professional learning
-  category:
-  - Strategies
+  category: Strategies
   name: recDOGXIsqtXrCuSz
   tags:
   - reflection-questions
@@ -2728,8 +2875,7 @@
   Sources:
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - Communication
-  category:
-  - Strategies
+  category: Strategies
   name: recEHwRaLD44KPk8v
   tags:
   - governance-question
@@ -2772,8 +2918,7 @@
   Sources:
   - recQzldmBLByP78Uu
   title: Key discussion points for planning SoTL research regarding power relationships
-  category:
-  - Strategies
+  category: Strategies
   name: recELo3u36oZuujxN
   tags:
   - reflection-questions
@@ -3007,8 +3152,7 @@
   - recpXl48pJdKDhc6f
   title: AI assistants should be created to help users understand and manage how their
     data is being used
-  category:
-  - Strategies
+  category: Strategies
   name: recG86YsfXnKY9kNc
   tags: []
   created_at: '2023-06-05T09:36:00.000Z'
@@ -3033,8 +3177,7 @@
   Sources:
   - recfYC5jjPmpLfSlM
   title: Principle of Sustainability, key considerations
-  category:
-  - Strategies
+  category: Strategies
   name: recGS9OVQ7qAjvIYE
   tags:
   - reflection-discussion
@@ -3166,8 +3309,7 @@
   Sources:
   - recnCULdYQ36cpZR7
   title: Consider tensions and absolute rights
-  category:
-  - Strategies
+  category: Strategies
   name: recHEUOqkzQTNsAMw
   tags: []
   created_at: '2023-05-28T18:58:31.000Z'
@@ -3194,8 +3336,7 @@
   Sources:
   - recpXl48pJdKDhc6f
   title: Affective systems should be configurable to cultural context
-  category:
-  - Strategies
+  category: Strategies
   name: recHsUV9w4HKBA1w1
   tags: []
   created_at: '2023-06-05T11:34:16.000Z'
@@ -3228,8 +3369,7 @@
   - recQzldmBLByP78Uu
   title: Key discussion points for planning SoTL research regarding secondary analysis
     of data
-  category:
-  - Strategies
+  category: Strategies
   name: recI5BV6v0BCK03VN
   tags:
   - reflection-questions
@@ -3296,8 +3436,7 @@
   Sources:
   - recpXl48pJdKDhc6f
   title: Identify priorities and develop standards for the governance of AI research
-  category:
-  - Strategies
+  category: Strategies
   name: recI7WdfNhrQxRt7F
   tags: []
   created_at: '2023-06-05T10:23:45.000Z'
@@ -3320,8 +3459,7 @@
   Sources:
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - Social impact
-  category:
-  - Strategies
+  category: Strategies
   name: recJMrMEZnz9rYlnD
   tags:
   - governance-question
@@ -3353,8 +3491,7 @@
   - recQiVQ7CTC72xp6O
   title: Questions to consider regarding re-identification and issues of justice in
     IP
-  category:
-  - Strategies
+  category: Strategies
   name: recJQF6QfQGlcSzDm
   tags:
   - reflection-questions
@@ -3383,8 +3520,7 @@
   - recpXl48pJdKDhc6f
   title: Considerations in assessing trustworthy AI - Minimising and reporting negative
     impacts
-  category:
-  - Strategies
+  category: Strategies
   name: recJyzFLE9ry4YEbb
   tags:
   - governance-question
@@ -3448,8 +3584,7 @@
   Sources:
   - recQiVQ7CTC72xp6O
   title: Questions to consider in assessing benefits
-  category:
-  - Strategies
+  category: Strategies
   name: recKDgUEDD2f1egyd
   tags:
   - reflection-questions
@@ -3466,8 +3601,7 @@
   - recfYC5jjPmpLfSlM
   - recpXl48pJdKDhc6f
   title: Principle of Safety, key considerations
-  category:
-  - Strategies
+  category: Strategies
   name: recKWkdYO98PeEKDz
   tags:
   - reflection-discussion
@@ -3717,8 +3851,7 @@
 - Challenges:
   - recmRF2P1OOASMfNF
   title: Consider developing strategies for specific context of humanitarian action
-  category:
-  - Strategies
+  category: Strategies
   name: recMgYQ7EqHAyDfi1
   tags: []
   created_at: '2023-06-05T12:03:31.000Z'
@@ -3777,8 +3910,7 @@
   - recQiVQ7CTC72xp6O
   title: Questions to consider regarding access to a context (and data) and the perceptions
     and autonomy of those related to that context regarding access to it
-  category:
-  - Strategies
+  category: Strategies
   name: recN2Lw4yXDBWLSYv
   tags:
   - reflection-questions
@@ -3798,8 +3930,7 @@
   Sources:
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - Human oversight
-  category:
-  - Strategies
+  category: Strategies
   name: recNHvwgyFPXERuJ8
   tags:
   - governance-question
@@ -3844,8 +3975,7 @@
   - recfYC5jjPmpLfSlM
   title: Principle of Discriminatory non-harm for fairness, key considerations for
     outcome fairness
-  category:
-  - Strategies
+  category: Strategies
   name: recNzXJwCfbwBLmVU
   tags:
   - reflection-discussion
@@ -3937,12 +4067,12 @@
   Principles:
   - rec42P8U9usfYCtv9
   - recKdujFoPJr4ZAhZ
+  - recUYS0TFpk2MhVD7
   Sources:
   - rec9jnxuHOioQn4DC
   title: Guiding questions for educators regarding Privacy and Data Governance of
     AI in Education
-  category:
-  - Strategies
+  category: Strategies
   name: recOo7Pmo4FBYcu7P
   tags:
   - reflection-questions
@@ -3961,8 +4091,7 @@
   Sources:
   - recQiVQ7CTC72xp6O
   title: Questions to consider regarding protection of vulnerable populations
-  category:
-  - Strategies
+  category: Strategies
   name: recPynxbe7x5wOs5E
   tags:
   - reflection-questions
@@ -3989,8 +4118,7 @@
   - recnCULdYQ36cpZR7
   - recpXl48pJdKDhc6f
   title: Considerations in assessing trustworthy AI - Stakeholder participation
-  category:
-  - Strategies
+  category: Strategies
   name: recQPwyiQbPcN0G47
   tags:
   - governance-question
@@ -4035,11 +4163,11 @@
   - recKdujFoPJr4ZAhZ
   - recmzjcGKv3yNOxbl
   - recOHnq45Fq7YWsRO
+  - reczcRriFbQQpn8iX
   Sources:
   - rec9jnxuHOioQn4DC
   title: Guiding questions for educators regarding Accountability of AI in Education
-  category:
-  - Strategies
+  category: Strategies
   name: recRTVqtvPcBS6zps
   tags:
   - reflection-questions
@@ -4060,12 +4188,12 @@
   - recQ9DIFEsOEkCx3O
   - recy4stJ6Y4e2Fezp
   - recint2IxoR8aILCp
+  - recWLcMWDPE9Fd1pE
   Sources:
   - rec9jnxuHOioQn4DC
   title: Guiding questions for educators regarding Technical Robustness and Safety
     of AI in Education
-  category:
-  - Strategies
+  category: Strategies
   name: recTWhZ88TbQLcNaQ
   tags:
   - reflection-questions
@@ -4086,8 +4214,7 @@
   Sources:
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - Unfair bias avoidance
-  category:
-  - Strategies
+  category: Strategies
   name: recTjwhqfrJoaRxYo
   tags:
   - governance-question
@@ -4134,8 +4261,7 @@
 - Sources:
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - Fundamental rights
-  category:
-  - Strategies
+  category: Strategies
   name: recTr6cDE4OBKV0wv
   tags:
   - governance-question
@@ -4172,8 +4298,7 @@
   - recpXl48pJdKDhc6f
   title: Roles regarding ethics should have leadership capacity, to foster ethical
     culture across the organisation
-  category:
-  - Strategies
+  category: Strategies
   name: recV8WjuiXlfbVN5d
   tags: []
   created_at: '2023-06-05T10:29:17.000Z'
@@ -4206,8 +4331,7 @@
   Sources:
   - recY4zreDoWrsbsv7
   title: 'Foundational issue: Promotion of Transparency'
-  category:
-  - Strategies
+  category: Strategies
   name: recWm6C6wOuVr6UCX
   tags: []
   created_at: '2023-05-29T07:49:51.000Z'
@@ -4239,8 +4363,7 @@
   Sources:
   - recY4zreDoWrsbsv7
   title: Always Center Educators in Instructional Loops
-  category:
-  - Strategies
+  category: Strategies
   name: recX4wcNFSw9YljDD
   tags: []
   created_at: '2023-05-29T08:05:27.000Z'
@@ -4270,8 +4393,7 @@
   Sources:
   - recQiVQ7CTC72xp6O
   title: Questions to consider in assessing risk of harms
-  category:
-  - Strategies
+  category: Strategies
   name: recY9yr9vYcOAUSEA
   tags:
   - reflection-questions
@@ -4312,8 +4434,7 @@
   Sources:
   - recpXl48pJdKDhc6f
   title: Wellbeing measures and promotion should be part of AI evaluation
-  category:
-  - Strategies
+  category: Strategies
   name: recZI7HDWKBU5T22v
   tags: []
   created_at: '2023-06-05T11:22:05.000Z'
@@ -4386,8 +4507,7 @@
   - recfYC5jjPmpLfSlM
   title: Principle of responsible delivery through human-centred implementation, key
     considerations
-  category:
-  - Strategies
+  category: Strategies
   name: recZPU5yTmrjPXlF2
   tags:
   - reflection-discussion
@@ -4977,8 +5097,7 @@
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - Minimising and reporting negative
     impacts
-  category:
-  - Strategies
+  category: Strategies
   name: recaTTvWN1olqx608
   tags:
   - governance-question
@@ -5007,8 +5126,7 @@
   Sources:
   - recQiVQ7CTC72xp6O
   title: Questions to consider regarding autonomy and informed consent
-  category:
-  - Strategies
+  category: Strategies
   name: recazD3B5XpqgOCGV
   tags:
   - reflection-questions
@@ -5035,8 +5153,7 @@
   Sources:
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - Documenting trade-offs
-  category:
-  - Strategies
+  category: Strategies
   name: reccAKmFQRH7IiuJi
   tags:
   - governance-question
@@ -5066,8 +5183,7 @@
   - recpXl48pJdKDhc6f
   title: Community norms should be identified, and expertise from intercultural information
     ethics practitioners embedded in ethics committees
-  category:
-  - Strategies
+  category: Strategies
   name: reccMqFCLOgQwWM5Q
   tags: []
   created_at: '2023-06-05T10:21:20.000Z'
@@ -5166,8 +5282,7 @@
   Sources:
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - Traceability
-  category:
-  - Strategies
+  category: Strategies
   name: recdtW2BdWmY6WSP5
   tags:
   - governance-question
@@ -5203,12 +5318,12 @@
   - recOOmVQviRyJGvea
   Principles:
   - recLHILkx2JDFsLbX
+  - reco4DUa3rsjP0hyg
   Sources:
   - rec9jnxuHOioQn4DC
   title: Guiding questions for educators regarding Human Agency and Oversight of AI
     in Education
-  category:
-  - Strategies
+  category: Strategies
   name: recegTm800wJXGjO1
   tags:
   - reflection-questions
@@ -5231,8 +5346,7 @@
   - recQiVQ7CTC72xp6O
   title: Questions to consider regarding the norms and values of those involved in
     the study and alignment of these to the research
-  category:
-  - Strategies
+  category: Strategies
   name: recf50wvya0NXxdxz
   tags:
   - reflection-questions
@@ -5256,8 +5370,7 @@
   - recpXl48pJdKDhc6f
   title: Corporations should implement "ethics filters" throughout the development
     process
-  category:
-  - Strategies
+  category: Strategies
   name: recfcXzM3foqFNNGN
   tags: []
   created_at: '2023-06-05T10:26:39.000Z'
@@ -5295,8 +5408,7 @@
   Sources:
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - Society and democracy
-  category:
-  - Strategies
+  category: Strategies
   name: recffbHgJO0d179DG
   tags:
   - governance-question
@@ -5325,8 +5437,7 @@
   - recpXl48pJdKDhc6f
   title: Training in skills for adaptability to rapid technological changes informed
     by improved data regarding labour pattern shifts
-  category:
-  - Strategies
+  category: Strategies
   name: recg2u6ZXSRiUO8uF
   tags: []
   created_at: '2023-06-05T11:49:40.000Z'
@@ -5401,8 +5512,7 @@
   - rec6r8OkE2Q2EdiM3
   title: Questions to consider in key stages of AI and machine learning based research,
     regarding project data governance
-  category:
-  - Strategies
+  category: Strategies
   name: recgNdOlcMTiussUk
   tags:
   - reflection-questions
@@ -5436,8 +5546,7 @@
   Sources:
   - recQiVQ7CTC72xp6O
   title: Questions to consider regarding data management and participant re-identification
-  category:
-  - Strategies
+  category: Strategies
   name: recgWFCdfcVaeaPQO
   tags:
   - reflection-questions
@@ -5467,8 +5576,7 @@
   - recfYC5jjPmpLfSlM
   - recpXl48pJdKDhc6f
   title: Principle of transparency, key considerations
-  category:
-  - Strategies
+  category: Strategies
   name: recgn2UvSD4OhzGI4
   tags:
   - reflection-discussion
@@ -6389,8 +6497,7 @@
   Sources:
   - recpXl48pJdKDhc6f
   title: Independent standards body for ethical criteria
-  category:
-  - Strategies
+  category: Strategies
   name: recgqEckuFTILlOnz
   tags: []
   created_at: '2023-06-05T10:57:02.000Z'
@@ -6413,8 +6520,7 @@
   - recfYC5jjPmpLfSlM
   title: Principle of Discriminatory non-harm for fairness, key considerations for
     design fairness
-  category:
-  - Strategies
+  category: Strategies
   name: recgswAsiepwEclOd
   tags:
   - reflection-discussion
@@ -6509,11 +6615,11 @@
   - recLHILkx2JDFsLbX
   - recmzjcGKv3yNOxbl
   - recgDkzdE9dfpTxCK
+  - recwjv8IMAZFWfMSr
   Sources:
   - rec9jnxuHOioQn4DC
   title: Guiding questions for educators regarding Transparency of AI in Education
-  category:
-  - Strategies
+  category: Strategies
   name: rechaQXedBh3OsMjZ
   tags:
   - reflection-questions
@@ -6534,8 +6640,7 @@
   Sources:
   - recQzldmBLByP78Uu
   title: Questions to consider in SoTL research inception
-  category:
-  - Strategies
+  category: Strategies
   name: recinajIdAe7hRxjN
   tags:
   - reflection-questions
@@ -6561,8 +6666,7 @@
   Sources:
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - Quality and integrity of data
-  category:
-  - Strategies
+  category: Strategies
   name: reciw4r1bRvx6A6Fq
   tags:
   - governance-question
@@ -6598,8 +6702,7 @@
   Sources:
   - recpXl48pJdKDhc6f
   title: Ethics must be embedded in STEM education and professional accreditation
-  category:
-  - Strategies
+  category: Strategies
   name: reck6xeMUc9jtmLr3
   tags: []
   created_at: '2023-06-05T10:14:39.000Z'
@@ -6634,8 +6737,7 @@
   Sources:
   - recQzldmBLByP78Uu
   title: Questions to consider in SoTL research dissemination
-  category:
-  - Strategies
+  category: Strategies
   name: reclplj55gpqdYGTr
   tags:
   - reflection-questions
@@ -6660,8 +6762,7 @@
   - recpXl48pJdKDhc6f
   title: Educational data should be classified as sensitive and held in 'escrow' not
     available for commercial purposes
-  category:
-  - Strategies
+  category: Strategies
   name: reclzrMrQSQls3PI9
   tags:
   - education-research
@@ -6681,8 +6782,7 @@
   - recfYC5jjPmpLfSlM
   title: Principle of Discriminatory non-harm for fairness, key considerations for
     data fairness
-  category:
-  - Strategies
+  category: Strategies
   name: recmhwo8kmYkBZ7Sy
   tags:
   - reflection-discussion
@@ -6770,8 +6870,7 @@
   - rec6r8OkE2Q2EdiM3
   title: Questions to consider in key stages of AI and machine learning based research,
     regarding the Research Analytical Process
-  category:
-  - Strategies
+  category: Strategies
   name: recnFHf9V2VtAVJMx
   tags:
   - reflection-questions
@@ -6872,8 +6971,7 @@
   - recpXl48pJdKDhc6f
   title: 'Foster equitable benefits of AI through global standards, regional investment,
     and justice with respect to the burdens and benefits of AI development '
-  category:
-  - Strategies
+  category: Strategies
   name: recnLauSoXMQCSK5c
   tags: []
   created_at: '2023-06-05T11:46:23.000Z'
@@ -6942,8 +7040,7 @@
   - recQiVQ7CTC72xp6O
   title: Questions to consider regarding how a context is defined and conceptualised
     with respect to relevant stakeholder agency
-  category:
-  - Strategies
+  category: Strategies
   name: recobVSYWj9jYvbgF
   tags:
   - reflection-questions
@@ -6965,8 +7062,7 @@
   Sources:
   - recpXl48pJdKDhc6f
   title: Explicitly consider how AI may foster and hamper SDG progress
-  category:
-  - Strategies
+  category: Strategies
   name: recouZjokdKQz88z1
   tags: []
   created_at: '2023-06-05T11:16:58.000Z'
@@ -7017,8 +7113,7 @@
   - recQiVQ7CTC72xp6O
   title: Questions to consider regarding the nature of the data (as (dis)aggregated,
     private/public, reidentifiable, etc.)
-  category:
-  - Strategies
+  category: Strategies
   name: recpUrzG3GpRiwqnz
   tags:
   - reflection-questions
@@ -7047,8 +7142,7 @@
   - rec6r8OkE2Q2EdiM3
   title: Questions to consider in key stages of AI and machine learning based research,
     regarding methodological scope
-  category:
-  - Strategies
+  category: Strategies
   name: recpvGxQzTNQS1smH
   tags:
   - reflection-questions
@@ -7083,8 +7177,7 @@
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - Accessibility and universal
     design
-  category:
-  - Strategies
+  category: Strategies
   name: recq6GeKNegFQdzS9
   tags:
   - governance-question
@@ -7123,8 +7216,7 @@
   Sources:
   - recpXl48pJdKDhc6f
   title: Legislate to prevent misinformation and hate speech spread
-  category:
-  - Strategies
+  category: Strategies
   name: recqJAVTtqOUfypNI
   tags: []
   created_at: '2023-06-05T11:43:25.000Z'
@@ -7162,8 +7254,7 @@
   Sources:
   - recY4zreDoWrsbsv7
   title: Align AI models to a shared vision of education
-  category:
-  - Strategies
+  category: Strategies
   name: recqY2lEigz82Xmh5
   tags: []
   created_at: '2023-05-29T08:14:09.000Z'
@@ -7212,8 +7303,7 @@
   - recpXl48pJdKDhc6f
   title: Consider where AI-mediation is, and is not, appropriate with respect to human
     relationships and autonomy
-  category:
-  - Strategies
+  category: Strategies
   name: recrBZOfrDC2lKpRM
   tags: []
   created_at: '2023-06-05T11:40:38.000Z'
@@ -7242,8 +7332,7 @@
   - rec6r8OkE2Q2EdiM3
   title: 'Questions to consider in key stages of AI and machine learning based research,
     regarding merit '
-  category:
-  - Strategies
+  category: Strategies
   name: recsAAZKwCyesrHK6
   tags:
   - reflection-questions
@@ -7277,8 +7366,7 @@
   Sources:
   - recpXl48pJdKDhc6f
   title: Cross-disciplinary work should be incentivised
-  category:
-  - Strategies
+  category: Strategies
   name: recsonQhKLmX4D1ao
   tags: []
   created_at: '2023-06-05T10:19:10.000Z'
@@ -7298,8 +7386,7 @@
   Sources:
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - human agency
-  category:
-  - Strategies
+  category: Strategies
   name: recspvYTySr0ANH6j
   tags:
   - governance-question
@@ -7330,8 +7417,7 @@
   - rec6r8OkE2Q2EdiM3
   title: Questions to consider in key stages of AI and machine learning based research,
     regarding reproducibility and replicability
-  category:
-  - Strategies
+  category: Strategies
   name: recvVsXM40mlnmhqP
   tags:
   - reflection-questions
@@ -7362,8 +7448,7 @@
   Sources:
   - recpXl48pJdKDhc6f
   title: Sustainability should be part of AI impact design and evaluation
-  category:
-  - Strategies
+  category: Strategies
   name: recwQrzqPp6C7jyJs
   tags: []
   created_at: '2023-06-05T11:23:27.000Z'
@@ -7459,8 +7544,7 @@
   - recpXl48pJdKDhc6f
   title: Tools for individuals to create custom machine-readable dynamic terms and
     conditions that respect their preferences for data collection and use
-  category:
-  - Strategies
+  category: Strategies
   name: recwWov6KzmwU0FQW
   tags: []
   created_at: '2023-06-05T09:31:04.000Z'
@@ -7485,8 +7569,7 @@
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - Respect for privacy and data
     protection
-  category:
-  - Strategies
+  category: Strategies
   name: recypFGFqJzmgFmWV
   tags:
   - governance-question
@@ -7524,8 +7607,7 @@
   Sources:
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - Auditability
-  category:
-  - Strategies
+  category: Strategies
   name: reczFKqCos9f1opXO
   tags:
   - governance-question
@@ -7558,8 +7640,7 @@
   - recQiVQ7CTC72xp6O
   title: Questions to consider regarding re-identification and disciplinary methodological
     norms
-  category:
-  - Strategies
+  category: Strategies
   name: reczG9x5YfScZJdCo
   tags:
   - reflection-questions
@@ -7575,15 +7656,13 @@
     potential ethical consequences?” (Markham and Buchanan, 2012, p. 10)
 - title: A local school has installed a tool to help tackle antisocial behaviour,
     and truantism risk
-  category:
-  - Cases
+  category: Cases
   name: rec1RzTKH08fWjSbT
   tags:
   - Safety and wellbeing
   created_at: '2023-05-19T14:13:27.000Z'
 - title: Tracking performance limits access to education
-  category:
-  - Cases
+  category: Cases
   name: rec8YSr2IJxVndTKb
   tags:
   - Dropout risk and grade prediction
@@ -7610,13 +7689,16 @@
     ([pdf](zotero://open-pdf/groups/4907410/items/598C5P37?page=28&annotation=DR727J3N))'
 - Challenges:
   - recHsgB7ki6GknJnX
+  Principles:
+  - recqdGhz7l1cGnQeU
+  - recWLcMWDPE9Fd1pE
+  - recUYS0TFpk2MhVD7
   Strategies:
   - rec7daqDHSCuc70yS
   - recTWhZ88TbQLcNaQ
   - recOo7Pmo4FBYcu7P
   title: Using chatbots to guide learners and parents through administrative tasks
-  category:
-  - Cases
+  category: Cases
   name: recAlOHJhEy5nDwA6
   tags:
   - Resource management and administration
@@ -7639,8 +7721,7 @@
   - recHHr97jsyNDnlsJ
   - recefglLZ3oJWw2SZ
   title: Perpetuating bias in criminal justice
-  category:
-  - Cases
+  category: Cases
   name: recDAvfsflBF0WKpf
   tags:
   - non-education
@@ -7660,8 +7741,7 @@
     either directly or by incorporating factors that are proxies for bias.” ([Access
     Now, 2018, p. 15](zotero://select/groups/4907410/items/KIU6F9PR)) ([pdf](zotero://open-pdf/groups/4907410/items/598C5P37?page=15&annotation=RY637D35))'
 - title: AI for Adaptive Learning
-  category:
-  - Cases
+  category: Cases
   name: recHAwvOykeiUxFsY
   tags: []
   created_at: '2023-05-29T08:00:33.000Z'
@@ -7697,30 +7777,26 @@
     ([Cardona et al., 2023, p. 19](zotero://select/groups/4907410/items/ZI7HP57C))
     ([pdf](zotero://open-pdf/groups/4907410/items/4YFQW35Q?page=23&annotation=XGC6UNEN))'
 - title: AES white paper
-  category:
-  - Cases
+  category: Cases
   name: recKURlVVYGCInW8y
   tags:
   - Automated feedback
   created_at: '2023-05-19T14:13:58.000Z'
 - title: Teacher uses tool to automate creation of some material
-  category:
-  - Cases
+  category: Cases
   name: recKWQBBplr1vXmRc
   tags:
   - Automated content creation
   created_at: '2023-05-19T14:15:04.000Z'
 - title: A regional government is investing in a tool to automate content creation
     for all teachers
-  category:
-  - Cases
+  category: Cases
   name: recMalmQowxcka9V6
   tags:
   - Automated content creation
   created_at: '2023-05-18T18:42:40.000Z'
 - title: Financial discrimination
-  category:
-  - Cases
+  category: Cases
   name: recNNFrnCiGxTP4WE
   tags: []
   created_at: '2023-05-29T07:22:53.000Z'
@@ -7740,12 +7816,14 @@
   - recefglLZ3oJWw2SZ
   - recdmBNNa98cN8Sda
   - recxjc79LvLdKa4rl
+  Principles:
+  - reco4DUa3rsjP0hyg
+  - recWLcMWDPE9Fd1pE
   Strategies:
   - recTWhZ88TbQLcNaQ
   - recegTm800wJXGjO1
   title: Providing individualised interventions for special needs
-  category:
-  - Cases
+  category: Cases
   name: recOOmVQviRyJGvea
   tags:
   - Dropout risk and grade prediction
@@ -7768,12 +7846,14 @@
 - Challenges:
   - recBc3GCNokDL220T
   - recHsgB7ki6GknJnX
+  Principles:
+  - reczcRriFbQQpn8iX
+  - recUYS0TFpk2MhVD7
   Strategies:
   - recOo7Pmo4FBYcu7P
   - recRTVqtvPcBS6zps
   title: Managing student enrolment and resource planning
-  category:
-  - Cases
+  category: Cases
   name: recSXcY4cnofb4zTP
   tags:
   - Resource management and administration
@@ -7794,14 +7874,12 @@
     is the effectiveness and impact of the AI system being evaluated and how does
     this evaluation consider key values of education? Accountability'
 - title: Teacher evaluation fails to acknowledge individual contexts and teacher autonomy
-  category:
-  - Cases
+  category: Cases
   name: recTQ7eABknthRQo8
   tags: []
   created_at: '2023-06-05T15:18:06.000Z'
 - title: Disinformation spread
-  category:
-  - Cases
+  category: Cases
   name: recVLyzjb1UfqbrIh
   tags: []
   created_at: '2023-05-29T07:22:23.000Z'
@@ -7823,8 +7901,7 @@
     should not be discounted.46” ([Access Now, 2018, p. 16](zotero://select/groups/4907410/items/KIU6F9PR))
     ([pdf](zotero://open-pdf/groups/4907410/items/598C5P37?page=16&annotation=9DGUCL8R))'
 - title: Hiring bias
-  category:
-  - Cases
+  category: Cases
   name: recWNt6W4v0xr3x0Z
   tags: []
   created_at: '2023-05-29T07:22:41.000Z'
@@ -7838,8 +7915,7 @@
     ([pdf](zotero://open-pdf/groups/4907410/items/598C5P37?page=16&annotation=DQUC6GAH))'
 - title: A company has approached researchers to fund a small evaluation of a wellbeing
     app being deployed in local schools
-  category:
-  - Cases
+  category: Cases
   name: reccWWRCdr9ZKJBZE
   tags:
   - Safety and wellbeing
@@ -7849,13 +7925,16 @@
   - recL5M2Hye2XHK7zg
   - recvQ90DajNCwPiGP
   - recxjc79LvLdKa4rl
+  Principles:
+  - recwjv8IMAZFWfMSr
+  - recaMsksKInFYbnCL
+  - reco4DUa3rsjP0hyg
   Strategies:
   - rechaQXedBh3OsMjZ
   - recegTm800wJXGjO1
   - rec35PeHdUmtalypk
   title: Using adaptive learning technologies to adapt to each learner’s ability
-  category:
-  - Cases
+  category: Cases
   name: reciNqxyfUgE5XM7t
   tags:
   - Adaptive and personalised learning
@@ -7882,13 +7961,16 @@
   - recefglLZ3oJWw2SZ
   - recdmBNNa98cN8Sda
   - recxjc79LvLdKa4rl
+  Principles:
+  - recaMsksKInFYbnCL
+  - reczcRriFbQQpn8iX
+  - recwjv8IMAZFWfMSr
   Strategies:
   - rechaQXedBh3OsMjZ
   - recRTVqtvPcBS6zps
   - rec81gtnlFS5W2BBF
   title: Scoring essays using automated tools
-  category:
-  - Cases
+  category: Cases
   name: recmS3zSMbR3ofAR5
   tags:
   - Automated feedback
@@ -7912,8 +7994,7 @@
     work within the AI system? Transparency” ([European Commission, 2022, p. 24](zotero://select/groups/4907410/items/3BCJVLT9))
     ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=24&annotation=7VK8CJ4X))'
 - title: ITS
-  category:
-  - Cases
+  category: Cases
   name: reco7BYWc7reRuaCh
   tags: []
   created_at: '2023-05-29T08:02:31.000Z'
@@ -7959,8 +8040,7 @@
     students.” ([Cardona et al., 2023, p. 20](zotero://select/groups/4907410/items/ZI7HP57C))
     ([pdf](zotero://open-pdf/groups/4907410/items/4YFQW35Q?page=24&annotation=TJ94T9HD))'
 - title: UK exam algorithm
-  category:
-  - Cases
+  category: Cases
   name: recpFE7h6QhaEpNAQ
   tags:
   - Dropout risk and grade prediction
@@ -7970,13 +8050,16 @@
   - recL5M2Hye2XHK7zg
   - recvQ90DajNCwPiGP
   - recxjc79LvLdKa4rl
+  Principles:
+  - recqdGhz7l1cGnQeU
+  - recUYS0TFpk2MhVD7
+  - reczcRriFbQQpn8iX
   Strategies:
   - recOo7Pmo4FBYcu7P
   - recRTVqtvPcBS6zps
   - rec7daqDHSCuc70yS
   title: Using student dashboards to guide learners through their learning
-  category:
-  - Cases
+  category: Cases
   name: recrVkbG0XGe2Ca0v
   tags:
   - Automated feedback
@@ -7994,6 +8077,13 @@
     Maintenance Services and steps to be taken to address reported problems? Accountability”
     ([European Commission, 2022, p. 23](zotero://select/groups/4907410/items/3BCJVLT9))
     ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=23&annotation=WEY6JTEU))'
+- Principles:
+  - recUYS0TFpk2MhVD7
+  title: pri
+  category: Cases
+  name: recskjpMFnQ0emSKI
+  tags: []
+  created_at: '2023-06-08T06:38:41.000Z'
 - Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
     on Ethics of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J.
     Silva Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and
@@ -8003,8 +8093,7 @@
   Strategies:
   - recnLauSoXMQCSK5c
   title: Inequities in access to AI may increase, not tackle, inequality
-  category:
-  - Challenges
+  category: Challenges
   name: rec0BAjUqQrSIMAEG
   tags: []
   created_at: '2023-06-05T11:18:00.000Z'
@@ -8122,8 +8211,7 @@
   - recZI7HDWKBU5T22v
   title: How do we foster AI to support wellbeing in context of short-term growth
     priorities?
-  category:
-  - Challenges
+  category: Challenges
   name: rec1QZHHMARBQcZoo
   tags:
   - wellbeing
@@ -8215,8 +8303,7 @@
   - rec5CFheImo8onTcd
   title: How might AI deployed in care settings to foster intimate relationships impact
     on relationships among humans?
-  category:
-  - Challenges
+  category: Challenges
   name: rec2ULcHUjSbbSnHL
   tags:
   - affective-computing
@@ -8278,8 +8365,7 @@
   Strategies:
   - rec9TbOu2ZXUZG4A5
   title: Should affective AI nudge users for personal or societal benefit?
-  category:
-  - Challenges
+  category: Challenges
   name: rec2ajglpzbFYRivi
   tags:
   - nudge-deception
@@ -8373,8 +8459,7 @@
   - recrBZOfrDC2lKpRM
   title: Will AI reduce autonomy through reducing creative, affective, and empathetic
     elements of management?
-  category:
-  - Challenges
+  category: Challenges
   name: rec3Fm8dyG49YU137
   tags:
   - human-potential
@@ -8416,8 +8501,7 @@
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
   title: Tyranny of averages
-  category:
-  - Challenges
+  category: Challenges
   name: rec5VzvnIZcaNKqDh
   tags: []
   created_at: '2023-05-18T14:51:53.000Z'
@@ -8431,8 +8515,7 @@
   - recZI7HDWKBU5T22v
   title: How do we incorporate stakeholder processes to determine key wellbeing considerations
     in AI design/development/use?
-  category:
-  - Challenges
+  category: Challenges
   name: rec5nbWC0ZbVwnmxJ
   tags:
   - wellbeing
@@ -8520,8 +8603,7 @@
     Center for Contemporary History and Policy, 2008.•[Expert and Citizen Assessment
     of Science and ](https://ecastnetwork.org/about/)[Technology (ECAST) Network ](https://ecastnetwork.org/about/)"p.82-83'
 - title: Lack of accountability through automated decisions leading to loss of autonomy
-  category:
-  - Challenges
+  category: Challenges
   name: rec8hxSSEudaplJiA
   tags: []
   created_at: '2023-05-18T19:10:49.000Z'
@@ -8544,8 +8626,7 @@
   Strategies:
   - rec81gtnlFS5W2BBF
   title: How do we ensure assumptions and limitations are clear in technical documentation?
-  category:
-  - Challenges
+  category: Challenges
   name: rec9Cuz3HWc9lWW23
   tags:
   - corporate-ethics
@@ -8584,8 +8665,7 @@
   Strategies:
   - recCN9eqkgKT3KjCB
   title: How do we encourage taking ownership and responsibility for AI impacts?
-  category:
-  - Challenges
+  category: Challenges
   name: rec9qgAZS5U8GL137
   tags:
   - corporate-ethics
@@ -8627,8 +8707,7 @@
   - recfcXzM3foqFNNGN
   title: How do we incorporate wellbeing considerations into AI impact measurement
     and monitoring?
-  category:
-  - Challenges
+  category: Challenges
   name: recA7Kh502s4UKWGo
   tags:
   - wellbeing
@@ -8695,8 +8774,7 @@
   Strategies:
   - recG86YsfXnKY9kNc
   title: How do we know how our data is being used?
-  category:
-  - Challenges
+  category: Challenges
   name: recAoyMGCCLhaSqEb
   tags: []
   created_at: '2023-06-05T09:34:56.000Z'
@@ -8772,8 +8850,7 @@
 - Cases:
   - recSXcY4cnofb4zTP
   title: Privacy breaches
-  category:
-  - Challenges
+  category: Challenges
   name: recBc3GCNokDL220T
   tags: []
   created_at: '2023-05-18T19:10:38.000Z'
@@ -8791,8 +8868,7 @@
     consequently harm a person’s more basic right to pursue their goals and life plans
     free from unchosen influence.” (Leslie, 2019, p. 5) '
 - title: SoTL power
-  category:
-  - Challenges
+  category: Challenges
   name: recCkVZngvMA5I5uv
   tags: []
   created_at: '2023-05-19T13:05:35.000Z'
@@ -8879,8 +8955,7 @@
   - reczVPIH1y2OMpAJH
   - rec42P8U9usfYCtv9
   title: Incidental findings
-  category:
-  - Challenges
+  category: Challenges
   name: recCpTJXuuowqsqQa
   tags:
   - AI
@@ -8894,8 +8969,7 @@
   Strategies:
   - recI7WdfNhrQxRt7F
   title: How can institutional ethics review committees provide oversight of AI research?
-  category:
-  - Challenges
+  category: Challenges
   name: recELObWGfkhXzFG2
   tags:
   - research
@@ -8950,15 +9024,13 @@
     Calo, “[Consumer Subject Review Boards: A Thought Experiment](https://www.stanfordlawreview.org/online/privacy-and-big-data-consumer-subject-review-boards/).”
     _Stanford Law Review Online _66 97, Sept. 2013. p.125'
 - title: Digital divides in burden of data capture
-  category:
-  - Challenges
+  category: Challenges
   name: recENQXCSOQQ3Y8et
   tags: []
   created_at: '2023-05-18T18:54:06.000Z'
 - title: Autonomy reduced through power relationships such as teacher-student, administrator-teacher,
     or perception that a tool cannot be questioned
-  category:
-  - Challenges
+  category: Challenges
   name: recGEFZ3EynXjRaa9
   tags: []
   created_at: '2023-05-18T18:55:13.000Z'
@@ -8971,8 +9043,7 @@
   Strategies:
   - recZI7HDWKBU5T22v
   title: How do we incorporate wellbeing considerations into AI design/development/use?
-  category:
-  - Challenges
+  category: Challenges
   name: recGRpoF7DA23ODSj
   tags:
   - wellbeing
@@ -9064,8 +9135,7 @@
   Strategies:
   - recTjwhqfrJoaRxYo
   title: Bias
-  category:
-  - Challenges
+  category: Challenges
   name: recHHr97jsyNDnlsJ
   tags: []
   created_at: '2023-05-29T07:14:32.000Z'
@@ -9116,8 +9186,7 @@
   Strategies:
   - rechaQXedBh3OsMjZ
   title: Reification of structures
-  category:
-  - Challenges
+  category: Challenges
   name: recHsgB7ki6GknJnX
   tags: []
   created_at: '2023-05-18T18:53:59.000Z'
@@ -9131,8 +9200,7 @@
   - recHsUV9w4HKBA1w1
   title: How do we assess the impact of AI without cultural sensitivity, on value
     systems of communities in which they are deployed?
-  category:
-  - Challenges
+  category: Challenges
   name: recIUf0R50ogibwe6
   tags:
   - affective-computing
@@ -9184,8 +9252,7 @@
   Strategies:
   - recqJAVTtqOUfypNI
   title: AI poses risks to the right to truthful information
-  category:
-  - Challenges
+  category: Challenges
   name: recJV8yTX0MnF3rGD
   tags: []
   created_at: '2023-06-05T11:18:00.000Z'
@@ -9254,8 +9321,7 @@
   Strategies:
   - rec2679E9TXh1DCL8
   title: How do we educate the workforce for design for, or work with, ethical AI?
-  category:
-  - Challenges
+  category: Challenges
   name: recJfAMUB8HdjVQYD
   tags: []
   created_at: '2023-06-05T11:54:10.000Z'
@@ -9374,8 +9440,7 @@
   Sources:
   - recH8KmnURSknCr5y
   title: Accuracy paradox and the risks of false positives
-  category:
-  - Challenges
+  category: Challenges
   name: recJjTMjpfE0WHSWu
   tags: []
   created_at: '2023-05-29T07:17:18.000Z'
@@ -9412,8 +9477,7 @@
   - reclzrMrQSQls3PI9
   title: Collecting data to support learning without falling into social profiling
     of learners
-  category:
-  - Challenges
+  category: Challenges
   name: recKzhZVabDuYM6rG
   tags:
   - education
@@ -9464,8 +9528,7 @@
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
   title: Digital divides in quality of experience with technology
-  category:
-  - Challenges
+  category: Challenges
   name: recL5M2Hye2XHK7zg
   tags: []
   created_at: '2023-05-18T18:54:16.000Z'
@@ -9479,8 +9542,7 @@
   - rec9UfowPkXtPUBC9
   title: How do we represent cross-cultural differences in communication through AI
     systems?
-  category:
-  - Challenges
+  category: Challenges
   name: recL5sNl6bi1vrIzj
   tags:
   - affective-computing
@@ -9559,8 +9621,7 @@
   Strategies:
   - recwWov6KzmwU0FQW
   title: Individuals don't have control over their own data with generic T&C statements
-  category:
-  - Challenges
+  category: Challenges
   name: recO1L6GoFMkA6Lt4
   tags:
   - consent
@@ -9648,8 +9709,7 @@
     Apr. 2002.L. F. Cranor, “Personal Privacy Assistants in the Age of the Internet
     of Things,” in World Economic Forum Annual Meeting, 2016"p.108-110'
 - title: Injustice in intellectual property
-  category:
-  - Challenges
+  category: Challenges
   name: recOeanQuUyB6Dx8g
   tags: []
   created_at: '2023-05-18T19:10:21.000Z'
@@ -9666,8 +9726,7 @@
   - rec9SSyrfFkmuJkCe
   - recZI7HDWKBU5T22v
   title: How do we understanding indirect or dual-use impacts of AI?
-  category:
-  - Challenges
+  category: Challenges
   name: recOpn4I30te1qiKl
   tags: []
   created_at: '2023-06-05T11:17:59.000Z'
@@ -9717,8 +9776,7 @@
   Strategies:
   - reck6xeMUc9jtmLr3
   title: AI teams may not thoroughly explore the ethical considerations in their work
-  category:
-  - Challenges
+  category: Challenges
   name: recPqsTlFK76oGD9C
   tags:
   - research
@@ -9771,8 +9829,7 @@
   - recpXl48pJdKDhc6f
   title: How do we navigate individual choice of technology engagement and school
     or system-wide procurement?
-  category:
-  - Challenges
+  category: Challenges
   name: recUKAxgCSxylEiDm
   tags:
   - education
@@ -9819,8 +9876,7 @@
     Forthcoming. Available at SSRN: [https://ssrn.com/abstract=3191436,](https://ssrn.com/abstract=3191436)
     June 6, 2018."'
 - title: Indirect impacts (including long-range, and dual-use)
-  category:
-  - Challenges
+  category: Challenges
   name: recWPbL5kB1Yh5OPf
   tags: []
   created_at: '2023-05-18T18:54:26.000Z'
@@ -9834,8 +9890,7 @@
   - recJyzFLE9ry4YEbb
   title: How do we provide consistent oversight of AI to ensure they are accountable
     to end-users for any conclusions?
-  category:
-  - Challenges
+  category: Challenges
   name: recX6r1O4jcsp0nIM
   tags:
   - corporate-ethics
@@ -9869,8 +9924,7 @@
   - recsvi4LnhEEPyQ1h
   title: Incidental data capture (e.g. capturing non-consenting persons in the background
     of video capture)
-  category:
-  - Challenges
+  category: Challenges
   name: recYHYaeqVHR93Kuo
   tags:
   - AI
@@ -9884,8 +9938,7 @@
   Strategies:
   - rec9SSyrfFkmuJkCe
   title: How can we incentivise reporting ethical concerns?
-  category:
-  - Challenges
+  category: Challenges
   name: recZ43i8Cnhohwb2x
   tags:
   - corporate-ethics
@@ -9923,8 +9976,7 @@
   - recV8WjuiXlfbVN5d
   title: How do leaders provide direction regarding promotion of human values in AI
     design?
-  category:
-  - Challenges
+  category: Challenges
   name: recaBNAcact8Bz6dg
   tags:
   - corporate-ethics
@@ -9968,8 +10020,7 @@
   - recZI7HDWKBU5T22v
   title: How do we assess the impact of AI without cultural sensitivity, on culturally
     situated human social interaction?
-  category:
-  - Challenges
+  category: Challenges
   name: recaFyWRROaJ1ZFyY
   tags:
   - affective-computing
@@ -10020,8 +10071,7 @@
   Strategies:
   - recg2u6ZXSRiUO8uF
   title: AI poses threats to labour
-  category:
-  - Challenges
+  category: Challenges
   name: recb50cfuQUWDAHZW
   tags: []
   created_at: '2023-06-05T11:48:28.000Z'
@@ -10171,8 +10221,7 @@
   Strategies:
   - recwQrzqPp6C7jyJs
   title: How do we assess long-range and indirect impacts of AI?
-  category:
-  - Challenges
+  category: Challenges
   name: recdZI38VrUaUKRYf
   tags:
   - wellbeing
@@ -10279,8 +10328,7 @@
 - Strategies:
   - recsonQhKLmX4D1ao
   title: How can AI model norms to govern its action
-  category:
-  - Challenges
+  category: Challenges
   name: recdlFwsToNXtcvGC
   tags: []
   created_at: '2023-06-05T12:09:07.000Z'
@@ -10390,8 +10438,7 @@
   - rec81gtnlFS5W2BBF
   - recgn2UvSD4OhzGI4
   title: Decisions with unclear grounding
-  category:
-  - Challenges
+  category: Challenges
   name: recdmBNNa98cN8Sda
   tags: []
   created_at: '2023-05-19T09:30:45.000Z'
@@ -10411,8 +10458,7 @@
   - recpXl48pJdKDhc6f
   title: Will 'emotional AI' increase accessibility of AI and what impact might such
     increased identification with AI have?
-  category:
-  - Challenges
+  category: Challenges
   name: recebQ2NgeBCmafoX
   tags:
   - synthetic-emotion
@@ -10466,8 +10512,7 @@
   - recgqEckuFTILlOnz
   - rec81gtnlFS5W2BBF
   title: How do we maintain agency and minimise harms in context of black box models?
-  category:
-  - Challenges
+  category: Challenges
   name: rececsX8igwNqhhkC
   tags:
   - corporate-ethics
@@ -10512,8 +10557,7 @@
   Principles:
   - reczVPIH1y2OMpAJH
   title: Reinforcing or creating bias
-  category:
-  - Challenges
+  category: Challenges
   name: recefglLZ3oJWw2SZ
   tags:
   - AI
@@ -10582,8 +10626,7 @@
   Sources:
   - recpXl48pJdKDhc6f
   title: Will AI adversely affect human psychological and emotional wellbeing?
-  category:
-  - Challenges
+  category: Challenges
   name: recg7BIZZsvZ57fvV
   tags:
   - human-potential
@@ -10610,8 +10653,7 @@
 - Principles:
   - rec42P8U9usfYCtv9
   title: Risks in removal of systems and algorithmic imprints
-  category:
-  - Challenges
+  category: Challenges
   name: recgZrgA8K7MmIzdF
   tags: []
   created_at: '2023-05-18T18:53:45.000Z'
@@ -10627,8 +10669,7 @@
     algorithm in 2020, which had knock-on impacts internationally even after the algorithm
     itself was removed <https://dl.acm.org/doi/abs/10.1145/3531146.3533186> '
 - title: Live A/B testing and validity towards aims
-  category:
-  - Challenges
+  category: Challenges
   name: rech9r2f3QX8ZvmkP
   tags: []
   created_at: '2023-05-18T18:54:44.000Z'
@@ -10641,8 +10682,7 @@
   Strategies:
   - recsonQhKLmX4D1ao
   title: Cross-disciplinary expertise in ethics may be excluded in AI work
-  category:
-  - Challenges
+  category: Challenges
   name: rech9vLLbQgO3OY0i
   tags:
   - research
@@ -10684,8 +10724,7 @@
   Strategies:
   - rec1Ha94n5xbeqcOY
   title: How can we protect our identities to assure privacy and identity verification?
-  category:
-  - Challenges
+  category: Challenges
   name: reci0hfcAOIxLVNhB
   tags: []
   created_at: '2023-06-05T09:37:23.000Z'
@@ -10731,8 +10770,7 @@
   - rec9TbOu2ZXUZG4A5
   title: How do we ensure AI nudges are deployed appropriately and address their target
     outcome?
-  category:
-  - Challenges
+  category: Challenges
   name: reciH69D8oIGI1p93
   tags:
   - nudge-deception
@@ -10773,8 +10811,7 @@
   Strategies:
   - recZI7HDWKBU5T22v
   title: How do we incorporate a human-rights framework into AI design/development/use?
-  category:
-  - Challenges
+  category: Challenges
   name: reciNc7OeTUmnsLqg
   tags:
   - wellbeing
@@ -10830,8 +10867,7 @@
   Strategies:
   - recouZjokdKQz88z1
   title: AI could hamper, not foster, progress on SDGs
-  category:
-  - Challenges
+  category: Challenges
   name: recj64vAVJSm5B2ba
   tags:
   - SDGs
@@ -10928,8 +10964,7 @@
     Nations Global Pulse, Big Data for Development: Challenges and Opportunities,
     2012."p139-140'
 - title: Breakdown in trust in loss of exposure to diverse human-human interactions
-  category:
-  - Challenges
+  category: Challenges
   name: reckPjhcWwLgjX9p5
   tags: []
   created_at: '2023-05-19T09:32:07.000Z'
@@ -10950,8 +10985,7 @@
   - recpXl48pJdKDhc6f
   title: Will increased access to personal information impact human experience and
     autonomy?
-  category:
-  - Challenges
+  category: Challenges
   name: reckyVWsglP8FLeUp
   tags:
   - human-potential
@@ -10993,8 +11027,7 @@
   Strategies:
   - recMgYQ7EqHAyDfi1
   title: How do we ensure protection of data during humanitarian emergencies?
-  category:
-  - Challenges
+  category: Challenges
   name: recmRF2P1OOASMfNF
   tags: []
   created_at: '2023-06-05T11:54:11.000Z'
@@ -11083,8 +11116,7 @@
   Strategies:
   - recQPwyiQbPcN0G47
   title: How do ensure stakeholder experience is considered in AI design?
-  category:
-  - Challenges
+  category: Challenges
   name: recnYgPiGULdHLunC
   tags:
   - corporate-ethics
@@ -11124,8 +11156,7 @@
   - recfcXzM3foqFNNGN
   title: How do corporations create values-based ethical culture in the context of
     growth-focused strategy
-  category:
-  - Challenges
+  category: Challenges
   name: recqpYMjEFJLmyNaN
   tags:
   - corporate-ethics
@@ -11184,8 +11215,7 @@
     (IETF) and Human Rights](http://europepmc.org/abstract/med/27255607).” _Science
     and Engineering Ethics, _vol._ _23, no. 2, pp. 449–468, Apr. 2017."p.128'
 - title: New technologies make reidentification easier
-  category:
-  - Challenges
+  category: Challenges
   name: recrHBtVR4EOXSJh2
   tags: []
   created_at: '2023-05-19T14:21:29.000Z'
@@ -11198,8 +11228,7 @@
   Strategies:
   - rec9TbOu2ZXUZG4A5
   title: Should affective AI systems ever deceive?
-  category:
-  - Challenges
+  category: Challenges
   name: recrVvneRZaEutaGw
   tags:
   - nudge-deception
@@ -11239,8 +11268,7 @@
   Strategies:
   - recgqEckuFTILlOnz
   title: How do we maintain independence of review in AI applications?
-  category:
-  - Challenges
+  category: Challenges
   name: recrk0Tgfwe5J9xfI
   tags:
   - corporate-ethics
@@ -11341,8 +11369,7 @@
   Strategies:
   - reclzrMrQSQls3PI9
   title: Smart toys collect data about children with little regulation
-  category:
-  - Challenges
+  category: Challenges
   name: recroNon39TCBeC88
   tags:
   - education
@@ -11391,8 +11418,7 @@
   Strategies:
   - recfcXzM3foqFNNGN
   title: How do we embed values throughout AI workflows?
-  category:
-  - Challenges
+  category: Challenges
   name: rect310qem9li3HKK
   tags:
   - corporate-ethics
@@ -11432,8 +11458,7 @@
     R. Calo, “[There Is a Blind Spot in AI Research,](http://www.nature.com/news/there-is-a-blind-spot-in-ai-research-1.20805)”
     _Nature _538, pp. 311–313, 2016.  '
 - title: Sustainabiity
-  category:
-  - Challenges
+  category: Challenges
   name: recv6cN7XSt5GW32Y
   tags: []
   created_at: '2023-05-18T18:55:13.000Z'
@@ -11443,8 +11468,7 @@
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
   title: Concerns with merit of new systems
-  category:
-  - Challenges
+  category: Challenges
   name: recvQ90DajNCwPiGP
   tags: []
   created_at: '2023-05-19T09:32:44.000Z'
@@ -11468,8 +11492,7 @@
   - rec0WScLo6sUnoOQN
   title: How do we foster AI that contributes to sustainability in context of short-term
     growth priorities?
-  category:
-  - Challenges
+  category: Challenges
   name: recvWM2glArsVhaye
   tags:
   - wellbeing
@@ -11567,8 +11590,7 @@
   - reccMqFCLOgQwWM5Q
   title: How can AI work respect diversity in cross-cultural norms, aims, and practices
     that vary by location, change over time, and come into conflict?
-  category:
-  - Challenges
+  category: Challenges
   name: recxjc79LvLdKa4rl
   tags:
   - research
@@ -11825,8 +11847,7 @@
     should be evaluatedspecifically against the norms that thecommunity expects the
     A/IS to follow."p.183'
 - title: SoTL secondary use of student data
-  category:
-  - Challenges
+  category: Challenges
   name: reczg5MObRbgzTeob
   tags: []
   created_at: '2023-05-19T13:10:14.000Z'
@@ -11868,8 +11889,7 @@
   Rights:
   - unclear
   title: SoTL Human Research Ethics Resource
-  category:
-  - Sources
+  category: Sources
   name: rec08iMfls4T3w4KS
   tags:
   - education-research
@@ -11884,8 +11904,7 @@
   Rights:
   - unclear
   title: Social Research Association guidelines
-  category:
-  - Sources
+  category: Sources
   name: rec26KH3hJZEDfhqG
   tags:
   - social-research
@@ -11916,8 +11935,7 @@
   Rights:
   - CC-By
   title: Project SHERPA guidelines
-  category:
-  - Sources
+  category: Sources
   name: rec488aokfNHPYUqN
   tags:
   - ethics-guideline
@@ -11968,8 +11986,7 @@
   Rights:
   - unclear
   title: Research Ethics in Ethnography/Anthropology
-  category:
-  - Sources
+  category: Sources
   name: rec695ykoVCiLpjlp
   tags:
   - ethnography
@@ -12003,8 +12020,7 @@
   - unclear
   title: British Sociological Association ethics guidelines including for digital
     research and social media
-  category:
-  - Sources
+  category: Sources
   name: rec6VgPcUOVnAu0uO
   tags:
   - sociology
@@ -12035,8 +12051,7 @@
   - recgNdOlcMTiussUk
   - rec8cNT8sPSFtMSAc
   title: AoIR report 3
-  category:
-  - Sources
+  category: Sources
   name: rec6r8OkE2Q2EdiM3
   tags:
   - AI
@@ -12073,8 +12088,7 @@
   Rights:
   - unclear
   title: Social, Ethical, and Legal Issues in Presence Research and Applications.
-  category:
-  - Sources
+  category: Sources
   name: rec7O4POwgYQFt2Xg
   tags:
   - presence-technologies
@@ -12090,6 +12104,14 @@
     (BCI), which can translate brainwaves into control signals and vice versa.” (Schroeder
     et al., 2009, p. 5)
 - Link: https://education.ec.europa.eu/node/2285
+  Principles:
+  - recUYS0TFpk2MhVD7
+  - recqdGhz7l1cGnQeU
+  - recaMsksKInFYbnCL
+  - recwjv8IMAZFWfMSr
+  - reco4DUa3rsjP0hyg
+  - recWLcMWDPE9Fd1pE
+  - reczcRriFbQQpn8iX
   Reference: |
     European Commission. (2022). _Ethical guidelines on the use of artificial intelligence and data in teaching and learning for educators | European Education Area_. European Commission. <https://education.ec.europa.eu/node/2285>
   Rights:
@@ -12103,8 +12125,7 @@
   - recTWhZ88TbQLcNaQ
   - recRTVqtvPcBS6zps
   title: EC guidelines on AI in education for educators
-  category:
-  - Sources
+  category: Sources
   name: rec9jnxuHOioQn4DC
   tags:
   - ethics-guideline
@@ -12144,8 +12165,7 @@
   - unclear
   title: Community-based participatory research A guide to ethical principles and
     practice.
-  category:
-  - Sources
+  category: Sources
   name: recEUvvWsvLXjiGRC
   tags:
   - participatory-or-community-research
@@ -12190,8 +12210,7 @@
   Rights:
   - CC-By
   title: AccessNow
-  category:
-  - Sources
+  category: Sources
   name: recH8KmnURSknCr5y
   tags:
   - AI
@@ -12221,8 +12240,7 @@
   Rights:
   - unclear
   title: ethical use of digital data in human research.
-  category:
-  - Sources
+  category: Sources
   name: recK8N5VaHTZwJJQV
   tags:
   - digital-data
@@ -12260,8 +12278,7 @@
   Rights:
   - unclear
   title: 'Steps for Engaging Young Children in Research '
-  category:
-  - Sources
+  category: Sources
   name: recPWpuKPvgwavZtB
   tags:
   - young-participants
@@ -12326,8 +12343,7 @@
   Rights:
   - All-rights-reserved
   title: AIATSIS code of ethics
-  category:
-  - Sources
+  category: Sources
   name: recPr1Vbe9mTKyXIc
   tags:
   - indigenous-research
@@ -12405,8 +12421,7 @@
   - recazD3B5XpqgOCGV
   - recPynxbe7x5wOs5E
   title: AoIR report 2
-  category:
-  - Sources
+  category: Sources
   name: recQiVQ7CTC72xp6O
   tags:
   - internet-research
@@ -12434,8 +12449,7 @@
   - recELo3u36oZuujxN
   - recI5BV6v0BCK03VN
   title: Ethics in The Scholarship of Teaching and Learning
-  category:
-  - Sources
+  category: Sources
   name: recQzldmBLByP78Uu
   tags:
   - ethics-guideline
@@ -12480,8 +12494,7 @@
   Rights:
   - unclear
   title: Te Ara Tika Guidelines for Maori Research Ethics
-  category:
-  - Sources
+  category: Sources
   name: recV9YJfbssdD2lty
   tags:
   - ethics-guideline
@@ -12517,8 +12530,7 @@
   - recX4wcNFSw9YljDD
   - recqY2lEigz82Xmh5
   title: Office of EdTech AI and Future of T&L
-  category:
-  - Sources
+  category: Sources
   name: recY4zreDoWrsbsv7
   tags:
   - AI
@@ -12623,8 +12635,7 @@
   Rights:
   - All-rights-reserved
   title: Ethical Visual Research Methods
-  category:
-  - Sources
+  category: Sources
   name: recYWeamyNKERwiEb
   tags:
   - research-ethics
@@ -12666,13 +12677,13 @@
   - recjViPnz3atRIOpD
   - recheWZC64aZRgmpo
   - recint2IxoR8aILCp
+  - recPg7Ov0priGGtLm
   Reference: |
     Developed jointly by National Health and Medical Research Council Australian Research Council Universities Australia (2018), National Statement on Ethical Conduct in Human Research
   Rights:
   - CC-By
   title: National Statement on Ethical Conduct in Human Research
-  category:
-  - Sources
+  category: Sources
   name: recZRK4rseqW5VsRL
   tags:
   - ethics-guideline
@@ -12752,8 +12763,7 @@
   - CC-NC
   - CC-ND
   title: British Educational Research Association ethics guidelines
-  category:
-  - Sources
+  category: Sources
   name: recb4qL0nQ1TSaE0w
   tags:
   - research-ethics
@@ -12779,8 +12789,7 @@
   - CC-NC
   - CC-ND
   title: PANELFIT guidelines for data protection
-  category:
-  - Sources
+  category: Sources
   name: recctRdjoSccU3vcD
   tags:
   - digital-data
@@ -12846,8 +12855,7 @@
   - recZPU5yTmrjPXlF2
   title: Turing responsible design and implementation of AI systems in the public
     sector
-  category:
-  - Sources
+  category: Sources
   name: recfYC5jjPmpLfSlM
   tags:
   - AI
@@ -12876,8 +12884,7 @@
   Rights:
   - All-rights-reserved
   title: British Society of Gerontology ethical guidelines
-  category:
-  - Sources
+  category: Sources
   name: recl6lvnjffHMH8K1
   tags:
   - older-participants
@@ -12935,8 +12942,7 @@
   - recaTTvWN1olqx608
   - rec81gtnlFS5W2BBF
   title: High-level Expert Group on AI
-  category:
-  - Sources
+  category: Sources
   name: recnCULdYQ36cpZR7
   tags:
   - AI
@@ -12969,8 +12975,7 @@
   Rights:
   - unclear
   title: Research Ethics in Machine Learning
-  category:
-  - Sources
+  category: Sources
   name: recoJTiIbIxoY001E
   tags:
   - AI
@@ -13096,8 +13101,7 @@
   - recgn2UvSD4OhzGI4
   - recKWkdYO98PeEKDz
   title: IEEE
-  category:
-  - Sources
+  category: Sources
   name: recpXl48pJdKDhc6f
   tags:
   - AI
@@ -13121,8 +13125,7 @@
   Rights:
   - All-rights-reserved
   title: Ethical guidance for Research with People with Disabilities
-  category:
-  - Sources
+  category: Sources
   name: recr4dvMvPupPbFfo
   tags:
   - research-with-people-with-disabilities
@@ -13156,8 +13159,7 @@
   Rights:
   - CC-By
   title: EC Syllabus on ethics in research
-  category:
-  - Sources
+  category: Sources
   name: recwJEbOurgXcmPiM
   tags:
   - not-research-ethics
@@ -13197,8 +13199,7 @@
   Rights:
   - unclear
   title: 'Responsible bots: 10 guidelines for developers of conversational AI'
-  category:
-  - Sources
+  category: Sources
   name: reczEXIqduaoX8Jab
   tags:
   - not-research-ethics
@@ -13212,62 +13213,52 @@
     any data-centric AI system, including ethics, privacy, security, safety, inclusion,
     transparency and accountability.” (Microsoft, 2018, p. 1)
 - title: Parents
-  category:
-  - Stakeholders
+  category: Stakeholders
   name: rec0af1wTjdFwMqsw
   tags: []
   created_at: '2023-05-18T14:40:34.000Z'
 - title: Technology-providers
-  category:
-  - Stakeholders
+  category: Stakeholders
   name: recGRt9lWJvxx5GAE
   tags: []
   created_at: '2023-05-18T14:40:23.000Z'
 - title: Policy-makers
-  category:
-  - Stakeholders
+  category: Stakeholders
   name: recSaPtMj9rxfu4uu
   tags: []
   created_at: '2023-05-18T14:40:23.000Z'
 - title: Technology-developers-and-designers
-  category:
-  - Stakeholders
+  category: Stakeholders
   name: recTYTKZphOqdzYoL
   tags: []
   created_at: '2023-06-05T14:49:01.000Z'
 - title: Teachers-of-children
-  category:
-  - Stakeholders
+  category: Stakeholders
   name: recVHjstaBpfkQwvp
   tags: []
   created_at: '2023-05-18T13:51:22.000Z'
 - title: Learners-adults
-  category:
-  - Stakeholders
+  category: Stakeholders
   name: recdkIzRDcuurhTmM
   tags: []
   created_at: '2023-06-05T14:49:46.000Z'
 - title: Learners-children
-  category:
-  - Stakeholders
+  category: Stakeholders
   name: reci4jOiaZbCd37eY
   tags: []
   created_at: '2023-06-05T14:49:50.000Z'
 - title: Teachers-of-adults
-  category:
-  - Stakeholders
+  category: Stakeholders
   name: reckhslKpo5ZlVNpl
   tags: []
   created_at: '2023-05-18T13:51:22.000Z'
 - title: Institutional-leaders
-  category:
-  - Stakeholders
+  category: Stakeholders
   name: recwbivinQr5lOP5r
   tags: []
   created_at: '2023-05-18T13:51:22.000Z'
 - title: Researchers
-  category:
-  - Stakeholders
+  category: Stakeholders
   name: recz1WGGiX1qkZTxC
   tags: []
   created_at: '2023-06-05T14:48:51.000Z'
