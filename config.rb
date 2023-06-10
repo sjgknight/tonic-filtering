@@ -5,9 +5,9 @@ set :url_root, 'https://sjgknight.github.io/tonic-filtering'
 set :build_dir, 'docs'
 
 set :markdown_engine, :kramdown
+
 redirect "about.html", to: "pages/about.html"
 redirect "snippets.html", to: "pages/snippets.html"
-
 
 #I cannot get a base url variable in utils.rb or inside
 #helpers.rb def detail_page_url(item) to pre-pend.

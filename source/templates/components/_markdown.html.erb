@@ -1,2 +1,2 @@
-<%- markdown_parser = Redcarpet::Markdown.new(Redcarpet::Render::HTML) -%>
-<%= markdown_parser.render(markdown_text).html_safe %>
+<%- markdown_parse = Redcarpet::Markdown.new(Redcarpet::Render::HTML) -%>
+<%= markdown_parse.render(markdown_text).html_safe %>

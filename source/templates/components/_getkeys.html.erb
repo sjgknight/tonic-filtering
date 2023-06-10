@@ -1,0 +1,3 @@
+<% keys = tonic_collection.select { |item| eval(my_filters) }.map { |item| item[:name] } %>
+<% keys = keys.uniq.join('|').strip.gsub(/\n/, '') %>
+<%= keys %>

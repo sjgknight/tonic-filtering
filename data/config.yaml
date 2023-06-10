@@ -24,6 +24,8 @@ links:
 sorting:
   default_order: "Title asc"
 
+autolink: true
+
 # Filters
 filters:
   exclude:
@@ -36,8 +38,9 @@ filters:
     Category: radio_buttons
     tags: tags
     Title: text
-    childOf: select
-    equivalentTo: select
+    childOf: text
+    equivalentTo: text
+    Reference: text
     created_at: date_range
 
 #was trying to order these but that's not here

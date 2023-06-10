@@ -1,0 +1,11 @@
+<%
+  display_items = tonic_collection.select do |item|
+    eval(my_filters)
+  end
+%>
+
+<div id="collection-container" class="mt-4 grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+  <% display_items.each do |item| %>
+    <%= partial 'templates/collection/item_card', locals: { item: item } %>
+  <% end %>
+</div>

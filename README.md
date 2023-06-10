@@ -25,11 +25,14 @@ The changes I made to base tonic are:
 1. I don't currently have any pages that aren't from data, but it would be useful to have both (1) an about page, and (2) descriptive pages that pull data in lists. Middleman docs describe setting up a blog, and dynamic pages...but not just, regular fixed-content pages
 1. I mucked up some of the processing.R stuff so a bunch of things are now lists where they should be strings
 1. In filters.rb it would be good if it read the order of declared filters in config.yaml and used that for any declared (and then any not-excluded but undeclared are just given in whatever the default is)
-1. I'd like to be able to use this line inside standalone pages to display a set of cards I've pre-filtered with some wraparound text
+1. I created a partial to show a pre-filtered set of cards
+1. I created a partial to render and transclude md files into html
 
->   <div id="collection-container" class="mt-4 grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-      <% tonic_collection.each do |item| %>
-        <%= partial 'templates/collection/item_card', locals: { item: item } %>
+
+<%= partial 'templates/components/markme', locals: { markdown_text: File.read('source/pages/02-respect-for-persons.md')} %>
+
+<%= partial 'templates/components/markdown', locals: { markdown_text: '' } %>
+
 
 ...I think that was it. 
 I thought hugo documentation was hard to navigate, middleman is something else...
