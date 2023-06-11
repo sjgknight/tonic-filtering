@@ -1,18 +1,33 @@
 ## Ethical action <a id="introduction"></a>
 
-How we interact with each other has ethical dimensions in both interactions that are direct  (e.g. in face-to-face communication), and indirect(e.g., through the ways our decisions impact people at a distance to us in how we use technology, shop, or conduct particular research projects). *Ethical conduct* involves a responsiveness to these ethical dimensions in acting to respect others. It thus goes beyond rule following; ethical principles and other ethical concepts are intended to provide tools to support shared consideration of human values in fostering respect for persons.
+How we interact with each other has ethical dimensions in both interactions that are direct  (e.g. in face-to-face communication), and indirect(e.g., through the ways our decisions impact people at a distance to us in how we use technology, shop, or conduct particular research projects). **Ethical conduct** involves a responsiveness to these ethical dimensions in acting to respect others. It thus goes beyond rule following; ethical principles and other ethical concepts are intended to provide tools to support shared consideration of human values in fostering respect for persons.
 
-**Ethical issues can be rendered invisible, static, or simple** (in the sense of unambiguous, straightforward, or uninvolved) in many contexts. This may occur because ethical reflection is not embedded in proefessional practice and learning contexts, sometimes only considered in stand-alone courses or events, or/and abstracted from the practical contexts we may face in working and living in society.
+**Ethical issues can be rendered invisible, static, or simple** (in the sense of unambiguous, straightforward, or uninvolved) in many contexts. This may occur because ethical reflection is not embedded in professional practice and learning contexts, sometimes only considered in stand-alone courses or events, or/and abstracted from the practical contexts we may face in working and living in society.
 
-However, *ethical issues are complex*. That complexity arises due to plurality in the values and principles held within and across contexts, norms regarding practices to navigate ethical issues, and the inherent complexity of navigating tensions in values. Ethical action involves ongoing consideration of these issues.
+However, **ethical issues are complex**. That complexity arises due to plurality in the values and principles held within and across contexts, norms regarding practices to navigate ethical issues, and the inherent complexity of navigating tensions in values. Ethical action involves ongoing consideration of these issues.
 
 ### Ethics vocabulary
 
 Reflection on ethical issues has a long history across societies, reflected in scholarly and cultural materials from religious teachings, scholarly and fiction writings, and plays, slam poetry, paintings, etc. All of these works can form part of our ethical vocabulary, providing shared language, metaphors, or reference points in discussing issues.
+(see e.g. https://ahrecs.com/can-reading-australian-novels-help-us-become-more-ethical-researchers/ )
 
 > Consider creative works such as movies that reflect ethical issues in educational settings and the use of AI in society
 
-"There has, however, been increased attention to ethical reflection about human research since the Second World War. The judgment of the Nuremberg military tribunal included ten principles about permissible medical experiments, since referred to as the Nuremberg Code. Discussion of these principles led the World Medical Assembly in 1964 to adopt what came to be known as the Helsinki Declaration, revised several times since then. The various international human rights instruments that have also emerged since the Second World War emphasise the importance of protecting human beings in many spheres of community life. During this period, written ethical guidelines have also been generated in many areas of research practice as an expression of professional responsibility."
+The history of research ethics is often narrated as grounded in key events. Key events, and scandals are important
+
+But - we care about nuance
+- not just shooting the bunnies
+- there are not always clear lines between a key scandal and regulation or shifts in ethical standards; we ought to be actively looking for risks and potentials, not waiting for scandal
+- not all regulation supports research
+- the history of research ethics varies internationally 
+
+There are a number of difficulties with this ‘schooled by scandal’ history. First, the implicit (and simplistic) assumption of causality between examples of unethical (as seen with the benefit of hindsight) research and the subsequent tightening of regulations, guidelines or standards. Second, the unrepresentative importance accorded to the “scandals” can conceal the fact that most human research at the time was ethically acceptable.  Nonetheless, we accept that the so-called scandals are important at least in the fact that they reveal points of time at which the ethical and social acceptability of prevailing practices in human research was being questioned from new perspectives whose sources are historically and socially complex.  Third, the assumption that regulations have evolved and that all changes in regulation have benefited both research and research participants. Finally, the most important difficulty is that the history is simply not representative of our part of the world.
+ Thomson C. (30 July 2018) Research Ethics in Australia: A Story. Research Ethics Monthly. Retrieved from: https://ahrecs.com/human-research-ethics/research-ethics-in-australia-a-story
+
+
+Key events have certainly increased attention to ethical concerns, and our common understanding of standards for ethics. The 20th Century saw a range of human rights legal instruments emerge internationally, to protect the dignity of humans across contexts. Atrocities prosecuted in the Nuremberg tribunals gave rise to the [Nuremberg Code](https://en.wikipedia.org/wiki/Nuremberg_Code) ethical principles for human experimentation with the subsequent [Declaration of Helsinki](https://en.wikipedia.org/wiki/Declaration_of_Helsinki) developing these principles across a number of revisions. While these principles focus on biomedical research, ethics guidelines have been developed across professional and research domains. 
+
+
 
 “The challenge of creating a culture of responsible innovation begins with the task of building an accessible moral vocabulary that will allow team members to explore and discuss the ethical stakes of the AI projects that they are involved in or are considering taking on. In the field of AI ethics, this moral vocabulary draws primarily on two traditions of moral thinking: (1) bioethics and (2) human rights discourse. Bioethics is the study of the ethical impacts of biomedicine and the applied life sciences. Human rights discourse draws inspiration from the UN Declaration of Human Rights. It is anchored in a set of universal principles that build upon the idea that all humans have an equal moral status as bearers of intrinsic human dignity.” (Leslie, 2019, p. 8)
 
@@ -50,9 +65,8 @@ To enable comparative assessment of academic activity, this definition sought to
 Here we are particularly interested in the further questions:
 
 * What is human research?
-* What is the scope of \'quality assurance\' activities and their level of ethics oversight particularly with respect to use of AI and in educational contexts
-* When is research involving \'AI\' human research?
-
+* When is research involving 'AI' human research?
+* What are the distinctive features of research in education, especially where it involves use of AI? 
 
 ### What is human research?
 
@@ -69,7 +83,7 @@ The term _participants_ is, therefore, used very broadly in this National Statem
 
 In addition, the conduct of human research often has an impact on the lives of others who are not participants. When this impact is reasonably foreseeable, it may raise ethical questions for researchers and for those ethically reviewing research.
 
-### Emerging technologies and research
+### When is research involving 'AI' human research?
 
 “The scope and contexts of internet research have been dramatically expanded through the continuing global diffusion of the internet into nearly every country in the world, as facilitated through a growing array of devices (including game consoles, internet-enabled phones and other mobile devices) and ever-increasing bandwidth; rapidly expanding suites of new communication applications; and the increasingly seamless interweaving of online and offline activities and experiences. Alongside these developments, the literature of internet research ethics has grown considerably, providing us with a far more extensive range of theoretical resources and practical examples to help recognize and guide ethical reflection.” (Markham and Buchanan, 2012, p. 2)
 
@@ -80,7 +94,11 @@ In addition, the conduct of human research often has an impact on the lives of o
 “• You will have to ensure that your AI project is ethically permissible by considering the impacts it may have on the wellbeing of affected stakeholders and communities. • You will have to ensure that your AI project is fair and non-discriminatory by accounting for its potential to have discriminatory effects on individuals and social groups, by mitigating biases that may influence your model’s outputs, and by being aware of the issues surrounding fairness that come into play at every phase of the design and implementation pipeline. • You will have to ensure that your AI project is worthy of public trust by guaranteeing to the extent possible the safety, accuracy, reliability, security, and robustness of its product. • You will have to ensure that your AI project is justifiable by prioritising both the transparency of the process by which your model is designed and implemented, and the transparency and interpretability of its decisions and behaviours. We call this governance architecture an ethical platform for two important reasons. First, it is intended to provide you with a solid, processed-based footing of values, principles, and protocolsan ethical platform to stand on—so that you and your team are better able to design and implement AI systems ethically, equitably, and safely. Secondly, it is intended to help you facilitate a culture of responsible AI innovation—to help you provide an ethical platform to stand for—so that your project team can be united in a collaborative spirit to develop AI technologies for the public good.” ([Leslie, 2019, p. 6](zotero://select/groups/4907410/items/6QAK3ZN5)) ([pdf](zotero://open-pdf/groups/4907410/items/FFHN69EG?page=7&annotation=KSF6QPE2))
 
 
-### education and research
+### What are the distinctive features of research in education, especially where it involves use of AI?
+
+
+
+What is the scope of 'quality assurance' activities and their level of ethics oversight particularly with respect to use of AI and in educational contexts
 
 “What is Artificial Intelligence? Throughout Europe, learners and educators increasingly use Artificial Intelligence (AI) systems, sometimes without realising it. Search engines, smart assistants, chatbots, language translation, navigation apps, online videogames and many other applications use Artificial Intelligence in our everyday lives. AI systems rely on data, which is collected in different modalities (e.g. sound, images, text, posts, clicks) and all together form our digital traces. AI has great potential to enhance education and training for learners, educators and school leaders. AI systems are currently helping some educators to identify specific learning needs, providing learners with personalised learning experiences, and helping some schools to make better decisions, so that they can more effectively use the teaching resources available to them. As AI systems continue to evolve and data usage increases, it is of utmost importance to develop a better understanding of their impact on the world around us, particularly in education and training. Educators and school leaders need to have at least a basic knowledge of AI and data usage in order to be able to engage positively, critically, and ethically with this technology and to properly use it to exploit its full potential. The definition of an Artificial Intelligence system (AI system) proposed in the draft AI Act is “software that is developed with one or more of the techniques and approaches (listed below) and can, for a given set of human-defined objectives, generate outputs such as content, predictions, recommendations, or decisions influencing the environments it interacts with”. The listed AI techniques and approaches are: a) Machine learning approaches, including supervised, unsupervised and reinforcement learning, using a wide variety of methods including deep learning; b) Logic and knowledge-based approaches, including knowledge representation, inductive (logic) programming, knowledge bases, inference and deductive engines, (symbolic) reasoning and expert systems; c) Statistical approaches, Bayesian estimation, search and optimisation methods.” ([European Commission, 2022, p. 10](zotero://select/groups/4907410/items/3BCJVLT9)) ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=10&annotation=JLYJ6P7P))
 

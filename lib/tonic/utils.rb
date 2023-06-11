@@ -25,14 +25,14 @@ module Tonic
     def render_tag_links(tags)
       return if !tags
         tags.sort.map do |tag|
-        "<a href='/?tags=#{tag}' class='tag'>#{tag}</a>".html_safe
+        "<a href='#{config.cardurl}?tags=#{tag}' class='tag'>#{tag}</a>".html_safe
       end.join(" ")
     end
 
     def render_principle_links(principles)
       return if !principles
         "<b>Principles:</b>" + principles.sort.map do |principle|
-        "<a href='?global=#{principle}' class='tag'>#{data.collection.select { |item| item.name == principle }.map(&:title).join}</a>".html_safe
+        "<a href='#{config.cardurl}?global=#{principle}' class='tag'>#{data.collection.select { |item| item.name == principle }.map(&:title).join}</a>".html_safe
       end.join(" ")
     end
 
@@ -47,7 +47,7 @@ module Tonic
       matching_items = data.collection.select { |item| item.send(field)&.include?(value) }
       titles = matching_items.map(&:title).join(", ")
       #tried to prepend base_url before global here
-      link_url = "/?global=#{value}"
+      link_url = "#{config.cardurl}?global=#{value}"
       link_to(titles, link_url, { :class => 'tag'})
     end.join(" ")
 
@@ -59,7 +59,7 @@ def render_link_values(value)
   value.map do |v|
       matching_items = data.collection.select { |item| item.name == v }
       titles = matching_items.map(&:title).join(", ")
-      link_url = "/?global=#{v}"
+      link_url = "#{config.cardurl}?global=#{v}"
       link_to(titles, link_url, { :class => 'tag'})
   end.join(" ").html_safe
 end

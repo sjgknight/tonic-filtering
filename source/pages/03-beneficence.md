@@ -5,19 +5,13 @@ Minimise the risks of harms (non-maleficence)
 Conduct work that benefits people (beneficence)
 
 
-1. 6 The likely benefit of the research must justify any risks of harm or discomfort to participants. The likely benefit may be to the participants, to the wider community, or to both.
-1. 7 Researchers are responsible for:
+1.6 The likely benefit of the research must justify any risks of harm or discomfort to participants. The likely benefit may be to the participants, to the wider community, or to both.
+1.7 Researchers are responsible for:
 1. (a) designing the research to minimise the risks of harm or discomfort to participants
 1. (b) clarifying for participants the potential benefits and risks of the research
 1. (c) the welfare of the participants in the research context.
-1. 8 Where there are no likely benefits to participants, the risk to participants should be lower than would be ethically acceptable where there are such likely benefits.
-1. 9 Where the risks to participants are no longer justified by the potential benefits of the research, the research must be suspended to allow time to consider whether it should be discontinued or at least modified. This decision may require consultation between researchers, participants, the relevant ethical review body, and the institution. The review body must be notified promptly of such suspension, and of any decisions following it (see paragraphs
-1.
-1. 7 to
-1.
-1. 10)." (NS
-1. 6-
-1. 9)
+1.8 Where there are no likely benefits to participants, the risk to participants should be lower than would be ethically acceptable where there are such likely benefits.
+1.9 Where the risks to participants are no longer justified by the potential benefits of the research, the research must be suspended to allow time to consider whether it should be discontinued or at least modified. This decision may require consultation between researchers, participants, the relevant ethical review body, and the institution. The review body must be notified promptly of such suspension, and of any decisions following it (see paragraphs 1 to 1.1.10)." (NS 6-1.9)
 
 [(NS)](/recmzjcgkv3ynoxbl)
 

@@ -17,6 +17,11 @@ links:
     url: "/?category=Challenges"
   - text: Snippets
     url: "/snippets"
+  - text: Cards
+    url: "/pages/00-cards"
+
+#this must be set. Use '/' for toplevel. It is called through config.cardurl
+cardurl: "/pages/00-cards"
 
 #detail_pages: true
 
