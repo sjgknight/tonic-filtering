@@ -6,7 +6,7 @@ permalink: "snippets"
 
 <div id="start">
 
-<%= partial 'templates/components/markdown', locals: { markdown_text: File.read('source/pages/01-introduction.md')} %>
+<%= partial 'templates/components/markdown', locals: { markdown_text: File.read('source/pages/01-introduction.html.erb')} %>
 
 This page draws on content from:
 
@@ -18,7 +18,7 @@ This page draws on content from:
 
 <%= link_to "Previous section", "#introduction", class: "index-link" %>
 
-<%= partial 'templates/components/markdown', locals: { markdown_text: File.read('source/pages/02-respect-for-persons.md')} %>
+<%= partial 'templates/components/markdown', locals: { markdown_text: File.read('source/pages/02-respect-for-persons.html.erb')} %>
 
 </div>
 
