@@ -1,0 +1,12 @@
+<% wrap_layout :layout do %>
+  <article>
+    <div class="container mx-auto py-8">
+      <div class="max-w-4xl mx-auto bg-white rounded-lg shadow-lg p-8">
+        <!-- Content styling for regular pages -->
+        <div class="prose">
+          <%= yield %>
+        </div>
+      </div>
+    </div>
+  </article>
+<% end %>

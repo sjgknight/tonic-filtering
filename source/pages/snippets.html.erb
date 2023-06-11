@@ -4,7 +4,7 @@ description: "This is an about page"
 permalink: "snippets"
 ---
 
-<div id="about" class="mx-auto w-3/5 bg-neutral-50 round-sm border-2 border-solid border-slate-300">
+<div id="start">
 
 <%= partial 'templates/components/markdown', locals: { markdown_text: File.read('source/pages/01-introduction.md')} %>
 
@@ -14,7 +14,7 @@ This page draws on content from:
 
 <%= partial 'templates/components/cardset', locals: { my_filters: '(item[:title]&.match(/Turing responsible|national statement|^IEEE|EC guidelines on AI in education for educators|ethics in the scholarship of teaching and learning|markham/i) || item[:Description]&.match(/Turing responsible|national statement|Autonomous and intelligent technical systems are|EC guidelines on AI in education for educators|ethics in the scholarship of teaching and learning|markham/i) ) && item[:category] == "Sources"' } %>
 
-<div id="about" class="mx-auto w-3/5 bg-neutral-50 round-sm border-2 border-solid border-slate-300">
+<div id="about" >
 
 <%= link_to "Previous section", "#introduction", class: "index-link" %>
 

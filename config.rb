@@ -11,6 +11,7 @@ activate :permalink
 #redirect "about.html", to: "pages/about.html"
 #redirect "snippets.html", to: "pages/snippets.html"
 
+page "pages/*", :layout => :post
 
 activate :directory_indexes
 activate :inline_svg
