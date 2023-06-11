@@ -1,29 +1,18 @@
 ## Ethical action <a id="introduction"></a>
 
-How we interact with each other has ethical dimensions in both interactions that are direct  (e.g. in face-to-face communication), and indirect(e.g., through the ways our decisions impact people at a distance to us in how we use technology, shop, or conduct particular research projects). **Ethical conduct** involves a responsiveness to these ethical dimensions in acting to respect others. It thus goes beyond rule following; ethical principles and other ethical concepts are intended to provide tools to support shared consideration of human values in fostering respect for persons.
+How we interact with each other has ethical dimensions. This is true of both direct interactions (e.g. in face-to-face communication), and indirect interactions (e.g., through the ways our decisions impact people at a distance to us in how we use technology, shop, or conduct particular research projects). **Ethical conduct** involves a responsiveness to these ethical dimensions in acting to respect others. It thus goes beyond rule following; ethical principles and other ethical concepts are intended to provide tools to support shared consideration of human values in fostering respect for persons.
 
 **Ethical issues can be rendered invisible, static, or simple** (in the sense of unambiguous, straightforward, or uninvolved) in many contexts. This may occur because ethical reflection is not embedded in professional practice and learning contexts, sometimes only considered in stand-alone courses or events, or/and abstracted from the practical contexts we may face in working and living in society.
 
-However, **ethical issues are complex**. That complexity arises due to plurality in the values and principles held within and across contexts, norms regarding practices to navigate ethical issues, and the inherent complexity of navigating tensions in values. Ethical action involves ongoing consideration of these issues.
+However, **ethical issues are complex, ongoing, and negotiated**. That complexity arises due to plurality in the values and principles held within and across contexts, norms regarding practices to navigate ethical issues, and the inherent complexity of navigating tensions in values. Ethical action involves ongoing consideration of these issues. Ethical issues are not always clear-cut, they may involve ongoing negotiation, and while there may be 'better' and 'worse' approaches, there are contexts where it is reasonable to say there is no 'correct' answer. 
 
 ### Ethics vocabulary
 
-Reflection on ethical issues has a long history across societies, reflected in scholarly and cultural materials from religious teachings, scholarly and fiction writings, and plays, slam poetry, paintings, etc. All of these works can form part of our ethical vocabulary, providing shared language, metaphors, or reference points in discussing issues.
-(see e.g. https://ahrecs.com/can-reading-australian-novels-help-us-become-more-ethical-researchers/ )
+Reflection on ethical issues has a long history across societies, reflected in scholarly and cultural materials from religious teachings, scholarly and fiction writings, and plays, slam poetry, paintings, etc. All of these works can form part of our ethical vocabulary, providing shared language, metaphors, or reference points in discussing issues.[^1]
 
 > Consider creative works such as movies that reflect ethical issues in educational settings and the use of AI in society
 
-The history of research ethics is often narrated as grounded in key events. Key events, and scandals are important
-
-But - we care about nuance
-- not just shooting the bunnies
-- there are not always clear lines between a key scandal and regulation or shifts in ethical standards; we ought to be actively looking for risks and potentials, not waiting for scandal
-- not all regulation supports research
-- the history of research ethics varies internationally 
-
-There are a number of difficulties with this ‘schooled by scandal’ history. First, the implicit (and simplistic) assumption of causality between examples of unethical (as seen with the benefit of hindsight) research and the subsequent tightening of regulations, guidelines or standards. Second, the unrepresentative importance accorded to the “scandals” can conceal the fact that most human research at the time was ethically acceptable.  Nonetheless, we accept that the so-called scandals are important at least in the fact that they reveal points of time at which the ethical and social acceptability of prevailing practices in human research was being questioned from new perspectives whose sources are historically and socially complex.  Third, the assumption that regulations have evolved and that all changes in regulation have benefited both research and research participants. Finally, the most important difficulty is that the history is simply not representative of our part of the world.
- Thomson C. (30 July 2018) Research Ethics in Australia: A Story. Research Ethics Monthly. Retrieved from: https://ahrecs.com/human-research-ethics/research-ethics-in-australia-a-story
-
+The history of research ethics is often narrated as grounded in key events that have prompted action. This narrative provides important reflections on important ethical breaches and scandals - these include the atrocities prosecuted in the Nuremberg tribunals - which should be remembered, and reflected on. It is important to remember though, that the development of ethical conduct and guidance does not always go hand-in-hand or causally with landmark events; we can and should be aware of and responsive to ethical concerns outside of the context of clear and significant harms, and we must also be aware and responsive to the concern that significant harms have not always led to better ethical standards, guidelines, or regulation. It's also important to recognise that historic narratives can suggest a universal progress; while there are international similarities in research ethics, development of standards, and harms incurred, have not been universal and are ongoing.[^2] 
 
 Key events have certainly increased attention to ethical concerns, and our common understanding of standards for ethics. The 20th Century saw a range of human rights legal instruments emerge internationally, to protect the dignity of humans across contexts. Atrocities prosecuted in the Nuremberg tribunals gave rise to the [Nuremberg Code](https://en.wikipedia.org/wiki/Nuremberg_Code) ethical principles for human experimentation with the subsequent [Declaration of Helsinki](https://en.wikipedia.org/wiki/Declaration_of_Helsinki) developing these principles across a number of revisions. While these principles focus on biomedical research, ethics guidelines have been developed across professional and research domains. 
 
@@ -184,4 +173,11 @@ The design, review and conduct of research must reflect each of these values.
 
 Environmental and social sustainability
 And prosperity
+
+
+### Footnotes
+
+[^1]: Dalton-Brown, S. (18 January 2023) Can reading Australian novels help us become more ethical researchers? Research Ethics Monthly: https://ahrecs.com/can-reading-australian-novels-help-us-become-more-ethical-researchers/
+ 
+[^2]: Thomson C. (30 July 2018) Research Ethics in Australia: A Story. Research Ethics Monthly. Retrieved from: https://ahrecs.com/human-research-ethics/research-ethics-in-australia-a-story
 

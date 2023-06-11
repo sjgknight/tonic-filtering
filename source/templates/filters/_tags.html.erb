@@ -1,15 +1,22 @@
 <%= label(attribute) %>
 
 <% tags.each do |tag| %>
-  <% if config.truncate %>
+  <% if config.tagtitles %>
+    <% matching_item = data.collection.find { |item| item["name"] == tag } %>
+    <% tag = matching_item["title"] if matching_item %>
+  <% end %>
+
+  <% if config.truncate && tag %>
     <% truncated_tag = tag.truncate(config.truncate) %>
     <% full_tag = tag %>
   <% else %>
-    <% truncated_tag = tag.humanize %>
-    <% full_tag = tag.humanize %>
+    <% truncated_tag = tag&.humanize %>
+    <% full_tag = tag&.humanize %>
   <% end %>
 
   <button class="tag" id="<%= "#{attribute}_#{tag}" %>" value="<%= full_tag %>" name="<%= attribute %>" onclick="filterBy('tags')" title="<%= full_tag %>">
     <%= truncated_tag %>
   </button>
 <% end %>
+
+<!-- the tag&. deals with empty tags in some places. I ought to manage these elsewhere though -->

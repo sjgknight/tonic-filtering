@@ -13,8 +13,6 @@ font_family: "Arimo"
 links:
   - text: About
     url: "/about"
-  - text: Challenges
-    url: "/?category=Challenges"
   - text: Snippets
     url: "/snippets"
   - text: Cards
@@ -27,6 +25,9 @@ cardurl: /cards
 
 #true by default, set to false to turn off detail_pages, which will change links to whatever external you have set
 #detail_pages: true
+
+# if true, the title field will be used instead of name for any cross-reference fields
+tagtitles: true
 
 # Sorting
 sorting:
