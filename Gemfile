@@ -7,3 +7,6 @@ gem "video_info", "~> 4.0"
 gem 'wdm', '>= 0.1.0'
 gem 'redcarpet'
 gem 'kramdown'
+
+# gem "middleman-blog", "~> 4.0"
+# gem 'tzinfo-data', '~> 1.2021', '>= 1.2021.5'

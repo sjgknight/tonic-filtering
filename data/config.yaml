@@ -18,20 +18,33 @@ links:
   - text: Snippets
     url: "/snippets"
   - text: Cards
-    url: "/pages/00-cards"
+    url: "/cards"
 
 #this must be set. Use '/' for toplevel. It is called through config.cardurl
-cardurl: "/pages/00-cards"
+#remember if you've set a permalink use that not the filename
+#MUST include leading /
+cardurl: /cards
 
+#true by default, set to false to turn off detail_pages, which will change links to whatever external you have set
 #detail_pages: true
 
 # Sorting
 sorting:
   default_order: "Title asc"
 
+#this creates anchors for any headings (in theory)
 autolink: true
 
-# Filters
+# if numeric then tag labels will be truncated to that n characters, and display in full in a tooltip
+truncate: 45
+
+# define the filters
+# exclude excludes from filter list (obviously)
+# type, tonic will try to guess the types from reading in
+# I found this can cause errors especially if your data includes fields where some values are string and some a list. Or where not every item has every field.
+# my processing script fixes that, but you can also manually set them here (see list of types below)
+# I modified the filters.rb script so that the display of filters on the cards page first uses the order provided here, and then all other fields
+# remember it's case sensitive
 filters:
   exclude:
     - video
@@ -40,15 +53,14 @@ filters:
     - created_at
   type:
     Rights: tags
-    Category: radio_buttons
+    category: radio_buttons
     tags: tags
-    Title: text
+    title: text
     childOf: text
     equivalentTo: text
     Reference: text
     created_at: date_range
 
-#was trying to order these but that's not here
   # - `text`
   # - `select`
   # - `radio_buttons`

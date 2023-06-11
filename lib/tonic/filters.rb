@@ -1,18 +1,33 @@
 module Tonic
   module Filters
     def render_filters
-      attributes = tonic_collection.flat_map(&:keys).uniq.sort
+      attributes = tonic_collection.flat_map(&:keys).uniq
+
+      ordered_attributes = []
+      remaining_attributes = []
 
       attributes.map do |attribute|
         next if Tonic::SKIP_FOR_FILTERS.include?(attribute)
         next if config.filters&.exclude&.include?(attribute)
 
-        content_tag(:div, class: "px-6 py-3 border-b border-gray-500 w-full") do
-          type = config.filters&.type&.dig(attribute)
-          smart_filter(attribute, type)
+        if config.filters&.type&.key?(attribute)
+          ordered_attributes << attribute
+        else
+          remaining_attributes << attribute
         end
-      end.compact.join
+      end
+
+  ordered_attributes = ordered_attributes.sort_by { |attribute| config.filters.type.keys.index(attribute) }
+
+  attributes_order = ordered_attributes + remaining_attributes
+
+      attributes_order.map do |attribute|
+    content_tag(:div, class: "px-6 py-3 border-b border-gray-500 w-full") do
+      type = config.filters&.type&.dig(attribute)
+      smart_filter(attribute, type)
     end
+  end.compact.join
+end
 
     private
 

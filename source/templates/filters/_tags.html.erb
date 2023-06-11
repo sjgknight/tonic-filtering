@@ -1,7 +1,15 @@
 <%= label(attribute) %>
 
 <% tags.each do |tag| %>
-  <button class="tag" id="<%= "#{attribute}_#{tag}" %>" value="<%= tag %>" name="<%= attribute %>" onclick="filterBy('tags')">
-    <%= tag %>
+  <% if config.truncate %>
+    <% truncated_tag = tag.truncate(config.truncate) %>
+    <% full_tag = tag %>
+  <% else %>
+    <% truncated_tag = tag.humanize %>
+    <% full_tag = tag.humanize %>
+  <% end %>
+
+  <button class="tag" id="<%= "#{attribute}_#{tag}" %>" value="<%= full_tag %>" name="<%= attribute %>" onclick="filterBy('tags')" title="<%= full_tag %>">
+    <%= truncated_tag %>
   </button>
 <% end %>
