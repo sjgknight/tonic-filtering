@@ -26,7 +26,7 @@
     <script>
       window.config = JSON.parse(JSON.stringify(<%= config.to_json %>));
 
-    if (window.location.pathname === '<%= config.cardurl %>' || window.location.pathname === '<%= config.cardurl %>/') {
+    if (window.location.pathname === '<%= config.cardurl %>') {
     window.collection = JSON.parse(JSON.stringify(<%= tonic_collection.to_json %>));
   }
     </script>
