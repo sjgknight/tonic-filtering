@@ -13,7 +13,7 @@ Navigate through the key pages of the guideline below
     <ul class="menu-items space-y-0 pb-0"> <!-- Adjust the space-y and pb classes as needed -->
     <% pages.each do |page| %>
         <% frontmatter = YAML.load_file(page) %>
-        <% permalink = frontmatter['permalink'] || page.sub('.html.erb', '') %>
+<% permalink = '/' + (frontmatter['permalink'] || page.sub('.html.erb', '')) %>
         <% title = frontmatter['title'] || File.basename(page, '.*').capitalize %>
         <li>
           <a href="<%= permalink %>"
@@ -25,3 +25,4 @@ Navigate through the key pages of the guideline below
     </ul>
   </div>
 </div>
+
