@@ -23,6 +23,8 @@ shell(paste0("airtable-export export appFOCCNDUuGhYPB2 Principles Cases Challeng
 )
 
 dir <- here::here("data/")
+#consider adding
+#unlink("mydir", recursive = TRUE) # will delete directory called 'mydir'
 fs::file_move("export", dir)
 
 tables <- c("Principles", "Strategies", "Cases", "Challenges", "Sources", "Stakeholders")
