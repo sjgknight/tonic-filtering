@@ -25,8 +25,10 @@
     <%= javascript_include_tag "application" %>
     <script>
       window.config = JSON.parse(JSON.stringify(<%= config.to_json %>));
-
-    if (window.location.pathname === '<%= config.cardurl %>') {
+    var cardUrl = '<%= config.cardurl %>';
+    var url = window.location.pathname;
+    var cardUrlIndex = url.indexOf(cardUrl);
+    if (cardUrlIndex !== -1 && url.charAt(cardUrlIndex + cardUrl.length) !== '/')  {
     window.collection = JSON.parse(JSON.stringify(<%= tonic_collection.to_json %>));
   }
     </script>
