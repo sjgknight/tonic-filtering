@@ -3,6 +3,7 @@
 <% tags.each do |tag| %>
   <% if config.tagtitles %>
     <% matching_item = data.collection.find { |item| item["name"] == tag } %>
+    <% tagog = tag %>
     <% tag = matching_item["title"] if matching_item %>
   <% end %>
 
@@ -14,7 +15,7 @@
     <% full_tag = tag&.humanize %>
   <% end %>
 
-  <button class="tag" id="<%= "#{attribute}_#{tag}" %>" value="<%= full_tag %>" name="<%= attribute %>" onclick="filterBy('tags')" title="<%= full_tag %>">
+  <button class="tag" id="<%= "#{attribute}_#{tag}" %>" value="<%= tagog %>" name="<%= attribute %>" onclick="filterBy('tags')" title="<%= full_tag %>">
     <%= truncated_tag %>
   </button>
 <% end %>

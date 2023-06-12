@@ -60,8 +60,9 @@ def render_link_values(value)
   value.map do |v|
       matching_items = data.collection.select { |item| item.name == v }
       titles = matching_items.map(&:title).join(", ")
-      #link_url = "#{v}"
-      link_url = "#{config.cardurl}?global=#{v}"
+      link_url = "/#{v}"
+      link_url = link_url.downcase
+      #link_url = "#{config.cardurl}?global=#{v}"
       link_to(titles, link_url, { :class => 'tag'})
   end.join(" ").html_safe
 end
