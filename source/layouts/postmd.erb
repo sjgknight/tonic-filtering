@@ -4,6 +4,7 @@
       <div class="max-w-4xl mx-auto bg-white rounded-lg shadow-lg p-8">
         <!-- Content styling for Markdown pages -->
         <div class="prose">
+        <%= table_of_contents(current_page) %>
           <% renderer = Redcarpet::Render::HTML.new(with_toc_data: true) %>
           <% markdown_parse = Redcarpet::Markdown.new(renderer, footnotes: true) %>
           <%= markdown_parse.render(yield).html_safe %>

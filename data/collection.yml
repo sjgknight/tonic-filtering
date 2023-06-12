@@ -37,6 +37,8 @@
   - recCpTJXuuowqsqQa
   - recHHr97jsyNDnlsJ
   - recgZrgA8K7MmIzdF
+  - recefglLZ3oJWw2SZ
+  - recv6cN7XSt5GW32Y
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -450,6 +452,7 @@
     according to their own freely determined life plans” (Leslie, 2019, p. 10)
 - Challenges:
   - recHHr97jsyNDnlsJ
+  - recL5M2Hye2XHK7zg
   Sources:
   - recnCULdYQ36cpZR7
   equivalentTo:
@@ -541,6 +544,12 @@
     2017. p.33-34'
 - Challenges:
   - recdmBNNa98cN8Sda
+  - recHsgB7ki6GknJnX
+  - recGEFZ3EynXjRaa9
+  - rec8hxSSEudaplJiA
+  - reckPjhcWwLgjX9p5
+  - recCkVZngvMA5I5uv
+  - reczg5MObRbgzTeob
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -575,7 +584,9 @@
   name: recL7CrHMutQEBBu7
   tags: []
   created_at: '2023-05-19T10:58:11.000Z'
-- PrincipleCollation:
+- Challenges:
+  - rec5VzvnIZcaNKqDh
+  PrincipleCollation:
   - recYP5QdyBcP0gruN
   - recW30jj9GzhNGTuX
   - recG3YFWxYITJ7HdM
@@ -617,7 +628,12 @@
     unable to make their own decisions or have diminished capacity to do so, respect
     for them involves empowering them where possible and providing for their protection
     as necessary." (NS 1.10-1.13)'
-- Sources:
+- Challenges:
+  - recL5M2Hye2XHK7zg
+  - recENQXCSOQQ3Y8et
+  - recOeanQuUyB6Dx8g
+  - reczg5MObRbgzTeob
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - recKDgUEDD2f1egyd
@@ -639,6 +655,9 @@
   created_at: '2023-06-05T05:32:52.000Z'
 - Challenges:
   - recdmBNNa98cN8Sda
+  - rech9r2f3QX8ZvmkP
+  - recvQ90DajNCwPiGP
+  - recJjTMjpfE0WHSWu
   PrincipleCollation:
   - recl9ptNqbtslS9s6
   - rec2lbN7lCx1fQKnh
@@ -703,6 +722,7 @@
 - Challenges:
   - recO1L6GoFMkA6Lt4
   - recAoyMGCCLhaSqEb
+  - recBc3GCNokDL220T
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -725,7 +745,12 @@
   created_at: '2023-05-19T07:41:54.000Z'
   description: '"respect the privacy, confidentiality and cultural sensitivities of
     the participants and, where relevant, of their communities."'
-- Sources:
+- Challenges:
+  - reciNc7OeTUmnsLqg
+  - recA7Kh502s4UKWGo
+  - recGRpoF7DA23ODSj
+  - rec5nbWC0ZbVwnmxJ
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - recinajIdAe7hRxjN
@@ -833,7 +858,10 @@
     such as workers, women, persons with disabilities, ethnic minorities, children,
     consumers or others at risk of exclusion.” (High-Level Expert Group on AI, 2019,
     p. 11)
-- PrincipleCollation:
+- Challenges:
+  - recENQXCSOQQ3Y8et
+  - recL5M2Hye2XHK7zg
+  PrincipleCollation:
   - rec5tUjckYAzHmc7e
   - recO0PpscH27fFkXA
   Sources:
@@ -1022,6 +1050,7 @@
     p. 11)
 - Challenges:
   - recHHr97jsyNDnlsJ
+  - recL5M2Hye2XHK7zg
   Sources:
   - recfYC5jjPmpLfSlM
   childOf:
@@ -1065,6 +1094,9 @@
   created_at: '2023-05-19T11:00:14.000Z'
 - Challenges:
   - rec1QZHHMARBQcZoo
+  - reciNc7OeTUmnsLqg
+  - recA7Kh502s4UKWGo
+  - recGRpoF7DA23ODSj
   Sources:
   - recpXl48pJdKDhc6f
   Strategies:
@@ -1178,7 +1210,9 @@
   name: recheWZC64aZRgmpo
   tags: []
   created_at: '2023-05-18T14:28:06.000Z'
-- Sources:
+- Challenges:
+  - rec1QZHHMARBQcZoo
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - recpvGxQzTNQS1smH
@@ -1358,6 +1392,7 @@
 - Challenges:
   - recYHYaeqVHR93Kuo
   - recO1L6GoFMkA6Lt4
+  - recrHBtVR4EOXSJh2
   PrincipleCollation:
   - rec3rTrXMiXaZjy7s
   Sources:
@@ -8375,6 +8410,7 @@
     Countries,” webfoundation.org, June 2017."p.145-147'
 - Principles:
   - receFm7cGasHwpJZO
+  - recint2IxoR8aILCp
   Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
     on Ethics of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J.
     Silva Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and
@@ -8674,12 +8710,16 @@
   - recrVkbG0XGe2Ca0v
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
+  Principles:
+  - recLHILkx2JDFsLbX
   title: Tyranny of averages
   category: Challenges
   name: rec5VzvnIZcaNKqDh
   tags: []
   created_at: '2023-05-18T14:51:53.000Z'
-- Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
+- Principles:
+  - recQ9DIFEsOEkCx3O
+  Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
     on Ethics of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J.
     Silva Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and
     Well-Being (Vol. 95, pp. 11–16). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2
@@ -8776,7 +8816,9 @@
     A Case Study from Louisiana’s Industrial Corridor.](https://www.sciencehistory.org/sites/default/files/studies-in-sustainability-ottinger2009.pdf)
     Center for Contemporary History and Policy, 2008.•[Expert and Citizen Assessment
     of Science and ](https://ecastnetwork.org/about/)[Technology (ECAST) Network ](https://ecastnetwork.org/about/)"p.82-83'
-- Reference: 'Leslie, D. (2019). Understanding artificial intelligence ethics and
+- Principles:
+  - recKdujFoPJr4ZAhZ
+  Reference: 'Leslie, D. (2019). Understanding artificial intelligence ethics and
     safety: A guide for the responsible design and implementation of AI systems in
     the public sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
   Sources:
@@ -8875,7 +8917,10 @@
     der Kloot Meijberg and RHJ ter Meulen, “[Developing Standards for Institutional](https://jme.bmj.com/content/27/suppl_1/i36.full)
     [Ethics Committees: Lessons from the Netherlands,](https://jme.bmj.com/content/27/suppl_1/i36.full)”
     _Journal of Medical Ethics_ 27 i36-i40, 2001."p.130'
-- Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
+- Principles:
+  - recQ9DIFEsOEkCx3O
+  - receFm7cGasHwpJZO
+  Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
     on Ethics of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J.
     Silva Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and
     Well-Being (Vol. 95, pp. 11–16). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2
@@ -9028,6 +9073,8 @@
     by [CtrlShift](https://www.ctrl-shift.co.uk/)."p.111-112'
 - Cases:
   - recSXcY4cnofb4zTP
+  Principles:
+  - recPg7Ov0priGGtLm
   Reference: 'Leslie, D. (2019). Understanding artificial intelligence ethics and
     safety: A guide for the responsible design and implementation of AI systems in
     the public sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
@@ -9051,7 +9098,9 @@
     that influence and shape their development. This sort of privacy invasion can
     consequently harm a person’s more basic right to pursue their goals and life plans
     free from unchosen influence.” (Leslie, 2019, p. 5) '
-- Reference: Fedoruk, L. (2017b). Ethics in The Scholarship of Teaching and Learning.
+- Principles:
+  - recKdujFoPJr4ZAhZ
+  Reference: Fedoruk, L. (2017b). Ethics in The Scholarship of Teaching and Learning.
     University of Calgary Taylor Institute for Teaching and Learning. https://taylorinstitute.ucalgary.ca/resources/ethics-scholarship-teaching-and-learning
   Sources:
   - recQzldmBLByP78Uu
@@ -9211,18 +9260,26 @@
     com/abstract=2779647](https://ssrn.com/abstract=2779647). [Accessed Nov. 1, 2018].•R.
     Calo, “[Consumer Subject Review Boards: A Thought Experiment](https://www.stanfordlawreview.org/online/privacy-and-big-data-consumer-subject-review-boards/).”
     _Stanford Law Review Online _66 97, Sept. 2013. p.125'
-- title: Digital divides in burden of data capture
+- Principles:
+  - recSqx6wklVpDzx3s
+  - recMGB4iC5oaCtr5x
+  title: Digital divides in burden of data capture
   category: Challenges
   name: recENQXCSOQQ3Y8et
   tags: []
   created_at: '2023-05-18T18:54:06.000Z'
-- title: Autonomy reduced through power relationships such as teacher-student, administrator-teacher,
+- Principles:
+  - recKdujFoPJr4ZAhZ
+  title: Autonomy reduced through power relationships such as teacher-student, administrator-teacher,
     or perception that a tool cannot be questioned
   category: Challenges
   name: recGEFZ3EynXjRaa9
   tags: []
   created_at: '2023-05-18T18:55:13.000Z'
-- Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
+- Principles:
+  - recQ9DIFEsOEkCx3O
+  - receFm7cGasHwpJZO
+  Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
     on Ethics of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J.
     Silva Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and
     Well-Being (Vol. 95, pp. 11–16). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2
@@ -9371,6 +9428,8 @@
 - Cases:
   - recSXcY4cnofb4zTP
   - recAlOHJhEy5nDwA6
+  Principles:
+  - recKdujFoPJr4ZAhZ
   Strategies:
   - rechaQXedBh3OsMjZ
   title: Reification of structures
@@ -9623,7 +9682,9 @@
     business school, Artificial Intelligence in Management (AIM) Institute [http://aim.
     em-lyon.com](http://aim.em-lyon.com/)UNESCO,_ The UN Decade of Education for Sustainable
     Development, Shaping the Education of Tomorrow_. UNESCO 2012."p.153-156'
-- Reference: Access Now. (2018). HUMAN RIGHTS IN THE AGE OF ARTIFICIAL INTELLIGENCE.
+- Principles:
+  - recOHnq45Fq7YWsRO
+  Reference: Access Now. (2018). HUMAN RIGHTS IN THE AGE OF ARTIFICIAL INTELLIGENCE.
     Access Now. https://www.accessnow.org/cms/assets/uploads/2018/11/AI-and-Human-Rights.pdf
   Sources:
   - recH8KmnURSknCr5y
@@ -9715,6 +9776,11 @@
   - recrVkbG0XGe2Ca0v
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
+  Principles:
+  - recSqx6wklVpDzx3s
+  - recMGB4iC5oaCtr5x
+  - recK5zFiq18A3wHAE
+  - recZbEXiEs1AlDdn3
   title: Digital divides in quality of experience with technology
   category: Challenges
   name: recL5M2Hye2XHK7zg
@@ -9896,7 +9962,10 @@
     1.0 (P3P1.0) Specification,” W3C Recommendation, [Online]. Available: www.w3.org/TR/P3P/,
     Apr. 2002.L. F. Cranor, “Personal Privacy Assistants in the Age of the Internet
     of Things,” in World Economic Forum Annual Meeting, 2016"p.108-110'
-- title: Injustice in intellectual property
+- Principles:
+  - recMGB4iC5oaCtr5x
+  title: Injustice in intellectual property (e.g., failure to acknowledge participant
+    contributions)
   category: Challenges
   name: recOeanQuUyB6Dx8g
   tags: []
@@ -10111,7 +10180,7 @@
 - Principles:
   - recsvi4LnhEEPyQ1h
   title: Incidental data capture (e.g. capturing non-consenting persons in the background
-    of video capture)
+    of video capture, and challenges of disaggregating group-level data)
   category: Challenges
   name: recYHYaeqVHR93Kuo
   tags:
@@ -10755,6 +10824,7 @@
   - recDAvfsflBF0WKpf
   Principles:
   - reczVPIH1y2OMpAJH
+  - rec42P8U9usfYCtv9
   Reference:
   - IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics
     of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva Sequeira,
@@ -10878,7 +10948,9 @@
     example of the second kind of harm is the ongoing impacts from the UK Exam moderation
     algorithm in 2020, which had knock-on impacts internationally even after the algorithm
     itself was removed <https://dl.acm.org/doi/abs/10.1145/3531146.3533186> '
-- title: Live A/B testing and validity towards aims
+- Principles:
+  - recOHnq45Fq7YWsRO
+  title: Live A/B testing and validity towards aims
   category: Challenges
   name: rech9r2f3QX8ZvmkP
   tags: []
@@ -11012,7 +11084,10 @@
     Omohundro “[Autonomous Technology and the Greater Human Good.](http://www.tandfonline.com/doi/abs/10.1080/0952813X.2014.895111?journalCode=teta20)”
     _Journal of Experimental and Theoretical Artificial Intelligence, vol. _26, no.
     3, pp. 303–315, 2014.'
-- Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
+- Principles:
+  - receFm7cGasHwpJZO
+  - recQ9DIFEsOEkCx3O
+  Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
     on Ethics of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J.
     Silva Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and
     Well-Being (Vol. 95, pp. 11–16). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2
@@ -11173,7 +11248,9 @@
     A\_RES\_70\_1\_E.pdf](http://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_70_1_E.pdf).•United
     Nations Global Pulse, Big Data for Development: Challenges and Opportunities,
     2012."p139-140'
-- Reference: 'Leslie, D. (2019). Understanding artificial intelligence ethics and
+- Principles:
+  - recKdujFoPJr4ZAhZ
+  Reference: 'Leslie, D. (2019). Understanding artificial intelligence ethics and
     safety: A guide for the responsible design and implementation of AI systems in
     the public sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
   Sources:
@@ -11429,7 +11506,9 @@
     the Internet ](http://europepmc.org/abstract/med/27255607)[Engineering Task Force
     (IETF) and Human Rights](http://europepmc.org/abstract/med/27255607).” _Science
     and Engineering Ethics, _vol._ _23, no. 2, pp. 449–468, Apr. 2017."p.128'
-- title: New technologies make reidentification easier
+- Principles:
+  - recsvi4LnhEEPyQ1h
+  title: New technologies make reidentification easier
   category: Challenges
   name: recrHBtVR4EOXSJh2
   tags: []
@@ -11672,7 +11751,9 @@
     Journal of Business Ethics _16, no. 8, pp. 855–865, 1997. ****• K. Crawford and
     R. Calo, “[There Is a Blind Spot in AI Research,](http://www.nature.com/news/there-is-a-blind-spot-in-ai-research-1.20805)”
     _Nature _538, pp. 311–313, 2016.  '
-- title: Sustainability
+- Principles:
+  - rec42P8U9usfYCtv9
+  title: Sustainability
   category: Challenges
   name: recv6cN7XSt5GW32Y
   tags: []
@@ -11682,6 +11763,8 @@
   - recrVkbG0XGe2Ca0v
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
+  Principles:
+  - recOHnq45Fq7YWsRO
   Reference: 'Leslie, D. (2019). Understanding artificial intelligence ethics and
     safety: A guide for the responsible design and implementation of AI systems in
     the public sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
@@ -12066,7 +12149,10 @@
     humans apply to other humans and the norms they apply to A/IS. Norm implementations
     should be evaluatedspecifically against the norms that thecommunity expects the
     A/IS to follow."p.183'
-- Reference: Fedoruk, L. (2017b). Ethics in The Scholarship of Teaching and Learning.
+- Principles:
+  - recKdujFoPJr4ZAhZ
+  - recMGB4iC5oaCtr5x
+  Reference: Fedoruk, L. (2017b). Ethics in The Scholarship of Teaching and Learning.
     University of Calgary Taylor Institute for Teaching and Learning. https://taylorinstitute.ucalgary.ca/resources/ethics-scholarship-teaching-and-learning
   Sources:
   - recQzldmBLByP78Uu

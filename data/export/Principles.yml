@@ -2,6 +2,8 @@
   - recCpTJXuuowqsqQa
   - recHHr97jsyNDnlsJ
   - recgZrgA8K7MmIzdF
+  - recefglLZ3oJWw2SZ
+  - recv6cN7XSt5GW32Y
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -396,6 +398,7 @@
   title: RESPECT the dignity of individual persons
 - Challenges:
   - recHHr97jsyNDnlsJ
+  - recL5M2Hye2XHK7zg
   Description: "\u201CThe development, deployment and use of AI systems must be fair.\
     \ While we acknowledge that there are many different interpretations of fairness,\
     \ we believe that fairness has both a substantive and a procedural dimension.\
@@ -485,6 +488,12 @@
   title: Competence
 - Challenges:
   - recdmBNNa98cN8Sda
+  - recHsgB7ki6GknJnX
+  - recGEFZ3EynXjRaa9
+  - rec8hxSSEudaplJiA
+  - reckPjhcWwLgjX9p5
+  - recCkVZngvMA5I5uv
+  - reczg5MObRbgzTeob
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -515,7 +524,9 @@
   title: Prioritise the safety and the mental and physical integrity of people when
     scanning horizons of technological possibility and when conceiving of and deploying
     AI applications
-- Description: |
+- Challenges:
+  - rec5VzvnIZcaNKqDh
+  Description: |
     "1.10 Respect for human beings is a recognition of their intrinsic value. In human research, this recognition includes abiding by the values of research merit and integrity, justice and beneficence. Respect also requires having due regard for the welfare, beliefs, perceptions, customs and cultural heritage, both individual and collective, of those involved in research.
     1.11 Researchers and their institutions should respect the privacy, confidentiality and cultural sensitivities of the participants and, where relevant, of their communities. Any specific agreements made with the participants or the community should be fulfilled.
     1.12 Respect for human beings involves giving due scope, throughout the research process, to the capacity of human beings to make their own decisions.
@@ -547,7 +558,12 @@
   - recRbUmCzD09d6KZS
   - recSwTdeEk6XbEgXU
   title: Respect for persons
-- Sources:
+- Challenges:
+  - recL5M2Hye2XHK7zg
+  - recENQXCSOQQ3Y8et
+  - recOeanQuUyB6Dx8g
+  - reczg5MObRbgzTeob
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - recKDgUEDD2f1egyd
@@ -565,6 +581,9 @@
   title: Consider long-range and indirect impacts
 - Challenges:
   - recdmBNNa98cN8Sda
+  - rech9r2f3QX8ZvmkP
+  - recvQ90DajNCwPiGP
+  - recJjTMjpfE0WHSWu
   Description: |
     "Unless proposed research has merit, and the researchers who are to carry out the research have integrity, the involvement of human participants in the research cannot be ethically justifiable." (NS, preamble)
     "1.1 Research that has merit is:
@@ -619,6 +638,7 @@
 - Challenges:
   - recO1L6GoFMkA6Lt4
   - recAoyMGCCLhaSqEb
+  - recBc3GCNokDL220T
   Description: |
     "respect the privacy, confidentiality and cultural sensitivities of the participants and, where relevant, of their communities."
   Sources:
@@ -639,7 +659,12 @@
   childOf:
   - recLHILkx2JDFsLbX
   title: Privacy
-- Sources:
+- Challenges:
+  - reciNc7OeTUmnsLqg
+  - recA7Kh502s4UKWGo
+  - recGRpoF7DA23ODSj
+  - rec5nbWC0ZbVwnmxJ
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - recinajIdAe7hRxjN
@@ -738,7 +763,10 @@
   - reczVPIH1y2OMpAJH
   - recKdujFoPJr4ZAhZ
   title: Equality, non-discrimination and solidarity
-- Description: |
+- Challenges:
+  - recENQXCSOQQ3Y8et
+  - recL5M2Hye2XHK7zg
+  Description: |
     "1.4 In research that is just:
     1. (a) taking into account the scope and objectives of the proposed research, the selection, exclusion and inclusion of categories of research participants is fair, and is accurately described in the results of the research
     2. (b) the process of recruiting participants is fair
@@ -912,6 +940,7 @@
   title: PROTECT the priorities of social values, justice, and the public interest
 - Challenges:
   - recHHr97jsyNDnlsJ
+  - recL5M2Hye2XHK7zg
   Sources:
   - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T10:59:55.000Z'
@@ -950,6 +979,9 @@
     biosphere as a whole
 - Challenges:
   - rec1QZHHMARBQcZoo
+  - reciNc7OeTUmnsLqg
+  - recA7Kh502s4UKWGo
+  - recGRpoF7DA23ODSj
   Description: "**A/IS creators shall adopt increased human well-being as a primary\
     \ success criterion for development.**\n## Background\nFor A/IS technologies to\
     \ demonstrably advance benefit for humanity, we need to be able to define and\
@@ -1055,7 +1087,9 @@
   childOf:
   - recOHnq45Fq7YWsRO
   title: and with suitable resources to conduct the work as proposed
-- Sources:
+- Challenges:
+  - rec1QZHHMARBQcZoo
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - recpvGxQzTNQS1smH
@@ -1213,6 +1247,7 @@
 - Challenges:
   - recYHYaeqVHR93Kuo
   - recO1L6GoFMkA6Lt4
+  - recrHBtVR4EOXSJh2
   PrincipleCollation:
   - rec3rTrXMiXaZjy7s
   Sources:

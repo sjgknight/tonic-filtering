@@ -7,52 +7,6 @@ permalink: "about"
 <%= partial 'templates/components/callout', locals: { type: "question", title: "Important Notice", text: "This is an important message." } %>
 
 
-<!--I hate css-->
-
-<button type="button" class="text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 font-medium rounded-full text-sm px-5 py-2.5 text-center mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Hello world</button>
-
-<%= partial 'templates/components/markdown', locals: { markdown_text: "
-
-## Markdown Example\n\n
-
-This is *italic* and **bold**.
-
-## Hello world
-
-* I
-* think
-* hello
-
-"} %>
-
-
-<%= partial 'templates/components/markdown', locals: { markdown_text: File.read('source/pages/01-introduction.html.erb')} %>
-
-<%= link_to "Previous section", "#introduction", class: "index-link" %>
-
-
-
-<%= partial 'templates/components/markdown', locals: { markdown_text: File.read('source/pages/02-respect-for-persons.html.erb')} %>
-
-
-<%= partial 'templates/components/callout', locals: { type: "question", title: "How is AI research different?", text: partial('templates/components/markdown', locals: { markdown_text: '
-
-This is *italic* and **bold**.
-
-
-* I
-* think
-* hello
-
-'} ) } %>
-
-
-<%= link_to "human Skills", "/rec42p8u9usfyctv9" %>
-
-<%= link_to "Get More Books", "/rec42p8u9usfyctv9", class: "index-link" %>
-
-<%= link_to "Get More Books", "/rec42p8u9usfyctv9", class:"text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800" %>
-
 <p> The idea of this collection was to collate a set of ethics guidelines particularly focused on education and AI (separately and together). The focal guidelines are under various open licenses, that should permit their reuse in this way; each element from the items should be cited. </p>
 
 <p> This setup allows us to disaggregate the various elements, and to map connections: </p>
@@ -80,6 +34,54 @@ This is *italic* and **bold**.
     <%= partial 'templates/collection/item_card', locals: { item: item } %>
   <% end %>
 </div>
+
+## Some examples of other things
+
+<!--I hate css-->
+
+<button type="button" class="text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 font-medium rounded-full text-sm px-5 py-2.5 text-center mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Hello world</button>
+
+<%= partial 'templates/components/markdown', locals: { markdown_text: "
+
+## Markdown Example\n\n
+
+This is *italic* and **bold**.
+
+## Hello world
+
+* I
+* think
+* hello
+
+"} %>
+
+This page is included using a partial: if this was wraped for a partial it would include the page introduction
+
+partial 'templates/components/markdown', locals: { markdown_text: File.read('source/pages/01-introduction.html.erb')}
+
+<%= link_to "Previous section", "#introduction", class: "index-link" %>
+
+
+<%= partial 'templates/components/markdown', locals: { markdown_text: File.read('source/pages/02-respect-for-persons.html.erb')} %>
+
+
+<%= partial 'templates/components/callout', locals: { type: "question", title: "How is AI research different?", text: partial('templates/components/markdown', locals: { markdown_text: '
+
+This is *italic* and **bold**.
+
+
+* I
+* think
+* hello
+
+'} ) } %>
+
+
+<%= link_to "human Skills", "/rec42p8u9usfyctv9" %>
+
+<%= link_to "Get More Books", "/rec42p8u9usfyctv9", class: "index-link" %>
+
+<%= link_to "Get More Books", "/rec42p8u9usfyctv9", class:"text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800" %>
 
 
 <div name="additional-content" div class="content-center">

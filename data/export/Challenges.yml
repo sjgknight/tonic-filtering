@@ -210,6 +210,7 @@
     \ The National Academies Press, 2013.\"\np73-74\n"
   Principles:
   - receFm7cGasHwpJZO
+  - recint2IxoR8aILCp
   Reference:
   - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
     \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
@@ -447,6 +448,8 @@
   - recrVkbG0XGe2Ca0v
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
+  Principles:
+  - recLHILkx2JDFsLbX
   airtable_createdTime: '2023-05-18T14:51:53.000Z'
   airtable_id: rec5VzvnIZcaNKqDh
   title: Tyranny of averages
@@ -540,6 +543,8 @@
     \ Center for Contemporary History and Policy, 2008.\n\u2022\_\_\_\_\_[Expert and\
     \ Citizen Assessment of Science and ](https://ecastnetwork.org/about/)\n[Technology\
     \ (ECAST) Network ](https://ecastnetwork.org/about/)\"\np.82-83\n"
+  Principles:
+  - recQ9DIFEsOEkCx3O
   Reference:
   - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
     \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
@@ -565,6 +570,8 @@
     \ it difficult to pinpoint accountable parties. In cases of injury or negative\
     \ consequence, such an accountability gap may harm the autonomy and violate the\
     \ rights of the affected individuals.\u201D (Leslie, 2019, p. 4)\n\n"
+  Principles:
+  - recKdujFoPJr4ZAhZ
   Reference:
   - 'Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A
     guide for the responsible design and implementation of AI systems in the public
@@ -711,6 +718,9 @@
     \ York: UN Sustainable Development Solutions Network, pp. 54-79, 2013.\n\u2022\
     \_\_\_\_\_[Global Happiness and Well-being Policy Report](http://www.happinesscouncil.org/)\
     \ by the Global Happiness Council, 2018.\"\n\np.78-79\n"
+  Principles:
+  - recQ9DIFEsOEkCx3O
+  - receFm7cGasHwpJZO
   Reference:
   - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
     \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
@@ -831,6 +841,8 @@
     \ sort of privacy invasion can consequently harm a person\u2019s more basic right\
     \ to pursue their goals and life plans free from unchosen influence.\u201D (Leslie,\
     \ 2019, p. 5) \n"
+  Principles:
+  - recPg7Ov0priGGtLm
   Reference:
   - 'Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A
     guide for the responsible design and implementation of AI systems in the public
@@ -924,6 +936,8 @@
     \n\u201C\u201CInstitutions or organizations where research data are held have\
     \ a responsibility to establish appropriate institutional security safeguards\u201D\
     \ (TCPS2, Chapter 5, C. Safeguarding Information).\u201D (Fedoruk, 2017, p. 12)\n"
+  Principles:
+  - recKdujFoPJr4ZAhZ
   Reference:
   - Fedoruk, L. (2017b). Ethics in The Scholarship of Teaching and Learning. University
     of Calgary Taylor Institute for Teaching and Learning. https://taylorinstitute.ucalgary.ca/resources/ethics-scholarship-teaching-and-learning
@@ -1008,10 +1022,15 @@
   airtable_createdTime: '2023-06-05T10:22:04.000Z'
   airtable_id: recELObWGfkhXzFG2
   title: How can institutional ethics review committees provide oversight of AI research?
-- airtable_createdTime: '2023-05-18T18:54:06.000Z'
+- Principles:
+  - recSqx6wklVpDzx3s
+  - recMGB4iC5oaCtr5x
+  airtable_createdTime: '2023-05-18T18:54:06.000Z'
   airtable_id: recENQXCSOQQ3Y8et
   title: Digital divides in burden of data capture
-- airtable_createdTime: '2023-05-18T18:55:13.000Z'
+- Principles:
+  - recKdujFoPJr4ZAhZ
+  airtable_createdTime: '2023-05-18T18:55:13.000Z'
   airtable_id: recGEFZ3EynXjRaa9
   title: Autonomy reduced through power relationships such as teacher-student, administrator-teacher,
     or perception that a tool cannot be questioned
@@ -1094,6 +1113,9 @@
     \ make a positive impact to sustainable development, 2017.\n\u2022\_\_\_\_\_D.K.\
     \ Ura, Bhutan\u2019s [Gross National Happiness Policy Screening Tool](http://www.grossnationalhappiness.com/docs/GNH/PDFs/PoliSTools.pdf).\n\
     \"\np.79-81\n"
+  Principles:
+  - recQ9DIFEsOEkCx3O
+  - receFm7cGasHwpJZO
   Reference:
   - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
     \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
@@ -1172,6 +1194,8 @@
 - Cases:
   - recSXcY4cnofb4zTP
   - recAlOHJhEy5nDwA6
+  Principles:
+  - recKdujFoPJr4ZAhZ
   Strategies:
   - rechaQXedBh3OsMjZ
   airtable_createdTime: '2023-05-18T18:53:59.000Z'
@@ -1459,6 +1483,8 @@
     \ Conversely, how many known criminals would get away? Even relatively narrow\
     \ error rates in cases such as these can have severe consequences.\u201D (Access\
     \ Now, 2018, p. 13)\n"
+  Principles:
+  - recOHnq45Fq7YWsRO
   Reference:
   - Access Now. (2018). HUMAN RIGHTS IN THE AGE OF ARTIFICIAL INTELLIGENCE. Access
     Now. https://www.accessnow.org/cms/assets/uploads/2018/11/AI-and-Human-Rights.pdf
@@ -1533,6 +1559,11 @@
   - recrVkbG0XGe2Ca0v
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
+  Principles:
+  - recSqx6wklVpDzx3s
+  - recMGB4iC5oaCtr5x
+  - recK5zFiq18A3wHAE
+  - recZbEXiEs1AlDdn3
   airtable_createdTime: '2023-05-18T18:54:16.000Z'
   airtable_id: recL5M2Hye2XHK7zg
   title: Digital divides in quality of experience with technology
@@ -1725,9 +1756,12 @@
   airtable_createdTime: '2023-06-05T09:28:22.000Z'
   airtable_id: recO1L6GoFMkA6Lt4
   title: Individuals don't have control over their own data with generic T&C statements
-- airtable_createdTime: '2023-05-18T19:10:21.000Z'
+- Principles:
+  - recMGB4iC5oaCtr5x
+  airtable_createdTime: '2023-05-18T19:10:21.000Z'
   airtable_id: recOeanQuUyB6Dx8g
-  title: Injustice in intellectual property
+  title: Injustice in intellectual property (e.g., failure to acknowledge participant
+    contributions)
 - Description: "**\"Issue: **A/IS are often viewed only as having impact in market\
     \ contexts, yet these technologies also have an impact on social relations and\
     \ culture.\n## Background\nA/IS are expected to have an impact beyond market domains\
@@ -1950,7 +1984,7 @@
   airtable_createdTime: '2023-05-18T13:41:32.000Z'
   airtable_id: recYHYaeqVHR93Kuo
   title: Incidental data capture (e.g. capturing non-consenting persons in the background
-    of video capture)
+    of video capture, and challenges of disaggregating group-level data)
 - Description: "**\"Issue:** Empowerment to raise ethical concerns\n## Background\n\
     Engineers and design teams may encounter obstacles to raising ethical concerns\
     \ regarding their designs or design specifications within their organizations.\
@@ -2687,6 +2721,7 @@
     \ _Making Noise and Hearing Things_, July 12, 2016.\"\np.184, IEEE, 2019\n"
   Principles:
   - reczVPIH1y2OMpAJH
+  - rec42P8U9usfYCtv9
   Reference:
   - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
     \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
@@ -2753,7 +2788,9 @@
   airtable_createdTime: '2023-05-18T18:53:45.000Z'
   airtable_id: recgZrgA8K7MmIzdF
   title: Risks in removal of systems and algorithmic imprints
-- airtable_createdTime: '2023-05-18T18:54:44.000Z'
+- Principles:
+  - recOHnq45Fq7YWsRO
+  airtable_createdTime: '2023-05-18T18:54:44.000Z'
   airtable_id: rech9r2f3QX8ZvmkP
   title: Live A/B testing and validity towards aims
 - Description: "Interdisciplinary Collaborations\n## Background\nMore institutional\
@@ -2938,6 +2975,9 @@
     The [Oxford Human Rights Hub ](http://ohrh.law.ox.ac.uk/why-artificial-intelligence-is-already-a-human-rights-issue/)reports\
     \ on how and why technologies surrounding artificial intelligence raise human\
     \ rights issues\"\np.76-77\n"
+  Principles:
+  - receFm7cGasHwpJZO
+  - recQ9DIFEsOEkCx3O
   Reference:
   - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
     \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
@@ -3072,6 +3112,8 @@
     \ and cohesive societies are built on relations of trust, empathy, and mutual\
     \ understanding. As AI technologies become more prevalent, it is important that\
     \ these relations be preserved.\u201D (Leslie, 2019, p. 5)\n"
+  Principles:
+  - recKdujFoPJr4ZAhZ
   Reference:
   - 'Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A
     guide for the responsible design and implementation of AI systems in the public
@@ -3338,7 +3380,9 @@
   airtable_id: recqpYMjEFJLmyNaN
   title: How do corporations create values-based ethical culture in the context of
     growth-focused strategy
-- airtable_createdTime: '2023-05-19T14:21:29.000Z'
+- Principles:
+  - recsvi4LnhEEPyQ1h
+  airtable_createdTime: '2023-05-19T14:21:29.000Z'
   airtable_id: recrHBtVR4EOXSJh2
   title: New technologies make reidentification easier
 - Description: "\"When, if ever, and\_under which circumstances,\_is deception performed\
@@ -3594,7 +3638,9 @@
   airtable_createdTime: '2023-06-05T10:42:48.000Z'
   airtable_id: rect310qem9li3HKK
   title: How do we embed values throughout AI workflows?
-- airtable_createdTime: '2023-05-18T18:55:13.000Z'
+- Principles:
+  - rec42P8U9usfYCtv9
+  airtable_createdTime: '2023-05-18T18:55:13.000Z'
   airtable_id: recv6cN7XSt5GW32Y
   title: Sustainability
 - Cases:
@@ -3611,6 +3657,8 @@
     \ and they can create harmful inefficiencies by virtue of the dedication of limited\
     \ public resources to inefficient or even detrimental AI technologies.\u201D (Leslie,\
     \ 2019, p. 5)\n"
+  Principles:
+  - recOHnq45Fq7YWsRO
   Reference:
   - 'Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A
     guide for the responsible design and implementation of AI systems in the public
@@ -4039,6 +4087,9 @@
     \ for research that relies exclusively on the secondary use of non-identifiable\
     \ information\u201D (TCPS2, Chapter 5, D. Consent and Secondary Use of Identifiable\
     \ Information for Research Purposes).\u201D (Fedoruk, 2017, p. 14)\n"
+  Principles:
+  - recKdujFoPJr4ZAhZ
+  - recMGB4iC5oaCtr5x
   Reference:
   - Fedoruk, L. (2017b). Ethics in The Scholarship of Teaching and Learning. University
     of Calgary Taylor Institute for Teaching and Learning. https://taylorinstitute.ucalgary.ca/resources/ethics-scholarship-teaching-and-learning

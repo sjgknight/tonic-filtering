@@ -3,7 +3,7 @@ require "lib/tonic"
 set :url_root, 'https://sjgknight.github.io/tonic-filtering'
 set :build_dir, 'docs'
 
-set :markdown_engine, :kramdown
+#set :markdown_engine, :kramdown
 
 # extensions
 require 'lib/extensions/permalink.rb'
@@ -30,6 +30,18 @@ configure :build do
   activate :asset_hash
   activate :minify_css
   activate :relative_assets
+end
+
+set :markdown_engine, :redcarpet
+set :markdown, with_toc_data: true
+
+helpers do
+  def table_of_contents(resource)
+    content = File.read(resource.source_file)
+    toc_renderer = Redcarpet::Render::HTML_TOC.new
+    markdown = Redcarpet::Markdown.new(toc_renderer, nesting_level: 2) # nesting_level is optional
+    markdown.render(content)
+  end
 end
 
 Tonic.start(self)

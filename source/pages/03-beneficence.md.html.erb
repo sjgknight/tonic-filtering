@@ -4,6 +4,8 @@ title: Beneficence
 permalink: "beneficence"
 ---
 
+<%= partial 'templates/components/callout', locals: { type: "alert", title: "to add here", text: "tbc" } %>
+
 ## Minimise the risks of harms (non-maleficence)
 
 Conduct work that benefits people (beneficence)
@@ -60,10 +62,18 @@ Awareness of misuse:
   IEEE
   And the 4 reviews (mostly Jobin and Schiff)
 
+#### And in learning contexts
+
+Opportunity costs are a type of harm, asking students to engage in tasks targeted at research is asking them to do that instead of something else, and must be justified by reasonable assumptions regarding benefit to them and low risk of harm.
+
+Allocation of resources over time.
+
+
+
 
 <h3>Particular Challenges, Cases, and Strategies</h3>
 
 These are strategies that relate to beneficence and harm avoidance.
 
-<% keys_content = partial "templates/components/getkeys", locals: { my_filters: "item[:title]&.match?(/beneficence|maleficence|CARE for the wellbeing of each and all|harm/i) && item[:category] == 'Principles'" } %>
+<% keys_content = partial "templates/components/getkeys", locals: { my_filters: "item[:title]&.match?(/beneficence|maleficence|CARE for the wellbeing of each and all|harms|harm/i) && item[:category] == 'Principles'" } %>
 <%= partial "templates/components/cardset", locals: { my_filters: "item[:category] == 'Strategies' && (item[:Principles].is_a?(Array) ? item[:Principles]&.compact&.any? { |principle| principle&.match?(/#{keys_content}/i) } : item[:Principles]&.match?(/#{keys_content}/i))" } %>
