@@ -25,6 +25,28 @@ This is *italic* and **bold**.
 
 "} %>
 
+
+<%= partial 'templates/components/markdown', locals: { markdown_text: File.read('source/pages/01-introduction.html.erb')} %>
+
+<%= link_to "Previous section", "#introduction", class: "index-link" %>
+
+
+
+<%= partial 'templates/components/markdown', locals: { markdown_text: File.read('source/pages/02-respect-for-persons.html.erb')} %>
+
+
+<%= partial 'templates/components/callout', locals: { type: "question", title: "How is AI research different?", text: partial('templates/components/markdown', locals: { markdown_text: '
+
+This is *italic* and **bold**.
+
+
+* I
+* think
+* hello
+
+'} ) } %>
+
+
 <%= link_to "human Skills", "/rec42p8u9usfyctv9" %>
 
 <%= link_to "Get More Books", "/rec42p8u9usfyctv9", class: "index-link" %>

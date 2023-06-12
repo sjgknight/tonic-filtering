@@ -35,3 +35,10 @@ recztovrpeflfq0aw
 > “The development, deployment and use of AI systems must be fair. While we acknowledge that there are many different interpretations of fairness, we believe that fairness has both a substantive and a procedural dimension. The substantive dimension implies a commitment to: ensuring equal and just distribution of both benefits and costs, and ensuring that individuals and groups are free from unfair bias, discrimination and stigmatisation. If unfair biases can be avoided, AI systems could even increase societal fairness. Equal opportunity in terms of access to education, goods, services and technology should also be fostered. Moreover, the use of AI systems should never lead to people being deceived or unjustifiably impaired in their freedom of choice. Additionally, fairness implies that AI practitioners should respect the principle of proportionality between means and ends, and consider carefully how to “balance competing interests and objectives.31 The procedural dimension of fairness entails the ability to contest and seek effective redress against decisions made by AI systems and by the humans operating them.32 In order to do so, the entity accountable for the decision must be identifiable, and the decision-making processes should be explicable.” (High-Level Expert Group on AI, 2019, p. 13-14)
 reck5zfiq18a3whae
 
+
+<h3>Particular Challenges, Cases, and Strategies</h3>
+
+These are strategies that relate to beneficence and harm avoidance.
+
+<% keys_content = partial "templates/components/getkeys", locals: { my_filters: "item[:title]&.match?(/justice|fairness/i) && item[:category] == 'Principles'" } %>
+<%= partial "templates/components/cardset", locals: { my_filters: "item[:category] == 'Strategies' && (item[:Principles].is_a?(Array) ? item[:Principles]&.compact&.any? { |principle| principle&.match?(/#{keys_content}/i) } : item[:Principles]&.match?(/#{keys_content}/i))" } %>

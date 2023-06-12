@@ -13,10 +13,10 @@ font_family: "Arimo"
 links:
   - text: About
     url: "/about"
-  - text: Snippets
-    url: "/snippets"
   - text: Cards
     url: "/cards"
+  - text: Guideline
+    url: "/guideline"
 
 #this must be set. Use '/' for toplevel. It is called through config.cardurl
 #remember if you've set a permalink use that not the filename

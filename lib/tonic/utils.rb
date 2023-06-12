@@ -48,6 +48,7 @@ module Tonic
       titles = matching_items.map(&:title).join(", ")
       #tried to prepend base_url before global here
       link_url = "#{config.cardurl}?global=#{value}"
+      #link_url = "#{value}"
       link_to(titles, link_url, { :class => 'tag'})
     end.join(" ")
 
@@ -59,6 +60,7 @@ def render_link_values(value)
   value.map do |v|
       matching_items = data.collection.select { |item| item.name == v }
       titles = matching_items.map(&:title).join(", ")
+      #link_url = "#{v}"
       link_url = "#{config.cardurl}?global=#{v}"
       link_to(titles, link_url, { :class => 'tag'})
   end.join(" ").html_safe

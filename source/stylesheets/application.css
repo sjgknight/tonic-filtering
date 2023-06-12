@@ -145,3 +145,15 @@ button.tag:hover, button.tag.active {
     max-width: none;
   }
 }
+
+/* lists */
+/* Lists */
+ul,
+ol {
+  @apply list-disc pl-8; /* Apply the desired Tailwind classes */
+}
+
+ul li,
+ol li {
+  @apply mb-2; /* Add margin-bottom to create space between list items */
+}

@@ -1,0 +1,25 @@
+---
+title: Guideline
+permalink: "guideline"
+layout: post
+---
+
+
+      <div class="w-3/4">
+        <div class="menu-content hidden">
+          <% pages = Dir.glob('source/pages/*.html.erb') %>
+          <% pages.sort_by! { |page| page.downcase } %>
+          <ul class="menu-items">
+            <% pages.each do |page| %>
+              <% frontmatter = YAML.load_file(page) %>
+              <% permalink = frontmatter['permalink'] || page.sub('.html.erb', '') %>
+              <% title = frontmatter['title'] || File.basename(page, '.*').capitalize %>
+              <li>
+                <a href="<%= permalink %>"
+                  class="block py-2 px-4 text-gray-700 hover:bg-gray-100 transition-colors duration-300 ease-in-out">
+                  <%= title %>
+                </a>
+              </li>
+            <% end %>
+          </ul>
+        </div>

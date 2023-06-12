@@ -61,3 +61,9 @@ Awareness of misuse:
   And the 4 reviews (mostly Jobin and Schiff)
 
 
+<h3>Particular Challenges, Cases, and Strategies</h3>
+
+These are strategies that relate to beneficence and harm avoidance.
+
+<% keys_content = partial "templates/components/getkeys", locals: { my_filters: "item[:title]&.match?(/beneficence|maleficence|CARE for the wellbeing of each and all|harm/i) && item[:category] == 'Principles'" } %>
+<%= partial "templates/components/cardset", locals: { my_filters: "item[:category] == 'Strategies' && (item[:Principles].is_a?(Array) ? item[:Principles]&.compact&.any? { |principle| principle&.match?(/#{keys_content}/i) } : item[:Principles]&.match?(/#{keys_content}/i))" } %>
