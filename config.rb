@@ -1,4 +1,4 @@
-require 'lib/tonic'
+require "./lib/tonic"
 
 #set :url_root, 'https://sjgknight.github.io/tonic-filtering'
 set :build_dir, 'docs'
