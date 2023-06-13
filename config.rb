@@ -1,6 +1,6 @@
-require "lib/tonic"
+require_relative 'lib/tonic'
 
-set :url_root, 'https://sjgknight.github.io/tonic-filtering'
+#set :url_root, 'https://sjgknight.github.io/tonic-filtering'
 set :build_dir, 'docs'
 
 #set :markdown_engine, :kramdown
