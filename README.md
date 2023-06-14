@@ -16,6 +16,7 @@ A few things that could be improved:
 1. I cannot get 'base_url' to work as a variable I can call in templates. For deploying on github pages we need this otherwise it looks for the pages at top level not the subdirectory. I've hard coded some values some places (and for now deployed to netlify anyway)
 1. css, etc. 
 1. At the moment any array field will be processed with the new functions below, which may not be desirable. 
+1. I've added some things like callouts but they're not all super elegant, and I can't see how to get them to work where not all variables are passed to it 
 
 The changes I made to base tonic are:
 
