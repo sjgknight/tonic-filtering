@@ -1,5 +1,9 @@
 - Challenges:
   - test
+  OverarchingFocus:
+  - test
+  OverarchingPrinciples:
+  - test
   Sources:
   - test
   Strategies:
@@ -16,15 +20,13 @@
   - test
   Principles:
   - test
-  Stakeholder-actors:
+  Stakeholder-as-actor:
   - test
   Stakeholders-impacted:
   - test
   Rights:
   - test
-  Stakeholder-impacted:
-  - test
-  Stakeholder-as-actor:
+  Name:
   - test
   title: test
   description: test
@@ -33,12 +35,21 @@
   Reference: test
   Link: test
   category: test
+  Coverage: '0'
+  Fjeld_covered: '0'
+  Jobin_covered: '0'
+  Khan_covered: '0'
+  Schiff_covered: '0'
 - Challenges:
   - recCpTJXuuowqsqQa
   - recHHr97jsyNDnlsJ
   - recgZrgA8K7MmIzdF
   - recefglLZ3oJWw2SZ
   - recv6cN7XSt5GW32Y
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -70,7 +81,11 @@
   name: rec42P8U9usfYCtv9
   tags: []
   created_at: '2023-05-18T14:25:20.000Z'
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   childOf:
   - recImuZ3T4iDiNP2B
@@ -82,7 +97,11 @@
   name: rec5216SybPPylYdD
   tags: []
   created_at: '2023-05-19T09:39:12.000Z'
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Sources:
   - recpXl48pJdKDhc6f
   childOf:
   - recuQpwelm0FwdAib
@@ -138,7 +157,11 @@
     tasked with developing industry standard benchmarks for both hardware and software
     platforms associated with running Artificial Intelligence (AI) based workloads,
     2017p.26-27'
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - recKDgUEDD2f1egyd
@@ -151,7 +174,11 @@
   name: rec6O9e1nYBJtQUTj
   tags: []
   created_at: '2023-05-18T14:25:53.000Z'
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   Strategies:
   - rec0GhefNkhJqW0c2
@@ -167,7 +194,11 @@
   name: rec6tz9Phzck0hvT8
   tags: []
   created_at: '2023-05-19T09:39:25.000Z'
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Sources:
   - recfYC5jjPmpLfSlM
   Strategies:
   - recmhwo8kmYkBZ7Sy
@@ -187,7 +218,11 @@
     p. 10)“• Prioritise the safety and the mental and physical integrity of people
     when scanning horizons of technological possibility and when conceiving of and
     deploying AI applications” (Leslie, 2019, p. 11)
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recpXl48pJdKDhc6f
   equivalentTo:
   - recKdujFoPJr4ZAhZ
@@ -206,7 +241,11 @@
     effectiveness and accountability, foster trust, and protect our private sphere,
     but only when people have agency over their digital identity and their data is
     provably protected." p.7'
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   childOf:
   - rectPrYetyr4YIuq8
@@ -216,7 +255,11 @@
   name: recArMNCiaj832hZ1
   tags: []
   created_at: '2023-05-19T09:42:36.000Z'
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation-(instrumental)
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   Strategies:
   - recQPwyiQbPcN0G47
@@ -228,7 +271,11 @@
   name: recB9JaNSRmLbD8eE
   tags: []
   created_at: '2023-05-19T09:41:36.000Z'
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   childOf:
   - rectPrYetyr4YIuq8
@@ -239,7 +286,11 @@
   name: recC49LlmCoNq2Svy
   tags: []
   created_at: '2023-05-19T10:57:01.000Z'
-- Sources:
+- OverarchingFocus:
+  - misuses
+  OverarchingPrinciples:
+  - recNB5h9bK4gEE9uc
+  Sources:
   - recpXl48pJdKDhc6f
   childOf:
   - recuQpwelm0FwdAib
@@ -284,7 +335,11 @@
     #2).•Engineering and Physical Sciences Research Council, “[Anticipate, Reflect,
     Engage and Act (AREA)](https://epsrc.ukri.org/research/framework/area/),” Framework
     for Responsible Research and Innovation, Accessed 2018.p.32-33'
-- Sources:
+- OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recpXl48pJdKDhc6f
   childOf:
   - recSwTdeEk6XbEgXU
@@ -359,6 +414,10 @@
     operated by others in the networked worldp.25-26'
 - Challenges:
   - recHHr97jsyNDnlsJ
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
   Sources:
   - recfYC5jjPmpLfSlM
   childOf:
@@ -368,7 +427,12 @@
   name: recDRQE1qQQNI65Xn
   tags: []
   created_at: '2023-05-19T10:59:36.000Z'
-- Sources:
+- OverarchingFocus:
+  - Technical-instrumental
+  - Human-oversight
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recpXl48pJdKDhc6f
   childOf:
   - recSwTdeEk6XbEgXU
@@ -421,7 +485,11 @@
     secure storage of sensor and internal state data comparable to a flight data recorder
     or black box. IEEE P7001™, [IEEE Standard for Transparency of Autonomous Systems](https://standards.ieee.org/project/7001.html)
     is one such standard, developed in response to this recommendationp.28-29'
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   Strategies:
   - recEHwRaLD44KPk8v
@@ -435,7 +503,11 @@
   name: recGb4WZzr34RXKr0
   tags: []
   created_at: '2023-05-19T09:39:33.000Z'
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   equivalentTo:
   - recLHILkx2JDFsLbX
@@ -453,6 +525,10 @@
 - Challenges:
   - recHHr97jsyNDnlsJ
   - recL5M2Hye2XHK7zg
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
   Sources:
   - recnCULdYQ36cpZR7
   equivalentTo:
@@ -479,7 +555,11 @@
     to do so, the entity accountable for the decision must be identifiable, and the
     decision-making processes should be explicable.” (High-Level Expert Group on AI,
     2019, p. 13-14)'
-- Sources:
+- OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Sources:
   - recpXl48pJdKDhc6f
   Strategies:
   - reck6xeMUc9jtmLr3
@@ -550,6 +630,11 @@
   - reckPjhcWwLgjX9p5
   - recCkVZngvMA5I5uv
   - reczg5MObRbgzTeob
+  - recJ6khG2kY2Tx5ae
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -573,7 +658,11 @@
   name: recKdujFoPJr4ZAhZ
   tags: []
   created_at: '2023-05-18T13:40:06.000Z'
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Sources:
   - recfYC5jjPmpLfSlM
   childOf:
   - rec7n2TGrH9RHYpQj
@@ -586,6 +675,10 @@
   created_at: '2023-05-19T10:58:11.000Z'
 - Challenges:
   - rec5VzvnIZcaNKqDh
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   PrincipleCollation:
   - recYP5QdyBcP0gruN
   - recW30jj9GzhNGTuX
@@ -633,6 +726,10 @@
   - recENQXCSOQQ3Y8et
   - recOeanQuUyB6Dx8g
   - reczg5MObRbgzTeob
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -648,6 +745,10 @@
   created_at: '2023-05-18T14:26:57.000Z'
 - Challenges:
   - recOpn4I30te1qiKl
+  OverarchingFocus:
+  - Long-range-impacts
+  OverarchingPrinciples:
+  - recNB5h9bK4gEE9uc
   title: Consider long-range and indirect impacts
   category: Principles
   name: recNB5h9bK4gEE9uc
@@ -658,6 +759,10 @@
   - rech9r2f3QX8ZvmkP
   - recvQ90DajNCwPiGP
   - recJjTMjpfE0WHSWu
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
   PrincipleCollation:
   - recl9ptNqbtslS9s6
   - rec2lbN7lCx1fQKnh
@@ -723,6 +828,11 @@
   - recO1L6GoFMkA6Lt4
   - recAoyMGCCLhaSqEb
   - recBc3GCNokDL220T
+  - recJ6khG2kY2Tx5ae
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -750,6 +860,10 @@
   - recA7Kh502s4UKWGo
   - recGRpoF7DA23ODSj
   - rec5nbWC0ZbVwnmxJ
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -765,7 +879,11 @@
   name: recQ9DIFEsOEkCx3O
   tags: []
   created_at: '2023-05-18T14:28:05.000Z'
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recnCULdYQ36cpZR7
   Strategies:
   - recNHvwgyFPXERuJ8
@@ -793,7 +911,11 @@
     change the work sphere. It should support humans in the working environment, and
     aim for the creation of meaningful work.” (High-Level Expert Group on AI, 2019,
     p. 12)
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recnCULdYQ36cpZR7
   equivalentTo:
   - recKdujFoPJr4ZAhZ
@@ -814,7 +936,11 @@
     to conduct a business, the freedom of the arts and science, freedom of expression,
     the right to private life and privacy, and freedom of assembly and association”
     (High-Level Expert Group on AI, 2019, p. 10)
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recnCULdYQ36cpZR7
   equivalentTo:
   - recLHILkx2JDFsLbX
@@ -834,6 +960,10 @@
     (High-Level Expert Group on AI, 2019, p. 10)
 - Challenges:
   - recHHr97jsyNDnlsJ
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recnCULdYQ36cpZR7
   Strategies:
@@ -861,6 +991,10 @@
 - Challenges:
   - recENQXCSOQQ3Y8et
   - recL5M2Hye2XHK7zg
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
   PrincipleCollation:
   - rec5tUjckYAzHmc7e
   - recO0PpscH27fFkXA
@@ -888,7 +1022,11 @@
     there is fair access to the benefits of research.1.5 Research outcomes should
     be made accessible to research participants in a way that is timely and clear."
     (NS 1.4-1.5)'
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recpXl48pJdKDhc6f
   equivalentTo:
   - recLHILkx2JDFsLbX
@@ -907,7 +1045,11 @@
     policy makers as well as engineers, designers, and developers. Advances in A/IS
     should be in the service of all people, rather than benefiting solely small groups,
     a single nation, or a corporation." p.7'
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recnCULdYQ36cpZR7
   title: Citizens' rights
   category: Principles
@@ -926,6 +1068,10 @@
     2019, p. 11)
 - Challenges:
   - recCpTJXuuowqsqQa
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -950,6 +1096,10 @@
   - recSXcY4cnofb4zTP
   - recskjpMFnQ0emSKI
   - recAlOHJhEy5nDwA6
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - rec9jnxuHOioQn4DC
   Strategies:
@@ -964,6 +1114,10 @@
 - Cases:
   - recOOmVQviRyJGvea
   - recAlOHJhEy5nDwA6
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
   Sources:
   - rec9jnxuHOioQn4DC
   Strategies:
@@ -976,7 +1130,12 @@
   description: “Technical robustness and safety including resilience to attack, security
     and general safety, accuracy, reliability, and reproducibility.” (European Commission,
     2022, p. 19)
-- Sources:
+- OverarchingFocus:
+  - Technical-instrumental
+  - Human-oversight
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recpXl48pJdKDhc6f
   childOf:
   - recSwTdeEk6XbEgXU
@@ -1026,7 +1185,11 @@
     (in relation to Recommendation #3) can be found in [Sciencewise](http://www.sciencewise-erc.org.uk/)—the
     U.K. national center for public dialogue in policy-making involving science and
     technology issues.p.29-30'
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
+  Sources:
   - recfYC5jjPmpLfSlM
   Strategies:
   - recGS9OVQ7qAjvIYE
@@ -1051,6 +1214,11 @@
 - Challenges:
   - recHHr97jsyNDnlsJ
   - recL5M2Hye2XHK7zg
+  OverarchingFocus:
+  - Fundamental-right
+  - Human-oversight
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
   Sources:
   - recfYC5jjPmpLfSlM
   childOf:
@@ -1064,6 +1232,10 @@
 - Cases:
   - reciNqxyfUgE5XM7t
   - recmS3zSMbR3ofAR5
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
   Sources:
   - rec9jnxuHOioQn4DC
   Strategies:
@@ -1078,7 +1250,13 @@
     which allows use regardless of age, gender, abilities, or characteristics - with
     a particular focus for students with special needs.” (\[European Commission, 2022,
     p. 18]\(zotero://select/groups/4907410/items/3BCJVLT9)) (\[pdf]\(zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=18&annotation=WFTMSW2T))
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation
+  - Long-range-impacts
+  - misuses
+  OverarchingPrinciples:
+  - recNB5h9bK4gEE9uc
+  Sources:
   - recfYC5jjPmpLfSlM
   childOf:
   - recZToVrPeFlFq0Aw
@@ -1097,6 +1275,10 @@
   - reciNc7OeTUmnsLqg
   - recA7Kh502s4UKWGo
   - recGRpoF7DA23ODSj
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recpXl48pJdKDhc6f
   Strategies:
@@ -1161,7 +1343,11 @@
     Defining a New Economic Paradigm](https://sustainabledevelopment.un.org/content/documents/617BhutanReport_WEB_F.pdf),
     New York: The Permanent Mission of the Kingdom of Bhutan to the United Nations,
     2012"p.23-24'
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - recKDgUEDD2f1egyd
@@ -1176,7 +1362,11 @@
   name: recgDkzdE9dfpTxCK
   tags: []
   created_at: '2023-05-18T14:28:03.000Z'
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recNB5h9bK4gEE9uc
+  Sources:
   - recfYC5jjPmpLfSlM
   childOf:
   - recZToVrPeFlFq0Aw
@@ -1189,7 +1379,11 @@
   name: recgEYKqzkCYqPmXW
   tags: []
   created_at: '2023-05-19T10:59:56.000Z'
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Sources:
   - recfYC5jjPmpLfSlM
   childOf:
   - rec7n2TGrH9RHYpQj
@@ -1199,7 +1393,11 @@
   name: rechB1SCdOpa940OZ
   tags: []
   created_at: '2023-05-19T10:57:48.000Z'
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - recpvGxQzTNQS1smH
@@ -1212,6 +1410,10 @@
   created_at: '2023-05-18T14:28:06.000Z'
 - Challenges:
   - rec1QZHHMARBQcZoo
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -1225,7 +1427,11 @@
   name: recint2IxoR8aILCp
   tags: []
   created_at: '2023-05-18T14:27:54.000Z'
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - recY9yr9vYcOAUSEA
@@ -1238,7 +1444,11 @@
   name: recjViPnz3atRIOpD
   tags: []
   created_at: '2023-05-18T14:28:05.000Z'
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recnCULdYQ36cpZR7
   Strategies:
   - recHEUOqkzQTNsAMw
@@ -1257,7 +1467,11 @@
     not operate in ways that undermine the foundational commitments upon which the
     rule of law is founded, mandatory laws and regulation, and to ensure due process
     and equality before the law.” (High-Level Expert Group on AI, 2019, p. 11)
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Sources:
   - recnCULdYQ36cpZR7
   Strategies:
   - rec4oGONFgYMu3JGf
@@ -1285,7 +1499,12 @@
     such as between employers and employees, businesses and consumers or governments
     and citizens. Preventing harm also entails consideration of the natural environment
     and all living beings.” (High-Level Expert Group on AI, 2019, p. 12)
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   Strategies:
   - rec0GhefNkhJqW0c2
@@ -1297,7 +1516,11 @@
   name: reclur1ImQFlLyYof
   tags: []
   created_at: '2023-05-19T09:41:35.000Z'
-- PrincipleCollation:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  PrincipleCollation:
   - rec3rTrXMiXaZjy7s
   - reci6dYShRhu4H0ad
   - recLwscIEEHBzI5Nq
@@ -1352,6 +1575,11 @@
 - Cases:
   - reciNqxyfUgE5XM7t
   - recOOmVQviRyJGvea
+  OverarchingFocus:
+  - Human-oversight
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - rec9jnxuHOioQn4DC
   Strategies:
@@ -1364,7 +1592,11 @@
   description: “Human agency and oversight including fundamental rights, children’s
     rights, human agency, and human oversight.” (\[European Commission, 2022, p. 18]\(zotero://select/groups/4907410/items/3BCJVLT9))
     (\[pdf]\(zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=18&annotation=YBKGBYD4))
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation-(instrumental)
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   childOf:
   - rectPrYetyr4YIuq8
@@ -1377,6 +1609,10 @@
 - Cases:
   - recrVkbG0XGe2Ca0v
   - recAlOHJhEy5nDwA6
+  OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recNB5h9bK4gEE9uc
   Sources:
   - rec9jnxuHOioQn4DC
   Strategies:
@@ -1393,6 +1629,10 @@
   - recYHYaeqVHR93Kuo
   - recO1L6GoFMkA6Lt4
   - recrHBtVR4EOXSJh2
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   PrincipleCollation:
   - rec3rTrXMiXaZjy7s
   Sources:
@@ -1410,7 +1650,11 @@
   name: recsvi4LnhEEPyQ1h
   tags: []
   created_at: '2023-05-18T13:40:06.000Z'
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   equivalentTo:
   - recLHILkx2JDFsLbX
@@ -1431,7 +1675,11 @@
     connect so as to reinforce the edifice of trust, empathy, reciprocal responsibility,
     and mutual understanding upon which all ethically wellfounded social orders rest”
     (Leslie, 2019, p. 10)
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Sources:
   - recpXl48pJdKDhc6f
   equivalentTo:
   - recOHnq45Fq7YWsRO
@@ -1448,7 +1696,12 @@
     values and respecting codified rights. In addition, validation and verification
     processes, including aspects of explainability, should be developed that could
     lead to better auditability and to certification of A/IS" p.7'
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   childOf:
   - recImuZ3T4iDiNP2B
@@ -1461,7 +1714,11 @@
   name: recv9z5lu6zZspHYA
   tags: []
   created_at: '2023-05-19T09:39:38.000Z'
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   childOf:
   - rectPrYetyr4YIuq8
@@ -1474,6 +1731,10 @@
 - Cases:
   - reciNqxyfUgE5XM7t
   - recmS3zSMbR3ofAR5
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - rec9jnxuHOioQn4DC
   Strategies:
@@ -1486,7 +1747,11 @@
   description: “Transparency including traceability, explainability and communication.”
     (\[European Commission, 2022, p. 18]\(zotero://select/groups/4907410/items/3BCJVLT9))
     (\[pdf]\(zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=18&annotation=GKNH3GVZ))
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recpXl48pJdKDhc6f
   childOf:
   - recSwTdeEk6XbEgXU
@@ -1550,6 +1815,11 @@
     Systems"p.21-22'
 - Challenges:
   - recdmBNNa98cN8Sda
+  OverarchingFocus:
+  - Fundamental-right
+  - Human-oversight
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
   Sources:
   - recnCULdYQ36cpZR7
   Strategies:
@@ -1580,7 +1850,11 @@
     and the severity of the consequences if that output is erroneous or otherwise
     inaccurate.33” (\[High-Level Expert Group on AI, 2019, p. 13]\(zotero://select/groups/4907410/items/XPCD8D3T))
     (\[pdf]\(zotero://open-pdf/groups/4907410/items/CPFPH28M?page=15&annotation=J8F447TV))
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - reczG9x5YfScZJdCo
@@ -1592,7 +1866,11 @@
   name: recy4stJ6Y4e2Fezp
   tags: []
   created_at: '2023-05-18T14:28:04.000Z'
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Sources:
   - recfYC5jjPmpLfSlM
   Strategies:
   - recKWkdYO98PeEKDz
@@ -1604,7 +1882,11 @@
   name: recy6hrMpKZ7TOn3Q
   tags: []
   created_at: '2023-05-19T10:57:55.000Z'
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recNB5h9bK4gEE9uc
+  Sources:
   - recfYC5jjPmpLfSlM
   childOf:
   - recZToVrPeFlFq0Aw
@@ -1621,6 +1903,10 @@
   - recCpTJXuuowqsqQa
   - recHHr97jsyNDnlsJ
   - recKzhZVabDuYM6rG
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   PrincipleCollation:
   - rec5tUjckYAzHmc7e
   Sources:
@@ -1648,6 +1934,11 @@
   - recrVkbG0XGe2Ca0v
   - recmS3zSMbR3ofAR5
   - recSXcY4cnofb4zTP
+  OverarchingFocus:
+  - Fundamental-right
+  - Human-oversight
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - rec9jnxuHOioQn4DC
   Strategies:
@@ -7729,7 +8020,7 @@
     Do one’s disciplinary requirements for collecting, analyzing, or representing
     information clash with the specific needs of the context? If so, what are the
     potential ethical consequences?” (Markham and Buchanan, 2012, p. 10)
-- Stakeholder-actors:
+- Stakeholder-as-actor:
   - recwbivinQr5lOP5r
   Stakeholders-impacted:
   - reci4jOiaZbCd37eY
@@ -7777,7 +8068,7 @@
   - recUYS0TFpk2MhVD7
   Sources:
   - rec9jnxuHOioQn4DC
-  Stakeholder-actors:
+  Stakeholder-as-actor:
   - recGRt9lWJvxx5GAE
   - recTYTKZphOqdzYoL
   - recVHjstaBpfkQwvp
@@ -7843,7 +8134,8 @@
   title: AI for Adaptive Learning
   category: Cases
   name: recHAwvOykeiUxFsY
-  tags: []
+  tags:
+  - Adaptive-and-personalised-learning
   created_at: '2023-05-29T08:00:33.000Z'
   description: '“AI Enables Adaptivity in Learning Adaptivity has been recognized
     as a key way in which technology can improve learning.25 AI can be a toolset for
@@ -7876,13 +8168,7 @@
     foundational models miss the mark, keeping humans in the loop remains highly important.”
     ([Cardona et al., 2023, p. 19](zotero://select/groups/4907410/items/ZI7HP57C))
     ([pdf](zotero://open-pdf/groups/4907410/items/4YFQW35Q?page=23&annotation=XGC6UNEN))'
-- title: AES white paper
-  category: Cases
-  name: recKURlVVYGCInW8y
-  tags:
-  - Automated-feedback
-  created_at: '2023-05-19T14:13:58.000Z'
-- Stakeholder-actors:
+- Stakeholder-as-actor:
   - recVHjstaBpfkQwvp
   - reckhslKpo5ZlVNpl
   - recGRt9lWJvxx5GAE
@@ -7897,7 +8183,7 @@
   tags:
   - Automated-content-creation
   created_at: '2023-05-19T14:15:04.000Z'
-- Stakeholder-actors:
+- Stakeholder-as-actor:
   - recSaPtMj9rxfu4uu
   - recGRt9lWJvxx5GAE
   Stakeholders-impacted:
@@ -7914,7 +8200,8 @@
   title: Financial discrimination
   category: Cases
   name: recNNFrnCiGxTP4WE
-  tags: []
+  tags:
+  - non-education
   created_at: '2023-05-29T07:22:53.000Z'
   description: '“Driving financial discrimination against the marginalized: Algorithms
     have long been used to create credit scores and inform loan screening. However,
@@ -7937,7 +8224,7 @@
   - recWLcMWDPE9Fd1pE
   Sources:
   - rec9jnxuHOioQn4DC
-  Stakeholder-actors:
+  Stakeholder-as-actor:
   - recGRt9lWJvxx5GAE
   - recTYTKZphOqdzYoL
   - recVHjstaBpfkQwvp
@@ -7980,7 +8267,7 @@
   - recUYS0TFpk2MhVD7
   Sources:
   - rec9jnxuHOioQn4DC
-  Stakeholder-actors:
+  Stakeholder-as-actor:
   - recGRt9lWJvxx5GAE
   - recTYTKZphOqdzYoL
   - recVHjstaBpfkQwvp
@@ -8020,14 +8307,16 @@
 - title: Teacher evaluation fails to acknowledge individual contexts and teacher autonomy
   category: Cases
   name: recTQ7eABknthRQo8
-  tags: []
+  tags:
+  - educational-accountability
   created_at: '2023-06-05T15:18:06.000Z'
 - Sources:
   - recH8KmnURSknCr5y
   title: Disinformation spread
   category: Cases
   name: recVLyzjb1UfqbrIh
-  tags: []
+  tags:
+  - non-education
   created_at: '2023-05-29T07:22:23.000Z'
   description: '“Assisting the spread of disinformation: AI can be used to create
     and disseminate targeted propaganda, and that problem is compounded by AI-powered
@@ -8051,7 +8340,8 @@
   title: Hiring bias
   category: Cases
   name: recWNt6W4v0xr3x0Z
-  tags: []
+  tags:
+  - non-education
   created_at: '2023-05-29T07:22:41.000Z'
   description: '“Perpetuating bias in the job market: Hiring processes have long been
     fraught with bias and discrimination. In response, an entire industry has emerged
@@ -8061,7 +8351,7 @@
     past “successful” employees to train the ML models, thus naturally reproducing
     the bias in prior hiring.47” ([Access Now, 2018, p. 16](zotero://select/groups/4907410/items/KIU6F9PR))
     ([pdf](zotero://open-pdf/groups/4907410/items/598C5P37?page=16&annotation=DQUC6GAH))'
-- Stakeholder-actors:
+- Stakeholder-as-actor:
   - recGRt9lWJvxx5GAE
   - recz1WGGiX1qkZTxC
   - recTYTKZphOqdzYoL
@@ -8088,7 +8378,7 @@
   - reco4DUa3rsjP0hyg
   Sources:
   - rec9jnxuHOioQn4DC
-  Stakeholder-actors:
+  Stakeholder-as-actor:
   - recGRt9lWJvxx5GAE
   - recTYTKZphOqdzYoL
   - recVHjstaBpfkQwvp
@@ -8136,7 +8426,7 @@
   - recwjv8IMAZFWfMSr
   Sources:
   - rec9jnxuHOioQn4DC
-  Stakeholder-actors:
+  Stakeholder-as-actor:
   - recGRt9lWJvxx5GAE
   - recTYTKZphOqdzYoL
   - recVHjstaBpfkQwvp
@@ -8151,7 +8441,8 @@
   - rechaQXedBh3OsMjZ
   - recRTVqtvPcBS6zps
   - rec81gtnlFS5W2BBF
-  title: Scoring essays using automated tools
+  title: Automated Essay Scoring is proposed in order to reduce the marking burden,
+    improve feedback turnaround, and standardise outcomes
   category: Cases
   name: recmS3zSMbR3ofAR5
   tags:
@@ -8167,20 +8458,29 @@
     to provide even more accurate grading. The system has a plagiarism detection option
     which can be used to automatically detect instances of plagiarism or copyright
     infringement in written work submitted by students. The following guiding questions
-    highlight areas that require attention: • Are there procedures in place to ensure
+    highlight areas that require attention: * Are there procedures in place to ensure
     that AI use will not lead to discrimination or unfair behaviour for all users?
-    Diversity, non-discrimination and fairness • Who is responsible for the ongoing
+    Diversity, non-discrimination and fairness * Who is responsible for the ongoing
     monitoring of results produced by the AI system and how the results are being
-    used to enhance teaching, learning and assessment? Accountability • Do teachers
+    used to enhance teaching, learning and assessment? Accountability * Do teachers
     and school leaders understand how specific assessment or personalisation algorithms
-    work within the AI system? Transparency” ([European Commission, 2022, p. 24](zotero://select/groups/4907410/items/3BCJVLT9))
-    ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=24&annotation=7VK8CJ4X))'
+    work within the AI system? Transparency” (European Commission, 2022, p. 24)This
+    white paper outlines critical issues associated with the use of Automated Essay
+    Scoring (AES) technology in the Australian education system. The key insights
+    presented in this paper emerged from a collaborative, multi-stakeholder workshop
+    held in July 2022 that explored an automated essay-scoring trial and generated
+    future possibilities aligned with participant interests and expertise. Drawing
+    on the workshop and our expert understanding of the wider landscape, we propose
+    recommendations that can be adopted by various stakeholders, schools, and educational
+    systems.[Automated Essay Scoring in Australian Schools: Key Issues and Recommendations.
+    White Paper](https://eprints.qut.edu.au/236511/)'
 - Sources:
   - recY4zreDoWrsbsv7
   title: ITS
   category: Cases
   name: reco7BYWc7reRuaCh
-  tags: []
+  tags:
+  - Adaptive-and-personalised-learning
   created_at: '2023-05-29T08:02:31.000Z'
   description: '“One long-standing type of AI-enabled technology is an Intelligent
     Tutoring System (ITS).27 In an early success, scientists were able to build accurate
@@ -8223,7 +8523,11 @@
     be possible to extend beyond the amount of tutoring that people can provide to
     students.” ([Cardona et al., 2023, p. 20](zotero://select/groups/4907410/items/ZI7HP57C))
     ([pdf](zotero://open-pdf/groups/4907410/items/4YFQW35Q?page=24&annotation=TJ94T9HD))'
-- Stakeholder-actors:
+- Challenges:
+  - rec5VzvnIZcaNKqDh
+  - recL5M2Hye2XHK7zg
+  - recdmBNNa98cN8Sda
+  Stakeholder-as-actor:
   - recGRt9lWJvxx5GAE
   - recTYTKZphOqdzYoL
   - recVHjstaBpfkQwvp
@@ -8236,12 +8540,18 @@
   - reci4jOiaZbCd37eY
   - recdkIzRDcuurhTmM
   - rec0af1wTjdFwMqsw
-  title: UK exam algorithm
+  title: An algorithm is introduced to moderate student grades, aiming to ensure they
+    are not overinflated
   category: Cases
   name: recpFE7h6QhaEpNAQ
   tags:
   - Dropout-risk-and-grade-prediction
   created_at: '2023-05-19T14:13:50.000Z'
+  description: In 2020 parts of the UK introduced an algorithm to moderate school
+    leaver grades due to COVID-19 preventing use of exams, and requiring teacher-based
+    grading. Links:* [Algorithms can decide your marks, your work prospects, and your
+    financial security, how do you know they are fair? The Conversation](https://theconversation.com/algorithms-can-decide-your-marks-your-work-prospects-and-your-financial-security-how-do-you-know-theyre-fair-171590)*
+    [UK Exam Algorithm Game](https://www.edufuturesstudio.com/uk-exam-algorithm-game)
 - Challenges:
   - rec5VzvnIZcaNKqDh
   - recL5M2Hye2XHK7zg
@@ -8253,7 +8563,7 @@
   - reczcRriFbQQpn8iX
   Sources:
   - rec9jnxuHOioQn4DC
-  Stakeholder-actors:
+  Stakeholder-as-actor:
   - recGRt9lWJvxx5GAE
   - recTYTKZphOqdzYoL
   - recVHjstaBpfkQwvp
@@ -8710,6 +9020,7 @@
   - recrVkbG0XGe2Ca0v
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
+  - recpFE7h6QhaEpNAQ
   Principles:
   - recLHILkx2JDFsLbX
   title: Tyranny of averages
@@ -9490,6 +9801,24 @@
     Boundless Management. - T. Donaldson, “[Values in Tension: Ethics Away from Home
     Away from Home](https://hbr.org/1996/09/values-in-tension-ethics-away-from-home).”
     _Harvard Business Review. _September– October 1996.'
+- Principles:
+  - recKdujFoPJr4ZAhZ
+  - recPg7Ov0priGGtLm
+  title: Researcher-participant relationships - AI and associated infrastructure has
+    shifted relationships of researchers and participants through greater secondary
+    use of data, online platforms that connect (sometimes invisibly) participants
+    to researchers, and heightened risks of re-identification
+  category: Challenges
+  name: recJ6khG2kY2Tx5ae
+  tags:
+  - AI
+  created_at: '2023-06-14T12:17:55.000Z'
+  description: '**Interactions and distance between researcher-participant are impacted**,
+    because tools may mediate this interaction, or research may be conducted in a
+    way that is distal to human interactions with the inputs or outputs of the research
+    (e.g., distal to the original capture of the data in the context of gathering
+    training data; or to the use of a tool in the context of training an algorithm
+    to be deployed beyond the research project)'
 - Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
     on Ethics of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J.
     Silva Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and
@@ -9776,6 +10105,7 @@
   - recrVkbG0XGe2Ca0v
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
+  - recpFE7h6QhaEpNAQ
   Principles:
   - recSqx6wklVpDzx3s
   - recMGB4iC5oaCtr5x
@@ -10132,11 +10462,24 @@
     and the Marketplace for Student Data,” _Virginia Journal of Law and Technology_,
     Forthcoming. Available at SSRN: [https://ssrn.com/abstract=3191436,](https://ssrn.com/abstract=3191436)
     June 6, 2018."'
-- title: Indirect impacts (including long-range, and dual-use)
+- title: Indirect, long-range, and dual-use impacts - AI has potential to have impact
+    beyond just on the participants involved into society, and it may not be clear
+    what these impacts will be.
   category: Challenges
   name: recWPbL5kB1Yh5OPf
-  tags: []
+  tags:
+  - AI
+  - indirect-impacts
   created_at: '2023-05-18T18:54:26.000Z'
+  description: Immediate or proximal impacts are those experienced in the immediate
+    context, for example in interactions of researcher-participant groups. Indirect,
+    long-range, and dual-use impacts relate to the potential for:secondary impacts
+    that are not a direct use of a tool but may relate to system changes that occur
+    as a result;- that these impacts may occur over a longer period than the immediate
+    context of research, which is ordinarily the context for which ethics approval
+    is provided- and that some effects may arise from unintended uses of dual-use
+    technologies, for example facial recognition developed for one purpose may be
+    used for surveillance or military purposes.
 - Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
     on Ethics of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J.
     Silva Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and
@@ -10482,6 +10825,8 @@
   name: recdZI38VrUaUKRYf
   tags:
   - wellbeing
+  - indirect-impacts
+  - AI
   created_at: '2023-06-05T05:58:44.000Z'
   description: '"There are insufficient mechanisms to foresee and measure negative
     impacts, andto promote and safeguard positive impacts of A/IS.## BackgroundA/IS
@@ -10692,6 +11037,7 @@
 - Cases:
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
+  - recpFE7h6QhaEpNAQ
   Principles:
   - recOHnq45Fq7YWsRO
   - recxcFmvPG5wrCqpO
@@ -11878,6 +12224,14 @@
     May 24, 2015.•“[Environment,](https://www.dalailama.com/messages/environment)”
     The 14th Dalai Lama. Accessed Dec. 9, 2018. [https://www.dalailama.com/ messages/environment.](https://www.dalailama.com/messages/environment)-
     Why Islam.org, Environment and Islam, 2018._ "__p.74-75_'
+- title: Commercial interests - while significant AI work is derived from publicly
+    funded research, commercial actors have significant interests and this may impact
+    relationships between funders-technology providers-researchers-public with blured
+    lines between these groups, and complex power dynamics
+  category: Challenges
+  name: recwuiKe3bhSLw4xv
+  tags: []
+  created_at: '2023-06-14T12:19:37.000Z'
 - Cases:
   - reciNqxyfUgE5XM7t
   - recrVkbG0XGe2Ca0v
@@ -13685,7 +14039,7 @@
     bot, you should consider a broad set of responsibilities you have when developing
     any data-centric AI system, including ethics, privacy, security, safety, inclusion,
     transparency and accountability.” (Microsoft, 2018, p. 1)
-- Stakeholder-impacted:
+- Stakeholders-impacted:
   - reccWWRCdr9ZKJBZE
   - rec1RzTKH08fWjSbT
   - recAlOHJhEy5nDwA6
@@ -13749,7 +14103,7 @@
   - recSXcY4cnofb4zTP
   - recAlOHJhEy5nDwA6
   - recpFE7h6QhaEpNAQ
-  Stakeholder-impacted:
+  Stakeholders-impacted:
   - reccWWRCdr9ZKJBZE
   - recKWQBBplr1vXmRc
   - reciNqxyfUgE5XM7t
@@ -13764,7 +14118,7 @@
   name: recVHjstaBpfkQwvp
   tags: []
   created_at: '2023-05-18T13:51:22.000Z'
-- Stakeholder-impacted:
+- Stakeholders-impacted:
   - recKWQBBplr1vXmRc
   - reciNqxyfUgE5XM7t
   - recrVkbG0XGe2Ca0v
@@ -13780,7 +14134,7 @@
   created_at: '2023-06-05T14:49:46.000Z'
 - Stakeholder-as-actor:
   - recpFE7h6QhaEpNAQ
-  Stakeholder-impacted:
+  Stakeholders-impacted:
   - reccWWRCdr9ZKJBZE
   - rec1RzTKH08fWjSbT
   - recKWQBBplr1vXmRc
@@ -13805,7 +14159,7 @@
   - recSXcY4cnofb4zTP
   - recAlOHJhEy5nDwA6
   - recpFE7h6QhaEpNAQ
-  Stakeholder-impacted:
+  Stakeholders-impacted:
   - recMalmQowxcka9V6
   - recKWQBBplr1vXmRc
   - reciNqxyfUgE5XM7t
@@ -13823,7 +14177,7 @@
 - Stakeholder-as-actor:
   - rec1RzTKH08fWjSbT
   - recSXcY4cnofb4zTP
-  Stakeholder-impacted:
+  Stakeholders-impacted:
   - reccWWRCdr9ZKJBZE
   title: Institutional-leaders
   category: Stakeholders
@@ -13837,3 +14191,795 @@
   name: recz1WGGiX1qkZTxC
   tags: []
   created_at: '2023-06-05T14:48:51.000Z'
+- Coverage: '2'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '0'
+  Name:
+  - Public participation
+  OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff_covered: '1'
+  Sources:
+  - recQXTU23awCZtU2a
+  - recZ82hfuUzG775I3
+  category: PrincipleCollation
+  name: rec1VlvAnhNs3MkbA
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '1'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '0'
+  Name:
+  - Knowledge
+  Schiff_covered: '0'
+  Sources:
+  - recZ82hfuUzG775I3
+  category: PrincipleCollation
+  name: rec26Igx0Uax18EHh
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '2'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '0'
+  Name:
+  - Misuse & hostile use
+  OverarchingFocus:
+  - Long-range-impacts-and-misuses
+  - misuses
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: '1'
+  Sources:
+  - recZ82hfuUzG775I3
+  - recQXTU23awCZtU2a
+  category: PrincipleCollation
+  name: rec2LOHao3FmjpwIv
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '2'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '1'
+  Name:
+  - Sustainability
+  OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Schiff_covered: '0'
+  Sources:
+  - recFglyNv1cgX2zx7
+  - recZ82hfuUzG775I3
+  category: PrincipleCollation
+  name: rec2lbN7lCx1fQKnh
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '4'
+  Fjeld_covered: '1'
+  Jobin_covered: '1'
+  Khan_covered: '1'
+  Name:
+  - Privacy
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recsvi4LnhEEPyQ1h
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: '1'
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recZ82hfuUzG775I3
+  - recQXTU23awCZtU2a
+  - recFglyNv1cgX2zx7
+  category: PrincipleCollation
+  name: rec3rTrXMiXaZjy7s
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '3'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '1'
+  Name:
+  - Prosperity
+  OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Schiff_covered: '1'
+  Sources:
+  - recQXTU23awCZtU2a
+  - recZ82hfuUzG775I3
+  - recFglyNv1cgX2zx7
+  category: PrincipleCollation
+  name: rec3tM5qcjsVoGf8o
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '4'
+  Fjeld_covered: '1'
+  Jobin_covered: '1'
+  Khan_covered: '1'
+  Name:
+  - Fairness
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
+  - reczVPIH1y2OMpAJH
+  Schiff_covered: '1'
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recZ82hfuUzG775I3
+  - recQXTU23awCZtU2a
+  - recFglyNv1cgX2zx7
+  category: PrincipleCollation
+  name: rec5tUjckYAzHmc7e
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '1'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '0'
+  Name:
+  - Innovation
+  Schiff_covered: '0'
+  Sources:
+  - recZ82hfuUzG775I3
+  category: PrincipleCollation
+  name: rec7XT5tn9q11nNbX
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '2'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '0'
+  Name:
+  - Inequality
+  Schiff_covered: '1'
+  Sources:
+  - recQXTU23awCZtU2a
+  - recZ82hfuUzG775I3
+  equivalentTo:
+  - recO0PpscH27fFkXA
+  - rec5tUjckYAzHmc7e
+  category: PrincipleCollation
+  name: recAEIWzHfWw7JYJH
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '1'
+  Fjeld_covered: '0'
+  Jobin_covered: '0'
+  Khan_covered: '1'
+  Name:
+  - Interpretability
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Schiff_covered: '0'
+  Sources:
+  - recFglyNv1cgX2zx7
+  category: PrincipleCollation
+  name: recBuQv8QRql0Ow4q
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '1'
+  Fjeld_covered: '0'
+  Jobin_covered: '0'
+  Khan_covered: '0'
+  Name:
+  - H-H interaction
+  OverarchingFocus:
+  - Long-range-impacts-and-misuses
+  - misuses
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff_covered: '1'
+  Sources:
+  - recQXTU23awCZtU2a
+  category: PrincipleCollation
+  name: recCTIw7k9DYnAN2g
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '2'
+  Fjeld_covered: '1'
+  Jobin_covered: '0'
+  Khan_covered: '0'
+  Name:
+  - Human rights
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: '1'
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recQXTU23awCZtU2a
+  category: PrincipleCollation
+  name: recEhiFWkyd6l5Kim
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '4'
+  Fjeld_covered: '1'
+  Jobin_covered: '1'
+  Khan_covered: '1'
+  Name:
+  - Autonomy
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff_covered: '1'
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recZ82hfuUzG775I3
+  - recQXTU23awCZtU2a
+  - recFglyNv1cgX2zx7
+  category: PrincipleCollation
+  name: recG3YFWxYITJ7HdM
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '1'
+  Fjeld_covered: '0'
+  Jobin_covered: '0'
+  Khan_covered: '0'
+  Name:
+  - AGI & Existential Threats
+  OverarchingFocus:
+  - Long-range-impacts-and-misuses
+  - misuses
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Schiff_covered: '1'
+  Sources:
+  - recQXTU23awCZtU2a
+  category: PrincipleCollation
+  name: recH0fKGdRvDSVpQm
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '1'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '0'
+  Name:
+  - Impact, and Goals/Purposes/Intentions (note, these two are included by Jobin but
+    is redundant)
+  Schiff_covered: '0'
+  Sources:
+  - recZ82hfuUzG775I3
+  category: PrincipleCollation
+  name: recKt2LyhX48RpbtK
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '2'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '1'
+  Name:
+  - Beneficence
+  OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: '0'
+  Sources:
+  - recFglyNv1cgX2zx7
+  - recZ82hfuUzG775I3
+  category: PrincipleCollation
+  name: recLwscIEEHBzI5Nq
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '2'
+  Fjeld_covered: '1'
+  Jobin_covered: '0'
+  Khan_covered: '0'
+  Name:
+  - H-R relationships
+  OverarchingFocus:
+  - Long-range-impacts
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff_covered: '1'
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recQXTU23awCZtU2a
+  category: PrincipleCollation
+  name: recMBWhG4UXydd71J
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '2'
+  Fjeld_covered: '0'
+  Jobin_covered: '0'
+  Khan_covered: '1'
+  Name:
+  - Predictability
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Schiff_covered: '1'
+  Sources:
+  - recFglyNv1cgX2zx7
+  - recQXTU23awCZtU2a
+  category: PrincipleCollation
+  name: recNFvfNqfB2VwhZ8
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '2'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '1'
+  Name:
+  - Justice
+  OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
+  Schiff_covered: '0'
+  Sources:
+  - recFglyNv1cgX2zx7
+  - recZ82hfuUzG775I3
+  category: PrincipleCollation
+  name: recO0PpscH27fFkXA
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '2'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '1'
+  Name:
+  - Accuracy
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Schiff_covered: '0'
+  Sources:
+  - recFglyNv1cgX2zx7
+  - recZ82hfuUzG775I3
+  category: PrincipleCollation
+  name: recQECJl1tr5x63ig
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '2'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '1'
+  Name:
+  - Effectiveness
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Schiff_covered: '0'
+  Sources:
+  - recFglyNv1cgX2zx7
+  - recZ82hfuUzG775I3
+  category: PrincipleCollation
+  name: recQEQ1NAj92jByY5
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '1'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '0'
+  Name:
+  - 'Arms race '
+  OverarchingFocus:
+  - Long-range-impacts-and-misuses
+  - misuses
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: '0'
+  Sources:
+  - recZ82hfuUzG775I3
+  category: PrincipleCollation
+  name: recRopSKW7iYgFHlz
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '4'
+  Fjeld_covered: '1'
+  Jobin_covered: '1'
+  Khan_covered: '1'
+  Name:
+  - Explainability
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff_covered: '1'
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recZ82hfuUzG775I3
+  - recQXTU23awCZtU2a
+  - recFglyNv1cgX2zx7
+  category: PrincipleCollation
+  name: recS88wQCG2Q3vCmN
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '2'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '1'
+  Name:
+  - Solidarity
+  Schiff_covered: '0'
+  Sources:
+  - recZ82hfuUzG775I3
+  - recFglyNv1cgX2zx7
+  category: PrincipleCollation
+  name: recUb7Jo7VY1Hx5Co
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '1'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '0'
+  Name:
+  - Enhancement
+  Schiff_covered: '0'
+  Sources:
+  - recZ82hfuUzG775I3
+  category: PrincipleCollation
+  name: recUiZ5lcg30F10Ns
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '1'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '0'
+  Name:
+  - Risk evaluation & mitigation
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: '0'
+  Sources:
+  - recZ82hfuUzG775I3
+  category: PrincipleCollation
+  name: recVOZptlmWy2vW4P
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '4'
+  Fjeld_covered: '1'
+  Jobin_covered: '1'
+  Khan_covered: '1'
+  Name:
+  - Accountability
+  OverarchingFocus:
+  - Human-oversight
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff_covered: '1'
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recZ82hfuUzG775I3
+  - recQXTU23awCZtU2a
+  - recFglyNv1cgX2zx7
+  category: PrincipleCollation
+  name: recW30jj9GzhNGTuX
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '1'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '0'
+  Name:
+  - Risks
+  Schiff_covered: '0'
+  Sources:
+  - recZ82hfuUzG775I3
+  category: PrincipleCollation
+  name: recWg8LODvWwEikAo
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '4'
+  Fjeld_covered: '1'
+  Jobin_covered: '1'
+  Khan_covered: '1'
+  Name:
+  - Transparency
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff_covered: '1'
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recZ82hfuUzG775I3
+  - recQXTU23awCZtU2a
+  - recFglyNv1cgX2zx7
+  category: PrincipleCollation
+  name: recYP5QdyBcP0gruN
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '3'
+  Fjeld_covered: '1'
+  Jobin_covered: '0'
+  Khan_covered: '1'
+  Name:
+  - Freedom
+  OverarchingFocus:
+  - Human-oversight
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff_covered: '1'
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recQXTU23awCZtU2a
+  - recFglyNv1cgX2zx7
+  category: PrincipleCollation
+  name: recZQWPVfsVKa7q8t
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '2'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '0'
+  Name:
+  - Trust
+  OverarchingFocus:
+  - Purpose-and-implementation-(instrumental)
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Schiff_covered: '1'
+  Sources:
+  - recQXTU23awCZtU2a
+  - recZ82hfuUzG775I3
+  category: PrincipleCollation
+  name: recZzygIMFc8xIAnW
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '2'
+  Fjeld_covered: '1'
+  Jobin_covered: '0'
+  Khan_covered: '0'
+  Name:
+  - Vulnerable populations
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff_covered: '1'
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recQXTU23awCZtU2a
+  category: PrincipleCollation
+  name: recbsOi9a2k1nJswY
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '1'
+  Fjeld_covered: '0'
+  Jobin_covered: '0'
+  Khan_covered: '0'
+  Name:
+  - Psychologiacal impacts
+  OverarchingFocus:
+  - Long-range-impacts
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: '1'
+  Sources:
+  - recQXTU23awCZtU2a
+  category: PrincipleCollation
+  name: recdmyjbklrgjcfc3
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '2'
+  Fjeld_covered: '1'
+  Jobin_covered: '0'
+  Khan_covered: '1'
+  Name:
+  - Data security
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: '0'
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recFglyNv1cgX2zx7
+  category: PrincipleCollation
+  name: recgk6VOEM4y4w7gV
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '2'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '1'
+  Name:
+  - Responsibility
+  Schiff_covered: '0'
+  Sources:
+  - recFglyNv1cgX2zx7
+  - recZ82hfuUzG775I3
+  equivalentTo:
+  - reck7CXWZJAjaLrDR
+  - recW30jj9GzhNGTuX
+  - recr4fWTm3a7tbJ4G
+  category: PrincipleCollation
+  name: rechhdJ1P2uBHmBJx
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '2'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '1'
+  Name:
+  - Non-maleficence
+  OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: '0'
+  Sources:
+  - recFglyNv1cgX2zx7
+  - recZ82hfuUzG775I3
+  category: PrincipleCollation
+  name: reci6dYShRhu4H0ad
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '1'
+  Fjeld_covered: '1'
+  Jobin_covered: '0'
+  Khan_covered: '0'
+  Name:
+  - Professional responsibility
+  OverarchingFocus:
+  - Human-oversight
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: '0'
+  Sources:
+  - recrDXMNtbEk0mCAY
+  category: PrincipleCollation
+  name: reck7CXWZJAjaLrDR
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '3'
+  Fjeld_covered: '1'
+  Jobin_covered: '0'
+  Khan_covered: '1'
+  Name:
+  - Safety
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: '1'
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recQXTU23awCZtU2a
+  - recFglyNv1cgX2zx7
+  category: PrincipleCollation
+  name: recl9ptNqbtslS9s6
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '1'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '0'
+  Name:
+  - Surveillance
+  OverarchingFocus:
+  - Long-range-impacts-and-misuses
+  - misuses
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: '0'
+  Sources:
+  - recZ82hfuUzG775I3
+  category: PrincipleCollation
+  name: recm9sVI6QmlMdHor
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '1'
+  Fjeld_covered: '0'
+  Jobin_covered: '0'
+  Khan_covered: '0'
+  Name:
+  - Cultural Sensitivity
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff_covered: '1'
+  Sources:
+  - recQXTU23awCZtU2a
+  category: PrincipleCollation
+  name: recnatLtMuR1D5OXt
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '1'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '0'
+  Name:
+  - Monitoring/precaution
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: '0'
+  Sources:
+  - recZ82hfuUzG775I3
+  category: PrincipleCollation
+  name: reco1j4ikYZLaYZi6
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '2'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '0'
+  Name:
+  - Deception & Manipulation
+  OverarchingFocus:
+  - Long-range-impacts-and-misuses
+  - misuses
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff_covered: '1'
+  Sources:
+  - recQXTU23awCZtU2a
+  - recZ82hfuUzG775I3
+  category: PrincipleCollation
+  name: recqLh2ycsve2o5QO
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '1'
+  Fjeld_covered: '0'
+  Jobin_covered: '0'
+  Khan_covered: '0'
+  Name:
+  - Social responsibility
+  OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Schiff_covered: '1'
+  Sources:
+  - recQXTU23awCZtU2a
+  category: PrincipleCollation
+  name: recr4fWTm3a7tbJ4G
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '1'
+  Fjeld_covered: '0'
+  Jobin_covered: '0'
+  Khan_covered: '0'
+  Name:
+  - Workforce diversity
+  OverarchingFocus:
+  - Purpose-and-implementation-(instrumental)
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Schiff_covered: '1'
+  Sources:
+  - recQXTU23awCZtU2a
+  category: PrincipleCollation
+  name: recrpsLqCTq9nWSND
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'
+- Coverage: '2'
+  Fjeld_covered: '0'
+  Jobin_covered: '1'
+  Khan_covered: '1'
+  Name:
+  - Human dignity
+  Schiff_covered: '0'
+  Sources:
+  - recZ82hfuUzG775I3
+  - recFglyNv1cgX2zx7
+  equivalentTo:
+  - recZQWPVfsVKa7q8t
+  - recG3YFWxYITJ7HdM
+  category: PrincipleCollation
+  name: recsJ2B2umNP3DulI
+  tags: []
+  created_at: '2023-06-08T15:13:19.000Z'

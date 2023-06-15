@@ -1,0 +1,813 @@
+- Coverage: 2
+  Fjeld_covered: 0
+  Jobin: public opinion
+  Jobin_covered: 1
+  Khan_covered: 0
+  Name: Public participation
+  OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff: '1'
+  Schiff_covered: 1
+  Selected term or map: public participation
+  Sources:
+  - recQXTU23awCZtU2a
+  - recZ82hfuUzG775I3
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: rec1VlvAnhNs3MkbA
+- Coverage: 1
+  Fjeld_covered: 0
+  Jobin: '1'
+  Jobin_covered: 1
+  Khan_covered: 0
+  Name: Knowledge
+  Schiff_covered: 0
+  Sources:
+  - recZ82hfuUzG775I3
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: rec26Igx0Uax18EHh
+- Coverage: 2
+  Fjeld_covered: 0
+  Jobin: Misuse & dual-use
+  Jobin_covered: 1
+  Khan_covered: 0
+  Name: Misuse & hostile use
+  OverarchingFocus:
+  - Long-range-impacts-and-misuses
+  - misuses
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff: '1'
+  Schiff_covered: 1
+  Selected term or map: Misuse & dual-use
+  Sources:
+  - recZ82hfuUzG775I3
+  - recQXTU23awCZtU2a
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: rec2LOHao3FmjpwIv
+- Coverage: 2
+  Fjeld_covered: 0
+  Jobin: '1'
+  Jobin_covered: 1
+  Khan: '1'
+  Khan_covered: 1
+  NOTES: |
+    socio-technical and environmental sustainability
+  Name: Sustainability
+  OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Schiff_covered: 0
+  Selected term or map: sustainability
+  Sources:
+  - recFglyNv1cgX2zx7
+  - recZ82hfuUzG775I3
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: rec2lbN7lCx1fQKnh
+- Coverage: 4
+  Fjeld: '1'
+  Fjeld_covered: 1
+  Jobin: '1'
+  Jobin_covered: 1
+  Khan: '1'
+  Khan_covered: 1
+  Name: Privacy
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recsvi4LnhEEPyQ1h
+  - recmzjcGKv3yNOxbl
+  Schiff: '1'
+  Schiff_covered: 1
+  Selected term or map: Privacy
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recZ82hfuUzG775I3
+  - recQXTU23awCZtU2a
+  - recFglyNv1cgX2zx7
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: rec3rTrXMiXaZjy7s
+- Coverage: 3
+  Fjeld_covered: 0
+  Jobin: Future of work
+  Jobin_covered: 1
+  Khan: '1'
+  Khan_covered: 1
+  Name: Prosperity
+  OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Schiff: economic growth, Unemployment
+  Schiff_covered: 1
+  Selected term or map: prosperity
+  Sources:
+  - recQXTU23awCZtU2a
+  - recZ82hfuUzG775I3
+  - recFglyNv1cgX2zx7
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: rec3tM5qcjsVoGf8o
+- Coverage: 4
+  Fjeld: Fairness and non-discrimination
+  Fjeld_covered: 1
+  Jobin: Justice, Fairness & Equity
+  Jobin_covered: 1
+  Khan: '1'
+  Khan_covered: 1
+  NOTES: |
+    Distinguish between non-discrimination, fairness, and equity
+  Name: Fairness
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
+  - reczVPIH1y2OMpAJH
+  Schiff: fairness and bias
+  Schiff_covered: 1
+  Selected term or map: Fairness and non-discrimination
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recZ82hfuUzG775I3
+  - recQXTU23awCZtU2a
+  - recFglyNv1cgX2zx7
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: rec5tUjckYAzHmc7e
+- Coverage: 1
+  Fjeld_covered: 0
+  Jobin: '1'
+  Jobin_covered: 1
+  Khan_covered: 0
+  Name: Innovation
+  Schiff_covered: 0
+  Sources:
+  - recZ82hfuUzG775I3
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: rec7XT5tn9q11nNbX
+- Coverage: 2
+  Fjeld_covered: 0
+  Jobin: Justice, Fairness & Equity +Discrimination
+  Jobin_covered: 1
+  Khan_covered: 0
+  NOTES: |
+    covered above
+  Name: Inequality
+  Schiff: '1'
+  Schiff_covered: 1
+  Sources:
+  - recQXTU23awCZtU2a
+  - recZ82hfuUzG775I3
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recAEIWzHfWw7JYJH
+  equivalentTo:
+  - recO0PpscH27fFkXA
+  - rec5tUjckYAzHmc7e
+- Coverage: 1
+  Fjeld_covered: 0
+  Jobin_covered: 0
+  Khan: '1'
+  Khan_covered: 1
+  Name: Interpretability
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Schiff_covered: 0
+  Selected term or map: Interpretability
+  Sources:
+  - recFglyNv1cgX2zx7
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recBuQv8QRql0Ow4q
+- Coverage: 1
+  Fjeld_covered: 0
+  Jobin_covered: 0
+  Khan_covered: 0
+  Name: H-H interaction
+  OverarchingFocus:
+  - Long-range-impacts-and-misuses
+  - misuses
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff: '1'
+  Schiff_covered: 1
+  Selected term or map: H-H interaction
+  Sources:
+  - recQXTU23awCZtU2a
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recCTIw7k9DYnAN2g
+- Coverage: 2
+  Fjeld: Promotion of human values
+  Fjeld_covered: 1
+  Jobin_covered: 0
+  Khan_covered: 0
+  Name: Human rights
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff: '1'
+  Schiff_covered: 1
+  Selected term or map: Promotion of human rights
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recQXTU23awCZtU2a
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recEhiFWkyd6l5Kim
+- Coverage: 4
+  Fjeld: Human control of technology
+  Fjeld_covered: 1
+  Jobin: Freedom & autonomy
+  Jobin_covered: 1
+  Khan: '1'
+  Khan_covered: 1
+  NOTES: |+
+    Humans should have autonomy, and freedom to engage (or not). Consent can be too narrowly construed (per cookies)
+
+  Name: Autonomy
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff: consent & autonomy
+  Schiff_covered: 1
+  Selected term or map: Freedom & autonomy
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recZ82hfuUzG775I3
+  - recQXTU23awCZtU2a
+  - recFglyNv1cgX2zx7
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recG3YFWxYITJ7HdM
+- Coverage: 1
+  Fjeld_covered: 0
+  Jobin_covered: 0
+  Khan_covered: 0
+  NOTES: |
+    A very specific type of possible harm
+  Name: AGI & Existential Threats
+  OverarchingFocus:
+  - Long-range-impacts-and-misuses
+  - misuses
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Schiff: '1'
+  Schiff_covered: 1
+  Selected term or map: AGI & Existential Threats
+  Sources:
+  - recQXTU23awCZtU2a
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recH0fKGdRvDSVpQm
+- Coverage: 1
+  Fjeld_covered: 0
+  Jobin: '1'
+  Jobin_covered: 1
+  Khan_covered: 0
+  Name: Impact, and Goals/Purposes/Intentions (note, these two are included by Jobin
+    but is redundant)
+  Schiff_covered: 0
+  Sources:
+  - recZ82hfuUzG775I3
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recKt2LyhX48RpbtK
+- Coverage: 2
+  Fjeld_covered: 0
+  Jobin: '1'
+  Jobin_covered: 1
+  Khan: '1'
+  Khan_covered: 1
+  NOTES: |
+    (promote benefit)
+  Name: Beneficence
+  OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: 0
+  Selected term or map: beneficence
+  Sources:
+  - recFglyNv1cgX2zx7
+  - recZ82hfuUzG775I3
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recLwscIEEHBzI5Nq
+- Coverage: 2
+  Fjeld: Human control of technology
+  Fjeld_covered: 1
+  Jobin_covered: 0
+  Khan_covered: 0
+  Name: H-R relationships
+  OverarchingFocus:
+  - Long-range-impacts
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff: '1'
+  Schiff_covered: 1
+  Selected term or map: H-R relationships
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recQXTU23awCZtU2a
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recMBWhG4UXydd71J
+- Coverage: 2
+  Fjeld_covered: 0
+  Jobin_covered: 0
+  Khan: '1'
+  Khan_covered: 1
+  Name: Predictability
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Schiff: safety and reliability
+  Schiff_covered: 1
+  Selected term or map: predictability and reliability
+  Sources:
+  - recFglyNv1cgX2zx7
+  - recQXTU23awCZtU2a
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recNFvfNqfB2VwhZ8
+- Coverage: 2
+  Fjeld_covered: 0
+  Jobin: Justice, Fairness & Equity
+  Jobin_covered: 1
+  Khan: '1'
+  Khan_covered: 1
+  NOTES: |
+    The costs of AI (underlying data, development, implementation) and benefits should be evenly distributed, noting historic injustices
+  Name: Justice
+  OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
+  Schiff_covered: 0
+  Selected term or map: Justice
+  Sources:
+  - recFglyNv1cgX2zx7
+  - recZ82hfuUzG775I3
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recO0PpscH27fFkXA
+- Coverage: 2
+  Fjeld_covered: 0
+  Jobin: 'risks: maulfunction'
+  Jobin_covered: 1
+  Khan: '1'
+  Khan_covered: 1
+  NOTES: "Accuracy must be treated in terms of the question \"is it worthwhile\" as\
+    \ in, will it achieve an ends on which we have agreement regarding its value.\
+    \ \n"
+  Name: Accuracy
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Schiff_covered: 0
+  Selected term or map: accuracy
+  Sources:
+  - recFglyNv1cgX2zx7
+  - recZ82hfuUzG775I3
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recQECJl1tr5x63ig
+- Coverage: 2
+  Fjeld_covered: 0
+  Jobin: AI strengths, advantages
+  Jobin_covered: 1
+  Khan: '1'
+  Khan_covered: 1
+  NOTES: |
+    This is redundant if beneficence is treated properly (per merit and integrity)
+  Name: Effectiveness
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Schiff_covered: 0
+  Selected term or map: effectiveness
+  Sources:
+  - recFglyNv1cgX2zx7
+  - recZ82hfuUzG775I3
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recQEQ1NAj92jByY5
+- Coverage: 1
+  Fjeld_covered: 0
+  Jobin: '1'
+  Jobin_covered: 1
+  Khan_covered: 0
+  Name: 'Arms race '
+  OverarchingFocus:
+  - Long-range-impacts-and-misuses
+  - misuses
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: 0
+  Selected term or map: 'Arms race '
+  Sources:
+  - recZ82hfuUzG775I3
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recRopSKW7iYgFHlz
+- Coverage: 4
+  Fjeld: Transparency and explainability
+  Fjeld_covered: 1
+  Jobin: transparency & explainability
+  Jobin_covered: 1
+  Khan: '1'
+  Khan_covered: 1
+  NOTES: |
+    Explainability: The results of a system AND their interpretation can be explained.
+  Name: Explainability
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff: '1'
+  Schiff_covered: 1
+  Selected term or map: Explainability
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recZ82hfuUzG775I3
+  - recQXTU23awCZtU2a
+  - recFglyNv1cgX2zx7
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recS88wQCG2Q3vCmN
+- Coverage: 2
+  Fjeld_covered: 0
+  Jobin: '1'
+  Jobin_covered: 1
+  Khan: '1'
+  Khan_covered: 1
+  Name: Solidarity
+  Schiff_covered: 0
+  Sources:
+  - recZ82hfuUzG775I3
+  - recFglyNv1cgX2zx7
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recUb7Jo7VY1Hx5Co
+- Coverage: 1
+  Fjeld_covered: 0
+  Jobin: '1'
+  Jobin_covered: 1
+  Khan_covered: 0
+  Name: Enhancement
+  Schiff_covered: 0
+  Sources:
+  - recZ82hfuUzG775I3
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recUiZ5lcg30F10Ns
+- Coverage: 1
+  Fjeld_covered: 0
+  Jobin: '1'
+  Jobin_covered: 1
+  Khan_covered: 0
+  Name: Risk evaluation & mitigation
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: 0
+  Selected term or map: Risk evaluation & mitigation
+  Sources:
+  - recZ82hfuUzG775I3
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recVOZptlmWy2vW4P
+- Coverage: 4
+  Fjeld: '1'
+  Fjeld_covered: 1
+  Jobin: Responsibility & Accountability
+  Jobin_covered: 1
+  Khan: '1'
+  Khan_covered: 1
+  Name: Accountability
+  OverarchingFocus:
+  - Human-oversight
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff: '1'
+  Schiff_covered: 1
+  Selected term or map: Accountability
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recZ82hfuUzG775I3
+  - recQXTU23awCZtU2a
+  - recFglyNv1cgX2zx7
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recW30jj9GzhNGTuX
+- Coverage: 1
+  Fjeld_covered: 0
+  Jobin: '1'
+  Jobin_covered: 1
+  Khan_covered: 0
+  Name: Risks
+  Schiff_covered: 0
+  Sources:
+  - recZ82hfuUzG775I3
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recWg8LODvWwEikAo
+- Coverage: 4
+  Fjeld: Transparency and explainability
+  Fjeld_covered: 1
+  Jobin: transparency & explainability
+  Jobin_covered: 1
+  Khan: '1'
+  Khan_covered: 1
+  NOTES: |
+    Transparency & explainability are separate. Transparency: It is clear what role the AI plays in a system, and that it is there; explainability, the decisions of the AI can be understood.
+  Name: Transparency
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff: '1'
+  Schiff_covered: 1
+  Selected term or map: Transparency
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recZ82hfuUzG775I3
+  - recQXTU23awCZtU2a
+  - recFglyNv1cgX2zx7
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recYP5QdyBcP0gruN
+- Coverage: 3
+  Fjeld: Human control of technology
+  Fjeld_covered: 1
+  Jobin_covered: 0
+  Khan: '1'
+  Khan_covered: 1
+  Name: Freedom
+  OverarchingFocus:
+  - Human-oversight
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff: Human Control
+  Schiff_covered: 1
+  Selected term or map: Human control of technology
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recQXTU23awCZtU2a
+  - recFglyNv1cgX2zx7
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recZQWPVfsVKa7q8t
+- Coverage: 2
+  Fjeld_covered: 0
+  Jobin: '1'
+  Jobin_covered: 1
+  Khan_covered: 0
+  Name: Trust
+  OverarchingFocus:
+  - Purpose-and-implementation-(instrumental)
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Schiff: '1'
+  Schiff_covered: 1
+  Selected term or map: trust
+  Sources:
+  - recQXTU23awCZtU2a
+  - recZ82hfuUzG775I3
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recZzygIMFc8xIAnW
+- Coverage: 2
+  Fjeld: Fairness and non-discrimination
+  Fjeld_covered: 1
+  Jobin_covered: 0
+  Khan_covered: 0
+  Name: Vulnerable populations
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff: '1'
+  Schiff_covered: 1
+  Selected term or map: vulnerable populations
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recQXTU23awCZtU2a
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recbsOi9a2k1nJswY
+- Coverage: 1
+  Fjeld_covered: 0
+  Jobin_covered: 0
+  Khan_covered: 0
+  Name: Psychologiacal impacts
+  OverarchingFocus:
+  - Long-range-impacts
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff: '1'
+  Schiff_covered: 1
+  Selected term or map: psychologiacal impacts
+  Sources:
+  - recQXTU23awCZtU2a
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recdmyjbklrgjcfc3
+- Coverage: 2
+  Fjeld: safety and security
+  Fjeld_covered: 1
+  Jobin_covered: 0
+  Khan: '1'
+  Khan_covered: 1
+  Name: Data security
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: 0
+  Selected term or map: data security
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recFglyNv1cgX2zx7
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recgk6VOEM4y4w7gV
+- Coverage: 2
+  Fjeld_covered: 0
+  Jobin: Responsibility & Accountability
+  Jobin_covered: 1
+  Khan: '1'
+  Khan_covered: 1
+  NOTES: |
+    redundant, accountability covers part of this, and social responsibility and professional responsibility are elsewhere
+  Name: Responsibility
+  Schiff_covered: 0
+  Sources:
+  - recFglyNv1cgX2zx7
+  - recZ82hfuUzG775I3
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: rechhdJ1P2uBHmBJx
+  equivalentTo:
+  - reck7CXWZJAjaLrDR
+  - recW30jj9GzhNGTuX
+  - recr4fWTm3a7tbJ4G
+- Coverage: 2
+  Fjeld_covered: 0
+  Jobin: '1'
+  Jobin_covered: 1
+  Khan: '1'
+  Khan_covered: 1
+  NOTES: |
+    (do no harm)
+  Name: Non-maleficence
+  OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: 0
+  Selected term or map: Non-maleficence
+  Sources:
+  - recFglyNv1cgX2zx7
+  - recZ82hfuUzG775I3
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: reci6dYShRhu4H0ad
+- Coverage: 1
+  Fjeld: '1'
+  Fjeld_covered: 1
+  Jobin_covered: 0
+  Khan_covered: 0
+  Name: Professional responsibility
+  OverarchingFocus:
+  - Human-oversight
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: 0
+  Selected term or map: Professional responsibility
+  Sources:
+  - recrDXMNtbEk0mCAY
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: reck7CXWZJAjaLrDR
+- Coverage: 3
+  Fjeld: safety and security
+  Fjeld_covered: 1
+  Jobin_covered: 0
+  Khan: '1'
+  Khan_covered: 1
+  NOTES: |
+    see note right, safety is a really opaque term in my view
+  Name: Safety
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  - recmzjcGKv3yNOxbl
+  Schiff: safety and reliability
+  Schiff_covered: 1
+  Selected term or map: safety and reliability
+  Sources:
+  - recrDXMNtbEk0mCAY
+  - recQXTU23awCZtU2a
+  - recFglyNv1cgX2zx7
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recl9ptNqbtslS9s6
+- Coverage: 1
+  Fjeld_covered: 0
+  Jobin: '1'
+  Jobin_covered: 1
+  Khan_covered: 0
+  Name: Surveillance
+  OverarchingFocus:
+  - Long-range-impacts-and-misuses
+  - misuses
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: 0
+  Selected term or map: surveillance
+  Sources:
+  - recZ82hfuUzG775I3
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recm9sVI6QmlMdHor
+- Coverage: 1
+  Fjeld_covered: 0
+  Jobin_covered: 0
+  Khan_covered: 0
+  Name: Cultural Sensitivity
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff: '1'
+  Schiff_covered: 1
+  Selected term or map: Cultural Sensitivity
+  Sources:
+  - recQXTU23awCZtU2a
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recnatLtMuR1D5OXt
+- Coverage: 1
+  Fjeld_covered: 0
+  Jobin: '1'
+  Jobin_covered: 1
+  Khan_covered: 0
+  Name: Monitoring/precaution
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Schiff_covered: 0
+  Selected term or map: monitoring/precaution
+  Sources:
+  - recZ82hfuUzG775I3
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: reco1j4ikYZLaYZi6
+- Coverage: 2
+  Fjeld_covered: 0
+  Jobin: Deception + manipulation
+  Jobin_covered: 1
+  Khan_covered: 0
+  Name: Deception & Manipulation
+  OverarchingFocus:
+  - Long-range-impacts-and-misuses
+  - misuses
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Schiff: '1'
+  Schiff_covered: 1
+  Selected term or map: Deception & Manipulation
+  Sources:
+  - recQXTU23awCZtU2a
+  - recZ82hfuUzG775I3
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recqLh2ycsve2o5QO
+- Coverage: 1
+  Fjeld_covered: 0
+  Jobin_covered: 0
+  Khan_covered: 0
+  Name: Social responsibility
+  OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Schiff: '1'
+  Schiff_covered: 1
+  Selected term or map: social responsibility
+  Sources:
+  - recQXTU23awCZtU2a
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recr4fWTm3a7tbJ4G
+- Coverage: 1
+  Fjeld_covered: 0
+  Jobin_covered: 0
+  Khan_covered: 0
+  Name: Workforce diversity
+  OverarchingFocus:
+  - Purpose-and-implementation-(instrumental)
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Schiff: '1'
+  Schiff_covered: 1
+  Selected term or map: workforce diversity
+  Sources:
+  - recQXTU23awCZtU2a
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recrpsLqCTq9nWSND
+- Coverage: 2
+  Fjeld_covered: 0
+  Jobin: '1'
+  Jobin_covered: 1
+  Khan: '1'
+  Khan_covered: 1
+  NOTES: |
+    redundant, equivalent to respect for persons, and in the framing provided autonomy
+  Name: Human dignity
+  Schiff_covered: 0
+  Sources:
+  - recZ82hfuUzG775I3
+  - recFglyNv1cgX2zx7
+  airtable_createdTime: '2023-06-08T15:13:19.000Z'
+  airtable_id: recsJ2B2umNP3DulI
+  equivalentTo:
+  - recZQWPVfsVKa7q8t
+  - recG3YFWxYITJ7HdM

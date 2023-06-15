@@ -4,6 +4,10 @@
   - recgZrgA8K7MmIzdF
   - recefglLZ3oJWw2SZ
   - recv6cN7XSt5GW32Y
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -33,7 +37,11 @@
   childOf:
   - recmzjcGKv3yNOxbl
   title: Minimise risks of harms
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T09:39:12.000Z'
   airtable_id: rec5216SybPPylYdD
@@ -92,6 +100,10 @@
     \ tasked with developing industry standard benchmarks for both hardware and software\
     \ platforms associated with running Artificial Intelligence (AI) based workloads,\
     \ 2017\n\np.26-27\n"
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
   Sources:
   - recpXl48pJdKDhc6f
   airtable_createdTime: '2023-06-03T18:23:44.000Z'
@@ -99,7 +111,11 @@
   childOf:
   - recuQpwelm0FwdAib
   title: Effectiveness
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - recKDgUEDD2f1egyd
@@ -110,7 +126,11 @@
   childOf:
   - recmzjcGKv3yNOxbl
   title: Maximise potential for benefits
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   Strategies:
   - rec0GhefNkhJqW0c2
@@ -131,6 +151,10 @@
     \ mental and physical integrity of people when scanning horizons of technological\
     \ possibility and when conceiving of and deploying AI applications\u201D (Leslie,\
     \ 2019, p. 11)\n"
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
   Sources:
   - recfYC5jjPmpLfSlM
   Strategies:
@@ -150,6 +174,10 @@
     \ improve government effectiveness and accountability, foster trust, and protect\
     \ our private sphere, but only when people have agency over their digital identity\
     \ and their data is provably protected.\" p.7\n"
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recpXl48pJdKDhc6f
   airtable_createdTime: '2023-06-03T18:26:38.000Z'
@@ -160,7 +188,11 @@
   - recQEiU22Qy1E0YuA
   title: 'Pillar of the Ethically Aligned Design Conceptual Framework: Political Self-Determination
     and Data Agency'
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T09:42:36.000Z'
   airtable_id: recArMNCiaj832hZ1
@@ -168,7 +200,11 @@
   - rectPrYetyr4YIuq8
   title: Use the advancement and proliferation of AI technologies to strengthen the
     developmentally essential relationship between interacting human beings.
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation-(instrumental)
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   Strategies:
   - recQPwyiQbPcN0G47
@@ -178,7 +214,11 @@
   - rectPrYetyr4YIuq8
   title: Prioritise diversity, participation, and inclusion at all points in the design,
     development, and deployment processes of AI innovation.
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T10:57:01.000Z'
   airtable_id: recC49LlmCoNq2Svy
@@ -225,6 +265,10 @@
     \ #2).\n\u2022\_\_\_\_\_Engineering and Physical Sciences Research Council, \u201C\
     [Anticipate, Reflect, Engage and Act (AREA)](https://epsrc.ukri.org/research/framework/area/),\u201D\
     \ Framework for Responsible Research and Innovation, Accessed 2018.\n\np.32-33\n"
+  OverarchingFocus:
+  - misuses
+  OverarchingPrinciples:
+  - recNB5h9bK4gEE9uc
   Sources:
   - recpXl48pJdKDhc6f
   airtable_createdTime: '2023-06-03T18:24:55.000Z'
@@ -298,6 +342,10 @@
     \ individuals with a means to proffer their own terms respecting personal privacy\
     \ in ways that can be read, acknowledged, and be agreed to by machines operated\
     \ by others in the networked world\n\np.25-26\n"
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recpXl48pJdKDhc6f
   airtable_createdTime: '2023-06-03T18:19:32.000Z'
@@ -309,6 +357,10 @@
   title: Data agency
 - Challenges:
   - recHHr97jsyNDnlsJ
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
   Sources:
   - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T10:59:36.000Z'
@@ -361,6 +413,11 @@
     \ a flight data recorder or black box. IEEE P7001\u2122, [IEEE Standard for Transparency\
     \ of Autonomous Systems](https://standards.ieee.org/project/7001.html) is one\
     \ such standard, developed in response to this recommendation\n\np.28-29\n"
+  OverarchingFocus:
+  - Technical-instrumental
+  - Human-oversight
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recpXl48pJdKDhc6f
   airtable_createdTime: '2023-06-03T18:24:07.000Z'
@@ -370,7 +427,11 @@
   - rec9uueW1gq31CcBo
   - recuQpwelm0FwdAib
   title: Transparency
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   Strategies:
   - recEHwRaLD44KPk8v
@@ -389,6 +450,10 @@
     \ Support their abilities to flourish, to fully develop themselves, and to pursue\
     \ their passions and talents according to their own freely determined life plans\u201D\
     \ (Leslie, 2019, p. 10)\n"
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T09:38:40.000Z'
@@ -416,6 +481,10 @@
     \ and by the humans operating them.32 In order to do so, the entity accountable\
     \ for the decision must be identifiable, and the decision-making processes should\
     \ be explicable.\u201D (High-Level Expert Group on AI, 2019, p. 13-14)\n"
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
   Sources:
   - recnCULdYQ36cpZR7
   airtable_createdTime: '2023-05-25T18:06:39.000Z'
@@ -477,6 +546,10 @@
     \ Fordham Law Review, 2018.\nW. Smart, C. Grimm, and W. Hartzog, \u201C[An Education\
     \ Theory of Fault for Autonomous Systems](http://www.werobot2017.com/wp-content/uploads/2017/03/Smart-Grimm-Hartzog-Education-We-Robot.pdf)\u201D\
     , 2017. \n\np.33-34\n"
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
   Sources:
   - recpXl48pJdKDhc6f
   Strategies:
@@ -494,6 +567,11 @@
   - reckPjhcWwLgjX9p5
   - recCkVZngvMA5I5uv
   - reczg5MObRbgzTeob
+  - recJ6khG2kY2Tx5ae
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -515,7 +593,11 @@
   childOf:
   - recLHILkx2JDFsLbX
   title: Autonomy
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Sources:
   - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T10:58:11.000Z'
   airtable_id: recL7CrHMutQEBBu7
@@ -531,6 +613,10 @@
     1.11 Researchers and their institutions should respect the privacy, confidentiality and cultural sensitivities of the participants and, where relevant, of their communities. Any specific agreements made with the participants or the community should be fulfilled.
     1.12 Respect for human beings involves giving due scope, throughout the research process, to the capacity of human beings to make their own decisions.
     1.13 Where participants are unable to make their own decisions or have diminished capacity to do so, respect for them involves empowering them where possible and providing for their protection as necessary." (NS 1.10-1.13)
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   PrincipleCollation:
   - recYP5QdyBcP0gruN
   - recW30jj9GzhNGTuX
@@ -563,6 +649,10 @@
   - recENQXCSOQQ3Y8et
   - recOeanQuUyB6Dx8g
   - reczg5MObRbgzTeob
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -576,6 +666,10 @@
   title: Fairness in distribution of burden and benefits of research
 - Challenges:
   - recOpn4I30te1qiKl
+  OverarchingFocus:
+  - Long-range-impacts
+  OverarchingPrinciples:
+  - recNB5h9bK4gEE9uc
   airtable_createdTime: '2023-06-05T05:32:52.000Z'
   airtable_id: recNB5h9bK4gEE9uc
   title: Consider long-range and indirect impacts
@@ -600,6 +694,10 @@
     3. (c) conducting research honestly
     4. (d) disseminating and communicating results, whether favourable or unfavourable, in ways that permit scrutiny and contribute to public knowledge and understanding."
     (NS 1.1-1.3)
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
   PrincipleCollation:
   - recl9ptNqbtslS9s6
   - rec2lbN7lCx1fQKnh
@@ -639,8 +737,13 @@
   - recO1L6GoFMkA6Lt4
   - recAoyMGCCLhaSqEb
   - recBc3GCNokDL220T
+  - recJ6khG2kY2Tx5ae
   Description: |
     "respect the privacy, confidentiality and cultural sensitivities of the participants and, where relevant, of their communities."
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -664,6 +767,10 @@
   - recA7Kh502s4UKWGo
   - recGRpoF7DA23ODSj
   - rec5nbWC0ZbVwnmxJ
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -690,6 +797,10 @@
     \ systems may also fundamentally change the work sphere. It should support humans\
     \ in the working environment, and aim for the creation of meaningful work.\u201D\
     \ (High-Level Expert Group on AI, 2019, p. 12)\n"
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recnCULdYQ36cpZR7
   Strategies:
@@ -715,6 +826,10 @@
     \ to conduct a business, the freedom of the arts and science, freedom of expression,\
     \ the right to private life and privacy, and freedom of assembly and association\u201D\
     \ (High-Level Expert Group on AI, 2019, p. 10)\n"
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recnCULdYQ36cpZR7
   airtable_createdTime: '2023-05-25T18:03:04.000Z'
@@ -732,6 +847,10 @@
     \ physical and mental integrity, personal and cultural sense of identity, and\
     \ satisfaction of their essential needs.20\u201D (High-Level Expert Group on AI,\
     \ 2019, p. 10)\n"
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recnCULdYQ36cpZR7
   airtable_createdTime: '2023-05-25T18:01:03.000Z'
@@ -752,6 +871,10 @@
     \ and groups,21 such as workers, women, persons with disabilities, ethnic minorities,\
     \ children, consumers or others at risk of exclusion.\u201D (High-Level Expert\
     \ Group on AI, 2019, p. 11)\n"
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recnCULdYQ36cpZR7
   Strategies:
@@ -775,6 +898,10 @@
     5. (e) there is no exploitation of participants in the conduct of research
     6. (f) there is fair access to the benefits of research.
     1.5 Research outcomes should be made accessible to research participants in a way that is timely and clear." (NS 1.4-1.5)
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
   PrincipleCollation:
   - rec5tUjckYAzHmc7e
   - recO0PpscH27fFkXA
@@ -792,6 +919,10 @@
   title: Justice
 - Description: |
     "A/IS can be an enormous force for good in society provided they are designed to respect human rights, align with human values, and holistically increase well-being while empowering as many people as possible. They should also be designed to safeguard our environment and natural resources. These values should guide policy makers as well as engineers, designers, and developers. Advances in A/IS should be in the service of all people, rather than benefiting solely small groups, a single nation, or a corporation." p.7
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recpXl48pJdKDhc6f
   airtable_createdTime: '2023-06-03T18:26:10.000Z'
@@ -812,6 +943,10 @@
     \ neglect the rights of third-country nationals and irregular (or illegal) persons\
     \ in the EU who also have rights under international law, and \u2013 therefore\
     \ in the area of AI systems.\u201D (High-Level Expert Group on AI, 2019, p. 11)\n"
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recnCULdYQ36cpZR7
   airtable_createdTime: '2023-05-25T18:05:21.000Z'
@@ -819,6 +954,10 @@
   title: Citizens' rights
 - Challenges:
   - recCpTJXuuowqsqQa
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -844,6 +983,10 @@
   Description: "\u201CPrivacy and data governance including respect for privacy, quality\
     \ and integrity of data, and access to data.\u201D (European Commission, 2022,\
     \ p. 18)\n"
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - rec9jnxuHOioQn4DC
   Strategies:
@@ -857,6 +1000,10 @@
   Description: "\u201CTechnical robustness and safety including resilience to attack,\
     \ security and general safety, accuracy, reliability, and reproducibility.\u201D\
     \ (European Commission, 2022, p. 19)\n"
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
   Sources:
   - rec9jnxuHOioQn4DC
   Strategies:
@@ -909,6 +1056,11 @@
     \ found in [Sciencewise](http://www.sciencewise-erc.org.uk/)\u2014the U.K. national\
     \ center for public dialogue in policy-making involving science and technology\
     \ issues.\n\np.29-30\n"
+  OverarchingFocus:
+  - Technical-instrumental
+  - Human-oversight
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recpXl48pJdKDhc6f
   airtable_createdTime: '2023-06-03T18:24:44.000Z'
@@ -928,6 +1080,10 @@
     \ you are conceiving and developing. Think about the ramifications of their effects\
     \ and externalities for others around the globe, for future generations, and for\
     \ the biosphere as a whole\u201D (Leslie, 2019, p. 11)\n"
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
   Sources:
   - recfYC5jjPmpLfSlM
   Strategies:
@@ -941,6 +1097,11 @@
 - Challenges:
   - recHHr97jsyNDnlsJ
   - recL5M2Hye2XHK7zg
+  OverarchingFocus:
+  - Fundamental-right
+  - Human-oversight
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
   Sources:
   - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T10:59:55.000Z'
@@ -958,6 +1119,10 @@
     \ with a particular focus for students with special needs.\u201D (\\[European\
     \ Commission, 2022, p. 18]\\(zotero://select/groups/4907410/items/3BCJVLT9)) (\\\
     [pdf]\\(zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=18&annotation=WFTMSW2T))\n"
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
   Sources:
   - rec9jnxuHOioQn4DC
   Strategies:
@@ -965,7 +1130,13 @@
   airtable_createdTime: '2023-06-08T06:31:50.000Z'
   airtable_id: recaMsksKInFYbnCL
   title: Diversity, non-discrimination, and fairness
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation
+  - Long-range-impacts
+  - misuses
+  OverarchingPrinciples:
+  - recNB5h9bK4gEE9uc
+  Sources:
   - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T11:00:14.000Z'
   airtable_id: recduyDUAsQdJ4EMy
@@ -1036,6 +1207,10 @@
     \ and Happiness: Defining a New Economic Paradigm](https://sustainabledevelopment.un.org/content/documents/617BhutanReport_WEB_F.pdf),\
     \ New York: The Permanent Mission of the Kingdom of Bhutan to the United Nations,\
     \ 2012\"\np.\t23-24\n"
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recpXl48pJdKDhc6f
   Strategies:
@@ -1046,7 +1221,11 @@
   - recSwTdeEk6XbEgXU
   - rec9uueW1gq31CcBo
   title: Wellbeing
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - recKDgUEDD2f1egyd
@@ -1059,7 +1238,11 @@
   childOf:
   - recOHnq45Fq7YWsRO
   title: that is designed to achieve its aims rigorously
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recNB5h9bK4gEE9uc
+  Sources:
   - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T10:59:56.000Z'
   airtable_id: recgEYKqzkCYqPmXW
@@ -1070,7 +1253,11 @@
   title: Prioritise social welfare, public interest, and the consideration of the
     social and ethical impacts of innovation in determining the legitimacy and desirability
     of AI technologies
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Sources:
   - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T10:57:48.000Z'
   airtable_id: rechB1SCdOpa940OZ
@@ -1078,7 +1265,11 @@
   - rec7n2TGrH9RHYpQj
   title: Design and deploy AI systems to foster and to cultivate the welfare of all
     stakeholders whose interests are affected by their use
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - recpvGxQzTNQS1smH
@@ -1089,6 +1280,10 @@
   title: and with suitable resources to conduct the work as proposed
 - Challenges:
   - rec1QZHHMARBQcZoo
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
   Sources:
   - recZRK4rseqW5VsRL
   Strategies:
@@ -1100,7 +1295,11 @@
   childOf:
   - recOHnq45Fq7YWsRO
   title: do research that is justifiable by potential benefit
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - recY9yr9vYcOAUSEA
@@ -1120,6 +1319,10 @@
     \ upon which the rule of law is founded, mandatory laws and regulation, and to\
     \ ensure due process and equality before the law.\u201D (High-Level Expert Group\
     \ on AI, 2019, p. 11)\n"
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recnCULdYQ36cpZR7
   Strategies:
@@ -1141,6 +1344,10 @@
     \ and consumers or governments and citizens. Preventing harm also entails consideration\
     \ of the natural environment and all living beings.\u201D (High-Level Expert Group\
     \ on AI, 2019, p. 12)\n"
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
   Sources:
   - recnCULdYQ36cpZR7
   Strategies:
@@ -1156,7 +1363,12 @@
   equivalentTo:
   - recmzjcGKv3yNOxbl
   title: Prevention of harm
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   Strategies:
   - rec0GhefNkhJqW0c2
@@ -1174,6 +1386,10 @@
     3. (c) the welfare of the participants in the research context.
     1.8 Where there are no likely benefits to participants, the risk to participants should be lower than would be ethically acceptable where there are such likely benefits.
     1.9 Where the risks to participants are no longer justified by the potential benefits of the research, the research must be suspended to allow time to consider whether it should be discontinued or at least modified. This decision may require consultation between researchers, participants, the relevant ethical review body, and the institution. The review body must be notified promptly of such suspension, and of any decisions following it (see paragraphs 5.5.7 to 5.5.10)." (NS 1.6-1.9)
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
   PrincipleCollation:
   - rec3rTrXMiXaZjy7s
   - reci6dYShRhu4H0ad
@@ -1216,6 +1432,11 @@
   Description: "\u201CHuman agency and oversight including fundamental rights, children\u2019\
     s rights, human agency, and human oversight.\u201D (\\[European Commission, 2022,\
     \ p. 18]\\(zotero://select/groups/4907410/items/3BCJVLT9)) (\\[pdf]\\(zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=18&annotation=YBKGBYD4))\n"
+  OverarchingFocus:
+  - Human-oversight
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - rec9jnxuHOioQn4DC
   Strategies:
@@ -1223,7 +1444,11 @@
   airtable_createdTime: '2023-06-08T06:32:23.000Z'
   airtable_id: reco4DUa3rsjP0hyg
   title: Human agency and oversight
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation-(instrumental)
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T09:41:37.000Z'
   airtable_id: recoXK4tOGqoh2nE3
@@ -1237,6 +1462,10 @@
   Description: "\u201CSocietal and environmental wellbeing including sustainability\
     \ and environmental friendliness, social impact, society, and democracy.\u201D\
     \ (European Commission, 2022, p. 18)\n"
+  OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recNB5h9bK4gEE9uc
   Sources:
   - rec9jnxuHOioQn4DC
   Strategies:
@@ -1248,6 +1477,10 @@
   - recYHYaeqVHR93Kuo
   - recO1L6GoFMkA6Lt4
   - recrHBtVR4EOXSJh2
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   PrincipleCollation:
   - rec3rTrXMiXaZjy7s
   Sources:
@@ -1276,6 +1509,10 @@
     \ the edifice of trust, empathy, reciprocal responsibility, and mutual understanding\
     \ upon which all ethically wellfounded social orders rest\u201D (Leslie, 2019,\
     \ p. 10)\n"
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T09:39:45.000Z'
@@ -1285,6 +1522,10 @@
   title: CONNECT with each other sincerely, openly, and inclusively
 - Description: |
     "**Technical Dependability: **Ultimately, A/IS should deliver services that can be trusted.2 This trust means that A/IS will reliably, safely, and actively accomplish the objectives for which they were designed while advancing the human-driven values they were intended to reflect. Technologies should be monitored to ensure that their operation meets predetermined ethical objectives aligning with human values and respecting codified rights. In addition, validation and verification processes, including aspects of explainability, should be developed that could lead to better auditability and to certification of A/IS" p.7
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
   Sources:
   - recpXl48pJdKDhc6f
   airtable_createdTime: '2023-06-03T18:27:42.000Z'
@@ -1292,7 +1533,12 @@
   equivalentTo:
   - recOHnq45Fq7YWsRO
   title: 'Pillar of the Ethically Aligned Design Conceptual Framework: Technical Dependability'
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T09:39:38.000Z'
   airtable_id: recv9z5lu6zZspHYA
@@ -1303,7 +1549,11 @@
   title: Support their abilities to flourish, to fully develop themselves, and to
     pursue their passions and talents according to their own freely determined life
     plans
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Sources:
   - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T09:42:38.000Z'
   airtable_id: recvLGtdSLYOV3Azw
@@ -1317,6 +1567,10 @@
   Description: "\u201CTransparency including traceability, explainability and communication.\u201D\
     \ (\\[European Commission, 2022, p. 18]\\(zotero://select/groups/4907410/items/3BCJVLT9))\
     \ (\\[pdf]\\(zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=18&annotation=GKNH3GVZ))\n"
+  OverarchingFocus:
+  - Technical-instrumental
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - rec9jnxuHOioQn4DC
   Strategies:
@@ -1382,6 +1636,10 @@
     \u2022\_\_\_\_\_British Standards Institute BS8611:2016, Robots and Robotic Devices.\
     \ [Guide to the Ethical Design and Application of Robots and ](http://shop.bsigroup.com/ProductDetail?pid=000000000030320089)Robotic\
     \ Systems\"\np.21-22\n"
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - recpXl48pJdKDhc6f
   airtable_createdTime: '2023-05-28T19:19:19.000Z'
@@ -1407,6 +1665,11 @@
     \ of the consequences if that output is erroneous or otherwise inaccurate.33\u201D\
     \ (\\[High-Level Expert Group on AI, 2019, p. 13]\\(zotero://select/groups/4907410/items/XPCD8D3T))\
     \ (\\[pdf]\\(zotero://open-pdf/groups/4907410/items/CPFPH28M?page=15&annotation=J8F447TV))\n"
+  OverarchingFocus:
+  - Fundamental-right
+  - Human-oversight
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
   Sources:
   - recnCULdYQ36cpZR7
   Strategies:
@@ -1421,7 +1684,11 @@
   childOf:
   - recOHnq45Fq7YWsRO
   title: Explicability
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Sources:
   - recZRK4rseqW5VsRL
   Strategies:
   - reczG9x5YfScZJdCo
@@ -1431,7 +1698,11 @@
   childOf:
   - recOHnq45Fq7YWsRO
   title: and grounded in literature and prior knowledge
-- Sources:
+- OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Sources:
   - recfYC5jjPmpLfSlM
   Strategies:
   - recKWkdYO98PeEKDz
@@ -1441,7 +1712,11 @@
   - rec7n2TGrH9RHYpQj
   title: Do no harm with these technologies and minimise the risks of their misuse
     or abuse
-- Sources:
+- OverarchingFocus:
+  - Purpose-and-implementation
+  OverarchingPrinciples:
+  - recNB5h9bK4gEE9uc
+  Sources:
   - recfYC5jjPmpLfSlM
   airtable_createdTime: '2023-05-19T11:00:08.000Z'
   airtable_id: recyigniIRfB6DPTu
@@ -1456,6 +1731,10 @@
   - recCpTJXuuowqsqQa
   - recHHr97jsyNDnlsJ
   - recKzhZVabDuYM6rG
+  OverarchingFocus:
+  - Fundamental-right
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   PrincipleCollation:
   - rec5tUjckYAzHmc7e
   Sources:
@@ -1487,6 +1766,11 @@
     \ the impact, address the potential risks, and realise the benefits of an AI system\
     \ deployed and used in education. As such they guide the development, deployment\
     \ and use of trustworthy AI systems.\u201D (European Commission, 2022, p. 19)\n"
+  OverarchingFocus:
+  - Fundamental-right
+  - Human-oversight
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
   Sources:
   - rec9jnxuHOioQn4DC
   Strategies:

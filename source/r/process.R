@@ -17,41 +17,50 @@ if (tolower(confirmation) == "y") {
 
 
 #shell("pip install airtable-export")
-shell(paste0("airtable-export export appFOCCNDUuGhYPB2 Principles Cases Challenges Sources Stakeholders Strategies --key=",
+shell(paste0("airtable-export export appFOCCNDUuGhYPB2 Principles Cases Challenges Sources Stakeholders Strategies PrincipleCollation --key=",
              Sys.getenv("AIRTABLE_API_KEY"),
              " --yaml")
 )
 
 dir <- here::here("data/")
 #consider adding
-#unlink("mydir", recursive = TRUE) # will delete directory called 'mydir'
+unlink("data/export", recursive = TRUE) # will delete directory called 'mydir'
 fs::file_move("export", dir)
 
-tables <- c("Principles", "Strategies", "Cases", "Challenges", "Sources", "Stakeholders")
+tables <- c("Principles", "Strategies", "Cases", "Challenges", "Sources", "Stakeholders", "PrincipleCollation")
 
-combi <- purrr::map(tables, function(table){
-  #table <<- table
+
+combi <- purrr::map(tables, function(.x){
+  table <- .x
   ymlthis::yml_load(readr::read_lines(glue::glue("{dir}/export/{table}.yml"))) %>%
     purrr::map(., ~{
       .x %>%
-    ymlthis::yml_category(glue::glue("{table}")) %>%
-    ymlthis::yml_toplevel(c("name" = .[["airtable_id"]])) %>%
-    ymlthis::yml_discard("airtable_id") %>%
-    ymlthis::yml_toplevel(list("tags" = as.list(
-      stringr::str_replace_all(
-        .[["Tags"]], " ", "-")))) %>%
-    ymlthis::yml_discard("Tags") %>%
-    ymlthis::yml_toplevel(c("created_at" = .[["airtable_createdTime"]])) %>%
-    ymlthis::yml_discard("airtable_createdTime") %>%
-    ymlthis::yml_toplevel(c("description" = stringr::str_replace_all(
-      .[["Description"]], "\u00A0", ""))) %>%
-    ymlthis::yml_toplevel(c("description" = stringr::str_replace_all(
+        ymlthis::yml_category(glue::glue("{table}")) %>%
+        ymlthis::yml_toplevel(c("name" = .[["airtable_id"]])) %>%
+        ymlthis::yml_discard("airtable_id") %>%
+        ymlthis::yml_toplevel(list("tags" = as.list(
+          stringr::str_replace_all(
+            .[["Tags"]], " ", "-")))) %>%
+        ymlthis::yml_discard("Tags") %>%
+        ymlthis::yml_toplevel(c("created_at" = .[["airtable_createdTime"]])) %>%
+        ymlthis::yml_discard("airtable_createdTime") %>%
+        ymlthis::yml_toplevel(c("description" = stringr::str_replace_all(
+          .[["Description"]], "\u00A0", ""))) %>%
+        ymlthis::yml_toplevel(c("description" = stringr::str_replace_all(
           .[["description"]], "[:cntrl:]", ""))) %>%
         ymlthis::yml_discard("Description") %>%
-        ymlthis::yml_discard("Attachments") %>%
-        return(.)
+        ymlthis::yml_discard(c(
+          "Attachments","Fjeld","Jobin","Khan","Schiff","NOTES",
+          "Selected term or map", "height", "thumbnails", "size")) %>%
+        ymlthis::yml_toplevel(c("Fjeld_covered" = paste0(.[["Fjeld_covered"]]))) %>%
+        ymlthis::yml_toplevel(c("Schiff_covered" = paste0(.[["Schiff_covered"]]))) %>%
+        ymlthis::yml_toplevel(c("Khan_covered" = paste0(.[["Khan_covered"]]))) %>%
+        ymlthis::yml_toplevel(c("Jobin_covered" = paste0(.[["Jobin_covered"]]))) %>%
+        ymlthis::yml_toplevel(c("Coverage" = paste0(.[["Coverage"]]))) %>%
+                return(.)
     })
 })
+
 
 #I hate \u00A0
 #"[:cntrl:]"
@@ -62,16 +71,23 @@ combi <- purrr::map(tables, function(table){
 #remove the toplevel
 
 fields <- ymlthis:::flatten_yml_names(combi) %>% unique()
-fields_manual <- c("title", "description", "created_at", "name", "Reference", "Link", "category")
+fields_manual <- c("title", "description", "created_at",
+                   "name", "Reference", "Link", "category")
+fields_numbers <- fields[c(grep("*_covered|Coverage", fields))]
+
 fields <- base::Filter(function(field) !any(grepl(
-  paste0(fields_manual, collapse="|"), field)), fields)
+  paste0(c(fields_manual, fields_numbers), collapse="|"), field)), fields)
 
 empty_item <- ymlthis::yml(author=F, date=F) %>%
   ymlthis::yml_toplevel(
     as.list(setNames(replicate(length(fields), list("test"), simplify = FALSE), fields))
   ) %>% ymlthis::yml_toplevel(c(
     as.list(setNames(replicate(length(fields_manual), "test", simplify = FALSE), fields_manual))
-  )) %>% list()
+  )) %>%
+  ymlthis::yml_toplevel(c(
+    as.list(setNames(replicate(length(fields_numbers), "0", simplify = FALSE), fields_numbers))
+  )) %>%
+  list()
 
 #the arrays need to be of form:
 #    list("Challenges" = list("test"))
@@ -99,31 +115,3 @@ print("Action confirmed!")
   # Perform any necessary actions if the user chooses not to proceed
   print("Action canceled.")
 }
-
-#I want to take this line and functionalise over fields
-#ymlthis::yml_toplevel(list("tags" = as.list(.[["Tags"]]))) %>%
-#check IF length == 1, if yes apply ^.
-# co <- combi %>%
-#    purrr::map(., ~{
-#      yam_element <- unlist(.x)
-#      yam_element %>%
-#        ymlthis::as_yml() %>%
-#         map(., function(key){
-#           if(all(
-#             length(yam_element[[key]])==1,
-#             key %in% fields)){
-#             ymlthis::yml_toplevel(c(
-#                            list(field = as.list(.[[field]])))) %>%
-#                            return()
-#           }
-#         })})
-#
-#          purrr::map(fields, function(field){
-#           ymlthis::yml_toplevel(c(
-#             list(field = as.list(.[[field]])))) %>%
-#             return()
-#         })
-#   })
-#
-
-#ym <- yaml::read_yaml("data/test.yml")

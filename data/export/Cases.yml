@@ -1,4 +1,4 @@
-- Stakeholder-actors:
+- Stakeholder-as-actor:
   - recwbivinQr5lOP5r
   Stakeholders-impacted:
   - reci4jOiaZbCd37eY
@@ -59,7 +59,7 @@
   - recUYS0TFpk2MhVD7
   Sources:
   - rec9jnxuHOioQn4DC
-  Stakeholder-actors:
+  Stakeholder-as-actor:
   - recGRt9lWJvxx5GAE
   - recTYTKZphOqdzYoL
   - recVHjstaBpfkQwvp
@@ -139,15 +139,12 @@
     \ et al., 2023, p. 19](zotero://select/groups/4907410/items/ZI7HP57C)) ([pdf](zotero://open-pdf/groups/4907410/items/4YFQW35Q?page=23&annotation=XGC6UNEN))\n"
   Sources:
   - recY4zreDoWrsbsv7
+  Tags:
+  - Adaptive and personalised learning
   airtable_createdTime: '2023-05-29T08:00:33.000Z'
   airtable_id: recHAwvOykeiUxFsY
   title: AI for Adaptive Learning
-- Tags:
-  - Automated feedback
-  airtable_createdTime: '2023-05-19T14:13:58.000Z'
-  airtable_id: recKURlVVYGCInW8y
-  title: AES white paper
-- Stakeholder-actors:
+- Stakeholder-as-actor:
   - recVHjstaBpfkQwvp
   - reckhslKpo5ZlVNpl
   - recGRt9lWJvxx5GAE
@@ -161,7 +158,7 @@
   airtable_createdTime: '2023-05-19T14:15:04.000Z'
   airtable_id: recKWQBBplr1vXmRc
   title: Teacher uses tool to automate creation of some material
-- Stakeholder-actors:
+- Stakeholder-as-actor:
   - recSaPtMj9rxfu4uu
   - recGRt9lWJvxx5GAE
   Stakeholders-impacted:
@@ -184,6 +181,8 @@
     \ ([pdf](zotero://open-pdf/groups/4907410/items/598C5P37?page=16&annotation=GTXRLF2L))"
   Sources:
   - recH8KmnURSknCr5y
+  Tags:
+  - non-education
   airtable_createdTime: '2023-05-29T07:22:53.000Z'
   airtable_id: recNNFrnCiGxTP4WE
   title: Financial discrimination
@@ -215,7 +214,7 @@
   - recWLcMWDPE9Fd1pE
   Sources:
   - rec9jnxuHOioQn4DC
-  Stakeholder-actors:
+  Stakeholder-as-actor:
   - recGRt9lWJvxx5GAE
   - recTYTKZphOqdzYoL
   - recVHjstaBpfkQwvp
@@ -258,7 +257,7 @@
   - recUYS0TFpk2MhVD7
   Sources:
   - rec9jnxuHOioQn4DC
-  Stakeholder-actors:
+  Stakeholder-as-actor:
   - recGRt9lWJvxx5GAE
   - recTYTKZphOqdzYoL
   - recVHjstaBpfkQwvp
@@ -279,7 +278,9 @@
   airtable_createdTime: '2023-05-19T13:58:44.000Z'
   airtable_id: recSXcY4cnofb4zTP
   title: Managing student enrolment and resource planning
-- airtable_createdTime: '2023-06-05T15:18:06.000Z'
+- Tags:
+  - educational-accountability
+  airtable_createdTime: '2023-06-05T15:18:06.000Z'
   airtable_id: recTQ7eABknthRQo8
   title: Teacher evaluation fails to acknowledge individual contexts and teacher autonomy
 - Description: "\u201CAssisting the spread of disinformation: AI can be used to create\
@@ -301,6 +302,8 @@
     \ Now, 2018, p. 16](zotero://select/groups/4907410/items/KIU6F9PR)) ([pdf](zotero://open-pdf/groups/4907410/items/598C5P37?page=16&annotation=9DGUCL8R))"
   Sources:
   - recH8KmnURSknCr5y
+  Tags:
+  - non-education
   airtable_createdTime: '2023-05-29T07:22:23.000Z'
   airtable_id: recVLyzjb1UfqbrIh
   title: Disinformation spread
@@ -314,10 +317,12 @@
     \ p. 16](zotero://select/groups/4907410/items/KIU6F9PR)) ([pdf](zotero://open-pdf/groups/4907410/items/598C5P37?page=16&annotation=DQUC6GAH))"
   Sources:
   - recH8KmnURSknCr5y
+  Tags:
+  - non-education
   airtable_createdTime: '2023-05-29T07:22:41.000Z'
   airtable_id: recWNt6W4v0xr3x0Z
   title: Hiring bias
-- Stakeholder-actors:
+- Stakeholder-as-actor:
   - recGRt9lWJvxx5GAE
   - recz1WGGiX1qkZTxC
   - recTYTKZphOqdzYoL
@@ -358,7 +363,7 @@
   - reco4DUa3rsjP0hyg
   Sources:
   - rec9jnxuHOioQn4DC
-  Stakeholder-actors:
+  Stakeholder-as-actor:
   - recGRt9lWJvxx5GAE
   - recTYTKZphOqdzYoL
   - recVHjstaBpfkQwvp
@@ -394,22 +399,30 @@
     \ neural networks with historical cases that contain various types of student\
     \ mistakes to provide even more accurate grading. The system has a plagiarism\
     \ detection option which can be used to automatically detect instances of plagiarism\
-    \ or copyright infringement in written work submitted by students. The following\
-    \ guiding questions highlight areas that require attention: \u2022 Are there procedures\
+    \ or copyright infringement in written work submitted by students. \n\nThe following\
+    \ guiding questions highlight areas that require attention: \n\n* Are there procedures\
     \ in place to ensure that AI use will not lead to discrimination or unfair behaviour\
-    \ for all users? Diversity, non-discrimination and fairness \u2022 Who is responsible\
+    \ for all users? Diversity, non-discrimination and fairness \n* Who is responsible\
     \ for the ongoing monitoring of results produced by the AI system and how the\
     \ results are being used to enhance teaching, learning and assessment? Accountability\
-    \ \u2022 Do teachers and school leaders understand how specific assessment or\
-    \ personalisation algorithms work within the AI system? Transparency\u201D ([European\
-    \ Commission, 2022, p. 24](zotero://select/groups/4907410/items/3BCJVLT9)) ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=24&annotation=7VK8CJ4X))"
+    \ \n* Do teachers and school leaders understand how specific assessment or personalisation\
+    \ algorithms work within the AI system? Transparency\u201D (European Commission,\
+    \ 2022, p. 24)\n\n\nThis white paper outlines critical issues associated with\
+    \ the use of Automated Essay Scoring (AES) technology in the Australian education\
+    \ system. The key insights presented in this paper emerged from a collaborative,\
+    \ multi-stakeholder workshop held in July 2022 that explored an automated essay-scoring\
+    \ trial and generated future possibilities aligned with participant interests\
+    \ and expertise. Drawing on the workshop and our expert understanding of the wider\
+    \ landscape, we propose recommendations that can be adopted by various stakeholders,\
+    \ schools, and educational systems.\n\n[Automated Essay Scoring in Australian\
+    \ Schools: Key Issues and Recommendations. White Paper](https://eprints.qut.edu.au/236511/)"
   Principles:
   - recaMsksKInFYbnCL
   - reczcRriFbQQpn8iX
   - recwjv8IMAZFWfMSr
   Sources:
   - rec9jnxuHOioQn4DC
-  Stakeholder-actors:
+  Stakeholder-as-actor:
   - recGRt9lWJvxx5GAE
   - recTYTKZphOqdzYoL
   - recVHjstaBpfkQwvp
@@ -428,7 +441,8 @@
   - Automated feedback
   airtable_createdTime: '2023-05-19T13:58:20.000Z'
   airtable_id: recmS3zSMbR3ofAR5
-  title: Scoring essays using automated tools
+  title: Automated Essay Scoring is proposed in order to reduce the marking burden,
+    improve feedback turnaround, and standardise outcomes
 - Description: "\u201COne long-standing type of AI-enabled technology is an Intelligent\
     \ Tutoring System (ITS).27 In an early success, scientists were able to build\
     \ accurate models of how human experts solve mathematical problems. The resulting\
@@ -473,10 +487,21 @@
     \ ([pdf](zotero://open-pdf/groups/4907410/items/4YFQW35Q?page=24&annotation=TJ94T9HD))"
   Sources:
   - recY4zreDoWrsbsv7
+  Tags:
+  - Adaptive and personalised learning
   airtable_createdTime: '2023-05-29T08:02:31.000Z'
   airtable_id: reco7BYWc7reRuaCh
   title: ITS
-- Stakeholder-actors:
+- Challenges:
+  - rec5VzvnIZcaNKqDh
+  - recL5M2Hye2XHK7zg
+  - recdmBNNa98cN8Sda
+  Description: "In 2020 parts of the UK introduced an algorithm to moderate school\
+    \ leaver grades due to COVID-19 preventing use of exams, and requiring teacher-based\
+    \ grading. \n\nLinks:\n\n* [Algorithms can decide your marks, your work prospects,\
+    \ and your financial security, how do you know they are fair? The Conversation](https://theconversation.com/algorithms-can-decide-your-marks-your-work-prospects-and-your-financial-security-how-do-you-know-theyre-fair-171590)\n\
+    * [UK Exam Algorithm Game](https://www.edufuturesstudio.com/uk-exam-algorithm-game)"
+  Stakeholder-as-actor:
   - recGRt9lWJvxx5GAE
   - recTYTKZphOqdzYoL
   - recVHjstaBpfkQwvp
@@ -493,7 +518,8 @@
   - Dropout risk and grade prediction
   airtable_createdTime: '2023-05-19T14:13:50.000Z'
   airtable_id: recpFE7h6QhaEpNAQ
-  title: UK exam algorithm
+  title: An algorithm is introduced to moderate student grades, aiming to ensure they
+    are not overinflated
 - Challenges:
   - rec5VzvnIZcaNKqDh
   - recL5M2Hye2XHK7zg
@@ -518,7 +544,7 @@
   - reczcRriFbQQpn8iX
   Sources:
   - rec9jnxuHOioQn4DC
-  Stakeholder-actors:
+  Stakeholder-as-actor:
   - recGRt9lWJvxx5GAE
   - recTYTKZphOqdzYoL
   - recVHjstaBpfkQwvp

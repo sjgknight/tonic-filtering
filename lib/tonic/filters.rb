@@ -97,14 +97,11 @@ end
     def date_range_filter(attribute)
       range = fetch_values(attribute)
       min, max = range.minmax
-
       partial("templates/filters/date_range", locals: { attribute: attribute, min: min, max: max })
     end
 
     def tags_filter(attribute)
-
       tags = fetch_values(attribute).sort
-
       partial("templates/filters/tags", locals: { attribute: attribute, tags: tags })
     end
 

@@ -448,6 +448,7 @@
   - recrVkbG0XGe2Ca0v
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
+  - recpFE7h6QhaEpNAQ
   Principles:
   - recLHILkx2JDFsLbX
   airtable_createdTime: '2023-05-18T14:51:53.000Z'
@@ -1257,6 +1258,20 @@
   airtable_id: recIUf0R50ogibwe6
   title: How do we assess the impact of AI without cultural sensitivity, on value
     systems of communities in which they are deployed?
+- Description: |+
+    **Interactions and distance between researcher-participant are impacted**, because tools may mediate this interaction, or research may be conducted in a way that is distal to human interactions with the inputs or outputs of the research (e.g., distal to the original capture of the data in the context of gathering training data; or to the use of a tool in the context of training an algorithm to be deployed beyond the research project)
+
+  Principles:
+  - recKdujFoPJr4ZAhZ
+  - recPg7Ov0priGGtLm
+  Tags:
+  - AI
+  airtable_createdTime: '2023-06-14T12:17:55.000Z'
+  airtable_id: recJ6khG2kY2Tx5ae
+  title: Researcher-participant relationships - AI and associated infrastructure has
+    shifted relationships of researchers and participants through greater secondary
+    use of data, online platforms that connect (sometimes invisibly) participants
+    to researchers, and heightened risks of re-identification
 - Description: "\"**Issue:** The right to truthful information is key to a democratic\
     \ society and to achieving sustainable development and a more equal world, but\
     \ A/IS poses risks to this right that must be managed.\n## Background\nSocial\
@@ -1559,6 +1574,7 @@
   - recrVkbG0XGe2Ca0v
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
+  - recpFE7h6QhaEpNAQ
   Principles:
   - recSqx6wklVpDzx3s
   - recMGB4iC5oaCtr5x
@@ -1932,9 +1948,19 @@
   airtable_id: recUKAxgCSxylEiDm
   title: How do we navigate individual choice of technology engagement and school
     or system-wide procurement?
-- airtable_createdTime: '2023-05-18T18:54:26.000Z'
+- Description: |+
+    Immediate or proximal impacts are those experienced in the immediate context, for example in interactions of researcher-participant groups. Indirect, long-range, and dual-use impacts relate to the potential for:secondary impacts that are not a direct use of a tool but may relate to system changes that occur as a result;
+    - that these impacts may occur over a longer period than the immediate context of research, which is ordinarily the context for which ethics approval is provided
+    - and that some effects may arise from unintended uses of dual-use technologies, for example facial recognition developed for one purpose may be used for surveillance or military purposes.
+
+  Tags:
+  - AI
+  - indirect-impacts
+  airtable_createdTime: '2023-05-18T18:54:26.000Z'
   airtable_id: recWPbL5kB1Yh5OPf
-  title: Indirect impacts (including long-range, and dual-use)
+  title: Indirect, long-range, and dual-use impacts - AI has potential to have impact
+    beyond just on the participants involved into society, and it may not be clear
+    what these impacts will be.
 - Description: "**Issue:** Oversight for algorithms\n## Background\nThe algorithms\
     \ behind A/IS are not subject to consistent oversight. This lack of assessment\
     \ causes concern because end users have no account of how a certain algorithm\
@@ -2405,6 +2431,8 @@
   - recwQrzqPp6C7jyJs
   Tags:
   - wellbeing
+  - indirect-impacts
+  - AI
   airtable_createdTime: '2023-06-05T05:58:44.000Z'
   airtable_id: recdZI38VrUaUKRYf
   title: How do we assess long-range and indirect impacts of AI?
@@ -2525,6 +2553,7 @@
 - Cases:
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
+  - recpFE7h6QhaEpNAQ
   Description: "\u201CMany machine learning models generate their results by operating\
     \ on high dimensional correlations that are beyond the interpretive capabilities\
     \ of human scale reasoning. In these cases, the rationale of algorithmically produced\
@@ -3768,6 +3797,12 @@
   airtable_id: recvWM2glArsVhaye
   title: How do we foster AI that contributes to sustainability in context of short-term
     growth priorities?
+- airtable_createdTime: '2023-06-14T12:19:37.000Z'
+  airtable_id: recwuiKe3bhSLw4xv
+  title: Commercial interests - while significant AI work is derived from publicly
+    funded research, commercial actors have significant interests and this may impact
+    relationships between funders-technology providers-researchers-public with blured
+    lines between these groups, and complex power dynamics
 - Cases:
   - reciNqxyfUgE5XM7t
   - recrVkbG0XGe2Ca0v

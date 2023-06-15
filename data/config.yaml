@@ -31,7 +31,7 @@ tagtitles: true
 
 # Sorting
 sorting:
-  default_order: "Title asc"
+  default_order: "title asc"
 
 #this creates anchors for any headings (in theory)
 autolink: true
@@ -52,16 +52,25 @@ filters:
     - audio
     - link
     - created_at
+    - Principlecollation
+    - Principles
+    - Link
+    - Name
+    - Fjeld_covered
+    - Jobin_covered
+    - Khan_covered
+    - Schiff_covered
   type:
     Rights: tags
     category: radio_buttons
     tags: tags
     title: text
+    OverarchingFocus: tags
+    OverarchingPrinciples: tags
     childOf: text
-    equivalentTo: text
     Reference: text
     created_at: date_range
-
+    Covered: tags
   # - `text`
   # - `select`
   # - `radio_buttons`
