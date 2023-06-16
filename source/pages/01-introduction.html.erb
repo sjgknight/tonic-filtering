@@ -91,6 +91,15 @@ In addition, the conduct of human research often has an impact on the lives of o
 
 '} ) } %>
 
+
+<% keys_content = partial "templates/components/getkeys", locals: { my_filters: "item[:category] == 'ChallengeInstances' && (item[:tags].include? 'AI')" } %>
+
+<% callout_content = partial "templates/components/includeset", locals: { my_filters: "item[:category] == 'Challenges' && (item[:ChallengeInstances].is_a?(Array) ? item[:ChallengeInstances]&.compact&.any? { |challenge| challenge&.match?(/#{keys_content}/i) } : item[:ChallengeInstances]&.match?(/#{keys_content}/i))" } %>
+
+<%= partial 'templates/components/callout', locals: { type: "information", title: "How is AI research different?", text: "#{callout_content}"} %>
+
+
+
 <%= partial 'templates/components/callout', locals: { type: "alert", title: "What should stay and how to synthesise here", text: "This material could be reframed to reflect the different focus"} %>
 
 
@@ -133,7 +142,10 @@ Broadly, as Leslie (2019) in the Turing Institute guidance flags, to ground work
 
 "} ) } %>
 
-What do we mean by Artificial Intelligence?
+
+
+### What do we mean by Artificial Intelligence?
+
 
 
 
@@ -217,10 +229,9 @@ A range of approaches are used to illustrate use of this guidance, and to connec
 2.	Scenarios that demonstrate application at different phases of a project
 3.	Tools – exemplar forms, technologies, processes, legal instruments, etc. – may be helpful to include, particularly where they connect to existing practice
 
-
 #### This page draws content from
 
-<%= partial 'templates/components/cardset', locals: { my_filters: '(item[:title]&.match(/Turing responsible|national statement|^IEEE|EC guidelines on AI in education for educators|ethics in the scholarship of teaching and learning|markham/i) || item[:Description]&.match(/Turing responsible|national statement|Autonomous and intelligent technical systems are|EC guidelines on AI in education for educators|ethics in the scholarship of teaching and learning|markham/i) ) && item[:category] == "Sources"' } %>
+<%= partial 'templates/components/cardset', locals: { my_filters: '(item[:title]&.match(/Turing responsible|national statement|^IEEE|EC guidelines on AI in education for educators|ethics in the scholarship of teaching and learning|markham/i) || item[:Description]&.match(/Turing responsible|national statement|Autonomous and intelligent technical systems are|EC guidelines on AI in education for educators|ethics in the scholarship of teaching and learning|markham/i) ) && item[:Category] == "Sources"' } %>
 
 
 ### Footnotes

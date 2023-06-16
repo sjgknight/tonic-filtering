@@ -37,9 +37,7 @@
   airtable_createdTime: '2023-05-29T07:26:14.000Z'
   airtable_id: rec8YSr2IJxVndTKb
   title: Tracking performance limits access to education
-- Challenges:
-  - recHsgB7ki6GknJnX
-  Description: "\u201CA school uses a chatbot virtual assistant on its website to\
+- Description: "\u201CA school uses a chatbot virtual assistant on its website to\
     \ guide learners and parents through administrative tasks such as enrolment for\
     \ courses, paying course fees or logging technical support issues. The system\
     \ is also used to help students to find learning opportunities, provide feedback\
@@ -53,6 +51,10 @@
     \ there a mechanism to allow teachers and school leaders to flag issues related\
     \ to privacy or data protection? Privacy and data governance\u201D ([European\
     \ Commission, 2022, p. 25](zotero://select/groups/4907410/items/3BCJVLT9)) ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=25&annotation=ERDZJU8P))"
+  OverarchingPrinciples (from Principles):
+  - recNB5h9bK4gEE9uc
+  - recOHnq45Fq7YWsRO
+  - recLHILkx2JDFsLbX
   Principles:
   - recqdGhz7l1cGnQeU
   - recWLcMWDPE9Fd1pE
@@ -209,6 +211,9 @@
     \ is being used? How does the AI system affect the didactical role of the teacher?\
     \ Human agency and oversight\u201D ([European Commission, 2022, p. 23](zotero://select/groups/4907410/items/3BCJVLT9))\
     \ ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=23&annotation=QT7FXESI))"
+  OverarchingPrinciples (from Principles):
+  - recLHILkx2JDFsLbX
+  - recOHnq45Fq7YWsRO
   Principles:
   - reco4DUa3rsjP0hyg
   - recWLcMWDPE9Fd1pE
@@ -235,7 +240,6 @@
   title: Providing individualised interventions for special needs
 - Challenges:
   - recBc3GCNokDL220T
-  - recHsgB7ki6GknJnX
   Description: "A school uses the data collected when students enrol to predict and\
     \ better organise the number of students who will attend in the coming year. The\
     \ AI system is also used to assist with forward planning, resource allocation,\
@@ -252,6 +256,9 @@
     \ to those who need it? Privacy and data governance \u2022 How is the effectiveness\
     \ and impact of the AI system being evaluated and how does this evaluation consider\
     \ key values of education? Accountability"
+  OverarchingPrinciples (from Principles):
+  - recLHILkx2JDFsLbX
+  - recLHILkx2JDFsLbX
   Principles:
   - reczcRriFbQQpn8iX
   - recUYS0TFpk2MhVD7
@@ -278,7 +285,11 @@
   airtable_createdTime: '2023-05-19T13:58:44.000Z'
   airtable_id: recSXcY4cnofb4zTP
   title: Managing student enrolment and resource planning
-- Tags:
+- OverarchingPrinciples (from Principles):
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recUYS0TFpk2MhVD7
+  Tags:
   - educational-accountability
   airtable_createdTime: '2023-06-05T15:18:06.000Z'
   airtable_id: recTQ7eABknthRQo8
@@ -357,6 +368,10 @@
     \ and Fairness \u2022 Are there monitoring systems in place to prevent overconfidence\
     \ in or overreliance on the AI system? Human agency and oversight\u201D (European\
     \ Commission, 2022, p. 22)"
+  OverarchingPrinciples (from Principles):
+  - recLHILkx2JDFsLbX
+  - recSqx6wklVpDzx3s
+  - recLHILkx2JDFsLbX
   Principles:
   - recwjv8IMAZFWfMSr
   - recaMsksKInFYbnCL
@@ -416,6 +431,10 @@
     \ landscape, we propose recommendations that can be adopted by various stakeholders,\
     \ schools, and educational systems.\n\n[Automated Essay Scoring in Australian\
     \ Schools: Key Issues and Recommendations. White Paper](https://eprints.qut.edu.au/236511/)"
+  OverarchingPrinciples (from Principles):
+  - recSqx6wklVpDzx3s
+  - recLHILkx2JDFsLbX
+  - recLHILkx2JDFsLbX
   Principles:
   - recaMsksKInFYbnCL
   - reczcRriFbQQpn8iX
@@ -538,6 +557,10 @@
     \ Agreement in place, clearly outlining the Support and Maintenance Services and\
     \ steps to be taken to address reported problems? Accountability\u201D ([European\
     \ Commission, 2022, p. 23](zotero://select/groups/4907410/items/3BCJVLT9)) ([pdf](zotero://open-pdf/groups/4907410/items/6A6DKVJ2?page=23&annotation=WEY6JTEU))"
+  OverarchingPrinciples (from Principles):
+  - recNB5h9bK4gEE9uc
+  - recLHILkx2JDFsLbX
+  - recLHILkx2JDFsLbX
   Principles:
   - recqdGhz7l1cGnQeU
   - recUYS0TFpk2MhVD7
@@ -564,7 +587,5 @@
   airtable_createdTime: '2023-05-19T13:55:23.000Z'
   airtable_id: recrVkbG0XGe2Ca0v
   title: Using student dashboards to guide learners through their learning
-- Principles:
-  - recUYS0TFpk2MhVD7
-  airtable_createdTime: '2023-06-08T06:38:41.000Z'
+- airtable_createdTime: '2023-06-08T06:38:41.000Z'
   airtable_id: recskjpMFnQ0emSKI

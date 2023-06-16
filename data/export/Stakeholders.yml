@@ -1,4 +1,8 @@
-- Stakeholders-impacted:
+- Imported table:
+  - recy8lwLuSeVDJAJI
+  - rec3zOA6cKHCSRJBH
+  Imported table 2: 136, 139, 140
+  Stakeholders-impacted:
   - reccWWRCdr9ZKJBZE
   - rec1RzTKH08fWjSbT
   - recAlOHJhEy5nDwA6
@@ -7,7 +11,51 @@
   airtable_createdTime: '2023-05-18T14:40:34.000Z'
   airtable_id: rec0af1wTjdFwMqsw
   title: Parents
-- Stakeholder-as-actor:
+- Imported table 2: '67'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: rec1JbiIbWckJ6rSI
+  title: pupils primarily
+- Imported table 2: '136'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: rec2gdcrHjxYAZghv
+  title: city of NY
+- Imported table 2: '143'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: rec3RgrdvPLZTPVZJ
+  title: policymakers
+- Imported table 2: '138'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: rec6jPQd9INVeWYPs
+  title: consulting companies
+- Imported table 2: 60, 68, 136, 140
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: rec7iLMFWvrdRRZG0
+  title: teachers
+- Imported table 2: '138'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: rec9YhTV764Qcrnwp
+  title: universities
+- Imported table 2: '76'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recAJ1G6pkUuMGMcs
+  title: students as work seekers
+- Imported table:
+  - recpsmy3isA1Ghocx
+  Imported table 2: 138, 140, 141
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recAfu9YgjjTC9oPe
+  title: students
+- Imported table 2: '144'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recDnjAFtfwAfA0P9
+  title: Education Open Data Dashboard
+- Imported table 2: '141'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recFyB3CwvKnBP6m4
+  title: Salta province
+- Imported table:
+  - recPgxoWDc7q0FWcT
+  Stakeholder-as-actor:
   - reccWWRCdr9ZKJBZE
   - recMalmQowxcka9V6
   - recKWQBBplr1vXmRc
@@ -21,7 +69,49 @@
   airtable_createdTime: '2023-05-18T14:40:23.000Z'
   airtable_id: recGRt9lWJvxx5GAE
   title: Technology-providers
-- Stakeholder-as-actor:
+- Imported table 2: '55'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recJ3StyHYpYeKYBY
+  title: unclear government service
+- Imported table 2: '69'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recJY6a2SIZgtpvBY
+  title: pulls and well-being
+- Imported table 2: '144'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recLsUpfTzz3xfpel
+  title: education system in Tanzania
+- Imported table 2: '54'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recOeePTKZxvip63j
+  title: museum goers
+- Imported table 2: '136'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recPiWhoB2IZuNvgK
+  title: school admission officers
+- Imported table 2: '59'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recQ3p15b7FexGoIL
+  title: families in need of benefit
+- Imported table 2: '149'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recQd20yX9EsCb0t0
+  title: Colombian Ministry of ICT
+- Imported table 2: '153'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recSEW7ZNj9r3xMQU
+  title: Researchers in the area of science education and team specialized in data
+    science and web apps development
+- Imported table 2: '143'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recSLxSX9eUAg3nNn
+  title: NGOs
+- Imported table:
+  - recXzRtIWwEk4LQNU
+  - recPgxoWDc7q0FWcT
+  - recZ6SWw1juHfXgxK
+  - reczOvfjPjxfcfnMz
+  Stakeholder-as-actor:
   - recMalmQowxcka9V6
   - reciNqxyfUgE5XM7t
   - recrVkbG0XGe2Ca0v
@@ -33,6 +123,10 @@
   airtable_createdTime: '2023-05-18T14:40:23.000Z'
   airtable_id: recSaPtMj9rxfu4uu
   title: Policy-makers
+- Imported table 2: '146'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recTAvKgskhusQucx
+  title: The Open Public Services Network
 - Stakeholder-as-actor:
   - reccWWRCdr9ZKJBZE
   - reciNqxyfUgE5XM7t
@@ -45,6 +139,18 @@
   airtable_createdTime: '2023-06-05T14:49:01.000Z'
   airtable_id: recTYTKZphOqdzYoL
   title: Technology-developers-and-designers
+- Imported table 2: 62, 63, 70, 72, 73
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recTy3Ng0ibUoXJjC
+  title: pupils
+- Imported table 2: 136, 139, 141, 146
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recUb90BXD0LQqcrr
+  title: schools
+- Imported table 2: '139'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recUl0duRgyaZFz4u
+  title: goverment
 - Stakeholder-as-actor:
   - recKWQBBplr1vXmRc
   - reciNqxyfUgE5XM7t
@@ -67,6 +173,22 @@
   airtable_createdTime: '2023-05-18T13:51:22.000Z'
   airtable_id: recVHjstaBpfkQwvp
   title: Teachers-of-children
+- Imported table 2: 139, 143
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recVf1qlhbHoWtZOc
+  title: school children
+- Imported table 2: '149'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recVnyPg9TLmrj1gk
+  title: RUAV - https://ruav.edu.co/
+- Imported table 2: '146'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recWK2DG47Unenhk7
+  title: government
+- Imported table 2: '144'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recZgvxHFJ5KnU54E
+  title: Tanzania Open Data Dashboard
 - Stakeholders-impacted:
   - recKWQBBplr1vXmRc
   - reciNqxyfUgE5XM7t
@@ -79,6 +201,14 @@
   airtable_createdTime: '2023-06-05T14:49:46.000Z'
   airtable_id: recdkIzRDcuurhTmM
   title: Learners-adults
+- Imported table 2: '142'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recdyqsgjLEpVfGBa
+  title: medical students
+- Imported table 2: '141'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: receTQvXfTFR5H1V1
+  title: Microsoft
 - Stakeholder-as-actor:
   - recpFE7h6QhaEpNAQ
   Stakeholders-impacted:
@@ -117,6 +247,23 @@
   airtable_createdTime: '2023-05-18T13:51:22.000Z'
   airtable_id: reckhslKpo5ZlVNpl
   title: Teachers-of-adults
+- Imported table 2: '140'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: reclD6vw0nspcJOdp
+  title: exams regulator authority
+- Imported table 2: '142'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recmmglA93rcDXGkA
+  title: medical school
+- Imported table 2: '152'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recszznGiGzG7dFjd
+  title: Multiple universities in Latam
+- Imported table 2: '154'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recvyxOLdSKhdQ3dG
+  title: Communities of teachers of the Classroom of the Future project development
+    team with expertise in machine learning
 - Stakeholder-as-actor:
   - rec1RzTKH08fWjSbT
   - recSXcY4cnofb4zTP
@@ -125,6 +272,10 @@
   airtable_createdTime: '2023-05-18T13:51:22.000Z'
   airtable_id: recwbivinQr5lOP5r
   title: Institutional-leaders
+- Imported table 2: '143'
+  airtable_createdTime: '2023-06-15T09:42:34.000Z'
+  airtable_id: recyvgrsORGnU64cB
+  title: school administrators
 - Stakeholder-as-actor:
   - reccWWRCdr9ZKJBZE
   airtable_createdTime: '2023-06-05T14:48:51.000Z'

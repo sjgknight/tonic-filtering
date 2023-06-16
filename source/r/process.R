@@ -3,21 +3,21 @@
 #principles <- airtable('Principles', 'appFOCCNDUuGhYPB2')
 #airtable_data <- read_airtable(principles, id_to_col = TRUE, max_rows = 50000)
 
-pacman::p_load(magrittr, dplyr, tidyjson, purrr)
 
 # Prompt the user for confirmation
 confirmation <- readline("Are you sure you want to proceed? (y/n): ")
 
 # Check the user's response
 if (tolower(confirmation) == "y") {
-  # Proceed with the desired action
-  # ...
-  # Your code here
-  # ...
 
+pacman::p_load(magrittr, dplyr, tidyjson, purrr)
+
+
+tables <- c("Principles", "Strategies", "Cases", "Challenges", "Sources",
+            "Stakeholders", "PrincipleCollation", "ChallengeInstances")
 
 #shell("pip install airtable-export")
-shell(paste0("airtable-export export appFOCCNDUuGhYPB2 Principles Cases Challenges Sources Stakeholders Strategies PrincipleCollation --key=",
+shell(paste0("airtable-export export appFOCCNDUuGhYPB2 ", paste(tables, collapse = " "), " --key=",
              Sys.getenv("AIRTABLE_API_KEY"),
              " --yaml")
 )
@@ -27,7 +27,6 @@ dir <- here::here("data/")
 unlink("data/export", recursive = TRUE) # will delete directory called 'mydir'
 fs::file_move("export", dir)
 
-tables <- c("Principles", "Strategies", "Cases", "Challenges", "Sources", "Stakeholders", "PrincipleCollation")
 
 
 combi <- purrr::map(tables, function(.x){

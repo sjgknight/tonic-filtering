@@ -1,0 +1,265 @@
+- Challenges:
+  - recWPbL5kB1Yh5OPf
+  OverarchingPrinciples (from Principles):
+  - recNB5h9bK4gEE9uc
+  - recmzjcGKv3yNOxbl
+  Principles:
+  - recNB5h9bK4gEE9uc
+  - recmzjcGKv3yNOxbl
+  Tags:
+  - education
+  airtable_createdTime: '2023-06-16T16:25:14.000Z'
+  airtable_id: rec16WOKdMVKAiBSJ
+  title: An example of long-term impacts in education with respect to beneficence
+- Challenges:
+  - recWPbL5kB1Yh5OPf
+  Description: "\"There are insufficient mechanisms to foresee and measure negative\
+    \ impacts, and\_to promote and safeguard positive impacts of A/IS.\nA/IS technologies\
+    \ present great opportunity for positive change in every aspect of society. However,\
+    \ they can\u2014by design or unintentionally\u2014 cause harm as well. While it\
+    \ is important to consider and make sense of possible benefits, harms, and trade-offs,\
+    \ it is extremely challenging\_to foresee all of the relevant, direct, and\_secondary\
+    \ impacts.\nHowever, it is prudent to review case studies of similar products\
+    \ and the impacts they have had\_on well-being, as well as to consider possible\_\
+    types of impacts that could apply\" (IEEE, 2019, p.83)\n"
+  OverarchingPrinciples (from Principles):
+  - recOHnq45Fq7YWsRO
+  - recNB5h9bK4gEE9uc
+  Principles:
+  - recOHnq45Fq7YWsRO
+  - recNB5h9bK4gEE9uc
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  - 'franzke, aline shakti, Bechmann, A., Zimmer, M., Ess, C., & Association of Internet
+    Researchers (AoIR). (2020). Internet Research: Ethical Guidelines 3.0 Association
+    of Internet Researchers. AoIR. https://aoir.org/reports/ethics3.pdf'
+  Sources:
+  - recpXl48pJdKDhc6f
+  - rec6r8OkE2Q2EdiM3
+  Strategies:
+  - recK1gdkh8c01WaXx
+  - rec8dLtyDCwvjMWge
+  Tags:
+  - AI
+  airtable_createdTime: '2023-06-16T11:36:04.000Z'
+  airtable_id: rec3wCdnHy3TpLuya
+  title: 'AI has potential to have impact beyond just on the participants involved
+    into society, and it may not be clear what these impacts will be. '
+- Challenges:
+  - recWPbL5kB1Yh5OPf
+  Description: "\"The research analytical process includes selecting the training\
+    \ data, cleaning the data, developing the model through steps of training, evaluating,\
+    \ adjusting, re-training the model.\n[..] The use of AI systems to uncover or\
+    \ predict social phenomena can be tainted by biases in the training data set on\
+    \ certain demographics or proxies thereof, which may lead to unfair and unjust\
+    \ outcomes.\_[...]. \" (franzke, et al., 2020 p.41-44). Potential for biases and\
+    \ outcomes that do not respect justice arises throughout the research processes.\
+    \ \n"
+  OverarchingPrinciples (from Principles):
+  - recSqx6wklVpDzx3s
+  - recNB5h9bK4gEE9uc
+  Principles:
+  - recSqx6wklVpDzx3s
+  - recNB5h9bK4gEE9uc
+  Reference:
+  - 'franzke, aline shakti, Bechmann, A., Zimmer, M., Ess, C., & Association of Internet
+    Researchers (AoIR). (2020). Internet Research: Ethical Guidelines 3.0 Association
+    of Internet Researchers. AoIR. https://aoir.org/reports/ethics3.pdf'
+  Sources:
+  - rec6r8OkE2Q2EdiM3
+  Strategies:
+  - recnFHf9V2VtAVJMx
+  Tags:
+  - AI
+  airtable_createdTime: '2023-06-16T12:12:34.000Z'
+  airtable_id: rec4F8A2UI0uvFh3O
+  title: Application of AI has potential to exacerbate, or ignore, established injustices;
+    these biases may not be immediately clear in unbalanced data, nor apparent in
+    short-term implementation evaluations
+- Challenges:
+  - recJ6khG2kY2Tx5ae
+  Description: |
+    Tools may mediate the interaction between researchers and participants, or research may be conducted in a way that is distal to human interactions with the inputs or outputs of the research (e.g., distal to the original capture of the data in the context of gathering training data; or to the use of a tool in the context of training an algorithm to be deployed beyond the research project)
+  OverarchingPrinciples (from Principles):
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recLHILkx2JDFsLbX
+  Tags:
+  - AI
+  airtable_createdTime: '2023-06-16T16:58:37.000Z'
+  airtable_id: recQWEzfzmzmfstG9
+  title: Interactions and distance between researcher-participant are impacted
+- Challenges:
+  - recWPbL5kB1Yh5OPf
+  Description: |+
+    "How do we educate the workforce for design for, or work with, ethical AI?"
+
+  OverarchingPrinciples (from Principles):
+  - recOHnq45Fq7YWsRO
+  - recNB5h9bK4gEE9uc
+  Principles:
+  - recOHnq45Fq7YWsRO
+  - recNB5h9bK4gEE9uc
+  Tags:
+  - education
+  airtable_createdTime: '2023-06-16T16:25:14.000Z'
+  airtable_id: recUMRucTbQ7tySEW
+  title: An example of long-term impacts in education with respect to merit
+- Challenges:
+  - recWPbL5kB1Yh5OPf
+  Description: "Use of AI in education risks a set of long-range and indirect impacts\
+    \ that may be difficult to assess. These include the risks of AI\n1. Reifying\
+    \ assumptions, acting to label learners and teachers and thus shape their lifelong\
+    \ trajectories, rather than providing useful information to support agency in\
+    \ shaping those trajectories. Data in learning environments thus has potential\
+    \ to be misused outside those environments, including by employers.\n2. Ossifying\
+    \ approaches, through 'locking in' particular models of learning and assessment\
+    \ via algorithms, structures of data capture and use, and data infrastructure\
+    \ that may be hard to change, particularly here they act to reduce skills or labour\
+    \ capacity to intervene. Learning environments must be dynamic to learners and\
+    \ their setting. The values that underpin technologies may not always be made\
+    \ clear up front, and evidence of their efficacy may be treated as a static given,\
+    \ rather than an evolving body of knowledge.\n3. Standardising values, through\
+    \ provision of models built on single sets of static values that may not change\
+    \ across culture, context, or time. In this way the potential of AI to personalise\
+    \ content may be restricted to a narrowly individualistic view of personalisation\
+    \ and adaptivity. \n"
+  OverarchingPrinciples (from Principles):
+  - recNB5h9bK4gEE9uc
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recNB5h9bK4gEE9uc
+  - recLHILkx2JDFsLbX
+  Strategies:
+  - rechaQXedBh3OsMjZ
+  Tags:
+  - education
+  airtable_createdTime: '2023-06-16T12:26:38.000Z'
+  airtable_id: reccjN6q8gegWbrUE
+  title: Reification, ossification, and standardisation
+- Challenges:
+  - recWPbL5kB1Yh5OPf
+  Description: |
+    "Inequities in access to AI may increase, not tackle, inequality"
+  OverarchingPrinciples (from Principles):
+  - recSqx6wklVpDzx3s
+  - recNB5h9bK4gEE9uc
+  Principles:
+  - recSqx6wklVpDzx3s
+  - recNB5h9bK4gEE9uc
+  Tags:
+  - education
+  airtable_createdTime: '2023-06-16T16:25:14.000Z'
+  airtable_id: reciceYsMfOtPdaaA
+  title: An example of long-term impacts in education with respect to justice
+- airtable_createdTime: '2023-06-16T17:13:47.000Z'
+  airtable_id: recsYgGzgIK80qUCT
+- Challenges:
+  - recWPbL5kB1Yh5OPf
+  Description: "\"There are insufficient mechanisms to foresee and measure negative\
+    \ impacts, and\_to promote and safeguard positive impacts of A/IS.\n## Background\n\
+    A/IS technologies present great opportunity for positive change in every aspect\
+    \ of society. However, they can\u2014by design or unintentionally\u2014 cause\
+    \ harm as well. While it is important to consider and make sense of possible benefits,\
+    \ harms, and trade-offs, it is extremely challenging\_to foresee all of the relevant,\
+    \ direct, and\_secondary impacts.\nHowever, it is prudent to review case studies\
+    \ of similar products and the impacts they have had\_on well-being, as well as\
+    \ to consider possible\_types of impacts that could apply. Issues to consider\
+    \ include:\n\u2022\_\_\_\_\_Economic and labor impacts, including labor displacement,\
+    \ unemployment, and inequality,\n\u2022\_\_\_\_\_Accountability, transparency,\
+    \ and explainability,\n\u2022\_\_\_\_\_Surveillance, privacy, and civil liberties,\n\
+    \u2022\_\_\_\_\_Fairness, ethics, and human rights,\n\u2022\_\_\_\_\_Political\
+    \ manipulation, deception, \u201Cnudging\u201D,\_and propaganda,\n\u2022\_\_\_\
+    \_\_Human physical and psychological health,\n\u2022\_\_\_\_\_Environmental impacts,\n\
+    \u2022\_\_\_\_\_Human dignity, autonomy, and human vs.\_A/IS roles,\n\u2022\_\_\
+    \_\_\_Security, cybersecurity, and autonomous weapons, and\n\u2022\_\_\_\_\_Existential\
+    \ risk and super intelligence.\nWhile this is a partial list, it is important\
+    \ to be aware of and reflect on possible and actual cases. For example:\n\u2022\
+    \_\_\_\_\_A prominent concern related to A/IS is of\_labor displacement and economic\
+    \ and social impacts at an individual and a systems level.\_A/IS technologies\
+    \ designed to replicate human tasks, behavior, or emotion have the potential to\
+    \ increase or decrease human well-being. These systems could complement human\
+    \ work and increase productivity, wages, and leisure time; or they could be used\
+    \ to supplement and displace human workers, leading to unemployment, inequality,\
+    \ and social strife.\_It is important for A/IS creators to think about possible\
+    \ uses of their technology and whether they want to encourage or design in restrictions\
+    \ in light of these impacts.\n\u2022\_\_\_\_\_Another example relates to manipulation.\
+    \ Sophisticated manipulative technologies utilizing A/IS can restrict the fundamental\
+    \ freedom of human choice by manipulating humans who consume content without them\
+    \ recognizing the extent of the manipulation. Software platforms are moving from\
+    \ targeting and customizing content to much more powerful and potentially harmful\
+    \ \u201Cpersuasive computing\u201D that leverages psychological data and methods.\
+    \ While these approaches may be effective in encouraging use of a product, they\
+    \ may come at significant psychological and social costs.\n\u2022\_\_\_\_\_A/IS\
+    \ may deceive and harm humans by posing as humans. With the increased ability\
+    \ of artificial systems to meet the Turing test, an intelligence test for a computer\
+    \ that allows a human to distinguish human intelligence from artificial intelligence,\
+    \ there is a significant risk that unscrupulous operators will abuse the technology\
+    \ for unethical commercial or outright criminal purposes. Without taking action\
+    \ to prevent it, it is highly conceivable that A/IS will be used to deceive humans\
+    \ by pretending to be another human being in a plethora of situations and via\
+    \ multiple mediums.\nA potential entry point for exploring these unintended consequences\
+    \ is computational sustainability.\n[Computational-Sustainability.org](http://www.computational-sustainability.org/)\
+    \ defines the term as an \u201Cinterdisciplinary field that aims to apply techniques\
+    \ from computer science, information science, operations research, applied mathematics,\
+    \ and statistics for balancing environmental, economic, and societal needs for\
+    \ sustainable development\u201D. [The Institute of Computational Sustainability](http://computational-sustainability.cis.cornell.edu/about.php)\
+    \ states that the intent of computational sustainability is provide \u201Ccomputational\
+    \ models for a sustainable environment, economy, and society\u201D. Examples of\
+    \ applied computational sustainability can be seen in the[ Stanford University\
+    \ Engineering Department\u2019s course in computational sustainability presentation](https://cs.stanford.edu/~ermon/cs325/slides/lecture1-S16.pdf).\
+    \ Computational sustainability technologies designed to increase social good could\
+    \ also be tied to existing well-being metrics.\"\n_p.83-86_\n"
+  OverarchingPrinciples (from Principles):
+  - recmzjcGKv3yNOxbl
+  - recNB5h9bK4gEE9uc
+  Principles:
+  - recmzjcGKv3yNOxbl
+  - recNB5h9bK4gEE9uc
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  - European Commission. (2022). Ethical guidelines on the use of artificial intelligence
+    and data in teaching and learning for educators | European Education Area. European
+    Commission. https://education.ec.europa.eu/node/2285
+  Sources:
+  - recpXl48pJdKDhc6f
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - rec7daqDHSCuc70yS
+  - recZI7HDWKBU5T22v
+  Tags:
+  - AI
+  airtable_createdTime: '2023-06-16T09:54:40.000Z'
+  airtable_id: recuFqYoT6MFNqspL
+  title: 'AI gives rise to potential harms derived from indirect, long-range, and
+    dual-use '
+- Challenges:
+  - recWPbL5kB1Yh5OPf
+  Description: |
+    AI has the potential to impact on how we connect and talk together, and the structure of societies. AI should avoid harms and promote pro-social engagement, recognising that both the benefits and harms of research (and broader engagement with technology) may accrue over groups.
+  OverarchingPrinciples (from Principles):
+  - recNB5h9bK4gEE9uc
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recNB5h9bK4gEE9uc
+  - recLHILkx2JDFsLbX
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - rec2679E9TXh1DCL8
+  Tags:
+  - AI
+  airtable_createdTime: '2023-06-16T11:33:11.000Z'
+  airtable_id: recwl0AdKj2HLIpDB
+  title: Respect for human-human relationships, at individual and collective levels

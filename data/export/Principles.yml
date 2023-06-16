@@ -561,7 +561,6 @@
   title: Competence
 - Challenges:
   - recdmBNNa98cN8Sda
-  - recHsgB7ki6GknJnX
   - recGEFZ3EynXjRaa9
   - rec8hxSSEudaplJiA
   - reckPjhcWwLgjX9p5
@@ -588,6 +587,7 @@
   - recaTTvWN1olqx608
   - recX4wcNFSw9YljDD
   - recWm6C6wOuVr6UCX
+  - recrBZOfrDC2lKpRM
   airtable_createdTime: '2023-05-18T13:40:06.000Z'
   airtable_id: recKdujFoPJr4ZAhZ
   childOf:
@@ -608,6 +608,10 @@
     AI applications
 - Challenges:
   - rec5VzvnIZcaNKqDh
+  Challenges copy:
+  - recwl0AdKj2HLIpDB
+  - reccjN6q8gegWbrUE
+  - recQWEzfzmzmfstG9
   Description: |
     "1.10 Respect for human beings is a recognition of their intrinsic value. In human research, this recognition includes abiding by the values of research merit and integrity, justice and beneficence. Respect also requires having due regard for the welfare, beliefs, perceptions, customs and cultural heritage, both individual and collective, of those involved in research.
     1.11 Researchers and their institutions should respect the privacy, confidentiality and cultural sensitivities of the participants and, where relevant, of their communities. Any specific agreements made with the participants or the community should be fulfilled.
@@ -665,11 +669,22 @@
   - recSqx6wklVpDzx3s
   title: Fairness in distribution of burden and benefits of research
 - Challenges:
-  - recOpn4I30te1qiKl
+  - recWPbL5kB1Yh5OPf
+  Challenges copy:
+  - recuFqYoT6MFNqspL
+  - recwl0AdKj2HLIpDB
+  - rec3wCdnHy3TpLuya
+  - rec4F8A2UI0uvFh3O
+  - reccjN6q8gegWbrUE
+  - rec16WOKdMVKAiBSJ
+  - recUMRucTbQ7tySEW
+  - reciceYsMfOtPdaaA
   OverarchingFocus:
   - Long-range-impacts
   OverarchingPrinciples:
   - recNB5h9bK4gEE9uc
+  Strategies:
+  - recK1gdkh8c01WaXx
   airtable_createdTime: '2023-06-05T05:32:52.000Z'
   airtable_id: recNB5h9bK4gEE9uc
   title: Consider long-range and indirect impacts
@@ -678,6 +693,9 @@
   - rech9r2f3QX8ZvmkP
   - recvQ90DajNCwPiGP
   - recJjTMjpfE0WHSWu
+  Challenges copy:
+  - rec3wCdnHy3TpLuya
+  - recUMRucTbQ7tySEW
   Description: |
     "Unless proposed research has merit, and the researchers who are to carry out the research have integrity, the involvement of human participants in the research cannot be ethically justifiable." (NS, preamble)
     "1.1 Research that has merit is:
@@ -779,6 +797,7 @@
   - recI5BV6v0BCK03VN
   - recTWhZ88TbQLcNaQ
   - reck6xeMUc9jtmLr3
+  - rec9TbOu2ZXUZG4A5
   airtable_createdTime: '2023-05-18T14:28:05.000Z'
   airtable_id: recQ9DIFEsOEkCx3O
   childOf:
@@ -889,6 +908,10 @@
 - Challenges:
   - recENQXCSOQQ3Y8et
   - recL5M2Hye2XHK7zg
+  - recJfAMUB8HdjVQYD
+  Challenges copy:
+  - rec4F8A2UI0uvFh3O
+  - reciceYsMfOtPdaaA
   Description: |
     "1.4 In research that is just:
     1. (a) taking into account the scope and objectives of the proposed research, the selection, exclusion and inclusion of categories of research participants is fair, and is accurately described in the results of the research
@@ -954,6 +977,7 @@
   title: Citizens' rights
 - Challenges:
   - recCpTJXuuowqsqQa
+  - recUKAxgCSxylEiDm
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -969,6 +993,8 @@
   - recspvYTySr0ANH6j
   - recEHwRaLD44KPk8v
   - recQPwyiQbPcN0G47
+  - reccMqFCLOgQwWM5Q
+  - rec2679E9TXh1DCL8
   airtable_createdTime: '2023-05-18T14:19:44.000Z'
   airtable_id: recU6u0AZbcNj1ik9
   childOf:
@@ -978,8 +1004,8 @@
 - Cases:
   - recrVkbG0XGe2Ca0v
   - recSXcY4cnofb4zTP
-  - recskjpMFnQ0emSKI
   - recAlOHJhEy5nDwA6
+  - recTQ7eABknthRQo8
   Description: "\u201CPrivacy and data governance including respect for privacy, quality\
     \ and integrity of data, and access to data.\u201D (European Commission, 2022,\
     \ p. 18)\n"
@@ -991,6 +1017,7 @@
   - rec9jnxuHOioQn4DC
   Strategies:
   - recOo7Pmo4FBYcu7P
+  - reclzrMrQSQls3PI9
   airtable_createdTime: '2023-06-08T06:30:26.000Z'
   airtable_id: recUYS0TFpk2MhVD7
   title: Privacy and data governance
@@ -1089,6 +1116,7 @@
   Strategies:
   - recGS9OVQ7qAjvIYE
   - recZPU5yTmrjPXlF2
+  - recnLauSoXMQCSK5c
   airtable_createdTime: '2023-05-19T10:59:26.000Z'
   airtable_id: recZToVrPeFlFq0Aw
   equivalentTo:
@@ -1378,7 +1406,10 @@
   - rectPrYetyr4YIuq8
   title: Safeguard the integrity of interpersonal dialogue, meaningful human connection,
     and social cohesion
-- Description: |
+- Challenges copy:
+  - recuFqYoT6MFNqspL
+  - rec16WOKdMVKAiBSJ
+  Description: |
     "1.6 The likely benefit of the research must justify any risks of harm or discomfort to participants. The likely benefit may be to the participants, to the wider community, or to both.
     1.7 Researchers are responsible for:
     1. (a) designing the research to minimise the risks of harm or discomfort to participants
@@ -1491,6 +1522,7 @@
   - reczG9x5YfScZJdCo
   - recazD3B5XpqgOCGV
   - rec09f7Nm4RTf6WjE
+  - rec9TbOu2ZXUZG4A5
   airtable_createdTime: '2023-05-18T13:40:06.000Z'
   airtable_id: recsvi4LnhEEPyQ1h
   childOf:
@@ -1540,6 +1572,8 @@
   - recLHILkx2JDFsLbX
   Sources:
   - recfYC5jjPmpLfSlM
+  Strategies:
+  - recg2u6ZXSRiUO8uF
   airtable_createdTime: '2023-05-19T09:39:38.000Z'
   airtable_id: recv9z5lu6zZspHYA
   childOf:
@@ -1706,6 +1740,7 @@
   - recfYC5jjPmpLfSlM
   Strategies:
   - recKWkdYO98PeEKDz
+  - recqJAVTtqOUfypNI
   airtable_createdTime: '2023-05-19T10:57:55.000Z'
   airtable_id: recy6hrMpKZ7TOn3Q
   childOf:
@@ -1731,6 +1766,7 @@
   - recCpTJXuuowqsqQa
   - recHHr97jsyNDnlsJ
   - recKzhZVabDuYM6rG
+  - recmRF2P1OOASMfNF
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -1751,6 +1787,7 @@
   - reciw4r1bRvx6A6Fq
   - rec7m69DQyCw3rlFg
   - recJyzFLE9ry4YEbb
+  - recMgYQ7EqHAyDfi1
   airtable_createdTime: '2023-05-18T14:20:33.000Z'
   airtable_id: reczVPIH1y2OMpAJH
   childOf:

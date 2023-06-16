@@ -3,7 +3,6 @@
   Jobin: public opinion
   Jobin_covered: 1
   Khan_covered: 0
-  Name: Public participation
   OverarchingFocus:
   - Purpose-and-implementation
   OverarchingPrinciples:
@@ -16,23 +15,23 @@
   - recZ82hfuUzG775I3
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: rec1VlvAnhNs3MkbA
+  title: Public participation
 - Coverage: 1
   Fjeld_covered: 0
   Jobin: '1'
   Jobin_covered: 1
   Khan_covered: 0
-  Name: Knowledge
   Schiff_covered: 0
   Sources:
   - recZ82hfuUzG775I3
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: rec26Igx0Uax18EHh
+  title: Knowledge
 - Coverage: 2
   Fjeld_covered: 0
   Jobin: Misuse & dual-use
   Jobin_covered: 1
   Khan_covered: 0
-  Name: Misuse & hostile use
   OverarchingFocus:
   - Long-range-impacts-and-misuses
   - misuses
@@ -46,6 +45,7 @@
   - recQXTU23awCZtU2a
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: rec2LOHao3FmjpwIv
+  title: Misuse & hostile use
 - Coverage: 2
   Fjeld_covered: 0
   Jobin: '1'
@@ -54,7 +54,6 @@
   Khan_covered: 1
   NOTES: |
     socio-technical and environmental sustainability
-  Name: Sustainability
   OverarchingFocus:
   - Purpose-and-implementation
   OverarchingPrinciples:
@@ -66,6 +65,7 @@
   - recZ82hfuUzG775I3
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: rec2lbN7lCx1fQKnh
+  title: Sustainability
 - Coverage: 4
   Fjeld: '1'
   Fjeld_covered: 1
@@ -73,7 +73,6 @@
   Jobin_covered: 1
   Khan: '1'
   Khan_covered: 1
-  Name: Privacy
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -89,13 +88,13 @@
   - recFglyNv1cgX2zx7
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: rec3rTrXMiXaZjy7s
+  title: Privacy
 - Coverage: 3
   Fjeld_covered: 0
   Jobin: Future of work
   Jobin_covered: 1
   Khan: '1'
   Khan_covered: 1
-  Name: Prosperity
   OverarchingFocus:
   - Purpose-and-implementation
   OverarchingPrinciples:
@@ -109,6 +108,7 @@
   - recFglyNv1cgX2zx7
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: rec3tM5qcjsVoGf8o
+  title: Prosperity
 - Coverage: 4
   Fjeld: Fairness and non-discrimination
   Fjeld_covered: 1
@@ -118,7 +118,6 @@
   Khan_covered: 1
   NOTES: |
     Distinguish between non-discrimination, fairness, and equity
-  Name: Fairness
   OverarchingFocus:
   - Technical-instrumental
   OverarchingPrinciples:
@@ -134,17 +133,18 @@
   - recFglyNv1cgX2zx7
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: rec5tUjckYAzHmc7e
+  title: Fairness
 - Coverage: 1
   Fjeld_covered: 0
   Jobin: '1'
   Jobin_covered: 1
   Khan_covered: 0
-  Name: Innovation
   Schiff_covered: 0
   Sources:
   - recZ82hfuUzG775I3
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: rec7XT5tn9q11nNbX
+  title: Innovation
 - Coverage: 2
   Fjeld_covered: 0
   Jobin: Justice, Fairness & Equity +Discrimination
@@ -152,7 +152,6 @@
   Khan_covered: 0
   NOTES: |
     covered above
-  Name: Inequality
   Schiff: '1'
   Schiff_covered: 1
   Sources:
@@ -163,12 +162,12 @@
   equivalentTo:
   - recO0PpscH27fFkXA
   - rec5tUjckYAzHmc7e
+  title: Inequality
 - Coverage: 1
   Fjeld_covered: 0
   Jobin_covered: 0
   Khan: '1'
   Khan_covered: 1
-  Name: Interpretability
   OverarchingFocus:
   - Technical-instrumental
   OverarchingPrinciples:
@@ -179,11 +178,11 @@
   - recFglyNv1cgX2zx7
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recBuQv8QRql0Ow4q
+  title: Interpretability
 - Coverage: 1
   Fjeld_covered: 0
   Jobin_covered: 0
   Khan_covered: 0
-  Name: H-H interaction
   OverarchingFocus:
   - Long-range-impacts-and-misuses
   - misuses
@@ -196,12 +195,12 @@
   - recQXTU23awCZtU2a
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recCTIw7k9DYnAN2g
+  title: H-H interaction
 - Coverage: 2
   Fjeld: Promotion of human values
   Fjeld_covered: 1
   Jobin_covered: 0
   Khan_covered: 0
-  Name: Human rights
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -214,6 +213,7 @@
   - recQXTU23awCZtU2a
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recEhiFWkyd6l5Kim
+  title: Human rights
 - Coverage: 4
   Fjeld: Human control of technology
   Fjeld_covered: 1
@@ -224,7 +224,6 @@
   NOTES: |+
     Humans should have autonomy, and freedom to engage (or not). Consent can be too narrowly construed (per cookies)
 
-  Name: Autonomy
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -239,13 +238,13 @@
   - recFglyNv1cgX2zx7
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recG3YFWxYITJ7HdM
+  title: Autonomy
 - Coverage: 1
   Fjeld_covered: 0
   Jobin_covered: 0
   Khan_covered: 0
   NOTES: |
     A very specific type of possible harm
-  Name: AGI & Existential Threats
   OverarchingFocus:
   - Long-range-impacts-and-misuses
   - misuses
@@ -258,18 +257,19 @@
   - recQXTU23awCZtU2a
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recH0fKGdRvDSVpQm
+  title: AGI & Existential Threats
 - Coverage: 1
   Fjeld_covered: 0
   Jobin: '1'
   Jobin_covered: 1
   Khan_covered: 0
-  Name: Impact, and Goals/Purposes/Intentions (note, these two are included by Jobin
-    but is redundant)
   Schiff_covered: 0
   Sources:
   - recZ82hfuUzG775I3
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recKt2LyhX48RpbtK
+  title: Impact, and Goals/Purposes/Intentions (note, these two are included by Jobin
+    but is redundant)
 - Coverage: 2
   Fjeld_covered: 0
   Jobin: '1'
@@ -278,7 +278,6 @@
   Khan_covered: 1
   NOTES: |
     (promote benefit)
-  Name: Beneficence
   OverarchingFocus:
   - Purpose-and-implementation
   OverarchingPrinciples:
@@ -290,12 +289,12 @@
   - recZ82hfuUzG775I3
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recLwscIEEHBzI5Nq
+  title: Beneficence
 - Coverage: 2
   Fjeld: Human control of technology
   Fjeld_covered: 1
   Jobin_covered: 0
   Khan_covered: 0
-  Name: H-R relationships
   OverarchingFocus:
   - Long-range-impacts
   OverarchingPrinciples:
@@ -308,12 +307,12 @@
   - recQXTU23awCZtU2a
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recMBWhG4UXydd71J
+  title: H-R relationships
 - Coverage: 2
   Fjeld_covered: 0
   Jobin_covered: 0
   Khan: '1'
   Khan_covered: 1
-  Name: Predictability
   OverarchingFocus:
   - Technical-instrumental
   OverarchingPrinciples:
@@ -326,6 +325,7 @@
   - recQXTU23awCZtU2a
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recNFvfNqfB2VwhZ8
+  title: Predictability
 - Coverage: 2
   Fjeld_covered: 0
   Jobin: Justice, Fairness & Equity
@@ -334,7 +334,6 @@
   Khan_covered: 1
   NOTES: |
     The costs of AI (underlying data, development, implementation) and benefits should be evenly distributed, noting historic injustices
-  Name: Justice
   OverarchingFocus:
   - Purpose-and-implementation
   OverarchingPrinciples:
@@ -346,6 +345,7 @@
   - recZ82hfuUzG775I3
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recO0PpscH27fFkXA
+  title: Justice
 - Coverage: 2
   Fjeld_covered: 0
   Jobin: 'risks: maulfunction'
@@ -355,7 +355,6 @@
   NOTES: "Accuracy must be treated in terms of the question \"is it worthwhile\" as\
     \ in, will it achieve an ends on which we have agreement regarding its value.\
     \ \n"
-  Name: Accuracy
   OverarchingFocus:
   - Technical-instrumental
   OverarchingPrinciples:
@@ -367,6 +366,7 @@
   - recZ82hfuUzG775I3
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recQECJl1tr5x63ig
+  title: Accuracy
 - Coverage: 2
   Fjeld_covered: 0
   Jobin: AI strengths, advantages
@@ -375,7 +375,6 @@
   Khan_covered: 1
   NOTES: |
     This is redundant if beneficence is treated properly (per merit and integrity)
-  Name: Effectiveness
   OverarchingFocus:
   - Technical-instrumental
   OverarchingPrinciples:
@@ -387,12 +386,12 @@
   - recZ82hfuUzG775I3
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recQEQ1NAj92jByY5
+  title: Effectiveness
 - Coverage: 1
   Fjeld_covered: 0
   Jobin: '1'
   Jobin_covered: 1
   Khan_covered: 0
-  Name: 'Arms race '
   OverarchingFocus:
   - Long-range-impacts-and-misuses
   - misuses
@@ -404,6 +403,7 @@
   - recZ82hfuUzG775I3
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recRopSKW7iYgFHlz
+  title: 'Arms race '
 - Coverage: 4
   Fjeld: Transparency and explainability
   Fjeld_covered: 1
@@ -413,7 +413,6 @@
   Khan_covered: 1
   NOTES: |
     Explainability: The results of a system AND their interpretation can be explained.
-  Name: Explainability
   OverarchingFocus:
   - Technical-instrumental
   OverarchingPrinciples:
@@ -428,36 +427,36 @@
   - recFglyNv1cgX2zx7
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recS88wQCG2Q3vCmN
+  title: Explainability
 - Coverage: 2
   Fjeld_covered: 0
   Jobin: '1'
   Jobin_covered: 1
   Khan: '1'
   Khan_covered: 1
-  Name: Solidarity
   Schiff_covered: 0
   Sources:
   - recZ82hfuUzG775I3
   - recFglyNv1cgX2zx7
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recUb7Jo7VY1Hx5Co
+  title: Solidarity
 - Coverage: 1
   Fjeld_covered: 0
   Jobin: '1'
   Jobin_covered: 1
   Khan_covered: 0
-  Name: Enhancement
   Schiff_covered: 0
   Sources:
   - recZ82hfuUzG775I3
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recUiZ5lcg30F10Ns
+  title: Enhancement
 - Coverage: 1
   Fjeld_covered: 0
   Jobin: '1'
   Jobin_covered: 1
   Khan_covered: 0
-  Name: Risk evaluation & mitigation
   OverarchingFocus:
   - Technical-instrumental
   OverarchingPrinciples:
@@ -468,6 +467,7 @@
   - recZ82hfuUzG775I3
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recVOZptlmWy2vW4P
+  title: Risk evaluation & mitigation
 - Coverage: 4
   Fjeld: '1'
   Fjeld_covered: 1
@@ -475,7 +475,6 @@
   Jobin_covered: 1
   Khan: '1'
   Khan_covered: 1
-  Name: Accountability
   OverarchingFocus:
   - Human-oversight
   OverarchingPrinciples:
@@ -490,17 +489,18 @@
   - recFglyNv1cgX2zx7
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recW30jj9GzhNGTuX
+  title: Accountability
 - Coverage: 1
   Fjeld_covered: 0
   Jobin: '1'
   Jobin_covered: 1
   Khan_covered: 0
-  Name: Risks
   Schiff_covered: 0
   Sources:
   - recZ82hfuUzG775I3
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recWg8LODvWwEikAo
+  title: Risks
 - Coverage: 4
   Fjeld: Transparency and explainability
   Fjeld_covered: 1
@@ -510,7 +510,6 @@
   Khan_covered: 1
   NOTES: |
     Transparency & explainability are separate. Transparency: It is clear what role the AI plays in a system, and that it is there; explainability, the decisions of the AI can be understood.
-  Name: Transparency
   OverarchingFocus:
   - Technical-instrumental
   OverarchingPrinciples:
@@ -525,13 +524,13 @@
   - recFglyNv1cgX2zx7
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recYP5QdyBcP0gruN
+  title: Transparency
 - Coverage: 3
   Fjeld: Human control of technology
   Fjeld_covered: 1
   Jobin_covered: 0
   Khan: '1'
   Khan_covered: 1
-  Name: Freedom
   OverarchingFocus:
   - Human-oversight
   OverarchingPrinciples:
@@ -545,12 +544,12 @@
   - recFglyNv1cgX2zx7
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recZQWPVfsVKa7q8t
+  title: Freedom
 - Coverage: 2
   Fjeld_covered: 0
   Jobin: '1'
   Jobin_covered: 1
   Khan_covered: 0
-  Name: Trust
   OverarchingFocus:
   - Purpose-and-implementation-(instrumental)
   OverarchingPrinciples:
@@ -563,12 +562,12 @@
   - recZ82hfuUzG775I3
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recZzygIMFc8xIAnW
+  title: Trust
 - Coverage: 2
   Fjeld: Fairness and non-discrimination
   Fjeld_covered: 1
   Jobin_covered: 0
   Khan_covered: 0
-  Name: Vulnerable populations
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -581,11 +580,11 @@
   - recQXTU23awCZtU2a
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recbsOi9a2k1nJswY
+  title: Vulnerable populations
 - Coverage: 1
   Fjeld_covered: 0
   Jobin_covered: 0
   Khan_covered: 0
-  Name: Psychologiacal impacts
   OverarchingFocus:
   - Long-range-impacts
   OverarchingPrinciples:
@@ -597,13 +596,13 @@
   - recQXTU23awCZtU2a
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recdmyjbklrgjcfc3
+  title: Psychologiacal impacts
 - Coverage: 2
   Fjeld: safety and security
   Fjeld_covered: 1
   Jobin_covered: 0
   Khan: '1'
   Khan_covered: 1
-  Name: Data security
   OverarchingFocus:
   - Technical-instrumental
   OverarchingPrinciples:
@@ -615,6 +614,7 @@
   - recFglyNv1cgX2zx7
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recgk6VOEM4y4w7gV
+  title: Data security
 - Coverage: 2
   Fjeld_covered: 0
   Jobin: Responsibility & Accountability
@@ -623,7 +623,6 @@
   Khan_covered: 1
   NOTES: |
     redundant, accountability covers part of this, and social responsibility and professional responsibility are elsewhere
-  Name: Responsibility
   Schiff_covered: 0
   Sources:
   - recFglyNv1cgX2zx7
@@ -634,6 +633,7 @@
   - reck7CXWZJAjaLrDR
   - recW30jj9GzhNGTuX
   - recr4fWTm3a7tbJ4G
+  title: Responsibility
 - Coverage: 2
   Fjeld_covered: 0
   Jobin: '1'
@@ -642,7 +642,6 @@
   Khan_covered: 1
   NOTES: |
     (do no harm)
-  Name: Non-maleficence
   OverarchingFocus:
   - Purpose-and-implementation
   OverarchingPrinciples:
@@ -654,12 +653,12 @@
   - recZ82hfuUzG775I3
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: reci6dYShRhu4H0ad
+  title: Non-maleficence
 - Coverage: 1
   Fjeld: '1'
   Fjeld_covered: 1
   Jobin_covered: 0
   Khan_covered: 0
-  Name: Professional responsibility
   OverarchingFocus:
   - Human-oversight
   OverarchingPrinciples:
@@ -670,6 +669,7 @@
   - recrDXMNtbEk0mCAY
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: reck7CXWZJAjaLrDR
+  title: Professional responsibility
 - Coverage: 3
   Fjeld: safety and security
   Fjeld_covered: 1
@@ -678,7 +678,6 @@
   Khan_covered: 1
   NOTES: |
     see note right, safety is a really opaque term in my view
-  Name: Safety
   OverarchingFocus:
   - Technical-instrumental
   OverarchingPrinciples:
@@ -693,12 +692,12 @@
   - recFglyNv1cgX2zx7
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recl9ptNqbtslS9s6
+  title: Safety
 - Coverage: 1
   Fjeld_covered: 0
   Jobin: '1'
   Jobin_covered: 1
   Khan_covered: 0
-  Name: Surveillance
   OverarchingFocus:
   - Long-range-impacts-and-misuses
   - misuses
@@ -710,11 +709,11 @@
   - recZ82hfuUzG775I3
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recm9sVI6QmlMdHor
+  title: Surveillance
 - Coverage: 1
   Fjeld_covered: 0
   Jobin_covered: 0
   Khan_covered: 0
-  Name: Cultural Sensitivity
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -726,12 +725,12 @@
   - recQXTU23awCZtU2a
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recnatLtMuR1D5OXt
+  title: Cultural Sensitivity
 - Coverage: 1
   Fjeld_covered: 0
   Jobin: '1'
   Jobin_covered: 1
   Khan_covered: 0
-  Name: Monitoring/precaution
   OverarchingFocus:
   - Technical-instrumental
   OverarchingPrinciples:
@@ -742,12 +741,12 @@
   - recZ82hfuUzG775I3
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: reco1j4ikYZLaYZi6
+  title: Monitoring/precaution
 - Coverage: 2
   Fjeld_covered: 0
   Jobin: Deception + manipulation
   Jobin_covered: 1
   Khan_covered: 0
-  Name: Deception & Manipulation
   OverarchingFocus:
   - Long-range-impacts-and-misuses
   - misuses
@@ -761,11 +760,11 @@
   - recZ82hfuUzG775I3
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recqLh2ycsve2o5QO
+  title: Deception & Manipulation
 - Coverage: 1
   Fjeld_covered: 0
   Jobin_covered: 0
   Khan_covered: 0
-  Name: Social responsibility
   OverarchingFocus:
   - Purpose-and-implementation
   OverarchingPrinciples:
@@ -777,11 +776,11 @@
   - recQXTU23awCZtU2a
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recr4fWTm3a7tbJ4G
+  title: Social responsibility
 - Coverage: 1
   Fjeld_covered: 0
   Jobin_covered: 0
   Khan_covered: 0
-  Name: Workforce diversity
   OverarchingFocus:
   - Purpose-and-implementation-(instrumental)
   OverarchingPrinciples:
@@ -793,6 +792,7 @@
   - recQXTU23awCZtU2a
   airtable_createdTime: '2023-06-08T15:13:19.000Z'
   airtable_id: recrpsLqCTq9nWSND
+  title: Workforce diversity
 - Coverage: 2
   Fjeld_covered: 0
   Jobin: '1'
@@ -801,7 +801,6 @@
   Khan_covered: 1
   NOTES: |
     redundant, equivalent to respect for persons, and in the framing provided autonomy
-  Name: Human dignity
   Schiff_covered: 0
   Sources:
   - recZ82hfuUzG775I3
@@ -811,3 +810,4 @@
   equivalentTo:
   - recZQWPVfsVKa7q8t
   - recG3YFWxYITJ7HdM
+  title: Human dignity

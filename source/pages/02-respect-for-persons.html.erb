@@ -100,7 +100,9 @@ A set of particularly concerns arise in the context of research in education, th
 
 These are strategies that relate to respect for persons, autonomy, informed consent, agency, and protection of vulnerable persons.
 
+<!-- this gets the keys (name/url) of principles with those titles -->
 <% keys_content = partial "templates/components/getkeys", locals: { my_filters: "item[:title]&.match?(/Respect for persons|Autonomy|informed consent|agency|protection of vulnerable persons/i) && item[:category] == 'Principles'" } %>
 
+<!-- this then uses those keys, to show strategies that have that principle assigned -->
 <%= partial "templates/components/cardset", locals: { my_filters: "item[:category] == 'Strategies' && (item[:Principles].is_a?(Array) ? item[:Principles]&.compact&.any? { |principle| principle&.match?(/#{keys_content}/i) } : item[:Principles]&.match?(/#{keys_content}/i))" } %>
 
