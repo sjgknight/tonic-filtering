@@ -82,22 +82,11 @@ In addition, the conduct of human research often has an impact on the lives of o
 
 ### When is research involving 'AI' human research?
 
-<%= partial 'templates/components/callout', locals: { type: "information", title: "How is AI research different?", text: partial('templates/components/markdown', locals: { markdown_text: 'Some features that will be discussed in later pages that may be particularly salient of research involving technology and AI specifically include:
-
-* Long-range and indirect impacts - AI has potential to have impact beyond just on the participants involved into society, and it may not be clear what these impacts will be
-* Researcher-participant relationships - AI and associated infrastructure has shifted relationships of researchers and participants through greater secondary use of data, online platforms that connect (sometimes invisibly) participants to researchers, and heightened risks of re-identification
-* Commercial interests - while significant AI work is derived from publicly funded research, commercial actors have significant interests and this may impact relationships between funders-technology providers-researchers-public with blured lines between these groups, and complex power dynamics
-* Accountability and human dignity - many technologies aim to automate aspects of human decision making in ways that may diminish human autonomy, and where it is not always transparent what basis decisions are made on, or the evidence that systems perform to an acceptable level in these decisions
-
-'} ) } %>
-
-
 <% keys_content = partial "templates/components/getkeys", locals: { my_filters: "item[:category] == 'ChallengeInstances' && (item[:tags].include? 'AI')" } %>
 
 <% callout_content = partial "templates/components/includeset", locals: { my_filters: "item[:category] == 'Challenges' && (item[:ChallengeInstances].is_a?(Array) ? item[:ChallengeInstances]&.compact&.any? { |challenge| challenge&.match?(/#{keys_content}/i) } : item[:ChallengeInstances]&.match?(/#{keys_content}/i))" } %>
 
 <%= partial 'templates/components/callout', locals: { type: "information", title: "How is AI research different?", text: "#{callout_content}"} %>
-
 
 
 <%= partial 'templates/components/callout', locals: { type: "alert", title: "What should stay and how to synthesise here", text: "This material could be reframed to reflect the different focus"} %>

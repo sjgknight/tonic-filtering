@@ -21,6 +21,20 @@ Conduct work that benefits people (beneficence)
 
 [(NS)](/recmzjcgkv3ynoxbl)
 
+#### Specific ethical concepts arising in the context of technology
+
+<%= partial 'templates/components/callout', locals: { type: "alert", title: "here to edit", text: "check this, these are now drawn from the same table as the concepts in the introduction and so the thread should be clear" } %>
+
+<% callout_content = partial "templates/components/includeset", locals: { my_filters: "item[:category] == 'ChallengeInstances' && (item[:tags].include? 'AI') && (item[:OverarchingPrinciples].is_a?(Array) ? item[:OverarchingPrinciples]&.compact&.any? { |x| x&.match?(/education/i) } : item[:OverarchingPrinciples]&.match?(/#beneficence/i))" } %>
+
+<%= partial 'templates/components/callout', locals: { type: "information", title: "How is AI research different?", text: "#{callout_content}"} %>
+
+
+<%= partial 'templates/components/callout', locals: { type: "alert", title: "here to edit", text: "check this, these are now drawn from the same table as the concepts in the introduction and so the thread should be clear" } %>
+
+<% callout_content = partial "templates/components/includeset", locals: { my_filters: "item[:category] == 'ChallengeInstances' && (item[:tags].include? 'education') && (item[:OverarchingPrinciples].is_a?(Array) ? item[:OverarchingPrinciples]&.compact&.any? { |x| x&.match?(/education/i) } : item[:OverarchingPrinciples]&.match?(/#beneficence/i))" } %>
+
+<%= partial 'templates/components/callout', locals: { type: "information", title: "How is education research different?", text: "#{callout_content}"} %>
 
 #### Practically
 

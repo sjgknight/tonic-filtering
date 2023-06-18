@@ -39,9 +39,17 @@ recztovrpeflfq0aw
 reck5zfiq18a3whae
 
 
-<h3>Particular Challenges, Cases, and Strategies</h3>
+#### Specific ethical concepts arising in the context of technology
 
-These are strategies that relate to beneficence and harm avoidance.
+<%= partial 'templates/components/callout', locals: { type: "alert", title: "here to edit", text: "check this, these are now drawn from the same table as the concepts in the introduction and so the thread should be clear" } %>
 
-<% keys_content = partial "templates/components/getkeys", locals: { my_filters: "item[:title]&.match?(/justice|fairness/i) && item[:category] == 'Principles'" } %>
-<%= partial "templates/components/cardset", locals: { my_filters: "item[:category] == 'Strategies' && (item[:Principles].is_a?(Array) ? item[:Principles]&.compact&.any? { |principle| principle&.match?(/#{keys_content}/i) } : item[:Principles]&.match?(/#{keys_content}/i))" } %>
+<% callout_content = partial "templates/components/includeset", locals: { my_filters: "item[:category] == 'ChallengeInstances' && (item[:tags].include? 'AI') && (item[:OverarchingPrinciples].is_a?(Array) ? item[:OverarchingPrinciples]&.compact&.any? { |x| x&.match?(/respect for persons/i) } : item[:OverarchingPrinciples]&.match?(/#justice/i))" } %>
+
+<%= partial 'templates/components/callout', locals: { type: "information", title: "How is AI research different?", text: "#{callout_content}"} %>
+
+
+<%= partial 'templates/components/callout', locals: { type: "alert", title: "here to edit", text: "check this, these are now drawn from the same table as the concepts in the introduction and so the thread should be clear" } %>
+
+<% callout_content = partial "templates/components/includeset", locals: { my_filters: "item[:category] == 'ChallengeInstances' && (item[:tags].include? 'education') && (item[:OverarchingPrinciples].is_a?(Array) ? item[:OverarchingPrinciples]&.compact&.any? { |x| x&.match?(/justice/i) } : item[:OverarchingPrinciples]&.match?(/#justice/i))" } %>
+
+<%= partial 'templates/components/callout', locals: { type: "information", title: "How is education research different?", text: "#{callout_content}"} %>

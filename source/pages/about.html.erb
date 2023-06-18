@@ -130,3 +130,23 @@ This method lets you include a variable as the callout_content (e.g., by callout
 > partial 'templates/components/callout', locals: { type: "information", title: "How is research on learning different?", text: partial('templates/components/markdown', locals: { markdown_text: "Some feature... " }) }
 
 > partial 'templates/components/callout', locals: { type: "information", title: "How is AI research different?", text: "I mean, obviously this is ok too" }
+
+
+
+<%= partial 'templates/components/callout', locals: { type: "information", title: "How is AI research different?", text: partial('templates/components/markdown', locals: { markdown_text: 'Some features that will be discussed in later pages that may be particularly salient of research involving technology and AI specifically include:
+
+* Long-range and indirect impacts - AI has potential to have impact beyond just on the participants involved into society, and it may not be clear what these impacts will be
+* Researcher-participant relationships - AI and associated infrastructure has shifted relationships of researchers and participants through greater secondary use of data, online platforms that connect (sometimes invisibly) participants to researchers, and heightened risks of re-identification
+* Commercial interests - while significant AI work is derived from publicly funded research, commercial actors have significant interests and this may impact relationships between funders-technology providers-researchers-public with blured lines between these groups, and complex power dynamics
+* Accountability and human dignity - many technologies aim to automate aspects of human decision making in ways that may diminish human autonomy, and where it is not always transparent what basis decisions are made on, or the evidence that systems perform to an acceptable level in these decisions
+
+'} ) } %>
+
+
+
+<h3>Particular Challenges, Cases, and Strategies</h3>
+
+These are strategies that relate to beneficence and harm avoidance.
+
+<% keys_content = partial "templates/components/getkeys", locals: { my_filters: "item[:title]&.match?(/justice|fairness/i) && item[:category] == 'Principles'" } %>
+<%= partial "templates/components/cardset", locals: { my_filters: "item[:category] == 'Strategies' && (item[:Principles].is_a?(Array) ? item[:Principles]&.compact&.any? { |principle| principle&.match?(/#{keys_content}/i) } : item[:Principles]&.match?(/#{keys_content}/i))" } %>
