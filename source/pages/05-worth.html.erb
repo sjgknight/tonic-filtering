@@ -120,9 +120,15 @@ recfvlyl0cmh88lzvThe basis of a particular A/IS decision should always be discov
 Research worth having
 
 
-<h3>Particular Challenges, Cases, and Strategies</h3>
 
-These are strategies that relate to beneficence and harm avoidance.
+<h3>Particular Strategies</h3>
 
-<% keys_content = partial "templates/components/getkeys", locals: { my_filters: "item[:title]&.match?(/merit|ensuring respect for persons is maintained in the design|that is designed to achieve its aims rigorously|and with suitable resources to conduct the work as proposed|do research that is justifiable by potential benefit|and that the work is carried out with suitable expertise|Pillar of the Ethically Aligned Design Conceptual Framework: Technical Dependability|Explicability|and grounded in literature and prior knowledge/i) && item[:category] == 'Principles'" } %>
-<%= partial "templates/components/cardset", locals: { my_filters: "item[:category] == 'Strategies' && (item[:Principles].is_a?(Array) ? item[:Principles]&.compact&.any? { |principle| principle&.match?(/#{keys_content}/i) } : item[:Principles]&.match?(/#{keys_content}/i))" } %>
+These are strategies that relate to merit and integrity or worth.
+
+<!-- this then uses those keys, to show strategies that have that principle assigned -->
+<%= partial "templates/components/cardset", locals: { my_filters: "item[:category] == 'Strategies' && (item[:OverarchingPrinciples].is_a?(Array) ? item[:OverarchingPrinciples]&.compact&.any? { |principle| principle&.match?(/#{keys_principles}/i) } : item[:OverarchingPrinciples]&.match?(/#{keys_principles}/i))" } %>
+
+<h3>Particular Cases</h3>
+
+<%= partial "templates/components/cardset", locals: { my_filters: "item[:category] == 'Cases' && (item[:OverarchingPrinciples].is_a?(Array) ? item[:OverarchingPrinciples]&.compact&.any? { |principle| principle&.match?(/#{keys_principles}/i) } : item[:OverarchingPrinciples]&.match?(/#{keys_principles}/i))" } %>
+

@@ -61,3 +61,15 @@ reck5zfiq18a3whae
 
 <!-- and display them -->
 <%= partial 'templates/components/callout', locals: { type: "information", title: "How is education research different?", text: "#{callout_content}"} %>
+
+
+<h3>Particular Strategies</h3>
+
+These are strategies that relate to justice
+
+<!-- this then uses those keys, to show strategies that have that principle assigned -->
+<%= partial "templates/components/cardset", locals: { my_filters: "item[:category] == 'Strategies' && (item[:OverarchingPrinciples].is_a?(Array) ? item[:OverarchingPrinciples]&.compact&.any? { |principle| principle&.match?(/#{keys_principles}/i) } : item[:OverarchingPrinciples]&.match?(/#{keys_principles}/i))" } %>
+
+<h3>Particular Cases</h3>
+
+<%= partial "templates/components/cardset", locals: { my_filters: "item[:category] == 'Cases' && (item[:OverarchingPrinciples].is_a?(Array) ? item[:OverarchingPrinciples]&.compact&.any? { |principle| principle&.match?(/#{keys_principles}/i) } : item[:OverarchingPrinciples]&.match?(/#{keys_principles}/i))" } %>

@@ -48,6 +48,12 @@ Autonomy is normally taken to comprise:
 <!-- and display them -->
 <%= partial 'templates/components/callout', locals: { type: "information", title: "How is education research different?", text: "#{callout_content}"} %>
 
+“Accountability including auditability, minimisation and reporting of negative impact, trade-offs, and redress. These considerations and requirements can help educators, school leaders and technology providers to adequately assess the impact, address the potential risks, and realise the benefits of an AI system deployed and used in education. As such they guide the development, deployment and use of trustworthy AI systems.” [(European Commission, 2022, p. 19)](/reczcrrifbqqpn8ix)
+
+#### Raw text
+
+<%= partial 'templates/components/callout', locals: { type: "alert", title: "What to keep of this?" } %>
+
 
 Considerations regarding respect for persons may be distinctive in the context of AI. That is for two reasons:
 
@@ -83,30 +89,12 @@ A number of these concepts relate to both **proximal and indirect, long-range, a
 
 ##### Technical procedural ethics addressing respect for persons
 
-<%= partial 'templates/components/callout', locals: { type: "alert", title: "to add here", text: "tbc" } %>
-
-Explainability (all 4)
-
-Transparency (all 4)
-Interpretability (only Khan)
-
-Data agency - suporting people to make decisions regarding data
+<%= partial 'templates/components/callout', locals: { type: "alert", title: "to add here", text: "tbc. May link to the principles drawn on from the principlemapping table" } %>
 
 
 <h5>This section draws on principles discussed in</h5>
 <%= partial 'templates/components/cardset', locals: { my_filters: '(item[:title]&.match(/National Statement|Schiff|Khan|Jobin|Fjeld|Turing responsible design and implementation of AI systems|High-level expert group on AI|EC guidelines on AI in education for educators|^IEEE/i) || item[:Description]&.match(/Turing responsible design and implementation of AI systems|High-level expert group on AI|EC guidelines on AI in education for educators|^IEEE/i) ) && item[:category] == "Sources"' } %>
 
-
-#### And in education
-
-A set of particularly concerns arise in the context of research in education, the use of AI in education research (as a tool or object of research), and in applications of AI in education beyond research contexts.
-
-- reinforcing or inventing bias
-- incidental data capture (e.g., non-consenting students in background)
-- informed consent with blackb-x models and classroom power relationships
--
-
-“Accountability including auditability, minimisation and reporting of negative impact, trade-offs, and redress. These considerations and requirements can help educators, school leaders and technology providers to adequately assess the impact, address the potential risks, and realise the benefits of an AI system deployed and used in education. As such they guide the development, deployment and use of trustworthy AI systems.” [(European Commission, 2022, p. 19)](/reczcrrifbqqpn8ix)
 
 
 ##### This section draws on
@@ -115,13 +103,14 @@ A set of particularly concerns arise in the context of research in education, th
 
 <%= link_to "Previous section", "#respect-for-persons", class: "index-link" %>
 
-<h3>Particular Challenges, Cases, and Strategies</h3>
+<h3>Particular Strategies</h3>
 
-These are strategies that relate to respect for persons, autonomy, informed consent, agency, and protection of vulnerable persons.
-
-<!-- this gets the keys (name/url) of principles with those titles -->
-<% keys_content = partial "templates/components/getkeys", locals: { my_filters: "item[:title]&.match?(/Respect for persons|Autonomy|informed consent|agency|protection of vulnerable persons/i) && item[:category] == 'Principles'" } %>
+These are strategies that relate to respect for persons.
 
 <!-- this then uses those keys, to show strategies that have that principle assigned -->
-<%= partial "templates/components/cardset", locals: { my_filters: "item[:category] == 'Strategies' && (item[:Principles].is_a?(Array) ? item[:Principles]&.compact&.any? { |principle| principle&.match?(/#{keys_content}/i) } : item[:Principles]&.match?(/#{keys_content}/i))" } %>
+<%= partial "templates/components/cardset", locals: { my_filters: "item[:category] == 'Strategies' && (item[:OverarchingPrinciples].is_a?(Array) ? item[:OverarchingPrinciples]&.compact&.any? { |principle| principle&.match?(/#{keys_principles}/i) } : item[:OverarchingPrinciples]&.match?(/#{keys_principles}/i))" } %>
+
+<h3>Particular Cases</h3>
+
+<%= partial "templates/components/cardset", locals: { my_filters: "item[:category] == 'Cases' && (item[:OverarchingPrinciples].is_a?(Array) ? item[:OverarchingPrinciples]&.compact&.any? { |principle| principle&.match?(/#{keys_principles}/i) } : item[:OverarchingPrinciples]&.match?(/#{keys_principles}/i))" } %>
 
