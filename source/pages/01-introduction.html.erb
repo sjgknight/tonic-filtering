@@ -132,6 +132,15 @@ Broadly, as Leslie (2019) in the Turing Institute guidance flags, to ground work
 "} ) } %>
 
 
+<% keys_content = partial "templates/components/getkeys", locals: { my_filters: "item[:category] == 'ChallengeInstances' && (item[:tags].include? 'education')" } %>
+
+<% callout_content = partial "templates/components/includeset", locals: { my_filters: "item[:category] == 'Challenges' && (item[:ChallengeInstances].is_a?(Array) ? item[:ChallengeInstances]&.compact&.any? { |challenge| challenge&.match?(/#{keys_content}/i) } : item[:ChallengeInstances]&.match?(/#{keys_content}/i))" } %>
+
+<%= partial 'templates/components/callout', locals: { type: "information", title: "How is AI research different?", text: "#{callout_content}"} %>
+
+
+<%= partial 'templates/components/callout', locals: { type: "alert", title: "What should stay and how to synthesise here", text: "This material could be reframed to reflect the different focus"} %>
+
 
 ### What do we mean by Artificial Intelligence?
 

@@ -23,16 +23,32 @@ Conduct work that benefits people (beneficence)
 
 #### Specific ethical concepts arising in the context of technology
 
-<%= partial 'templates/components/callout', locals: { type: "alert", title: "here to edit", text: "check this, these are now drawn from the same table as the concepts in the introduction and so the thread should be clear" } %>
+<%= partial 'templates/components/callout', locals: { type: "alert", title: "here to edit", text: "check this, these are now drawn from the same table as the concepts in the introduction and so the thread should be clear.
 
-<% callout_content = partial "templates/components/includeset", locals: { my_filters: "item[:category] == 'ChallengeInstances' && (item[:tags].include? 'AI') && (item[:OverarchingPrinciples].is_a?(Array) ? item[:OverarchingPrinciples]&.compact&.any? { |x| x&.match?(/education/i) } : item[:OverarchingPrinciples]&.match?(/beneficence/i))" } %>
+**check error** something in the keys_principles template isnt working for beneficence but is working for respect.** " } %>
+
+<!-- first get the keys of principle matching  -->
+<% keys_principles = partial "templates/components/getkeys", locals: { my_filters: "(item[:category] == 'Principles') && (item[:title]&.match?(/beneficence/i))" } %>
+
+<% keys_principles = 'recmzjcGKv3yNOxbl' %>
+
+<!-- then get the ChallengeInstances of challenges with those keys, and matching AI -->
+
+<% callout_content = partial "templates/components/includeset", locals: { my_filters: "item[:category] == 'ChallengeInstances' && (item[:tags].include? 'AI') && (item[:OverarchingPrinciples].is_a?(Array) ? item[:OverarchingPrinciples]&.compact&.any? { |x| x&.match?(/#{keys_principles}/i) } : item[:OverarchingPrinciples]&.match?(/#{keys_principles}/i))" } %>
+
+<!-- and display them -->
 
 <%= partial 'templates/components/callout', locals: { type: "information", title: "How is AI research different?", text: "#{callout_content}"} %>
 
+#### And for education
 
 <%= partial 'templates/components/callout', locals: { type: "alert", title: "here to edit", text: "check this, these are now drawn from the same table as the concepts in the introduction and so the thread should be clear" } %>
 
-<% callout_content = partial "templates/components/includeset", locals: { my_filters: "item[:category] == 'ChallengeInstances' && (item[:tags].include? 'education') && (item[:OverarchingPrinciples].is_a?(Array) ? item[:OverarchingPrinciples]&.compact&.any? { |x| x&.match?(/education/i) } : item[:OverarchingPrinciples]&.match?(/beneficence/i))" } %>
+<!-- then get the ChallengeInstances of challenges with those keys, and matching tag -->
+
+<% callout_content = partial "templates/components/includeset", locals: { my_filters: "item[:category] == 'ChallengeInstances' && (item[:tags].include? 'education') && (item[:OverarchingPrinciples].is_a?(Array) ? item[:OverarchingPrinciples]&.compact&.any? { |x| x&.match?(/#{keys_principles}/i) } : item[:OverarchingPrinciples]&.match?(/#{keys_principles}/i))" } %>
+
+<!-- and display them -->
 
 <%= partial 'templates/components/callout', locals: { type: "information", title: "How is education research different?", text: "#{callout_content}"} %>
 

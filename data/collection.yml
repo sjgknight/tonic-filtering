@@ -20,8 +20,6 @@
   - test
   Cases:
   - test
-  OverarchingPrinciples (from Principles):
-  - test
   Principles:
   - test
   ChallengeInstances:
@@ -50,7 +48,6 @@
   Schiff_covered: '0'
 - Challenges:
   - recCpTJXuuowqsqQa
-  - recgZrgA8K7MmIzdF
   - recefglLZ3oJWw2SZ
   - recv6cN7XSt5GW32Y
   Challenges copy:
@@ -83,7 +80,6 @@
   - recq6GeKNegFQdzS9
   - recJyzFLE9ry4YEbb
   - reccAKmFQRH7IiuJi
-  - recaTTvWN1olqx608
   childOf:
   - recmzjcGKv3yNOxbl
   title: Minimise risks of harms
@@ -663,7 +659,6 @@
   - reczFKqCos9f1opXO
   - recJyzFLE9ry4YEbb
   - reccAKmFQRH7IiuJi
-  - recaTTvWN1olqx608
   - recX4wcNFSw9YljDD
   - recWm6C6wOuVr6UCX
   - recrBZOfrDC2lKpRM
@@ -696,6 +691,7 @@
   - recwl0AdKj2HLIpDB
   - reccjN6q8gegWbrUE
   - recQWEzfzmzmfstG9
+  - recC8IlVKWmMHOorw
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -1536,7 +1532,6 @@
   - rec95I69E1YcGg0Sa
   - recTjwhqfrJoaRxYo
   - recq6GeKNegFQdzS9
-  - recaTTvWN1olqx608
   equivalentTo:
   - recmzjcGKv3yNOxbl
   title: Prevention of harm
@@ -1579,6 +1574,7 @@
   - rec5l10QTYprjeewa
   - reclJ7hlCEf4P94SA
   - recPKPxKp07OlhULb
+  - rec1UyKLba4O7X6ax
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -2021,7 +2017,7 @@
     the impact, address the potential risks, and realise the benefits of an AI system
     deployed and used in education. As such they guide the development, deployment
     and use of trustworthy AI systems.” (European Commission, 2022, p. 19)
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recOHnq45Fq7YWsRO
   - recOHnq45Fq7YWsRO
@@ -2085,7 +2081,7 @@
     2019, p. 20) '
 - ChallengeInstances:
   - recQmyVULN0OuFA2s
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   Principles:
@@ -2119,7 +2115,7 @@
     the balance between advantageous ends and individual freedom been struck? - Which
     values did the organization decide to promote, and how?"(franzke et al., 2020,
     p. 37-38)'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recOHnq45Fq7YWsRO
   - recLHILkx2JDFsLbX
@@ -2244,7 +2240,7 @@
     AI system. These tasks of content clarification and practical justification will
     be explored in more detail below as part of the section on transparency."(Leslie,
     2019, p.22-23)'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   Principles:
   - recmzjcGKv3yNOxbl
@@ -2299,7 +2295,7 @@
 - ChallengeInstances:
   - recwl0AdKj2HLIpDB
   - recUMRucTbQ7tySEW
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recU6u0AZbcNj1ik9
@@ -2380,7 +2376,7 @@
   - recHUlZ9OQfNwD6fg
   - recftbldoHqhBBcrk
   - recJvXzs5QMTqWzUF
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recSqx6wklVpDzx3s
   Principles:
@@ -2408,7 +2404,7 @@
     2022, p. 20)'
 - ChallengeInstances:
   - recQmyVULN0OuFA2s
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recU6u0AZbcNj1ik9
@@ -2438,7 +2434,7 @@
     of AI in gathering data for this research project? - How will the implementation
     of the AI system or use of the model affect the norms and sensitivities?(franzke
     et al., 2020, p. 36-37)
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recmzjcGKv3yNOxbl
   Principles:
@@ -2478,7 +2474,7 @@
     Expert Group on AI, 2019, p. 27)'
 - ChallengeInstances:
   - rec5l10QTYprjeewa
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recSqx6wklVpDzx3s
   - recmzjcGKv3yNOxbl
   - recmzjcGKv3yNOxbl
@@ -2548,7 +2544,7 @@
     Press, 2011.'
 - ChallengeInstances:
   - recz5LeVOgbgic8Jk
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recKdujFoPJr4ZAhZ
@@ -2586,7 +2582,7 @@
   - recuFqYoT6MFNqspL
   Challenges:
   - recWPbL5kB1Yh5OPf
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recNB5h9bK4gEE9uc
   Principles:
@@ -2611,7 +2607,7 @@
     2022, p. 20)
 - ChallengeInstances:
   - recVGVVfuoL5sr3oo
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recOHnq45Fq7YWsRO
   - recLHILkx2JDFsLbX
@@ -2649,7 +2645,7 @@
   Challenges:
   - recdmBNNa98cN8Sda
   - rec9Cuz3HWc9lWW23
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recLHILkx2JDFsLbX
   - recOHnq45Fq7YWsRO
@@ -2759,7 +2755,7 @@
     workflow of the model?” (High-Level Expert Group on AI, 2019, p. 29)'
 - ChallengeInstances:
   - recdkRK64g0b4GZlP
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   Principles:
   - recOHnq45Fq7YWsRO
@@ -2792,7 +2788,7 @@
 - ChallengeInstances:
   - rec3wCdnHy3TpLuya
   - recuFqYoT6MFNqspL
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recmzjcGKv3yNOxbl
   Principles:
@@ -2853,7 +2849,7 @@
     for the specific research project? - Is it possible to contain the potential malevolent
     future uses by design? - Up to which hypothetical data reuse moment is it appropriate
     to hold the researcher responsible? (franazke, 2020, p45-46)'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recmzjcGKv3yNOxbl
   - recOHnq45Fq7YWsRO
@@ -2922,7 +2918,7 @@
   - rec2ajglpzbFYRivi
   - reciH69D8oIGI1p93
   - recrVvneRZaEutaGw
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recOHnq45Fq7YWsRO
   Principles:
@@ -3095,7 +3091,7 @@
     London: Sage, 2018.M. Price, “[Facial Expressions—Including Fear— May Not Be as
     Universal as We Thought.](http://www.sciencemag.org/news/2016/10/facial-expressions-including-fear-may-not-be-universal-we-thought)”
     _Science, _October 17, 2016."p.90-91'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recmzjcGKv3yNOxbl
   Principles:
@@ -3148,7 +3144,7 @@
     27)'
 - ChallengeInstances:
   - recHUlZ9OQfNwD6fg
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recmzjcGKv3yNOxbl
   - recmzjcGKv3yNOxbl
@@ -3245,7 +3241,7 @@
     been identified, strengthen areas of weakness that have possible discriminatory
     consequences, and take proactive bias-prevention measures in areas that have been
     identified to pose potential future risks.(Leslie, 2019, p. 20-23)'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recmzjcGKv3yNOxbl
   Principles:
@@ -3278,7 +3274,7 @@
     directly and indirectly involved?” (franzke et al., 2020, p. 37)
 - ChallengeInstances:
   - recQWEzfzmzmfstG9
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recLHILkx2JDFsLbX
   Principles:
@@ -3345,7 +3341,7 @@
     - Are data subjects empowered to decide which data is collected and which inferences
     are made about them? - Can the data subject have access to their data? Can they
     choose to withdraw their data from the system?”(franzke et al., 2020, p. 38-40)'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recmzjcGKv3yNOxbl
   - recOHnq45Fq7YWsRO
@@ -3409,7 +3405,7 @@
     _Journal of Medical Ethics_ 27 i36-i40, 2001."p.130'
 - ChallengeInstances:
   - recQtuMpX4WaAoHhG
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   Principles:
   - recjViPnz3atRIOpD
@@ -3427,7 +3423,7 @@
     discussion and reflection about them with colleagues? - What are you learning
     from your project that can inform future practice related to ethical issues in
     the scholarship of teaching and learning?(Fedoruk, 2017, p. 3)'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
@@ -3472,7 +3468,7 @@
     to the (end-)user or consumer?” (High-Level Expert Group on AI, 2019, p. 29)'
 - ChallengeInstances:
   - recX9rdsAGiONXTVd
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recOHnq45Fq7YWsRO
   Principles:
@@ -3709,7 +3705,7 @@
     of when said data was collected?” All drawn from Fedoruk (2017)'
 - ChallengeInstances:
   - recHHvfADKIkX9idP
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recPg7Ov0priGGtLm
@@ -3733,7 +3729,7 @@
     their own agent to the relationship without constraints that would make some guardians
     inherently incompatible or subject to censorship.•Vulnerable parts of the population
     will need protection in the process of granting access."p.111 IEEE 2019 report'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recSqx6wklVpDzx3s
   - recmzjcGKv3yNOxbl
   - recOHnq45Fq7YWsRO
@@ -3871,7 +3867,7 @@
     Has the model been properly retuned and retrained to accommodate changes in the
     environment?Dates of Public Consultation on Beta-Phase Impacts: Date of Next Planned
     Beta Phase Re-Assessment:"(Leslie, 2019, p.23-24)'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - reckb3cgfeDh1EeUP
@@ -3898,8 +3894,7 @@
     than intuition or random discretion. There may be situations, however, where no
     ethically acceptable trade-offs can be identified. Certain fundamental rights
     and correlated principles are absolute and cannot be subject to a balancing exercise
-    (e.g. human dignity).” (\[High-Level Expert Group on AI, 2019, p. 13]\(zotero://select/groups/4907410/items/XPCD8D3T))
-    (\[pdf]\(zotero://open-pdf/groups/4907410/items/CPFPH28M?page=15&annotation=5CFBE37J))
+    (e.g. human dignity).” (High-Level Expert Group on AI, 2019, p. 13)
 - ChallengeInstances:
   - recu8eBgTi3OTRRij
   Sources:
@@ -3933,7 +3928,7 @@
     _Harvard Business Review. _September– October 1996.'
 - ChallengeInstances:
   - recBfwOfoB68ghQAV
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recOHnq45Fq7YWsRO
   Principles:
@@ -4029,7 +4024,7 @@
     com/abstract=2779647](https://ssrn.com/abstract=2779647). [Accessed Nov. 1, 2018].•R.
     Calo, “[Consumer Subject Review Boards: A Thought Experiment](https://www.stanfordlawreview.org/online/privacy-and-big-data-consumer-subject-review-boards/).”
     _Stanford Law Review Online _66 97, Sept. 2013.'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   Principles:
   - recmzjcGKv3yNOxbl
@@ -4062,7 +4057,7 @@
     and that it” (High-Level Expert Group on AI, 2019, p. 30)'
 - ChallengeInstances:
   - recI3S7M3KOMg2C4m
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recSqx6wklVpDzx3s
   - recLHILkx2JDFsLbX
@@ -4091,9 +4086,9 @@
     the scholarly use of copyrighted materials without permission, such as the U.S.
     doctrine of fair use, this is not a guarantee of protection against copyright
     infringement.)” (Markham and Buchanan, 2012, p. 10)
-- Challenges:
-  - recX6r1O4jcsp0nIM
-  OverarchingPrinciples (from Principles):
+- ChallengeInstances:
+  - recC8IlVKWmMHOorw
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recOHnq45Fq7YWsRO
   - recmzjcGKv3yNOxbl
@@ -4162,7 +4157,7 @@
   - rec3wCdnHy3TpLuya
   Challenges:
   - recWPbL5kB1Yh5OPf
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recNB5h9bK4gEE9uc
   Principles:
   - recNB5h9bK4gEE9uc
@@ -4197,7 +4192,7 @@
     [Accessed Nov. 1, 2018]."p.141-142'
 - ChallengeInstances:
   - recsYgGzgIK80qUCT
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recSqx6wklVpDzx3s
   - recOHnq45Fq7YWsRO
@@ -4218,7 +4213,7 @@
     the potential risks? - Is the research aiming at a good or desirable goal? - Can
     we be sure the data collected from online sites, fora, communities, is “legitimate”
     and “valuable”?” (Markham and Buchanan, 2012, p. 11)
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recmzjcGKv3yNOxbl
   Principles:
@@ -4477,7 +4472,7 @@
     LA, Feb. 1 -3, 2018."p.180-181'
 - ChallengeInstances:
   - rec7aGSPdkdUuZ42O
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - reczVPIH1y2OMpAJH
@@ -4545,7 +4540,7 @@
     ](http://optictechnology.org/index.php/en/news-en/151-vhack-2018winners-en)"p157-159'
 - ChallengeInstances:
   - recQWEzfzmzmfstG9
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recKdujFoPJr4ZAhZ
@@ -4566,7 +4561,7 @@
     ‘perceived privacy’16 or the notion that individuals might care more about the
     appropriate flow of information as defining it as public or private17?” (Markham
     and Buchanan, 2012, p. 8-9)'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
@@ -4609,7 +4604,7 @@
     a human?” (High-Level Expert Group on AI, 2019, p. 27)'
 - ChallengeInstances:
   - recJvXzs5QMTqWzUF
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recmzjcGKv3yNOxbl
   - recmzjcGKv3yNOxbl
@@ -4655,7 +4650,7 @@
   - recVGVVfuoL5sr3oo
   - recTaaKAtPIfbenZv
   - recfjoQZIVhT0C5pW
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
@@ -4683,7 +4678,7 @@
     Regulation?” (European Commission, 2022, p. 21)'
 - ChallengeInstances:
   - recQWEzfzmzmfstG9
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - reczVPIH1y2OMpAJH
@@ -4709,7 +4704,7 @@
     parents, and the researcher)?” (Markham and Buchanan, 2012, p. 11)
 - ChallengeInstances:
   - recMhXPovX6fJ5ZIa
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
@@ -4757,7 +4752,7 @@
   - recSXcY4cnofb4zTP
   ChallengeInstances:
   - recMhXPovX6fJ5ZIa
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recmzjcGKv3yNOxbl
   - recOHnq45Fq7YWsRO
@@ -4786,7 +4781,7 @@
 - Cases:
   - recOOmVQviRyJGvea
   - recAlOHJhEy5nDwA6
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recOHnq45Fq7YWsRO
   - recOHnq45Fq7YWsRO
@@ -4815,7 +4810,7 @@
     robustness and safety?
 - ChallengeInstances:
   - reczbN2QKYqG695ec
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recLHILkx2JDFsLbX
   - recmzjcGKv3yNOxbl
@@ -4931,7 +4926,9 @@
     the Internet ](http://europepmc.org/abstract/med/27255607)[Engineering Task Force
     (IETF) and Human Rights](http://europepmc.org/abstract/med/27255607).” _Science
     and Engineering Ethics, _vol._ _23, no. 2, pp. 449–468, Apr. 2017."p.128'
-- OverarchingPrinciples (from Principles):
+- ChallengeInstances:
+  - recC8IlVKWmMHOorw
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recKdujFoPJr4ZAhZ
@@ -4965,7 +4962,9 @@
     humans when problems arise. The people most affected by the use of AI in education
     must be part of the development of the AI model, system, or tool, even if this
     slows the pace of adoption.” (Cardona et al., 2023, p. 10)'
-- OverarchingPrinciples (from Principles):
+- ChallengeInstances:
+  - recC8IlVKWmMHOorw
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recKdujFoPJr4ZAhZ
@@ -4995,7 +4994,7 @@
     26)
 - ChallengeInstances:
   - recsYgGzgIK80qUCT
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
@@ -5047,7 +5046,7 @@
   - recA7Kh502s4UKWGo
   - recGRpoF7DA23ODSj
   - recWPbL5kB1Yh5OPf
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - receFm7cGasHwpJZO
@@ -5120,7 +5119,9 @@
     A Case Study from Louisiana’s Industrial Corridor.](https://www.sciencehistory.org/sites/default/files/studies-in-sustainability-ottinger2009.pdf)
     Center for Contemporary History and Policy, 2008.•[Expert and Citizen Assessment
     of Science and ](https://ecastnetwork.org/about/)[Technology (ECAST) Network ](https://ecastnetwork.org/about/)"p.82-83'
-- OverarchingPrinciples (from Principles):
+- ChallengeInstances:
+  - recHUlZ9OQfNwD6fg
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recSqx6wklVpDzx3s
   Principles:
@@ -5712,39 +5713,10 @@
     the interpretability and justifiability of your AI project in this manner will
     not only advance its responsible implementation, it will likely encourage further
     improvements in its design, delivery, and performance.Leslie, 2019, p.54-68'
-- OverarchingPrinciples (from Principles):
-  - recLHILkx2JDFsLbX
-  - recmzjcGKv3yNOxbl
-  - recmzjcGKv3yNOxbl
-  Principles:
-  - recKdujFoPJr4ZAhZ
-  - rec42P8U9usfYCtv9
-  - reclPiw2VvNOSTzv5
-  Sources:
-  - recnCULdYQ36cpZR7
-  title: Considerations in assessing trustworthy AI - Minimising and reporting negative
-    impacts
-  category: Strategies
-  name: recaTTvWN1olqx608
-  tags:
-  - governance-question
-  created_at: '2023-05-28T19:50:07.000Z'
-  description: '“Compliance with this assessment list is not evidence of legal compliance,
-    nor is it intended as guidance to ensure compliance with applicable law. Given
-    the application-specificity of AI systems, the assessment list will need to be
-    tailored to the specific use case and context in which the system operates. In
-    addition, this chapter offers a general recommendation on how to implement the
-    assessment list for Trustworthy AI though a governance structure embracing both
-    operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY
-    AI ASSESSMENT LIST (PILOT VERSION) “Accountability “Ability to redress: <U+F0FC> Did
-    you establish an adequate set of mechanisms that allows for redress in case of
-    the occurrence of any harm or adverse impact? <U+F0FC> Did you put mechanisms in place
-    both to provide information to (end-)users/third parties about opportunities for
-    redress?” (High-Level Expert Group on AI, 2019, p. 31)'
 - ChallengeInstances:
   - recQWEzfzmzmfstG9
   - recz5LeVOgbgic8Jk
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recsvi4LnhEEPyQ1h
@@ -5770,7 +5742,7 @@
     the researcher still seek subjects’/participants’ consent in a non-regulatory
     manner? - If informed consent is warranted, how will the researcher ensure that
     participants are truly informed?”(Markham and Buchanan, 2012, p. 11)
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recmzjcGKv3yNOxbl
   - recmzjcGKv3yNOxbl
@@ -5802,7 +5774,7 @@
     Expert Group on AI, 2019, p. 31) c
 - ChallengeInstances:
   - recg4TZqdeqZcnd1w
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recU6u0AZbcNj1ik9
@@ -5903,7 +5875,7 @@
     York: Oxford University Press, 2008. This book describes some of the challenges
     of having a one-size-fits-all approach to embedding human values in autonomous
     systems. "p.172-174'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recLHILkx2JDFsLbX
   Principles:
@@ -5939,7 +5911,9 @@
 - Cases:
   - reciNqxyfUgE5XM7t
   - recOOmVQviRyJGvea
-  OverarchingPrinciples (from Principles):
+  ChallengeInstances:
+  - recC8IlVKWmMHOorw
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   Principles:
@@ -5968,7 +5942,7 @@
     Commission, 2022, p. 19)'
 - ChallengeInstances:
   - recQmyVULN0OuFA2s
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recKdujFoPJr4ZAhZ
@@ -6059,7 +6033,9 @@
     2013.- C. Cath, and L. Floridi, “[The Design of the Internet’s Architecture by
     the Internet Engineering Task Force (IETF) and Human Rights](http://europepmc.org/abstract/med/27255607).”
     _Science and Engineering Ethics, _vol._ _23, no. 2, pp. 449–468, Apr. 2017."p.128'
-- OverarchingPrinciples (from Principles):
+- ChallengeInstances:
+  - recuFqYoT6MFNqspL
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - reckb3cgfeDh1EeUP
@@ -6077,21 +6053,14 @@
     tailored to the specific use case and context in which the system operates. In
     addition, this chapter offers a general recommendation on how to implement the
     assessment list for Trustworthy AI though a governance structure embracing both
-    operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“Compliance
-    with this assessment list is not evidence of legal compliance, nor is it intended
-    as guidance to ensure compliance with applicable law. Given the application-specificity
-    of AI systems, the assessment list will need to be tailored to the specific use
-    case and context in which the system operates. In addition, this chapter offers
-    a general recommendation on how to implement the assessment list for Trustworthy
-    AI though a governance structure embracing both operational and management level.”
-    (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY AI ASSESSMENT LIST (PILOT
-    VERSION) “Societal and environmental well-being “Society and democracy: <U+F0FC> Did
-    you assess the broader societal impact of the AI system’s use beyond the individual
-    (end-)user, such as potentially indirectly affected stakeholders?” (High-Level
-    Expert Group on AI, 2019, p. 31)'
+    operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY
+    AI ASSESSMENT LIST (PILOT VERSION) “Societal and environmental well-being “Society
+    and democracy: - Did you assess the broader societal impact of the AI system’s
+    use beyond the individual (end-)user, such as potentially indirectly affected
+    stakeholders?” (High-Level Expert Group on AI, 2019, p. 31)'
 - Challenges:
   - recb50cfuQUWDAHZW
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recv9z5lu6zZspHYA
@@ -6168,7 +6137,7 @@
     Coordination Action for Europe Report on Robotics and Employment,” Deliverable
     D3.4.1, June 30, 2016.•World Economic Forum, Centre for the New Economy and Society,
     _The Future of Jobs 2018_, Geneva: WEF 2018."150-152'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   Principles:
   - rec42P8U9usfYCtv9
@@ -6207,7 +6176,7 @@
     p.46-47)
 - ChallengeInstances:
   - recVGVVfuoL5sr3oo
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   Principles:
@@ -6238,9 +6207,11 @@
     potential risks might arise for individuals? Can this be addressed by the original
     researcher? If so, how? How will this impact subsequent researchers and their
     data management?” (Markham and Buchanan, 2012, p. 9-10)
-- Challenges:
+- ChallengeInstances:
+  - recC8IlVKWmMHOorw
+  Challenges:
   - recdmBNNa98cN8Sda
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recLHILkx2JDFsLbX
@@ -7220,7 +7191,7 @@
 - ChallengeInstances:
   - recpoXmwIiqv3BMWJ
   - recftbldoHqhBBcrk
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recmzjcGKv3yNOxbl
   - recmzjcGKv3yNOxbl
@@ -7324,7 +7295,7 @@
   - reccjN6q8gegWbrUE
   Challenges:
   - recdmBNNa98cN8Sda
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recmzjcGKv3yNOxbl
   - recOHnq45Fq7YWsRO
@@ -7353,7 +7324,7 @@
     for teachers and learners?"(European Commission, 2022, p. 19)'
 - ChallengeInstances:
   - recJOwTAhuoamQM7C
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recOHnq45Fq7YWsRO
   - recLHILkx2JDFsLbX
@@ -7385,7 +7356,7 @@
     p. 2)
 - ChallengeInstances:
   - recVGVVfuoL5sr3oo
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recOHnq45Fq7YWsRO
   - recLHILkx2JDFsLbX
@@ -7419,7 +7390,7 @@
     not been compromised or hacked?” (High-Level Expert Group on AI, 2019, p. 28)'
 - ChallengeInstances:
   - recpoXmwIiqv3BMWJ
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recOHnq45Fq7YWsRO
   Principles:
@@ -7458,7 +7429,7 @@
     _Science and Engineering Ethics, _vol._ _24_, _pp. 505-528, 2017.p122-123'
 - ChallengeInstances:
   - rec5l10QTYprjeewa
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recSqx6wklVpDzx3s
   - recmzjcGKv3yNOxbl
   - recmzjcGKv3yNOxbl
@@ -7490,7 +7461,7 @@
 - ChallengeInstances:
   - rec16WOKdMVKAiBSJ
   - recTaaKAtPIfbenZv
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recUYS0TFpk2MhVD7
@@ -7512,7 +7483,7 @@
     IEEE report'
 - ChallengeInstances:
   - reczbN2QKYqG695ec
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recmzjcGKv3yNOxbl
   - recmzjcGKv3yNOxbl
@@ -7543,7 +7514,7 @@
 - ChallengeInstances:
   - rec4F8A2UI0uvFh3O
   - recQtuMpX4WaAoHhG
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recmzjcGKv3yNOxbl
   - recSqx6wklVpDzx3s
@@ -7655,7 +7626,7 @@
     et al., 2020 p.41-44)'
 - ChallengeInstances:
   - reciceYsMfOtPdaaA
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recSqx6wklVpDzx3s
   Principles:
   - recZToVrPeFlFq0Aw
@@ -7728,7 +7699,7 @@
     Countries,” webfoundation.org, June 2017."p.145-147'
 - ChallengeInstances:
   - recQWEzfzmzmfstG9
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recU6u0AZbcNj1ik9
@@ -7804,7 +7775,7 @@
     2012."p139-140'
 - ChallengeInstances:
   - recVGVVfuoL5sr3oo
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   Principles:
@@ -7837,7 +7808,7 @@
     2012, p. 9)
 - ChallengeInstances:
   - recsYgGzgIK80qUCT
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recOHnq45Fq7YWsRO
   - recOHnq45Fq7YWsRO
@@ -7874,7 +7845,7 @@
     if the researcher limits the project duration to a shorter amount of operation
     time? And does this conflict with the ability of the researcher to conduct the
     research in question?” (franzke et al., 2020, p. 40)'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recLHILkx2JDFsLbX
   - recmzjcGKv3yNOxbl
@@ -7926,7 +7897,7 @@
     Group on AI, 2019, p. 30)'
 - Challenges:
   - recJV8yTX0MnF3rGD
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   Principles:
   - recy6hrMpKZ7TOn3Q
@@ -7968,7 +7939,7 @@
     Published on July 29, 2018"p.142-144'
 - ChallengeInstances:
   - rec3XoC08SiG83eK0
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   Principles:
   - recOHnq45Fq7YWsRO
@@ -8018,9 +7989,11 @@
     responsible use of AI in education by involving humans in the loop to ensure that
     educational values and principles are prioritized.” (Cardona et al., 2023, p.
     56)'
-- Challenges:
+- ChallengeInstances:
+  - recC8IlVKWmMHOorw
+  Challenges:
   - rec3Fm8dyG49YU137
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recKdujFoPJr4ZAhZ
@@ -8051,7 +8024,7 @@
     and ](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00797/full)[Wellbeing
     in Digital Experience](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00797/full),”_
     Frontiers in Psychology_– Human Media Interaction, vol. 9, pp 797, 2018.""p.100-101'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   Principles:
   - recgDkzdE9dfpTxCK
@@ -8065,8 +8038,8 @@
   - reflection-questions
   - project-design
   created_at: '2023-05-19T12:24:49.000Z'
-  description: '"“Quantitative research is typically guided by stated hypotheses,
-    which may be written down before data collection and analysis begins. In qualitative
+  description: '"Quantitative research is typically guided by stated hypotheses, which
+    may be written down before data collection and analysis begins. In qualitative
     research, researchers often do not work with clear hypotheses to be tested but
     instead enter the field in order to learn something about the practice in a particular
     social setting. They conduct self-reflection and state their assumptions as well
@@ -8088,7 +8061,7 @@
   - recu8eBgTi3OTRRij
   Challenges:
   - rec3T1WLC4dg63qyI
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   Principles:
   - recjViPnz3atRIOpD
@@ -8110,7 +8083,9 @@
     White Guy Problem](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html?_r=1)”,
     _New York Times_, July 25, 2016. [Online]. Available: [http://www.nytimes. com/2016/06/26/opinion/sunday/artificialintelligences-white-guy-problem.html?\_r=1](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html?_r=1).
     [Accessed October 28, 2018]."p.123-124'
-- OverarchingPrinciples (from Principles):
+- ChallengeInstances:
+  - recHUlZ9OQfNwD6fg
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recU6u0AZbcNj1ik9
@@ -8128,21 +8103,14 @@
     tailored to the specific use case and context in which the system operates. In
     addition, this chapter offers a general recommendation on how to implement the
     assessment list for Trustworthy AI though a governance structure embracing both
-    operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“Compliance
-    with this assessment list is not evidence of legal compliance, nor is it intended
-    as guidance to ensure compliance with applicable law. Given the application-specificity
-    of AI systems, the assessment list will need to be tailored to the specific use
-    case and context in which the system operates. In addition, this chapter offers
-    a general recommendation on how to implement the assessment list for Trustworthy
-    AI though a governance structure embracing both operational and management level.”
-    (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY AI ASSESSMENT LIST (PILOT
-    VERSION)“Human agency: <U+F0FC> Is the AI system implemented in work and labour process?
-    If so, did you consider the task allocation between the AI system and humans for
-    meaningful interactions and appropriate human oversight and control? <U+F0A7> Does the
-    AI system enhance or augment human capabilities? <U+F0A7> Did you take safeguards to
-    prevent overconfidence in or overreliance on the AI system for work processes?”
-    (High-Level Expert Group on AI, 2019, p. 26)'
-- OverarchingPrinciples (from Principles):
+    operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY
+    AI ASSESSMENT LIST (PILOT VERSION)“Human agency: -  Is the AI system implemented
+    in work and labour process? If so, did you consider the task allocation between
+    the AI system and humans for meaningful interactions and appropriate human oversight
+    and control? - Does the AI system enhance or augment human capabilities? - Did
+    you take safeguards to prevent overconfidence in or overreliance on the AI system
+    for work processes?”(High-Level Expert Group on AI, 2019, p. 26)'
+- OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   Principles:
   - recOHnq45Fq7YWsRO
@@ -8270,7 +8238,7 @@
     in The Bridge: Linking Engineering and Society_."__p.83-86_'
 - ChallengeInstances:
   - recfjoQZIVhT0C5pW
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recPg7Ov0priGGtLm
@@ -8297,7 +8265,9 @@
     conditions between two parties at the time of exchange.•For further information
     on these issues, please see the following section in regard to algorithmic agents
     and their application."p.109 IEEE report'
-- OverarchingPrinciples (from Principles):
+- ChallengeInstances:
+  - recVGVVfuoL5sr3oo
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recPg7Ov0priGGtLm
@@ -8316,28 +8286,21 @@
     tailored to the specific use case and context in which the system operates. In
     addition, this chapter offers a general recommendation on how to implement the
     assessment list for Trustworthy AI though a governance structure embracing both
-    operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“Compliance
-    with this assessment list is not evidence of legal compliance, nor is it intended
-    as guidance to ensure compliance with applicable law. Given the application-specificity
-    of AI systems, the assessment list will need to be tailored to the specific use
-    case and context in which the system operates. In addition, this chapter offers
-    a general recommendation on how to implement the assessment list for Trustworthy
-    AI though a governance structure embracing both operational and management level.”
-    (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY AI ASSESSMENT LIST (PILOT
-    VERSION) “Privacy and data governance Respect for privacy and data Protection:
-    <U+F0FC> Depending on the use case, did you establish a mechanism allowing others to
-    flag issues related to privacy or data protection in the AI system’s processes
-    of data collection (for training and operation) and data processing? <U+F0FC> Did you
-    assess the type and scope of data in your data sets (for example whether they
-    contain personal data)? <U+F0FC> Did you consider ways to develop the AI system or train
-    the model without or with minimal use of potentially sensitive or personal data?
-    <U+F0FC> Did you build in mechanisms for notice and control over personal data depending
-    on the use case (such as valid consent and possibility to revoke, when applicable)?
-    <U+F0FC> Did you take measures to enhance privacy, such as via encryption, anonymisation
-    and aggregation? <U+F0FC> Where a Data Privacy Officer (DPO) exists, did you involve
-    this person at an early stage in the process?” (High-Level Expert Group on AI,
-    2019, p. 28)'
-- OverarchingPrinciples (from Principles):
+    operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY
+    AI ASSESSMENT LIST (PILOT VERSION) “Privacy and data governance Respect for privacy
+    and data Protection: - Depending on the use case, did you establish a mechanism
+    allowing others to flag issues related to privacy or data protection in the AI
+    system’s processes of data collection (for training and operation) and data processing?
+    - Did you assess the type and scope of data in your data sets (for example whether
+    they contain personal data)? - Did you consider ways to develop the AI system
+    or train the model without or with minimal use of potentially sensitive or personal
+    data? - Did you build in mechanisms for notice and control over personal data
+    depending on the use case (such as valid consent and possibility to revoke, when
+    applicable)? - Did you take measures to enhance privacy, such as via encryption,
+    anonymisation and aggregation? - Where a Data Privacy Officer (DPO) exists, did
+    you involve this person at an early stage in the process?” (High-Level Expert
+    Group on AI, 2019, p. 28)'
+- OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recOHnq45Fq7YWsRO
   Principles:
@@ -8366,7 +8329,7 @@
     p. 31)'
 - ChallengeInstances:
   - recI3S7M3KOMg2C4m
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   - recOHnq45Fq7YWsRO
@@ -8434,7 +8397,7 @@
     adversity to achieve academic and professional success, and would entrench existing
     educational inequalities.” (\[Access Now, 2018, p. 28]\(zotero://select/groups/4907410/items/KIU6F9PR))
     (\[pdf]\(zotero://open-pdf/groups/4907410/items/598C5P37?page=28&annotation=DR727J3N))'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recNB5h9bK4gEE9uc
   - recOHnq45Fq7YWsRO
   - recLHILkx2JDFsLbX
@@ -8593,7 +8556,7 @@
   - recefglLZ3oJWw2SZ
   - recdmBNNa98cN8Sda
   - rec3T1WLC4dg63qyI
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recOHnq45Fq7YWsRO
   Principles:
@@ -8638,7 +8601,7 @@
     Commission, 2022, p. 23)'
 - Challenges:
   - recBc3GCNokDL220T
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   Principles:
@@ -8683,7 +8646,7 @@
     access to the data only to those who need it? Privacy and data governance - How
     is the effectiveness and impact of the AI system being evaluated and how does
     this evaluation consider key values of education? Accountability'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recUYS0TFpk2MhVD7
@@ -8754,7 +8717,7 @@
   - rec5VzvnIZcaNKqDh
   - recvQ90DajNCwPiGP
   - rec3T1WLC4dg63qyI
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recSqx6wklVpDzx3s
   - recLHILkx2JDFsLbX
@@ -8805,7 +8768,7 @@
   - recefglLZ3oJWw2SZ
   - recdmBNNa98cN8Sda
   - rec3T1WLC4dg63qyI
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recSqx6wklVpDzx3s
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
@@ -8944,7 +8907,7 @@
   - rec5VzvnIZcaNKqDh
   - recvQ90DajNCwPiGP
   - rec3T1WLC4dg63qyI
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recNB5h9bK4gEE9uc
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
@@ -9224,6 +9187,7 @@
   name: rec3T1WLC4dg63qyI
   tags:
   - research
+  - AI
   created_at: '2023-06-18T14:17:02.000Z'
   description: '**Considerations for ethical AI include clarity or accountability
     regarding the purposes of technology, and its role in decision processes.** **Clarity**
@@ -9280,7 +9244,7 @@
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
   - recpFE7h6QhaEpNAQ
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recLHILkx2JDFsLbX
@@ -9328,7 +9292,7 @@
     “[Free Speech in the Algorithmic Society: Big Data, Private Governance, and New
     School Speech Regulation.](https://ssrn.com/abstract%3D3038939)” _UC Davis Law
     Review_, 2017."p.135'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recLHILkx2JDFsLbX
   Principles:
@@ -9410,7 +9374,7 @@
   - recTaaKAtPIfbenZv
   - recVGVVfuoL5sr3oo
   - recI3S7M3KOMg2C4m
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recPg7Ov0priGGtLm
@@ -9446,7 +9410,7 @@
     and shape their development. This sort of privacy invasion can consequently harm
     a person’s more basic right to pursue their goals and life plans free from unchosen
     influence.” (Leslie, 2019, p. 5) '
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   - recmzjcGKv3yNOxbl
@@ -9460,7 +9424,7 @@
   tags:
   - AI
   created_at: '2023-05-18T13:41:32.000Z'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recLHILkx2JDFsLbX
   Principles:
@@ -9561,7 +9525,7 @@
   - recJOwTAhuoamQM7C
   - recz5LeVOgbgic8Jk
   - recBfwOfoB68ghQAV
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   Principles:
@@ -9672,7 +9636,7 @@
     Parliament, House of Commons, Digital, Culture, Media and Sport Committee Disinformation
     and ‘fake news’: Interim Report, Fifth Report of Session 2017–19UK Parliament,
     Published on July 29, 2018"p.142-144'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   Principles:
   - recOHnq45Fq7YWsRO
@@ -9707,6 +9671,22 @@
     error rates in cases such as these can have severe consequences.” (Access Now,
     2018, p. 13)'
 - ChallengeInstances:
+  - recC8IlVKWmMHOorw
+  - rec1UyKLba4O7X6ax
+  title: Human control of technology and accountability for technology use
+  category: Challenges
+  name: recSONq7KetYgyg6K
+  tags: []
+  created_at: '2023-06-18T18:10:44.000Z'
+  description: Through the inception, design, development, implementation, evaluation,
+    and decommissioning human control of technology is central to considerations of
+    autonomy, accountability, and human oversight of AI. That is because AI has the
+    potential to diminish autonomy and thus influence democratic participation and
+    human flourishing.Technologies may automate aspects of human decision making in
+    ways that may diminish human autonomy, and where it is not always transparent
+    what basis decisions are made on, or the evidence that systems perform to an acceptable
+    level in these decisions.
+- ChallengeInstances:
   - recuFqYoT6MFNqspL
   - recwl0AdKj2HLIpDB
   - rec3wCdnHy3TpLuya
@@ -9715,7 +9695,7 @@
   - rec16WOKdMVKAiBSJ
   - recUMRucTbQ7tySEW
   - reciceYsMfOtPdaaA
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recNB5h9bK4gEE9uc
   Principles:
   - recNB5h9bK4gEE9uc
@@ -9764,46 +9744,18 @@
     This problem could be easily extended to include elder and child abuse.13 Measures
     need to be developed to prevent A/IS from contributing to the emergence or amplification
     of social disorders." (IEEE, 2019, p.141-142)'
-- Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
-    on Ethics of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J.
-    Silva Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and
-    Well-Being (Vol. 95, pp. 11–16). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2
-  Sources:
-  - recpXl48pJdKDhc6f
-  Strategies:
-  - recJyzFLE9ry4YEbb
-  title: How do we provide consistent oversight of AI to ensure they are accountable
-    to end-users for any conclusions?
+- ChallengeInstances:
+  - recxWhAXTqxMscDqr
+  title: Respect for human-human relationships, at individual and collective levels
   category: Challenges
-  name: recX6r1O4jcsp0nIM
-  tags:
-  - corporate-ethics
-  created_at: '2023-06-05T10:49:39.000Z'
-  description: '**Issue:** Oversight for algorithms## BackgroundThe algorithms behind
-    A/IS are not subject to consistent oversight. This lack of assessment causes concern
-    because end users have no account of how a certain algorithm or system came to
-    its conclusions. These recommendations are similar to those made in the “General
-    Principles” and “Embedding Values into Autonomous and Intelligent Systems” chapters
-    of _Ethically Aligned Design_, but here the recommendations are used as they apply
-    to the narrow scope of this chapter .## RecommendationsAccountability: As touched
-    on in the General Principles chapter of _Ethically Aligned Design_, algorithmic
-    transparency is an issue of concern. It is understood that specifics relating
-    to algorithms or systems contain intellectual property that cannot, or will not,
-    be released to the general public. Nonetheless, standards providing oversight
-    of the manufacturing process of A/IS technologies need to be created to avoid
-    harm and negative consequences. We can look to other technical domains, such as
-    biomedical, civil, and aerospace engineering, where commercial protections for
-    proprietary technology are routinely and effectively balanced with the need for
-    appropriate oversight standards and mechanisms to safeguard the public.Human rights
-    and algorithmic impact assessments should be explored as a meaningful way to improve
-    the accountability of A/IS.These need to be paired with public consultations,
-    and the final impactassessments must be made public.## Further Resources•F. Pasquale,
-    The Black Box Society: The Secret Algorithms That Control Money and Information.
-    Cambridge, MA: Harvard University Press, 2016.•R. Calo, “Artificial Intelligence
-    Policy: A Primer and Roadmap,” _UC Davis Law Review,_ 52: pp. 399–435, 2017.•ARTICLE
-    19. “Privacy and Freedom of Expression in the Age of Artificial Intelligence,”
-    Privacy International, April 2018. [Online]. Available: [https://www.article19.org/wpcontent/uploads/2018/04/Privacy-andFreedom-of-Expression-In-the-Age-of-ArtificialIntelligence-1.pdf.](https://www.article19.org/wp-content/uploads/2018/04/Privacy-and-Freedom-of-Expression-In-the-Age-of-Artificial-Intelligence-1.pdf)
-    [Accessed October 28, 2018].p.132-133'
+  name: recWxPEkLYUdWhd2q
+  tags: []
+  created_at: '2023-06-18T18:55:37.000Z'
+  description: '**Respect for human-human relationships, at individual and collective
+    levels** AI has the potential to impact on how we connect and talk together, and
+    the structure of societies. AI should avoid harms and promote pro-social engagement,
+    recognising that both the benefits and harms of research (and broader engagement
+    with technology) may accrue over groups.'
 - Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
     on Ethics of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J.
     Silva Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and
@@ -9958,7 +9910,7 @@
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
   - recpFE7h6QhaEpNAQ
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recOHnq45Fq7YWsRO
   - recLHILkx2JDFsLbX
@@ -10050,7 +10002,7 @@
   - recHUlZ9OQfNwD6fg
   - recJvXzs5QMTqWzUF
   - recftbldoHqhBBcrk
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recmzjcGKv3yNOxbl
   Principles:
@@ -10153,27 +10105,7 @@
     Action and to Humanoid-Robot Motion,” _Cognitive Development, _vol._ _20, no.
     2, pp. 303–320, 2005.•R.A. Calvo and D. Peters, Positive Computing: Technology
     for Wellbeing and Human Potential. Cambridge, MA: MIT Press, 2014."p.102'
-- OverarchingPrinciples (from Principles):
-  - recmzjcGKv3yNOxbl
-  Principles:
-  - rec42P8U9usfYCtv9
-  title: Risks in removal of systems and algorithmic imprints
-  category: Challenges
-  name: recgZrgA8K7MmIzdF
-  tags: []
-  created_at: '2023-05-18T18:53:45.000Z'
-  description: 'Removal of embedded tools can cause harms through: (1) failure to
-    address changes that have been made that rely on the tool; and (2) failure to
-    adequately address the ongoing impacts a tool may have on wider systems. ''Removal''
-    may mean actually taking a tool out of a context, but it could also mean no longer
-    supporting an existing tool, increasing resource needs resulting in a tool becoming
-    unaffordable (financially or otherwise), incompatabilities with new tools, etc.
-    An example of the first kind of harm is e.g. a company no longer supporting a
-    medically implanted device for vision loss patients <https://spectrum.ieee.org/bionic-eye-obsolete>An
-    example of the second kind of harm is the ongoing impacts from the UK Exam moderation
-    algorithm in 2020, which had knock-on impacts internationally even after the algorithm
-    itself was removed <https://dl.acm.org/doi/abs/10.1145/3531146.3533186> '
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   Principles:
   - recOHnq45Fq7YWsRO
@@ -10224,7 +10156,7 @@
     Omohundro “[Autonomous Technology and the Greater Human Good.](http://www.tandfonline.com/doi/abs/10.1080/0952813X.2014.895111?journalCode=teta20)”
     _Journal of Experimental and Theoretical Artificial Intelligence, vol. _26, no.
     3, pp. 303–315, 2014.'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recOHnq45Fq7YWsRO
   Principles:
@@ -10391,7 +10323,7 @@
     A\_RES\_70\_1\_E.pdf](http://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_70_1_E.pdf).•United
     Nations Global Pulse, Big Data for Development: Challenges and Opportunities,
     2012."p139-140'
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recKdujFoPJr4ZAhZ
@@ -10495,7 +10427,28 @@
     2015)_, West Lafayette, IN, October 2015.•J. Shim and R. C. Arkin, “A Taxonomy
     of Robot Deception and its Benefits in HRI.” _Proceedings of IEEE Systems, Man
     and Cybernetics Conference, _Manchester England, October 2013."p.102-103'
-- OverarchingPrinciples (from Principles):
+- ChallengeInstances:
+  - rec0d9XwyvbDuuuN6
+  title: New technologies give rise to new potential for misuse
+  category: Challenges
+  name: recuUWIu0ofVYHLKA
+  tags: []
+  created_at: '2023-06-18T18:56:46.000Z'
+  description: '**Inappropriate use **"New technologies give rise to greater risk
+    of deliberate or accidental misuse, and this is especially true for A/IS. A/IS
+    increases the impact of risks such as hacking, misuse of personal data, system
+    manipulation, or exploitation of vulnerable users by unscrupulous parties. Cases
+    of A/IS hacking have already been widely reported, with driverless cars, for example.
+    The Microsoft Tay AI chatbot was famously manipulated when it mimicked deliberately
+    offensive users. In an age where these powerful tools are easily available, there
+    is a need for a new kind of education for citizens to be sensitized to risks associated
+    with the misuse of A/IS. The EU’s General Data Protection Regulation (GDPR) provides
+    measures to remedy the misuse of personal data.Responsible innovation requires
+    A/IS creators to anticipate, reflect, and engage with users of A/IS. Thus, citizens,
+    lawyers, governments, etc., all have a role to play through education and awareness
+    in developing accountability structures (see Principle 6), in addition to guiding
+    new technology proactively toward beneficial ends." [(IEEE, 2019, p.32-33)](https://ethics-guides.netlify.app/reccfsnzpjvw0pcue)'
+- OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   Principles:
   - rec42P8U9usfYCtv9
@@ -10509,7 +10462,7 @@
   - recrVkbG0XGe2Ca0v
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   Principles:
   - recOHnq45Fq7YWsRO
@@ -10536,7 +10489,7 @@
   - recPKPxKp07OlhULb
   - recMhXPovX6fJ5ZIa
   - recdkRK64g0b4GZlP
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   Principles:
   - recOHnq45Fq7YWsRO
@@ -10807,8 +10760,9 @@
   - recJvXzs5QMTqWzUF
   - recftbldoHqhBBcrk
   - reczbN2QKYqG695ec
+  - recC8IlVKWmMHOorw
   Link: https://education.ec.europa.eu/node/2285
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recNB5h9bK4gEE9uc
   - recSqx6wklVpDzx3s
@@ -11332,6 +11286,7 @@
   - recHAwvOykeiUxFsY
   Challenges copy:
   - rec3XoC08SiG83eK0
+  - recC8IlVKWmMHOorw
   Link: https://www2.ed.gov/documents/ai-report/ai-report.pdf
   Reference: |
     Cardona, M. A., Rodríguez, R. J., & Ishmael, K. (2023). Artificial Intelligence and the Future of Teaching and Learning: Insights and Recommendations. U.S. Department of Education, Office of Educational Technology. <https://www2.ed.gov/documents/ai-report/ai-report.pdf>
@@ -11513,7 +11468,7 @@
   created_at: '2023-06-08T15:02:41.000Z'
   description: A review piece
 - Link: https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
@@ -11698,7 +11653,7 @@
   - recJvXzs5QMTqWzUF
   - recftbldoHqhBBcrk
   Link: https://doi.org/10.5281/ZENODO.3240529
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
@@ -11811,8 +11766,11 @@
   - recVGVVfuoL5sr3oo
   - recp8G9ek0g3RAnEC
   - reczbN2QKYqG695ec
+  - recC8IlVKWmMHOorw
+  - recuFqYoT6MFNqspL
+  - recHUlZ9OQfNwD6fg
   Link: https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
@@ -11860,7 +11818,6 @@
   - reczFKqCos9f1opXO
   - recJyzFLE9ry4YEbb
   - reccAKmFQRH7IiuJi
-  - recaTTvWN1olqx608
   - rec81gtnlFS5W2BBF
   title: High-level Expert Group on AI
   category: Sources
@@ -11938,7 +11895,6 @@
   - reckyVWsglP8FLeUp
   - recg7BIZZsvZ57fvV
   - recebQ2NgeBCmafoX
-  - recX6r1O4jcsp0nIM
   - rec9Cuz3HWc9lWW23
   - recj64vAVJSm5B2ba
   - recJV8yTX0MnF3rGD
@@ -11975,8 +11931,9 @@
   - recAZ41hiDOn9aTOl
   - recv7IjfbiXBr4A5q
   - recfGEm2rcOTFEZVZ
+  - recC8IlVKWmMHOorw
   Link: https://doi.org/10.1007/978-3-030-12524-0_2
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
@@ -13329,6 +13286,12 @@
   tags: []
   created_at: '2023-06-08T15:13:19.000Z'
 - Challenges:
+  - recuUWIu0ofVYHLKA
+  category: ChallengeInstances
+  name: rec0d9XwyvbDuuuN6
+  tags: []
+  created_at: '2023-06-18T18:57:06.000Z'
+- Challenges:
   - recWPbL5kB1Yh5OPf
   OverarchingPrinciples:
   - recNB5h9bK4gEE9uc
@@ -13375,6 +13338,33 @@
     some Danish municipalities.5Commercial profiling and correlation of different
     sets of personal data may further affect these children in future job or educational
     situations."p.114-115'
+- Challenges:
+  - recSONq7KetYgyg6K
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Principles:
+  - recmzjcGKv3yNOxbl
+  title: While introducing technologies has impacts, so too does removing them through
+    algorithmic imprints and technology aftereffects
+  category: ChallengeInstances
+  name: rec1UyKLba4O7X6ax
+  tags:
+  - AI
+  created_at: '2023-06-18T18:24:51.000Z'
+  description: 'Removal of embedded tools can cause harms through: (1) failure to
+    address changes that have been made that rely on the tool; and (2) failure to
+    adequately address the ongoing impacts a tool may have on wider systems.''Removal''
+    may mean actually taking a tool out of a context, but it could also mean no longer
+    supporting an existing tool, increasing resource needs resulting in a tool becoming
+    unaffordable (financially or otherwise), incompatabilities with new tools, etc.An
+    example of the first kind of harm is e.g. a company no longer supporting a medically
+    implanted device for vision loss patients <https://spectrum.ieee.org/bionic-eye-obsolete>An
+    example of the second kind of harm is the ongoing impacts from the UK Exam moderation
+    algorithm in 2020, which had knock-on impacts internationally even after the algorithm
+    itself was removed <https://dl.acm.org/doi/abs/10.1145/3531146.3533186>Some of
+    these concerns, and possible approaches to them, are discussed in this (open access)
+    article: Gold, N. E., Lawson, I., & Oxtoby, N. P. (2023). Afterlife: the post-research
+    affect and effect of software. Research Ethics, 0(0). <https://doi.org/10.1177/17470161231178450> '
 - Challenges:
   - recBc3GCNokDL220T
   OverarchingPrinciples:
@@ -13872,6 +13862,52 @@
     with those students (e.g., a third party), and** **how they will be contacted
     (Article 5.6).All drawn from Fedoruk (2017)'
 - Challenges:
+  - recSONq7KetYgyg6K
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recLHILkx2JDFsLbX
+  Reference:
+  - High-Level Expert Group on AI. (2019). Ethics guidelines for trustworthy AI |
+    Shaping Europe’s digital future. FUTURIUM - European Commission. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
+  - IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics
+    of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva Sequeira,
+    G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being (Vol.
+    95, pp. 11–16). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2
+  - 'Cardona, M. A., Rodríguez, R. J., & Ishmael, K. (2023). Artificial Intelligence
+    and the Future of Teaching and Learning: Insights and Recommendations. U.S. Department
+    of Education, Office of Educational Technology. https://www2.ed.gov/documents/ai-report/ai-report.pdf'
+  - European Commission. (2022). Ethical guidelines on the use of artificial intelligence
+    and data in teaching and learning for educators | European Education Area. European
+    Commission. https://education.ec.europa.eu/node/2285
+  Sources:
+  - recnCULdYQ36cpZR7
+  - recpXl48pJdKDhc6f
+  - recY4zreDoWrsbsv7
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - recX4wcNFSw9YljDD
+  - recegTm800wJXGjO1
+  - recgn2UvSD4OhzGI4
+  - recWm6C6wOuVr6UCX
+  - recJyzFLE9ry4YEbb
+  - recrBZOfrDC2lKpRM
+  title: How do we provide consistent oversight of AI to ensure they are accountable
+    to end-users for any conclusions?
+  category: ChallengeInstances
+  name: recC8IlVKWmMHOorw
+  tags:
+  - AI
+  - corporate-ethics
+  created_at: '2023-06-18T18:08:16.000Z'
+  description: '**Issue:** Oversight for algorithms## BackgroundThe algorithms behind
+    A/IS are not subject to consistent oversight. This lack of assessment causes concern
+    because end users have no account of how a certain algorithm or system came to
+    its conclusions. These recommendations are similar to those made in the “General
+    Principles” and “Embedding Values into Autonomous and Intelligent Systems” chapters
+    of _Ethically Aligned Design_, but here the recommendations are used as they apply
+    to the narrow scope of this chapter .p.132-133'
+- Challenges:
   - recBc3GCNokDL220T
   OverarchingPrinciples:
   - recLHILkx2JDFsLbX
@@ -13954,12 +13990,17 @@
   - European Commission. (2022). Ethical guidelines on the use of artificial intelligence
     and data in teaching and learning for educators | European Education Area. European
     Commission. https://education.ec.europa.eu/node/2285
+  - High-Level Expert Group on AI. (2019). Ethics guidelines for trustworthy AI |
+    Shaping Europe’s digital future. FUTURIUM - European Commission. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
   Sources:
   - recfYC5jjPmpLfSlM
   - rec9jnxuHOioQn4DC
+  - recnCULdYQ36cpZR7
   Strategies:
   - recAhcg8OdusJvk43
   - rec35PeHdUmtalypk
+  - recspvYTySr0ANH6j
+  - recZPU5yTmrjPXlF2
   title: Implementation fairness and bias in system use, where undue dis/trust is
     placed in automated systems including in ways that are inequitable, or/and that
     deskill professionals
@@ -14683,6 +14724,7 @@
   - recOo7Pmo4FBYcu7P
   - reciw4r1bRvx6A6Fq
   - rec7m69DQyCw3rlFg
+  - recypFGFqJzmgFmWV
   title: Gathering personal digital data requires consideration of its management,
     potential for reidentification, and issues around (dis)aggregation
   category: ChallengeInstances
@@ -15666,13 +15708,17 @@
   - European Commission. (2022). Ethical guidelines on the use of artificial intelligence
     and data in teaching and learning for educators | European Education Area. European
     Commission. https://education.ec.europa.eu/node/2285
+  - High-Level Expert Group on AI. (2019). Ethics guidelines for trustworthy AI |
+    Shaping Europe’s digital future. FUTURIUM - European Commission. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
   Sources:
   - recpXl48pJdKDhc6f
   - rec9jnxuHOioQn4DC
+  - recnCULdYQ36cpZR7
   Strategies:
   - rec7daqDHSCuc70yS
   - recZI7HDWKBU5T22v
   - rec8dLtyDCwvjMWge
+  - recffbHgJO0d179DG
   title: 'AI gives rise to potential harms derived from indirect, long-range, and
     dual-use '
   category: ChallengeInstances
@@ -15788,6 +15834,12 @@
     and the structure of societies. AI should avoid harms and promote pro-social engagement,
     recognising that both the benefits and harms of research (and broader engagement
     with technology) may accrue over groups.
+- Challenges:
+  - recWxPEkLYUdWhd2q
+  category: ChallengeInstances
+  name: recxWhAXTqxMscDqr
+  tags: []
+  created_at: '2023-06-18T18:38:48.000Z'
 - Challenges:
   - recJ6khG2kY2Tx5ae
   OverarchingPrinciples:

@@ -1,4 +1,8 @@
 - Challenges:
+  - recuUWIu0ofVYHLKA
+  airtable_createdTime: '2023-06-18T18:57:06.000Z'
+  airtable_id: rec0d9XwyvbDuuuN6
+- Challenges:
   - recWPbL5kB1Yh5OPf
   Description: "There is a paradox that personalisation may result in standardisation\
     \ and routinisation, alongside potential for labelling derived from learning data\
@@ -46,6 +50,33 @@
   airtable_id: rec16WOKdMVKAiBSJ
   title: Data that can be used to support learning may also be used for social profiling
     of learners
+- Challenges:
+  - recSONq7KetYgyg6K
+  Description: "Removal of embedded tools can cause harms through: (1) failure to\
+    \ address changes that have been made that rely on the tool; and (2) failure to\
+    \ adequately address the ongoing impacts a tool may have on wider systems.\n\n\
+    'Removal' may mean actually taking a tool out of a context, but it could also\
+    \ mean no longer supporting an existing tool, increasing resource needs resulting\
+    \ in a tool becoming unaffordable (financially or otherwise), incompatabilities\
+    \ with new tools, etc.\n\nAn example of the first kind of harm is e.g. a company\
+    \ no longer supporting a medically implanted device for vision loss patients <https://spectrum.ieee.org/bionic-eye-obsolete>\n\
+    \nAn example of the second kind of harm is the ongoing impacts from the UK Exam\
+    \ moderation algorithm in 2020, which had knock-on impacts internationally even\
+    \ after the algorithm itself was removed <https://dl.acm.org/doi/abs/10.1145/3531146.3533186>\n\
+    \nSome of these concerns, and possible approaches to them, are discussed in this\
+    \ (open access) article: Gold, N. E., Lawson, I., & Oxtoby, N. P. (2023). Afterlife:\
+    \ the post-research affect and effect of software. Research Ethics, 0(0). <https://doi.org/10.1177/17470161231178450>\
+    \ \n"
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Principles:
+  - recmzjcGKv3yNOxbl
+  Tags:
+  - AI
+  airtable_createdTime: '2023-06-18T18:24:51.000Z'
+  airtable_id: rec1UyKLba4O7X6ax
+  title: While introducing technologies has impacts, so too does removing them through
+    algorithmic imprints and technology aftereffects
 - Challenges:
   - recBc3GCNokDL220T
   Description: "\"**Issue: **How can we increase agency by providing individuals access\
@@ -558,6 +589,52 @@
   title: Research involving learning may seek to draw on secondary analysis of learner
     data
 - Challenges:
+  - recSONq7KetYgyg6K
+  Description: "**Issue:** Oversight for algorithms\n## Background\nThe algorithms\
+    \ behind A/IS are not subject to consistent oversight. This lack of assessment\
+    \ causes concern because end users have no account of how a certain algorithm\
+    \ or system came to its conclusions. These recommendations are similar to those\
+    \ made in the \u201CGeneral Principles\u201D and \u201CEmbedding Values into Autonomous\
+    \ and Intelligent Systems\u201D chapters of _Ethically Aligned Design_, but here\
+    \ the recommendations are used as they apply to the narrow scope of this chapter\
+    \ .\np.132-133\n"
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recLHILkx2JDFsLbX
+  Reference:
+  - "High-Level Expert Group on AI. (2019). Ethics guidelines for trustworthy AI |\
+    \ Shaping Europe\u2019s digital future. FUTURIUM - European Commission. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai"
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  - "Cardona, M. A., Rodr\xEDguez, R. J., & Ishmael, K. (2023). Artificial Intelligence\
+    \ and the Future of Teaching and Learning: Insights and Recommendations. U.S.\
+    \ Department of Education, Office of Educational Technology. https://www2.ed.gov/documents/ai-report/ai-report.pdf"
+  - European Commission. (2022). Ethical guidelines on the use of artificial intelligence
+    and data in teaching and learning for educators | European Education Area. European
+    Commission. https://education.ec.europa.eu/node/2285
+  Sources:
+  - recnCULdYQ36cpZR7
+  - recpXl48pJdKDhc6f
+  - recY4zreDoWrsbsv7
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - recX4wcNFSw9YljDD
+  - recegTm800wJXGjO1
+  - recgn2UvSD4OhzGI4
+  - recWm6C6wOuVr6UCX
+  - recJyzFLE9ry4YEbb
+  - recrBZOfrDC2lKpRM
+  Tags:
+  - AI
+  - corporate-ethics
+  airtable_createdTime: '2023-06-18T18:08:16.000Z'
+  airtable_id: recC8IlVKWmMHOorw
+  title: How do we provide consistent oversight of AI to ensure they are accountable
+    to end-users for any conclusions?
+- Challenges:
   - recBc3GCNokDL220T
   Description: "It is not always clear what data about is being used, how it is being\
     \ used, by whom, and to what end. \n\n\"Issue: What would it mean for a person\
@@ -705,12 +782,17 @@
   - European Commission. (2022). Ethical guidelines on the use of artificial intelligence
     and data in teaching and learning for educators | European Education Area. European
     Commission. https://education.ec.europa.eu/node/2285
+  - "High-Level Expert Group on AI. (2019). Ethics guidelines for trustworthy AI |\
+    \ Shaping Europe\u2019s digital future. FUTURIUM - European Commission. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai"
   Sources:
   - recfYC5jjPmpLfSlM
   - rec9jnxuHOioQn4DC
+  - recnCULdYQ36cpZR7
   Strategies:
   - recAhcg8OdusJvk43
   - rec35PeHdUmtalypk
+  - recspvYTySr0ANH6j
+  - recZPU5yTmrjPXlF2
   Tags:
   - AI
   airtable_createdTime: '2023-06-18T15:25:06.000Z'
@@ -1387,6 +1469,7 @@
   - recOo7Pmo4FBYcu7P
   - reciw4r1bRvx6A6Fq
   - rec7m69DQyCw3rlFg
+  - recypFGFqJzmgFmWV
   Tags:
   - AI
   - education
@@ -2442,13 +2525,17 @@
   - European Commission. (2022). Ethical guidelines on the use of artificial intelligence
     and data in teaching and learning for educators | European Education Area. European
     Commission. https://education.ec.europa.eu/node/2285
+  - "High-Level Expert Group on AI. (2019). Ethics guidelines for trustworthy AI |\
+    \ Shaping Europe\u2019s digital future. FUTURIUM - European Commission. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai"
   Sources:
   - recpXl48pJdKDhc6f
   - rec9jnxuHOioQn4DC
+  - recnCULdYQ36cpZR7
   Strategies:
   - rec7daqDHSCuc70yS
   - recZI7HDWKBU5T22v
   - rec8dLtyDCwvjMWge
+  - recffbHgJO0d179DG
   Tags:
   - AI
   airtable_createdTime: '2023-06-16T09:54:40.000Z'
@@ -2511,6 +2598,10 @@
   airtable_createdTime: '2023-06-16T11:33:11.000Z'
   airtable_id: recwl0AdKj2HLIpDB
   title: Respect for human-human relationships, at individual and collective levels
+- Challenges:
+  - recWxPEkLYUdWhd2q
+  airtable_createdTime: '2023-06-18T18:38:48.000Z'
+  airtable_id: recxWhAXTqxMscDqr
 - Challenges:
   - recJ6khG2kY2Tx5ae
   Description: "In the content of research there are often challenges in disaggregating\

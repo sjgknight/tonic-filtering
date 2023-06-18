@@ -295,6 +295,7 @@
   - recsonQhKLmX4D1ao
   Tags:
   - research
+  - AI
   airtable_createdTime: '2023-06-18T14:17:02.000Z'
   airtable_id: rec3T1WLC4dg63qyI
   title: Effective use of AI inherently involves multiple stakeholder and disciplinary
@@ -305,7 +306,7 @@
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
   - recpFE7h6QhaEpNAQ
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recLHILkx2JDFsLbX
@@ -408,7 +409,7 @@
     \ York: UN Sustainable Development Solutions Network, pp. 54-79, 2013.\n\u2022\
     \_\_\_\_\_[Global Happiness and Well-being Policy Report](http://www.happinesscouncil.org/)\
     \ by the Global Happiness Council, 2018.\"\n\np.78-79\n"
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recLHILkx2JDFsLbX
   Principles:
@@ -460,7 +461,7 @@
     \ development. This sort of privacy invasion can consequently harm a person\u2019\
     s more basic right to pursue their goals and life plans free from unchosen influence.\u201D\
     \ (Leslie, 2019, p. 5) \n"
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recPg7Ov0priGGtLm
@@ -476,7 +477,7 @@
   airtable_createdTime: '2023-05-18T19:10:38.000Z'
   airtable_id: recBc3GCNokDL220T
   title: 'Privacy, confidentiality, data integrity and cultural norms '
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   - recmzjcGKv3yNOxbl
@@ -568,7 +569,7 @@
     \ make a positive impact to sustainable development, 2017.\n\u2022\_\_\_\_\_D.K.\
     \ Ura, Bhutan\u2019s [Gross National Happiness Policy Screening Tool](http://www.grossnationalhappiness.com/docs/GNH/PDFs/PoliSTools.pdf).\n\
     \"\np.79-81\n"
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recLHILkx2JDFsLbX
   Principles:
@@ -609,7 +610,7 @@
     \ of being located at the site of implementation. Complex power dynamics should\
     \ be considered between researchers (who may fulfil dual roles), and other stakeholders\
     \ such as teachers, students, administrators, and technology providers.\n"
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   Principles:
@@ -735,7 +736,7 @@
     \ Conversely, how many known criminals would get away? Even relatively narrow\
     \ error rates in cases such as these can have severe consequences.\u201D (Access\
     \ Now, 2018, p. 13)\n"
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   Principles:
   - recOHnq45Fq7YWsRO
@@ -747,6 +748,20 @@
   airtable_createdTime: '2023-05-29T07:17:18.000Z'
   airtable_id: recJjTMjpfE0WHSWu
   title: Accuracy paradox and the risks of false positives
+- ChallengeInstances:
+  - recC8IlVKWmMHOorw
+  - rec1UyKLba4O7X6ax
+  Description: "Through the inception, design, development, implementation, evaluation,\
+    \ and decommissioning human control of technology is central to considerations\
+    \ of autonomy, accountability, and human oversight of AI. That is because AI has\
+    \ the potential to diminish autonomy and thus influence democratic participation\
+    \ and human flourishing.\_\nTechnologies may automate aspects of human decision\
+    \ making in ways that may diminish human autonomy, and where it is not always\
+    \ transparent what basis decisions are made on, or the evidence that systems perform\
+    \ to an acceptable level in these decisions.\n"
+  airtable_createdTime: '2023-06-18T18:10:44.000Z'
+  airtable_id: recSONq7KetYgyg6K
+  title: Human control of technology and accountability for technology use
 - ChallengeInstances:
   - recuFqYoT6MFNqspL
   - recwl0AdKj2HLIpDB
@@ -783,7 +798,7 @@
     \ harassing a partner. This problem could be easily extended to include elder\
     \ and child abuse.13 Measures need to be developed to prevent A/IS from contributing\
     \ to the emergence or amplification of social disorders.\" (IEEE, 2019, p.141-142)\n"
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recNB5h9bK4gEE9uc
   Principles:
   - recNB5h9bK4gEE9uc
@@ -806,48 +821,13 @@
   airtable_id: recWPbL5kB1Yh5OPf
   title: Research produces both direct impact, on participants and then society, while
     also giving rise to indirect, long-range, and dual-use impacts
-- Description: "**Issue:** Oversight for algorithms\n## Background\nThe algorithms\
-    \ behind A/IS are not subject to consistent oversight. This lack of assessment\
-    \ causes concern because end users have no account of how a certain algorithm\
-    \ or system came to its conclusions. These recommendations are similar to those\
-    \ made in the \u201CGeneral Principles\u201D and \u201CEmbedding Values into Autonomous\
-    \ and Intelligent Systems\u201D chapters of _Ethically Aligned Design_, but here\
-    \ the recommendations are used as they apply to the narrow scope of this chapter\
-    \ .\n## Recommendations\nAccountability: As touched on in the General Principles\
-    \ chapter of _Ethically Aligned Design_, algorithmic transparency is an issue\
-    \ of concern. It is understood that specifics relating to algorithms or systems\
-    \ contain intellectual property that cannot, or will not, be released to the general\
-    \ public. Nonetheless, standards providing oversight of the manufacturing process\
-    \ of A/IS technologies need to be created to avoid harm and negative consequences.\
-    \ We can look to other technical domains, such as biomedical, civil, and aerospace\
-    \ engineering, where commercial protections for proprietary technology are routinely\
-    \ and effectively balanced with the need for appropriate oversight standards and\
-    \ mechanisms to safeguard the public.Human rights and algorithmic impact assessments\
-    \ should be explored as a meaningful way to improve the accountability of A/IS.\_\
-    These need to be paired with public consultations, and the final impact\_assessments\
-    \ must be made public.\n## Further Resources\n\u2022\_\_\_\_\_F. Pasquale, The\
-    \ Black Box Society: The Secret Algorithms That Control Money and Information.\
-    \ Cambridge, MA: Harvard University Press, 2016.\n\u2022\_\_\_\_\_R. Calo, \u201C\
-    Artificial Intelligence Policy: A Primer and Roadmap,\u201D _UC Davis Law Review,_\
-    \ 52: pp. 399\u2013435, 2017.\n\u2022\_\_\_\_\_ARTICLE 19. \u201CPrivacy and Freedom\
-    \ of Expression in the Age of Artificial Intelligence,\u201D Privacy International,\
-    \ April 2018. [Online]. Available: [https://www.article19.org/wpcontent/uploads/2018/04/Privacy-andFreedom-of-Expression-In-the-Age-of-ArtificialIntelligence-1.pdf.](https://www.article19.org/wp-content/uploads/2018/04/Privacy-and-Freedom-of-Expression-In-the-Age-of-Artificial-Intelligence-1.pdf)\
-    \ [Accessed October 28, 2018].\n\np.132-133\n"
-  Reference:
-  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
-    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
-    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
-    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
-  Sources:
-  - recpXl48pJdKDhc6f
-  Strategies:
-  - recJyzFLE9ry4YEbb
-  Tags:
-  - corporate-ethics
-  airtable_createdTime: '2023-06-05T10:49:39.000Z'
-  airtable_id: recX6r1O4jcsp0nIM
-  title: How do we provide consistent oversight of AI to ensure they are accountable
-    to end-users for any conclusions?
+- ChallengeInstances:
+  - recxWhAXTqxMscDqr
+  Description: |
+    **Respect for human-human relationships, at individual and collective levels** AI has the potential to impact on how we connect and talk together, and the structure of societies. AI should avoid harms and promote pro-social engagement, recognising that both the benefits and harms of research (and broader engagement with technology) may accrue over groups.
+  airtable_createdTime: '2023-06-18T18:55:37.000Z'
+  airtable_id: recWxPEkLYUdWhd2q
+  title: Respect for human-human relationships, at individual and collective levels
 - Description: "\"**Issue: **A/IS are changing the nature of work, disrupting employment,\
     \ while technological change is happening too fast for existing methods of (re)training\
     \ the workforce.\n## Background\nThe current pace of technological development\
@@ -1021,7 +1001,7 @@
     \ applications, where the processed data could harbour traces of discrimination,\
     \ bias, inequity, or unfairness, the opaqueness of the model may be deeply problematic.\u201D\
     \ (Leslie, 2019, p. 4-5)\n"
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recOHnq45Fq7YWsRO
   - recLHILkx2JDFsLbX
@@ -1158,7 +1138,7 @@
     \ Such tasks would assess, for example, whether the A/IS apply norms in discriminatory\
     \ ways to different races, ethnicities, genders, ages, body shapes, or to people\
     \ who use wheelchairs\_or prosthetics, and so on.\"\np.184, IEEE, 2019\n"
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recmzjcGKv3yNOxbl
   Principles:
@@ -1213,26 +1193,7 @@
   airtable_createdTime: '2023-06-05T06:51:31.000Z'
   airtable_id: recg7BIZZsvZ57fvV
   title: Will AI adversely affect human psychological and emotional wellbeing?
-- Description: "Removal of embedded tools can cause harms through: (1) failure to\
-    \ address changes that have been made that rely on the tool; and (2) failure to\
-    \ adequately address the ongoing impacts a tool may have on wider systems. \n\n\
-    'Removal' may mean actually taking a tool out of a context, but it could also\
-    \ mean no longer supporting an existing tool, increasing resource needs resulting\
-    \ in a tool becoming unaffordable (financially or otherwise), incompatabilities\
-    \ with new tools, etc. \n\nAn example of the first kind of harm is e.g. a company\
-    \ no longer supporting a medically implanted device for vision loss patients <https://spectrum.ieee.org/bionic-eye-obsolete>\n\
-    \nAn example of the second kind of harm is the ongoing impacts from the UK Exam\
-    \ moderation algorithm in 2020, which had knock-on impacts internationally even\
-    \ after the algorithm itself was removed <https://dl.acm.org/doi/abs/10.1145/3531146.3533186>\
-    \ \n\n"
-  OverarchingPrinciples (from Principles):
-  - recmzjcGKv3yNOxbl
-  Principles:
-  - rec42P8U9usfYCtv9
-  airtable_createdTime: '2023-05-18T18:53:45.000Z'
-  airtable_id: recgZrgA8K7MmIzdF
-  title: Risks in removal of systems and algorithmic imprints
-- OverarchingPrinciples (from Principles):
+- OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   Principles:
   - recOHnq45Fq7YWsRO
@@ -1330,7 +1291,7 @@
     The [Oxford Human Rights Hub ](http://ohrh.law.ox.ac.uk/why-artificial-intelligence-is-already-a-human-rights-issue/)reports\
     \ on how and why technologies surrounding artificial intelligence raise human\
     \ rights issues\"\np.76-77\n"
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recOHnq45Fq7YWsRO
   Principles:
@@ -1470,7 +1431,7 @@
     \ and cohesive societies are built on relations of trust, empathy, and mutual\
     \ understanding. As AI technologies become more prevalent, it is important that\
     \ these relations be preserved.\u201D (Leslie, 2019, p. 5)\n"
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recKdujFoPJr4ZAhZ
@@ -1571,7 +1532,27 @@
   airtable_createdTime: '2023-06-05T06:13:17.000Z'
   airtable_id: recrVvneRZaEutaGw
   title: Should affective AI systems ever deceive?
-- OverarchingPrinciples (from Principles):
+- ChallengeInstances:
+  - rec0d9XwyvbDuuuN6
+  Description: "**Inappropriate use **\"New technologies give rise to greater risk\
+    \ of deliberate or accidental misuse, and this is especially true for A/IS. A/IS\
+    \ increases the impact of risks such as hacking, misuse of personal data, system\
+    \ manipulation, or exploitation of vulnerable users by unscrupulous parties. Cases\
+    \ of A/IS hacking have already been widely reported, with driverless cars, for\
+    \ example. The Microsoft Tay AI chatbot was famously manipulated when it mimicked\
+    \ deliberately offensive users. In an age where these powerful tools are easily\
+    \ available, there is a need for a new kind of education for citizens to be sensitized\
+    \ to risks associated with the misuse of A/IS. The EU\u2019s General Data Protection\
+    \ Regulation (GDPR) provides measures to remedy the misuse of personal data.Responsible\
+    \ innovation requires A/IS creators to anticipate, reflect, and engage with users\
+    \ of A/IS. Thus, citizens, lawyers, governments, etc., all have a role to play\
+    \ through education and awareness in developing accountability structures (see\
+    \ Principle 6), in addition to guiding new technology proactively toward beneficial\
+    \ ends.\" [(IEEE, 2019, p.32-33)](https://ethics-guides.netlify.app/reccfsnzpjvw0pcue)\n"
+  airtable_createdTime: '2023-06-18T18:56:46.000Z'
+  airtable_id: recuUWIu0ofVYHLKA
+  title: New technologies give rise to new potential for misuse
+- OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   Principles:
   - rec42P8U9usfYCtv9
@@ -1592,7 +1573,7 @@
     \ and they can create harmful inefficiencies by virtue of the dedication of limited\
     \ public resources to inefficient or even detrimental AI technologies.\u201D (Leslie,\
     \ 2019, p. 5)\n"
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   Principles:
   - recOHnq45Fq7YWsRO
@@ -1612,7 +1593,7 @@
   - recdkRK64g0b4GZlP
   Description: |
     While significant AI work is derived from publicly funded research, commercial actors have significant interests and this may impact relationships between funders-technology providers-researchers-public with blured lines between these groups, and complex power dynamics
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   Principles:
   - recOHnq45Fq7YWsRO

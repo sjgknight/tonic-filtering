@@ -255,6 +255,7 @@
   - recJvXzs5QMTqWzUF
   - recftbldoHqhBBcrk
   - reczbN2QKYqG695ec
+  - recC8IlVKWmMHOorw
   Description: "\u201CThese Guidelines are to be used in schools across Europe and\
     \ we shall actively promote them through the Erasmus+ programme. Collectively\
     \ or individually, teachers and school leaders will now have a solid basis to\
@@ -281,7 +282,7 @@
     \ point. It is now up to all of us to promote them and put them into practice.\
     \ I am counting on you.\u201D (European Commission, 2022, p. 7)\n"
   Link: https://education.ec.europa.eu/node/2285
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recNB5h9bK4gEE9uc
   - recSqx6wklVpDzx3s
@@ -793,6 +794,7 @@
   - recHAwvOykeiUxFsY
   Challenges copy:
   - rec3XoC08SiG83eK0
+  - recC8IlVKWmMHOorw
   Description: "\u201CWe will consider \u201Ceducational technology\u201D (edtech)\
     \ to include both (a) technologies specifically designed for educational use,\
     \ as well as (b) general technologies that are widely used in educational settings.\u201D\
@@ -1046,7 +1048,7 @@
     \ of wide consultation with Australian communities who participate in, design,\
     \ conduct, fund, manage and publish human research.\" (Preamble)\n"
   Link: https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
@@ -1172,7 +1174,7 @@
     "The Public Policy Programme at The Alan Turing Institute was set up in May 2018 with the aim of developing research, tools, and techniques that help governments innovate with data-intensive technologies and improve the quality of people's lives. We work alongside policy makers to explore how data science and artificial intelligence can inform public policy and improve the provision of public services. We believe that governments can reap the benefits of these technologies only if they make considerations of ethics and safety a first priority. This document provides end-to-end guidance on how to apply principles of AI ethics and safety to the design and implementation of algorithmic systems in the public sector. We will shortly release a workbook to bring the recommendations made in this guide to life. The workbook will contain case studies highlighting how the guidance contained here can be applied to concrete AI projects. It will also contain exercises and practical tools to help strengthen the process-based governance of your AI project. Please note, that this guide is a living document that will evolve and improve with input from users, affected stakeholders, and interested parties. We need your participation."
     p.3
   Link: https://doi.org/10.5281/ZENODO.3240529
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
@@ -1268,6 +1270,9 @@
   - recVGVVfuoL5sr3oo
   - recp8G9ek0g3RAnEC
   - reczbN2QKYqG695ec
+  - recC8IlVKWmMHOorw
+  - recuFqYoT6MFNqspL
+  - recHUlZ9OQfNwD6fg
   Description: "\u201CThese guidelines are addressed to all AI stakeholders designing,\
     \ developing, deploying, implementing, using or being affected by AI, including\
     \ but not limited to companies, organisations, researchers, public services, government\
@@ -1291,7 +1296,7 @@
     \ document, should be explored.\u201D (High-Level Expert Group on AI, 2019, p.\
     \ 6)\n"
   Link: https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
@@ -1340,7 +1345,6 @@
   - reczFKqCos9f1opXO
   - recJyzFLE9ry4YEbb
   - reccAKmFQRH7IiuJi
-  - recaTTvWN1olqx608
   - rec81gtnlFS5W2BBF
   Tags:
   - AI
@@ -1397,7 +1401,6 @@
   - reckyVWsglP8FLeUp
   - recg7BIZZsvZ57fvV
   - recebQ2NgeBCmafoX
-  - recX6r1O4jcsp0nIM
   - rec9Cuz3HWc9lWW23
   - recj64vAVJSm5B2ba
   - recJV8yTX0MnF3rGD
@@ -1434,6 +1437,7 @@
   - recAZ41hiDOn9aTOl
   - recv7IjfbiXBr4A5q
   - recfGEm2rcOTFEZVZ
+  - recC8IlVKWmMHOorw
   Description: "\"Autonomous and intelligent technical systems are specifically designed\
     \ to reduce the necessity for human intervention in our day-to-day lives. In so\
     \ doing, these new systems are also raising concerns about their impact on individuals\
@@ -1447,7 +1451,7 @@
     \ are aligned with society\u2019s defined values and ethical principles.\" p.7\n\
     \n"
   Link: https://doi.org/10.1007/978-3-030-12524-0_2
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
