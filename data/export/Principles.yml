@@ -1,9 +1,11 @@
 - Challenges:
   - recCpTJXuuowqsqQa
-  - recHHr97jsyNDnlsJ
   - recgZrgA8K7MmIzdF
   - recefglLZ3oJWw2SZ
   - recv6cN7XSt5GW32Y
+  Challenges copy:
+  - recVGVVfuoL5sr3oo
+  - recJvXzs5QMTqWzUF
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -144,6 +146,9 @@
   - recU6u0AZbcNj1ik9
   title: Safeguard their autonomy, their power to express themselves, and their right
     to be heard
+- airtable_createdTime: '2023-06-16T17:54:38.000Z'
+  airtable_id: rec7AHCZzsD1BonBx
+  title: AI
 - Description: "\u201C\u2022 Design and deploy AI systems to foster and to cultivate\
     \ the welfare of all stakeholders whose interests are affected by their use \u2022\
     \ Do no harm with these technologies and minimise the risks of their misuse or\
@@ -355,9 +360,7 @@
   - rec9uueW1gq31CcBo
   - recuQpwelm0FwdAib
   title: Data agency
-- Challenges:
-  - recHHr97jsyNDnlsJ
-  OverarchingFocus:
+- OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
   - recSqx6wklVpDzx3s
@@ -461,10 +464,7 @@
   equivalentTo:
   - recLHILkx2JDFsLbX
   title: RESPECT the dignity of individual persons
-- Challenges:
-  - recHHr97jsyNDnlsJ
-  - recL5M2Hye2XHK7zg
-  Description: "\u201CThe development, deployment and use of AI systems must be fair.\
+- Description: "\u201CThe development, deployment and use of AI systems must be fair.\
     \ While we acknowledge that there are many different interpretations of fairness,\
     \ we believe that fairness has both a substantive and a procedural dimension.\
     \ The substantive dimension implies a commitment to: ensuring equal and just distribution\
@@ -492,7 +492,11 @@
   equivalentTo:
   - recSqx6wklVpDzx3s
   title: Fairness
-- Description: "**Creators shall specify and operators shall adhere to the knowledge\
+- Challenges copy:
+  - recpoXmwIiqv3BMWJ
+  - recT8ABqanoxK9Qu0
+  - recRU6VBHZccmYrln
+  Description: "**Creators shall specify and operators shall adhere to the knowledge\
     \ and skill required for **\_**safe and effective operation.**\n## Background\n\
     A/IS can and often do make decisions that previously required human knowledge,\
     \ expertise, and reason. Algorithms potentially can make even better decisions,\
@@ -561,12 +565,14 @@
   title: Competence
 - Challenges:
   - recdmBNNa98cN8Sda
-  - recGEFZ3EynXjRaa9
-  - rec8hxSSEudaplJiA
   - reckPjhcWwLgjX9p5
-  - recCkVZngvMA5I5uv
-  - reczg5MObRbgzTeob
   - recJ6khG2kY2Tx5ae
+  Challenges copy:
+  - recX9rdsAGiONXTVd
+  - recBfwOfoB68ghQAV
+  - recz5LeVOgbgic8Jk
+  - recp8G9ek0g3RAnEC
+  - recHUlZ9OQfNwD6fg
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -588,6 +594,7 @@
   - recX4wcNFSw9YljDD
   - recWm6C6wOuVr6UCX
   - recrBZOfrDC2lKpRM
+  - rec6q7u9fWKUtP6mx
   airtable_createdTime: '2023-05-18T13:40:06.000Z'
   airtable_id: recKdujFoPJr4ZAhZ
   childOf:
@@ -648,11 +655,9 @@
   - recRbUmCzD09d6KZS
   - recSwTdeEk6XbEgXU
   title: Respect for persons
-- Challenges:
-  - recL5M2Hye2XHK7zg
-  - recENQXCSOQQ3Y8et
-  - recOeanQuUyB6Dx8g
-  - reczg5MObRbgzTeob
+- Challenges copy:
+  - recI3S7M3KOMg2C4m
+  - recftbldoHqhBBcrk
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -693,9 +698,15 @@
   - rech9r2f3QX8ZvmkP
   - recvQ90DajNCwPiGP
   - recJjTMjpfE0WHSWu
+  - recwuiKe3bhSLw4xv
   Challenges copy:
   - rec3wCdnHy3TpLuya
   - recUMRucTbQ7tySEW
+  - recQtuMpX4WaAoHhG
+  - recI3S7M3KOMg2C4m
+  - recdkRK64g0b4GZlP
+  - recfGEm2rcOTFEZVZ
+  - recAZ41hiDOn9aTOl
   Description: |
     "Unless proposed research has merit, and the researchers who are to carry out the research have integrity, the involvement of human participants in the research cannot be ethically justifiable." (NS, preamble)
     "1.1 Research that has merit is:
@@ -752,10 +763,12 @@
   airtable_id: recOHnq45Fq7YWsRO
   title: Merit and Integrity
 - Challenges:
-  - recO1L6GoFMkA6Lt4
-  - recAoyMGCCLhaSqEb
   - recBc3GCNokDL220T
   - recJ6khG2kY2Tx5ae
+  Challenges copy:
+  - recHHvfADKIkX9idP
+  - rec284Ax8lKHt4ljQ
+  - recfjoQZIVhT0C5pW
   Description: |
     "respect the privacy, confidentiality and cultural sensitivities of the participants and, where relevant, of their communities."
   OverarchingFocus:
@@ -784,7 +797,9 @@
   - reciNc7OeTUmnsLqg
   - recA7Kh502s4UKWGo
   - recGRpoF7DA23ODSj
-  - rec5nbWC0ZbVwnmxJ
+  Challenges copy:
+  - recftbldoHqhBBcrk
+  - reczbN2QKYqG695ec
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -877,9 +892,7 @@
   equivalentTo:
   - recLHILkx2JDFsLbX
   title: Respect for human dignity
-- Challenges:
-  - recHHr97jsyNDnlsJ
-  Description: "\u201CEquality, non-discrimination and solidarity - including the\
+- Description: "\u201CEquality, non-discrimination and solidarity - including the\
     \ rights of persons at risk of exclusion. Equal respect for the moral worth and\
     \ dignity of all human beings must be ensured. This goes beyond non-discrimination,\
     \ which tolerates the drawing of distinctions between dissimilar situations based\
@@ -905,13 +918,14 @@
   - reczVPIH1y2OMpAJH
   - recKdujFoPJr4ZAhZ
   title: Equality, non-discrimination and solidarity
-- Challenges:
-  - recENQXCSOQQ3Y8et
-  - recL5M2Hye2XHK7zg
-  - recJfAMUB8HdjVQYD
-  Challenges copy:
+- Challenges copy:
   - rec4F8A2UI0uvFh3O
   - reciceYsMfOtPdaaA
+  - recQmyVULN0OuFA2s
+  - recJOwTAhuoamQM7C
+  - recbjinwvxQkFttqg
+  - recu8eBgTi3OTRRij
+  - recv7IjfbiXBr4A5q
   Description: |
     "1.4 In research that is just:
     1. (a) taking into account the scope and objectives of the proposed research, the selection, exclusion and inclusion of categories of research participants is fair, and is accurately described in the results of the research
@@ -977,7 +991,10 @@
   title: Citizens' rights
 - Challenges:
   - recCpTJXuuowqsqQa
-  - recUKAxgCSxylEiDm
+  Challenges copy:
+  - recMhXPovX6fJ5ZIa
+  - rec3XoC08SiG83eK0
+  - recg4TZqdeqZcnd1w
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -1122,10 +1139,7 @@
   equivalentTo:
   - recSqx6wklVpDzx3s
   title: PROTECT the priorities of social values, justice, and the public interest
-- Challenges:
-  - recHHr97jsyNDnlsJ
-  - recL5M2Hye2XHK7zg
-  OverarchingFocus:
+- OverarchingFocus:
   - Fundamental-right
   - Human-oversight
   OverarchingPrinciples:
@@ -1177,10 +1191,11 @@
     externalities for others around the globe, for future generations, and for the
     biosphere as a whole
 - Challenges:
-  - rec1QZHHMARBQcZoo
   - reciNc7OeTUmnsLqg
   - recA7Kh502s4UKWGo
   - recGRpoF7DA23ODSj
+  Challenges copy:
+  - reclJ7hlCEf4P94SA
   Description: "**A/IS creators shall adopt increased human well-being as a primary\
     \ success criterion for development.**\n## Background\nFor A/IS technologies to\
     \ demonstrably advance benefit for humanity, we need to be able to define and\
@@ -1306,9 +1321,7 @@
   childOf:
   - recOHnq45Fq7YWsRO
   title: and with suitable resources to conduct the work as proposed
-- Challenges:
-  - rec1QZHHMARBQcZoo
-  OverarchingFocus:
+- OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
@@ -1323,7 +1336,12 @@
   childOf:
   - recOHnq45Fq7YWsRO
   title: do research that is justifiable by potential benefit
-- OverarchingFocus:
+- Challenges copy:
+  - recpoXmwIiqv3BMWJ
+  - recT8ABqanoxK9Qu0
+  - recRU6VBHZccmYrln
+  - reczbN2QKYqG695ec
+  OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
@@ -1409,6 +1427,10 @@
 - Challenges copy:
   - recuFqYoT6MFNqspL
   - rec16WOKdMVKAiBSJ
+  - recsYgGzgIK80qUCT
+  - rec5l10QTYprjeewa
+  - reclJ7hlCEf4P94SA
+  - recPKPxKp07OlhULb
   Description: |
     "1.6 The likely benefit of the research must justify any risks of harm or discomfort to participants. The likely benefit may be to the participants, to the wider community, or to both.
     1.7 Researchers are responsible for:
@@ -1504,10 +1526,8 @@
   airtable_createdTime: '2023-06-08T06:31:30.000Z'
   airtable_id: recqdGhz7l1cGnQeU
   title: Societal and environmental wellbeing
-- Challenges:
-  - recYHYaeqVHR93Kuo
-  - recO1L6GoFMkA6Lt4
-  - recrHBtVR4EOXSJh2
+- Challenges copy:
+  - recfjoQZIVhT0C5pW
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -1764,9 +1784,9 @@
 - Challenges:
   - recefglLZ3oJWw2SZ
   - recCpTJXuuowqsqQa
-  - recHHr97jsyNDnlsJ
-  - recKzhZVabDuYM6rG
-  - recmRF2P1OOASMfNF
+  Challenges copy:
+  - recTaaKAtPIfbenZv
+  - rec7aGSPdkdUuZ42O
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:

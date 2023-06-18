@@ -155,9 +155,17 @@
   airtable_id: rec6VgPcUOVnAu0uO
   title: British Sociological Association ethics guidelines including for digital
     research and social media
-- Challenges copy:
+- Challenges:
+  - recJ6khG2kY2Tx5ae
+  Challenges copy:
   - rec3wCdnHy3TpLuya
   - rec4F8A2UI0uvFh3O
+  - recQWEzfzmzmfstG9
+  - recQmyVULN0OuFA2s
+  - recsYgGzgIK80qUCT
+  - recQtuMpX4WaAoHhG
+  - recdkRK64g0b4GZlP
+  - recp8G9ek0g3RAnEC
   Description: "\u201CIf you are a student, you may find the 2002 guidelines (IRE\
     \ 2.0) a good starting point of reflection. If you are looking for a draft to\
     \ obtain informed consent, look into the appendix of the 2002 guidelines (IRE\
@@ -239,6 +247,14 @@
   - recAlOHJhEy5nDwA6
   Challenges copy:
   - recuFqYoT6MFNqspL
+  - recfjoQZIVhT0C5pW
+  - recTaaKAtPIfbenZv
+  - recVGVVfuoL5sr3oo
+  - recMhXPovX6fJ5ZIa
+  - recHUlZ9OQfNwD6fg
+  - recJvXzs5QMTqWzUF
+  - recftbldoHqhBBcrk
+  - reczbN2QKYqG695ec
   Description: "\u201CThese Guidelines are to be used in schools across Europe and\
     \ we shall actively promote them through the Erasmus+ programme. Collectively\
     \ or individually, teachers and school leaders will now have a solid basis to\
@@ -388,8 +404,9 @@
   - recWNt6W4v0xr3x0Z
   - recNNFrnCiGxTP4WE
   Challenges:
-  - recHHr97jsyNDnlsJ
   - recJjTMjpfE0WHSWu
+  Challenges copy:
+  - reczbN2QKYqG695ec
   Description: "\u201CAccess Now defends and extends the digital rights of users at\
     \ risk around the world. By combining direct technical support, comprehensive\
     \ policy engagement, global advocacy, grassroots grantmaking, and convenings such\
@@ -635,7 +652,14 @@
   airtable_createdTime: '2023-06-08T15:01:40.000Z'
   airtable_id: recQXTU23awCZtU2a
   title: Schiff-review AI Ethics Global Document Collection
-- Description: "\u201CThis document aligns with and extends the first AoIR document.\
+- Challenges:
+  - recJ6khG2kY2Tx5ae
+  Challenges copy:
+  - recQWEzfzmzmfstG9
+  - recVGVVfuoL5sr3oo
+  - recI3S7M3KOMg2C4m
+  - recz5LeVOgbgic8Jk
+  Description: "\u201CThis document aligns with and extends the first AoIR document.\
     \ This document represents a series of considerations designed to support and\
     \ inform those responsible for making decisions about the ethics of internet research.\
     \ And, while primarily directed at researchers, it provides a resource for a wide\
@@ -667,8 +691,13 @@
   airtable_id: recQiVQ7CTC72xp6O
   title: AoIR report 2
 - Challenges:
-  - recCkVZngvMA5I5uv
-  - reczg5MObRbgzTeob
+  - recJ6khG2kY2Tx5ae
+  Challenges copy:
+  - recX9rdsAGiONXTVd
+  - recBfwOfoB68ghQAV
+  - rec5l10QTYprjeewa
+  - recJOwTAhuoamQM7C
+  - recQtuMpX4WaAoHhG
   Description: "\u201CThis new Taylor Institute Guide takes the researcher through\
     \ the essentials of the Canadian standards for ethical practice in the scholarship\
     \ of teaching and learning (SoTL). It began with Lisa Fedoruk\u2019s review of\
@@ -762,6 +791,8 @@
 - Cases:
   - reco7BYWc7reRuaCh
   - recHAwvOykeiUxFsY
+  Challenges copy:
+  - rec3XoC08SiG83eK0
   Description: "\u201CWe will consider \u201Ceducational technology\u201D (edtech)\
     \ to include both (a) technologies specifically designed for educational use,\
     \ as well as (b) general technologies that are widely used in educational settings.\u201D\
@@ -1129,10 +1160,14 @@
 - Challenges:
   - recefglLZ3oJWw2SZ
   - recBc3GCNokDL220T
-  - rec8hxSSEudaplJiA
   - recdmBNNa98cN8Sda
   - reckPjhcWwLgjX9p5
   - recvQ90DajNCwPiGP
+  Challenges copy:
+  - recMhXPovX6fJ5ZIa
+  - recHUlZ9OQfNwD6fg
+  - recJvXzs5QMTqWzUF
+  - recftbldoHqhBBcrk
   Description: |
     "The Public Policy Programme at The Alan Turing Institute was set up in May 2018 with the aim of developing research, tools, and techniques that help governments innovate with data-intensive technologies and improve the quality of people's lives. We work alongside policy makers to explore how data science and artificial intelligence can inform public policy and improve the provision of public services. We believe that governments can reap the benefits of these technologies only if they make considerations of ethics and safety a first priority. This document provides end-to-end guidance on how to apply principles of AI ethics and safety to the design and implementation of algorithmic systems in the public sector. We will shortly release a workbook to bring the recommendations made in this guide to life. The workbook will contain case studies highlighting how the guidance contained here can be applied to concrete AI projects. It will also contain exercises and practical tools to help strengthen the process-based governance of your AI project. Please note, that this guide is a living document that will evolve and improve with input from users, affected stakeholders, and interested parties. We need your participation."
     p.3
@@ -1229,7 +1264,11 @@
   airtable_createdTime: '2023-06-05T14:45:30.000Z'
   airtable_id: recl6lvnjffHMH8K1
   title: British Society of Gerontology ethical guidelines
-- Description: "\u201CThese guidelines are addressed to all AI stakeholders designing,\
+- Challenges copy:
+  - recVGVVfuoL5sr3oo
+  - recp8G9ek0g3RAnEC
+  - reczbN2QKYqG695ec
+  Description: "\u201CThese guidelines are addressed to all AI stakeholders designing,\
     \ developing, deploying, implementing, using or being affected by AI, including\
     \ but not limited to companies, organisations, researchers, public services, government\
     \ agencies, institutions, civil society organisations, individuals, workers and\
@@ -1347,15 +1386,9 @@
   airtable_id: recoJTiIbIxoY001E
   title: Research Ethics in Machine Learning
 - Challenges:
-  - rec1QZHHMARBQcZoo
-  - recvWM2glArsVhaye
   - reciNc7OeTUmnsLqg
   - recA7Kh502s4UKWGo
   - recGRpoF7DA23ODSj
-  - rec5nbWC0ZbVwnmxJ
-  - recL5sNl6bi1vrIzj
-  - recaFyWRROaJ1ZFyY
-  - recIUf0R50ogibwe6
   - rec2ULcHUjSbbSnHL
   - rec2ajglpzbFYRivi
   - reciH69D8oIGI1p93
@@ -1364,39 +1397,43 @@
   - reckyVWsglP8FLeUp
   - recg7BIZZsvZ57fvV
   - recebQ2NgeBCmafoX
-  - recO1L6GoFMkA6Lt4
-  - recAoyMGCCLhaSqEb
-  - reci0hfcAOIxLVNhB
-  - recKzhZVabDuYM6rG
-  - recUKAxgCSxylEiDm
-  - recroNon39TCBeC88
-  - recPqsTlFK76oGD9C
-  - rech9vLLbQgO3OY0i
-  - recxjc79LvLdKa4rl
-  - recELObWGfkhXzFG2
-  - recqpYMjEFJLmyNaN
-  - recaBNAcact8Bz6dg
-  - recZ43i8Cnhohwb2x
-  - rec9qgAZS5U8GL137
-  - recnYgPiGULdHLunC
-  - rect310qem9li3HKK
   - recX6r1O4jcsp0nIM
-  - recrk0Tgfwe5J9xfI
-  - rececsX8igwNqhhkC
   - rec9Cuz3HWc9lWW23
   - recj64vAVJSm5B2ba
   - recJV8yTX0MnF3rGD
-  - rec0BAjUqQrSIMAEG
   - recb50cfuQUWDAHZW
-  - recJfAMUB8HdjVQYD
-  - recmRF2P1OOASMfNF
   - recefglLZ3oJWw2SZ
-  - recdlFwsToNXtcvGC
   - recWPbL5kB1Yh5OPf
+  - recJ6khG2kY2Tx5ae
+  - rec3T1WLC4dg63qyI
   Challenges copy:
   - recuFqYoT6MFNqspL
   - recwl0AdKj2HLIpDB
   - rec3wCdnHy3TpLuya
+  - rec16WOKdMVKAiBSJ
+  - reciceYsMfOtPdaaA
+  - recUMRucTbQ7tySEW
+  - recBfwOfoB68ghQAV
+  - recz5LeVOgbgic8Jk
+  - recHHvfADKIkX9idP
+  - rec284Ax8lKHt4ljQ
+  - recfjoQZIVhT0C5pW
+  - recTaaKAtPIfbenZv
+  - reclJ7hlCEf4P94SA
+  - recPKPxKp07OlhULb
+  - recMhXPovX6fJ5ZIa
+  - recdkRK64g0b4GZlP
+  - recpoXmwIiqv3BMWJ
+  - recT8ABqanoxK9Qu0
+  - recRU6VBHZccmYrln
+  - recp8G9ek0g3RAnEC
+  - rec7aGSPdkdUuZ42O
+  - rec3XoC08SiG83eK0
+  - recg4TZqdeqZcnd1w
+  - recu8eBgTi3OTRRij
+  - recAZ41hiDOn9aTOl
+  - recv7IjfbiXBr4A5q
+  - recfGEm2rcOTFEZVZ
   Description: "\"Autonomous and intelligent technical systems are specifically designed\
     \ to reduce the necessity for human intervention in our day-to-day lives. In so\
     \ doing, these new systems are also raising concerns about their impact on individuals\
@@ -1475,6 +1512,7 @@
   - recKWkdYO98PeEKDz
   - recMgYQ7EqHAyDfi1
   - recK1gdkh8c01WaXx
+  - rec6q7u9fWKUtP6mx
   Tags:
   - AI
   - ethics-guideline

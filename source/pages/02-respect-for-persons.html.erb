@@ -29,6 +29,10 @@ Autonomy is normally taken to comprise:
 
 <%= partial 'templates/components/callout', locals: { type: "alert", title: "here to edit", text: "ideally concepts here would be the same as those in key questions in the introduction" } %>
 
+<% callout_content = partial "templates/components/includeset", locals: { my_filters: "item[:category] == 'ChallengeInstances' && (item[:tags].include? 'AI') && (item[:OverarchingPrinciples].is_a?(Array) ? item[:OverarchingPrinciples]&.compact&.any? { |x| x&.match?(/respect for persons/i) } : item[:OverarchingPrinciples]&.match?(/#respect for persons/i))" } %>
+
+<%= partial 'templates/components/callout', locals: { type: "information", title: "How is AI research different?", text: "#{callout_content}"} %>
+
 
 Considerations regarding respect for persons may be distinctive in the context of AI. That is for two reasons:
 

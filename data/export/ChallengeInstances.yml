@@ -1,16 +1,207 @@
 - Challenges:
   - recWPbL5kB1Yh5OPf
-  OverarchingPrinciples (from Principles):
+  Description: "There is a paradox that personalisation may result in standardisation\
+    \ and routinisation, alongside potential for labelling derived from learning data\
+    \ having lifelong impacts. \n\"**Issue: **Mass personalization\_of instruction\n\
+    The mass personalization of education offers better education for all at very\
+    \ low cost through A/IS-enabled computer-based instruction that promises to free\
+    \ up teachers to work with kids individually to pursue their passions. These applications\
+    \ will rely on the continuous gathering of personal data regarding mood, thought\
+    \ processes, private stories, physiological data, and more. The data will be used\
+    \ to construct a computational model of each child\u2019s interests, understanding,\
+    \ strengths, and weaknesses. The model provides an intimate understanding of how\
+    \ they think, what they understand, how they process information, or react to\
+    \ new information; all of which can be used to drive instructional content and\
+    \ feedback.\nSharing of this data between classes, enabling it to follow students\
+    \ through their schooling, will make the models more effective and beneficial\
+    \ to children, but it also exposes children and their families to social control.\
+    \ If performance data are correlated with social data on a family, it could be\
+    \ used by social authorities in decision-making about the family. For example,\
+    \ since 2015-2018, well-being digital tests were performed in schools in Denmark.\
+    \ Children were asked about everything from bullying, loneliness, and stomach\
+    \ aches. Recently it was disclosed that although the collected data was presented\
+    \ as anonymous, they were not. Data were stored with social security numbers,\
+    \ correlated with other test data, and even used in case management by some Danish\
+    \ municipalities.5\_Commercial profiling and correlation of different sets of\
+    \ personal data may further affect these children in future job or educational\
+    \ situations.\"\np.114-115\n"
+  OverarchingPrinciples:
   - recNB5h9bK4gEE9uc
   - recmzjcGKv3yNOxbl
   Principles:
   - recNB5h9bK4gEE9uc
   - recmzjcGKv3yNOxbl
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - reclzrMrQSQls3PI9
   Tags:
   - education
   airtable_createdTime: '2023-06-16T16:25:14.000Z'
   airtable_id: rec16WOKdMVKAiBSJ
-  title: An example of long-term impacts in education with respect to beneficence
+  title: Data that can be used to support learning may also be used for social profiling
+    of learners
+- Challenges:
+  - recBc3GCNokDL220T
+  Description: "\"**Issue: **How can we increase agency by providing individuals access\
+    \ to services allowing them to create a trusted identity to control the safe,\
+    \ specific, and finite exchange of their data?\n## Background\nPervasive behavior-tracking\
+    \ adversely affects human agency by recognizing our identity in every action we\
+    \ take on and offline. This is why identity as it relates to individual data is\
+    \ emerging at the forefront of the risks and opportunities related to use of personal\
+    \ information for A/IS. Across the identity landscape there is increasing tension\
+    \ between the requirement for federated identities versus a range of identities.\
+    \ In federated identities, all data are linked to a natural and identified person.\
+    \ When one has a range of identities, or personas, these can be context specific\
+    \ and determined by the use case. New movements, such as \u201CSelf-Sovereign\
+    \ Identity\u201D\u2014 defined as the right of a person to determine his or her\
+    \ own identity\u2014are emerging alongside legal identities, e.g., those issued\
+    \ by governments, banks, and regulatory authorities, to help put individuals at\
+    \ the center of their data in the algorithmic age.Personas, identities that act\
+    \ as proxies, and pseudonymity are also critical requirements for privacy management\
+    \ and agency. These help individuals select an identity that is appropriate for\
+    \ the context they are in or wish to join. In these settings, trust transactions\
+    \ can still be enabled without giving up the \u201Croot\u201D identity of the\
+    \ user. For example, it is possible to validate that a user is over eighteen or\
+    \ is eligible for a service.\nAttribute verification will play a significant role\
+    \ in enabling individuals to select the identity that provides access without\
+    \ compromising agency. This type of access is especially important in dealing\
+    \ with the myriad of algorithms interacting with narrow segments of our identity\
+    \ data. In these situations, individuals typically are not aware of the context\
+    \ for how their data will be used.\"\np.112-113 IEEE report\n"
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recPg7Ov0priGGtLm
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - rec1Ha94n5xbeqcOY
+  Tags:
+  - AI
+  airtable_createdTime: '2023-06-18T12:04:26.000Z'
+  airtable_id: rec284Ax8lKHt4ljQ
+  title: It is not always clear how we can protect our identities to assure privacy
+    and identity verification
+- Challenges:
+  - rec3T1WLC4dg63qyI
+  Description: "\u201CAI technologies are grounded in models, and these models are\
+    \ inevitably incomplete in some way. It is up to humans to name educational goals\
+    \ and measure the degree to which models fit and are useful\u2014or don\u2019\
+    t fit and might be harmful. Such an assessment of how well certain tools serve\
+    \ educational priorities may seem obvious, but the romance of technology can lead\
+    \ to a \u201Clet\u2019s see what the tech can do'' attitude, which can weaken\
+    \ the focus on goals and cause us to adopt models that fit our priorities poorly.\u201D\
+    \ (Cardona et al., 2023, p. 54)\n\u201Calign priorities, educational strategies,\
+    \ and technology adoption decisions to place the educational needs of students\
+    \ ahead of the excitement about emerging AI capabilities.\u201D (Cardona et al.,\
+    \ 2023, p. 54)\n\u201CEvery conversation about AI (or any emerging technology)\
+    \ should start with the educational needs and priorities of students front and\
+    \ center and conclude with a discussion about the evaluation of effectiveness\
+    \ re-centered on those needs and priorities. Equity, of course, is one of those\
+    \ priorities that requires constant attention, especially given the worrisome\
+    \ consequences of potentially biased AI models. We especially call upon leaders\
+    \ to avoid romancing the magic of AI or only focusing on promising applications\
+    \ or outcomes, but instead to interrogate with a critical eye how AI-enabled systems\
+    \ and tools function in the educational environment.\u201D (Cardona et al., 2023,\
+    \ p. 54)\n\n\"**Issue: **Decision processes for determining relevant well-being\
+    \ indicators through stakeholder deliberations need to be established.\n## Background\n\
+    A/IS stakeholder involvement is necessary to determine relevant well-being indicators,\
+    \ for a number of reasons:\n- \u201CWell-being\u201D will be defined differently\
+    \ by different groups affected by A/IS. The most relevant indicators of well-being\
+    \ may vary according to country, with concerns of wealthy nations being different\
+    \ than those of low- and middle-income countries. Indicators may vary based on\
+    \ geographical region or unique circumstances. The indicators may also be different\
+    \ across social groups, including gender, race, ethnicity, and disability status.\n\
+    - Common indicators of well-being include satisfaction with life, healthy life\
+    \ expectancy, government, social support, perceived freedom to make life decisions,\
+    \ income equality, access to education, and poverty rates. Applying them in particular\
+    \ settings necessarily requires judgment, to ensure that assessments of well-being\
+    \ are in fact meaningful in context and reflective of the life circumstances of\
+    \ the diverse groups in question.\_\n- Not all aspects of well-being are easily\
+    \ quantifiable. The importance of hard-to-quantify aspects of well-being is most\
+    \ likely to become apparent through interaction with those more directly affected\
+    \ by A/IS in specific settings.\n- Engineers and corporate employees frequently\
+    \ misunderstand stakeholders\u2019 needs and expectations, especially when the\
+    \ stakeholders are very different from them in terms of educational and cultural\
+    \ background, social location, and/or economic status.\nThe processes through\
+    \ which stakeholders become involved in determining relevant wellbeing indicators\
+    \ will affect the quality of the indicators selected and assessed. Stakeholders\
+    \ should be empowered to define well-being, assess the appropriateness of existing\
+    \ indicators and propose new ones, and highlight context-specific factors that\
+    \ bear on issues of well-being, whether or not the issues have been recognized\
+    \ previously or are amenable to measurement. Interactive, open-ended discussions\
+    \ or deliberations among a wide variety of stakeholders and system designers are\
+    \ more likely to yield robust, widely-shared understandings of well-being and\
+    \ how to measure it in context. Closed-ended or over-determined methods for soliciting\
+    \ stakeholder input are likely to miss relevant information that system designers\
+    \ have not anticipated.deliberation is one model for collective decisionmaking.\
+    \ Parties in such deliberation come together as equals. Their goal is to set aside\
+    \ their immediate, personal interests in order to think together about the common\
+    \ good. Participants in a stakeholder engagement and deliberation learn from one\
+    \ another\u2019s perspectives and experiences.\n**In the real world, stakeholder\
+    \ engagement and deliberation may run into the following challenges:**\n- Individuals\
+    \ with more education, power, or higher social status may\u2014intentionally or\
+    \ unintentionally\u2014dominate the discussion, undermining their ability to learn\
+    \ from less powerful participants.\n- Topics may be preemptively ruled \u201C\
+    out of bounds\u201D, to the detriment of collective problem-solving. An example\
+    \ would be if, in a deliberation on well-being and A/IS, participants were told\
+    \ that worries about the costs of health insurance were unrelated to\_A/IS and\
+    \ thus could not be discussed.\n- Engineers and scientists may claim authority\
+    \ over technical issues and be willing to deliberate only on social issues, obscuring\
+    \ the ways that technical and social issues are intertwined.\n- Less powerful\
+    \ groups may be unable to keep more powerful ones \u201Cat the table\u201D when\
+    \ discussions get contentious, and vice versa.\n- Participants may not agree on\
+    \ who can legitimately be involved in the conversation. For example, the consensual\
+    \ spirit of deliberation is often used as a justification for excluding activists\
+    \ and others who already hold a position on the issue.\n**Stakeholder engagement\
+    \ and deliberative processes can be effective when:**\n- Their design is guided\
+    \ by experts or practitioners who are experienced in deliberation models.\n- Deliberations\
+    \ are facilitated by individuals sensitive to issues of power and are skilled\
+    \ in mediating deliberation sessions.\n- Less powerful actors participate with\
+    \ the help of allies who can amplify their voices.\n- More powerful actors participate\
+    \ with an awareness of their own power and make a commitment to listen with humility,\
+    \ curiosity, and open-mindedness.\n- Deliberations are convened by institutions\
+    \ or individuals who are trusted and respected by all parties and who hold all\
+    \ actors accountable for participating constructively.\nEthically aligned design\
+    \ of A/IS would be furthered by thoughtfully constructed, context-specific deliberations\
+    \ on well-being and the best indicators for assessing it.\"\np.82-83\n"
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recU6u0AZbcNj1ik9
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  - "Cardona, M. A., Rodr\xEDguez, R. J., & Ishmael, K. (2023). Artificial Intelligence\
+    \ and the Future of Teaching and Learning: Insights and Recommendations. U.S.\
+    \ Department of Education, Office of Educational Technology. https://www2.ed.gov/documents/ai-report/ai-report.pdf"
+  Sources:
+  - recpXl48pJdKDhc6f
+  - recY4zreDoWrsbsv7
+  Strategies:
+  - recZI7HDWKBU5T22v
+  - recqY2lEigz82Xmh5
+  Tags:
+  - AI
+  - wellbeing
+  - education
+  airtable_createdTime: '2023-06-18T16:43:33.000Z'
+  airtable_id: rec3XoC08SiG83eK0
+  title: Defining desired outcomes - including general wellbeing - requires stakeholder
+    involvement
 - Challenges:
   - recWPbL5kB1Yh5OPf
   Description: "\"There are insufficient mechanisms to foresee and measure negative\
@@ -22,7 +213,7 @@
     \ impacts.\nHowever, it is prudent to review case studies of similar products\
     \ and the impacts they have had\_on well-being, as well as to consider possible\_\
     types of impacts that could apply\" (IEEE, 2019, p.83)\n"
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recNB5h9bK4gEE9uc
   Principles:
@@ -58,7 +249,7 @@
     \ outcomes.\_[...]. \" (franzke, et al., 2020 p.41-44). Potential for biases and\
     \ outcomes that do not respect justice arises throughout the research processes.\
     \ \n"
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recSqx6wklVpDzx3s
   - recNB5h9bK4gEE9uc
   Principles:
@@ -81,33 +272,1269 @@
     short-term implementation evaluations
 - Challenges:
   - recJ6khG2kY2Tx5ae
-  Description: |
-    Tools may mediate the interaction between researchers and participants, or research may be conducted in a way that is distal to human interactions with the inputs or outputs of the research (e.g., distal to the original capture of the data in the context of gathering training data; or to the use of a tool in the context of training an algorithm to be deployed beyond the research project)
-  OverarchingPrinciples (from Principles):
+  Description: "Research involving naturalistic interventions shifts some ethical\
+    \ considerations as compared to experimental studies. These approaches include\
+    \ 'nudge', pedagogic interventions in classrooms, other forms of design based\
+    \ research or action research, etc. In these cases there are key considerations\
+    \ including:\n- The opportunity costs of introducing any new elements into the\
+    \ environment (i.e., asking participants to do something is a resource commitment\
+    \ that could be 'spent' otherwise), and the benefits of this cost to the participants\
+    \ vs the research\n- The benefits of 'participation' \n- Any risks in using naturalistic\
+    \ data, where some controls that may be used in more standard settings are not\
+    \ available (e.g., deidentifying naturalistic texts is significantly more challenging\
+    \ than surveys in which no identifiers are ever collected) \n- Any risks to participants/participant\
+    \ groups of the research, for example if the work indicates particular challenges\
+    \ faced by participants/groups, how will this be reported; how might participants\
+    \ be exposed to this reporting (and how might they be able to learn from the findings)?\n"
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Principles:
+  - recmzjcGKv3yNOxbl
+  Reference:
+  - Fedoruk, L. (2017b). Ethics in The Scholarship of Teaching and Learning. University
+    of Calgary Taylor Institute for Teaching and Learning. https://taylorinstitute.ucalgary.ca/resources/ethics-scholarship-teaching-and-learning
+  Sources:
+  - recQzldmBLByP78Uu
+  Strategies:
+  - reclplj55gpqdYGTr
+  - rec55h8FhGKyGPNgw
+  Tags:
+  - education
+  airtable_createdTime: '2023-06-16T17:55:32.000Z'
+  airtable_id: rec5l10QTYprjeewa
+  title: Design of interventions in naturalistic environments should ensure risks
+    of harms and potential for benefits are considered for all those impacted (including
+    any 'controls')
+- Challenges:
+  - recefglLZ3oJWw2SZ
+  Description: "\"\\*_\"Issue: \\*_A/IS are contributing to humanitarian action to\
+    \ save lives, alleviate suffering, and maintain human dignity both during and\
+    \ in the aftermath of man-made crises and natural disasters, as well as to prevent\
+    \ and strengthen preparedness for the occurrence of such situations. However,\
+    \ there are ethical concerns with both the collection and use of data during humanitarian\
+    \ emergencies. \n\nThere have been a number of promising A/IS applications that\
+    \ relieve suffering in humanitarian crises, such as extending the reach of the\
+    \ health system by using drones to deliver blood to remote parts of Rwanda,31\
+    \ locating and removing landmines,32 efforts to use A/IS to track movements and\
+    \ population survival needs following a natural disaster, and to meet the multiple\
+    \ management requirements of refugee camps.33 There are also promising developments\
+    \ using A/IS and robotics to assist people with disabilities to recover mobility,\
+    \ and robots to rescue people trapped in collapsed buildings.34 A/IS are also\
+    \ being used to monitor conflict zones and to enable early warning systems.35\
+    \ For example, Microsoft has partnered with the UN Human Rights Office of the\
+    \ High Commissioner (OHCHR) to use big data in order to track and analyze human\
+    \ rights violations in conflict zones.36 Machine learning is being used for improved\
+    \ decision-making regarding asylum adjudication and refugee resettlement, with\
+    \ a view to increasing successful integration between refugees and host communities.37\
+    \ In addition, there is evidence that a recent growth in human empathy has increased\
+    \ well-being while diminishing psychological and physical violence,38 inspiring\
+    \ some researchers to look for ways of harnessing the power of A/IS to introduce\
+    \ more empathy and less violence into society.The design and ethical deployment\
+    \ of these technologies in crisis settings are both essential and challenging.\
+    \ Large volumes of both personally identifiable and demographically identifiable\
+    \ data are collected in fragile environments, where tracking of individuals or\
+    \ groups may compromise their security if data privacy cannot be assured. Consent\
+    \ to data use is also impractical in such environments, yet crucial for the respect\
+    \ of human rights.\"\np.175-177\n"
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - reczVPIH1y2OMpAJH
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - recMgYQ7EqHAyDfi1
+  Tags:
+  - AI
+  airtable_createdTime: '2023-06-18T15:10:27.000Z'
+  airtable_id: rec7aGSPdkdUuZ42O
+  title: How do we ensure protection of data during humanitarian emergencies?
+- Challenges:
+  - rec3T1WLC4dg63qyI
+  Description: "Issue 1: Many approaches to norm implementation are currently available,\
+    \ and it is not yet settled which ones are most suitable.\nBackground\n\nThe prospect\
+    \ of developing A/IS that are sensitive to human norms and factor them into morally\
+    \ or legally significant decisions has intrigued science fiction writers, philosophers,\
+    \ and computer scientists alike. Modest efforts to realize this worthy goal in\
+    \ limited or bounded contexts are already underway. This emerging field of research\
+    \ appears under many names, including: machine morality, machine ethics, moral\
+    \ machines, value alignment, computational ethics, artificial morality, safe AI,\
+    \ and friendly AI.\n\nThere are a number of different implementation routes for\
+    \ implementing ethics into autonomous and intelligent systems. Following Wallach\
+    \ and Allen (2008)14, we might begin to categorize these as either:\n\nA.   Top-down\
+    \ approaches, where the system,\n\ne. g., a software agent, has some symbolic\
+    \ representation of its activity, and so can identify specific states, plans,\
+    \ or actions as ethical or unethical with respect to particular ethical requirements\
+    \ (Dennis, Fisher, Slavkovik, Webster 201615; Pereira and Saptawijaya 201616;\
+    \ R\xF6tzer, 201617; Scheutz, Malle, and Briggs 201518); or\n\nB.   Bottom-up\
+    \ approaches, where the system,\n\ne. g., a learning component, builds up, through\
+    \ experience of what is to be considered ethical and unethical in certain situations,\
+    \ an implicit notion of ethical behavior (Anderson and Anderson 201419; Riedl\
+    \ and Harrison 201620).\n\nRelevant examples of these two are: (A) symbolic agents\
+    \ that have explicit representations of plans, actions, goals, etc.; and (B) machine\
+    \ learning systems that train subsymbolic mechanisms with acceptable ethical behavior.\
+    \ For more detailed discussion, see Charisi et al. 201721.\n\nMany of the existing\
+    \ experimental approaches to building moral machines are top-down, in the sense\
+    \ that norms, rules, principles, or procedures are used by the system to evaluate\
+    \ the acceptability of differing courses of action, or as moral standards or goals\
+    \ to be realized. Increasingly, however, A/IS will encounter situations that initially\
+    \ programmed norms do not clearly address, requiring algorithmic procedures to\
+    \ select the better of two or more novel courses of action. Recent breakthroughs\
+    \ in machine learning and perception enable researchers to explore bottom-up approaches\
+    \ in which the  A/IS learn about their context and about human norms, similar\
+    \ to the manner in which a child slowly learns which forms of behavior are safe\
+    \ and acceptable. Of course, unlike current A/IS, children can feel pain and pleasure,\
+    \ and empathize with others. Still, A/IS can learn to detect and take into account\
+    \ others\u2019 pain and pleasure, thus at least achieving some of the positive\
+    \ effects of empathy. As research on A/IS progresses, engineers will explore new\
+    \ ways to improve these capabilities.Each of the first two options has obvious\
+    \ limitations, such as option A\u2019s inability to learn and adapt and option\
+    \ B\u2019s unconstrained learning behavior. A third option tries to address these\
+    \ limitations:\n\nC.   Hybrid approaches, combining (A) and (B).\n\nFor example,\
+    \ the selection of action might be carried out by a subsymbolic system, but this\
+    \ action must be checked by a symbolic \u201Cgateway\u201D agent before being\
+    \ invoked. This is a typical approach for \u201CEthical Governors\u201D (Arkin,\
+    \ 200822; Winfield, Blum, and Liu 201423) or \u201CGuardians\u201D (Etzioni 201624)\
+    \ that monitor, restrict, and even adapt certain unacceptable behaviors proposed\
+    \ by the system (see Issue 3). Alternatively, action selection in light of norms\
+    \ could be done in a verifiable logical format, while many of the norms constraining\
+    \ those actions can be learned through bottom-up learning mechanisms (Arnold,\
+    \ Kasenberg, and Scheutz 201725).\n\nThese three architectures do not cover all\
+    \ possible techniques for implementing norms into A/IS. For example, some contributors\
+    \ to the multi-agent systems literature have integrated norms into their agent\
+    \ specifications (Andrighetto et al. 201326), and even though these agents live\
+    \ in societal simulations and are too underspecified to be translated into individual\
+    \ A/IS such as robots, the emerging work can inform cognitive architectures of\
+    \ such A/IS that fully integrate norms. Of course, none of these experimental\
+    \ systems should be deployed outside of the laboratory before testing or before\
+    \ certain criteria are met, which we outline in the remainder of this section\
+    \ and in Section 3.\"\np.175\n\n\n### Recommendation\nIn light of the multiple\
+    \ possible approaches to computationally implement norms, diverse research efforts\
+    \ should be pursued, especially collaborative research between scientists from\
+    \ different schools of thought and different disciplines.\n\n### Further Resources\n\
+    - M. Anderson, and S. L. Anderson, \u201CGenEth: A General Ethical Dilemma Analyzer,\u201D\
+    \ Proceedings of the Twenty-Eighth AAAI Conference on Artificial Intelligence,\
+    \ Qu\xE9bec City, Qu\xE9bec, Canada, July 27 \u201331, 2014, pp. 253\u2013261,\
+    \ Palo Alto, CA, The AAAI Press, 2014.\n- G. Andrighetto, G. Governatori, P. Noriega,\
+    \ and L. W. N. van der Torre, eds. Normative Multi-Agent Systems. Saarbr\xFCcken/Wadern,\
+    \ Germany: Dagstuhl Publishing, 2013.\n- R. Arkin, \u201CGoverning Lethal Behavior:\
+    \ Embedding Ethics in a Hybrid Deliberative/ Reactive Robot Architecture.\u201D\
+    \ Proceedings of the 2008 3rd ACM/IEEE International Conference on Human-Robot\
+    \ Interaction (HRI), Amsterdam, Netherlands, March 12 -15, 2008, IEEE, pp. 121\u2013\
+    128, 2008.\n- T. Arnold, D. Kasenberg, and M. Scheutz. \u201CValue Alignment or\
+    \ Misalignment\u2014What Will Keep Systems Accountable?\u201D The Workshops of\
+    \ the Thirty-First AAAI Conference on Artificial Intelligence: Technical Reports,\
+    \ WS-17-02: AI, Ethics, and Society, pp. 81\u201388. Palo Alto, CA: The AAAI Press,\
+    \ 2017.\n- V. Charisi, L. Dennis, M. Fisher, et al. \u201CTowards Moral Autonomous\
+    \ Systems,\u201D 2017.\n- A. Conn, \u201CHow Do We Align Artificial Intelligence\
+    \ with Human Values?\u201D Future of Life Institute, Feb. 3, 2017.\n- L. Dennis,\
+    \ M. Fisher, M. Slavkovik, and M. Webster, \u201CFormal Verification of Ethical\
+    \ Choices in Autonomous Systems.\u201D Robotics and Autonomous Systems, vol. 77,\
+    \ pp. 1\u201314, 2016.\n- A. Etzioni and O. Etzioni, \u201CDesigning AI Systems\
+    \ That Obey Our Laws and Values.\u201D Communications of the ACM, vol. 59, no.\
+    \ 9, pp. 29\u201331, Sept. 2016.\n- L. M. Pereira and A. Saptawijaya, Programming\
+    \ Machine Ethics. Cham, Switzerland: Springer International, 2016.\n- M. O. Riedl\
+    \ and B. Harrison. \u201CUsing Stories to Teach Human Values to Artificial Agents.\u201D\
+    \ AAAI Workshops 2016. Phoenix, Arizona, February 12\u201313, 2016.\n- F. R\xF6\
+    tzer, ed. Programmierte Ethik: Brauchen Roboter Regeln oder Moral? Hannover, Germany:\
+    \ Heise Medien, 2016.\n- M. Scheutz, B. F. Malle, and G. Briggs. \u201CTowards\
+    \ Morally Sensitive Action Selection for Autonomous Social Robots.\u201D Proceedings\
+    \ of the 24th International Symposium on Robot and Human Interactive Communication,\
+    \ RO-MAN 2015 (2015): 492\u2013497.\n- U. Sommer, Werte: Warum Man Sie Braucht,\
+    \ Obwohl es Sie Nicht Gibt. [Values. Why we need them even though they don\u2019\
+    t exist.] Stuttgart, Germany: J. B. Metzler, 2016.\n- I. Sommerville, Software\
+    \ Engineering. Harlow, U.K.: Pearson Studium, 2001.\n- W. Wallach and C. Allen.\
+    \ Moral Machines: Teaching Robots Right from Wrong. New York: Oxford University\
+    \ Press, 2008.\n- F. T. Winfield, C. Blum, and W. Liu. \u201CTowards an Ethical\
+    \ Robot: Internal Models, Consequences and Ethical Action Selection\u201D in Advances\
+    \ in Autonomous Robotics Systems, Lecture Notes in Computer Science Volume, M.\
+    \ Mistry, A. Leonardis, Witkowski, and C. Melhuish, eds. pp. 85\u201396. Springer,\
+    \ 2014.\n\n"
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Principles:
+  - recOHnq45Fq7YWsRO
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Tags:
+  - AI
+  airtable_createdTime: '2023-06-18T17:26:35.000Z'
+  airtable_id: recAZ41hiDOn9aTOl
+  title: How can AI model norms to govern its action
+- Challenges:
+  - recJ6khG2kY2Tx5ae
+  Description: "Including the principles (which are drawn from the Canadian model)\n\
+    ## TCPS2 | \u201CReasons to Conduct Secondary Analyses of Data\u201D\n\u201CReasons\
+    \ to conduct secondary analyses of data include: avoidance of duplication in primary\
+    \ collection and the associated reduction of burdens on participants; corroboration\
+    \ or criticism of the conclusions of the original project; comparison of change\
+    \ in a research sample over time; application\_of new tests of hypotheses that\
+    \ were not available\_at the time of original data collection; and confirmation\
+    \ that the data are authentic. Privacy concerns and questions about the need to\
+    \ seek consent arrive, however, when information provided for secondary use in\
+    \ research can be linked to individuals, and when the possibility exists that\
+    \ individuals can be identified in published reports,\_or through data linkage\u201D\
+    \ (TCPS2, Chapter 5, D. Consent and Secondary Use of Identifiable Information\
+    \ for Research Purposes).\n## TCPS2 | Article 5.5A\n\u201CIf a researcher satisfies\
+    \ all the conditions in Article 5.5A (a) to (f), the REB may approve the research\
+    \ without requiring consent from the individuals to whom the information relates.\n\
+    **a.\_\_\_\_\_\_\_**identifiable information is essential to the\nresearch;\n\
+    **b.\_\_\_\_\_\_**the use of identifiable information without the participants\u2019\
+    \ consent is unlikely to adversely\_affect the welfare of individuals to whom\
+    \ the information relates;\n**c.\_\_\_\_\_\_\_**the researchers will take appropriate\
+    \ measures\_\nto protect the privacy of individuals, and to safeguard the identifiable\
+    \ information;\n**d.\_\_\_\_\_\_**the researchers will comply with any known\n\
+    preferences previously expressed by individuals about any use of their information;\n\
+    **e.\_\_\_\_\_\_\_**it is impossible or impracticable to seek consent\nfrom individuals\
+    \ to whom the information relates; and\n**f.\_\_\_\_\_\_\_\_**the researchers\
+    \ have obtained any other necessary permission for secondary use of information\
+    \ for research purposes\u201D (TCPS2, Chapter 5, D. Consent and Secondary Use\
+    \ of Identifiable Information for Research Purposes).\n### Secondary analyses\
+    \ of data\nSecondary analyses of data, also referred to herein as secondary use\
+    \ of data consists of information originally collected for other purposes. Such\
+    \ information might consist of student work, information obtained for program\
+    \ evaluation, school records, or other identifiable materials collected for educational\
+    \ or administrative purposes.\n**\_**\n## TCPS2 | Article 5.5B\n\u201CResearchers\
+    \ shall seek REB review, but are not required to seek participant consent, for\
+    \ research that relies exclusively on the secondary use of non-identifiable information\u201D\
+    \ (TCPS2, Chapter 5, D. Consent and Secondary Use of Identifiable Information\
+    \ for Research Purposes).\n### Key Principle\nApply the above principles of privacy,\
+    \ and seek\_REB review even if your research involves data initially collected\
+    \ for other reasons (e.g.,\_\u201Csecondary use of data\u201D).\n### Strategies\
+    \ for Ethical Practice\n\u2022\_\_\_\_\_When possible, use anonymous data.\n\u2022\
+    \_\_\_\_\_If generating anonymous data conflicts with your research question and\
+    \ design, when possible, use data that has been de-identified.\n\u2022\_\_\_\_\
+    \_Although seeking participant consent is not required for non-identifiable data\
+    \ (Article 5.5B above), it is still good practice to seek students\u2019 consent\
+    \ to use their data again.\n\u2022\_\_\_\_\_If the data you want to use is identifiable\
+    \ and\_the REB requires that you seek students\u2019\_consent anyway, apply the\
+    \ principles and strategies in \u201CConsent Processes,\u201D starting\_on page\
+    \ 6 of this Guide.\n\u2022\_\_\_\_\_If you are emailing former students to seek\
+    \ consent to use their previously generated information as data or for additional\
+    \ information that may serve as data, be sensitive to general overuse of email\
+    \ and full inboxes.\_\n\u2022\_\_\_\_\_Use a third party to collect consent for\
+    \ research participants who are not your current students. Although this is not\
+    \ required, using a third party is a good practice if these students want to enroll\
+    \ in a future course you teach or ask you to serve on an advisory committee or\
+    \ write a reference letter for them, etc.\n\u2022\_\_\_\_\_If you are contacting\
+    \ former students to seek their consent to use their previously generated information\
+    \ as data or for additional information that may serve as data (e.g., \u201Csecondary\
+    \ use of data\u201D), be prepared to explain to the REB:\n**\u203A **why you want\
+    \ to contact these former students,\n**\u203A **how the potential benefits of\
+    \ this follow-up or additional data outweigh any drawbacks of contacting them,\n\
+    **\u203A **who will be contacting the individuals and the nature of their relationship\
+    \ with those students (e.g., a third party), and** **how they will be contacted\
+    \ (Article 5.6).\n\nAll drawn from Fedoruk (2017)\n"
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recKdujFoPJr4ZAhZ
+  Reference:
+  - Fedoruk, L. (2017b). Ethics in The Scholarship of Teaching and Learning. University
+    of Calgary Taylor Institute for Teaching and Learning. https://taylorinstitute.ucalgary.ca/resources/ethics-scholarship-teaching-and-learning
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recQzldmBLByP78Uu
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - recI5BV6v0BCK03VN
+  Tags:
+  - education
+  airtable_createdTime: '2023-06-16T18:01:49.000Z'
+  airtable_id: recBfwOfoB68ghQAV
+  title: Research involving learning may seek to draw on secondary analysis of learner
+    data
+- Challenges:
+  - recBc3GCNokDL220T
+  Description: "It is not always clear what data about is being used, how it is being\
+    \ used, by whom, and to what end. \n\n\"Issue: What would it mean for a person\
+    \ to have an algorithmic agent helping them actively represent and curate their\
+    \ terms and conditions at all times?\n\nWhile it\u2019s essential to create your\
+    \ own terms and conditions to broadcast your preferences, it\u2019s also important\
+    \ to recognize that humans do not operate at an algorithmic speed or level. A\
+    \ significant part of retaining your agency in this way involves identifying trusted\
+    \ services that can essentially act on your behalf when making decisions about\
+    \ your data. \n\nPart of this logic entails putting you \u201Cat the center of\
+    \ your data\u201D. One of the greatest challenges to user agency is that once\
+    \ you give your data away, you do not know how it is being used or by whom. But\
+    \ when all transactions about your data go through your A/IS agent honoring your\
+    \ preferences, you have better opportunities to control how your information is\
+    \ shared.\n\nAs an example, with medical data\u2014while it is assumed most would\
+    \ share all their medical data with their spouse\u2014most would also not wish\
+    \ to share that same amount of data with their local gym. This is an issue that\
+    \ extends beyond privacy, meaning one\u2019s cultural or individual preferences\
+    \ about what personal information to share, to utility and clarity. This type\
+    \ of sharing also benefits users or organizations on the receiving end of data\
+    \ from these exchanges. For instance, the local gym in the previous example may\
+    \ only need basic heart or general health information and would actually not wish\
+    \ to handle or store sensitive cancer or other personal health data for reasons\
+    \ of liability. \n\nA precedent for this type of patient- or usercentric model\
+    \ comes from Gliimpse, a service described by Jordan Crook from TechCrunch in\
+    \ his article, \u201CApple acquired Gliimpse, a personal health data startup\u201D\
+    : \u201CGliimpse works by letting users pull their own medical info into a single\
+    \ virtual space, with the ability to add documents and pictures to fill out the\
+    \ profile. From there, users can share that data (as a comprehensive picture)\
+    \ to whomever they wish.\u201D The fact that Apple acquired the startup points\
+    \ to the potential for the successful business model of user-centric data exchange\
+    \ and putting individuals at the center of their data. A person\u2019s A/IS agent\
+    \ is a proactive algorithmic tool honoring their terms and conditions in the digital,\
+    \ virtual, and physical worlds. Any public space where a user may not be aware\
+    \ they are under surveillance by facial recognition, biometric, or other tools\
+    \ that could track, store, and utilize their data can now provide overt opportunity\
+    \ for consent via an A/IS agent platform. Even where an individual is not sure\
+    \ they are being tracked, by broadcasting their terms and conditions via digital\
+    \ means, they can demonstrate their preferences in the public arena. Via Bluetooth\
+    \ or similar technologies, individuals could offer their terms and conditions\
+    \ in a ubiquitous and always-on manner. This means even when an individual\u2019\
+    s terms and conditions are not honored, people would have the ability to demonstrate\
+    \ their desire not to be tracked which could provide a methodology for the democratic\
+    \ right to protest in a peaceful manner. And where those terms and conditions\
+    \ are recognized\u2015 meaning technically recognized even if they are not honored\u2015\
+    one\u2019s opinions could be formally logged via GPS and timestamp data.\n\nThe\
+    \ A/IS agent could serve as an educator and negotiator on behalf of its user by\
+    \ suggesting how requested data could be combined with other data that has already\
+    \ been provided, inform the user if data are being used in a way that was not\
+    \ authorized, or make recommendations to the user based on a personal profile.\
+    \ As a negotiator, the agent could broker conditions for sharing data and could\
+    \ include payment to the user as a term, or even retract consent for the use of\
+    \ data previously authorized, for instance, if a breach of conditions was detected.\"\
+    \n(IEEE, 2019, p.110-112).\n"
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recPg7Ov0priGGtLm
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - recG86YsfXnKY9kNc
+  Tags:
+  - AI
+  airtable_createdTime: '2023-06-18T12:01:24.000Z'
+  airtable_id: recHHvfADKIkX9idP
+  title: It is not always clear how our data is being used, or how we could find out
+- Challenges:
+  - recefglLZ3oJWw2SZ
+  Description: "\"Implementation fairness When your project team is approaching the\
+    \ beta stage, you should begin to build out your plan for implementation training\
+    \ and support. This plan should include adequate preparation for the responsible\
+    \ and unbiased deployment of the AI system by its on-the-ground users. Automated\
+    \ decision-support systems present novel risks of bias and misapplication at the\
+    \ point of delivery, so special attention should be paid to preventing harmful\
+    \ or discriminatory outcomes at this critical juncture of the AI project lifecycle.\n\
+    \nIn order to design an optimal regime of implementer training and support, you\
+    \ should pay special attention to the unique pitfalls of bias-in-use to which\
+    \ the deployment of AI technologies give rise. These can be loosely classified\
+    \ as decision-automation bias (more commonly just \u2018automation bias\u2019\
+    ) and automation-distrust bias:\n- Decision-Automation Bias/The Technological\
+    \ Halo Effect: Users of automated decision-support systems may tend to become\
+    \ hampered in their critical judgment, rational agency, and situational awareness\
+    \ as a result of their faith in the perceived objectivity, neutrality, certainty,\
+    \ or superiority of the AI system. This may lead to over-reliance or errors of\
+    \ omission, where implementers lose the capacity to identify and respond to the\
+    \ faults, errors, or deficiencies, which might arise over the course of the use\
+    \ of an automated system, because they become complacent and overly deferent to\
+    \ its directions and cues. Decision-automation bias may also lead to over-compliance\
+    \ or errors of commission where implementers defer to the perceived infallibility\
+    \ of the system and thereby become unable to detect problems emerging from its\
+    \ use for reason of a failure to hold the results against available information.\
+    \ Both over-reliance and over-compliance may lead to what is known as out-of-loop\
+    \ syndrome where the degradation of the role of human reason and the deskilling\
+    \ of critical thinking hampers the user\u2019s ability to complete the tasks that\
+    \ have been automated. This condition may bring about a loss of the ability to\
+    \ respond to system failure and may lead both to safety hazards and to dangers\
+    \ of discriminatory harm. To combat risks of decision-automation bias, you should\
+    \ operationalise strong regimes of accountability at the site of user deployment\
+    \ to steer human decision-agents to act on the basis of good reasons, solid inferences,\
+    \ and critical judgment.\n- Automation-Distrust Bias: At the other extreme, users\
+    \ of an automated decision-support system may tend to disregard its salient contributions\
+    \ to evidence-based reasoning either as a result of their distrust or skepticism\
+    \ about AI technologies in general or as a result of their over-prioritisation\
+    \ of the importance of prudence, common sense, and human expertise. An aversion\
+    \ to the non-human and amoral character of automated systems may also influence\
+    \ decision subjects\u2019 hesitation to consult these technologies in high impact\
+    \ contexts such as healthcare, transportation, and law. In order to secure and\
+    \ safeguard fair implementation of AI systems by users well-trained to utilise\
+    \ the algorithmic outputs as tools for making evidence-based judgements, you should\
+    \ consider the following measures:\n- Training of implementers should include\
+    \ the conveyance of basic knowledge about the statistical and probabilistic character\
+    \ of machine learning and about the limitations of AI and automated decision-support\
+    \ technologies. This training should avoid any anthropomorphic (or human-like)\
+    \ portrayals of AI systems and should encourage users to view the benefits and\
+    \ risks of deploying these systems in terms of their role in assisting human judgment\
+    \ rather than replacing it.\n1. Forethought should be given in the design of the\
+    \ user-system interface about human factors and about possibilities for implementation\
+    \ biases. The systems should be designed into processes that encourage active\
+    \ user judgment and situational awareness. The interface between the user and\
+    \ the system should be designed to make clear and accessible to the user the system\u2019\
+    s rationale, compliance to fairness standards, and confidence level. Ideally this\
+    \ should happen in a \u2018runtime\u2019 manner. \u2022 Training of implementers\
+    \ should include a pre-emptive exploration of the cognitive and judgmental biases\
+    \ that may occur across deployment contexts. This should be done in a use case\
+    \ based manner that highlights the particular misjudgements that may occur when\
+    \ people weigh statistical evidence. Examples of the latter may include overconfidence\
+    \ in prediction based on the historical consistency of data, illusions that any\
+    \ clustering of data points necessarily indicates significant insights, and discounting\
+    \ of societal patterns that exist beyond the statistical results.\n\n(Leslie,\
+    \ 2019, p. 20-23)\n"
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recKdujFoPJr4ZAhZ
+  Reference:
+  - 'Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A
+    guide for the responsible design and implementation of AI systems in the public
+    sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  - European Commission. (2022). Ethical guidelines on the use of artificial intelligence
+    and data in teaching and learning for educators | European Education Area. European
+    Commission. https://education.ec.europa.eu/node/2285
+  Sources:
+  - recfYC5jjPmpLfSlM
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - recAhcg8OdusJvk43
+  - rec35PeHdUmtalypk
+  Tags:
+  - AI
+  airtable_createdTime: '2023-06-18T15:25:06.000Z'
+  airtable_id: recHUlZ9OQfNwD6fg
+  title: Implementation fairness and bias in system use, where undue dis/trust is
+    placed in automated systems including in ways that are inequitable, or/and that
+    deskill professionals
+- Challenges:
+  - recBc3GCNokDL220T
+  Description: "Participant input into research should be appropriately protected,\
+    \ and acknowledged, and these may at times be in tension (or, perceived to be\
+    \ in tension where our default assumption is towards deidentification). These\
+    \ issues may become salient in new ways as generative AI emerges, and questions\
+    \ are addressed regarding protection of intellectual property and the burdens\
+    \ and benefits of training genAI.\n\nIn research involving interaction with participants\
+    \ in which materials are produced as a part of the participation, we may seek\
+    \ to deidentify or aggregate data in order to minimise risks to participants of\
+    \ reidentification. However, this may not be appropriate in cases where either:\
+    \ \n- the data cannot be appropriately deidentified (for example, reverse image\
+    \ search means removing identifiers from a distinct image is unlikely to provide\
+    \ protection), or\n- where participants would like to be acknowledged for their\
+    \ input into the research. \n\nIn these cases, there is potential for injustice\
+    \ in the representation of participants, and the burden and benefits of the research\
+    \ process. It may be appropriate to ask participants (or to invite them to give\
+    \ input on psuedonyms), there is some additional guidance in \\[Ethical Visual\
+    \ Research Methods]\\(/recyweamynkerwieb).\n"
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
+  - recOHnq45Fq7YWsRO
+  Principles:
+  - recMGB4iC5oaCtr5x
+  - recOHnq45Fq7YWsRO
+  Reference:
+  - 'Markham, A., & Buchanan, E. (2012). Ethical Decision-Making and Internet Research:
+    Recommendations from the AoIR Ethics Working Committee (Version 2.0). AoIR. https://aoir.org/reports/ethics2.pdf'
+  Sources:
+  - recQiVQ7CTC72xp6O
+  Strategies:
+  - reczG9x5YfScZJdCo
+  - recJQF6QfQGlcSzDm
+  Tags:
+  - education
+  - AI
+  airtable_createdTime: '2023-06-18T12:04:32.000Z'
+  airtable_id: recI3S7M3KOMg2C4m
+  title: In seeking to protect participants we may assume deidentification, however
+    this may serve to marginalise participant contributions to research
+- Challenges:
+  - recJ6khG2kY2Tx5ae
+  Description: "In research that is \\[close to practice]\\(/recb4ql0nq1tsae0w) has\
+    \ significant potential to directly impact the environment in which research is\
+    \ conducted. However it is important to consider the resource costs of research\
+    \ involvement and who has shaped, will be represented in, and impacted by the\
+    \ research. \n"
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
+  Principles:
+  - recSqx6wklVpDzx3s
+  Reference:
+  - Fedoruk, L. (2017b). Ethics in The Scholarship of Teaching and Learning. University
+    of Calgary Taylor Institute for Teaching and Learning. https://taylorinstitute.ucalgary.ca/resources/ethics-scholarship-teaching-and-learning
+  Sources:
+  - recQzldmBLByP78Uu
+  Strategies:
+  - recinajIdAe7hRxjN
+  Tags:
+  - education
+  airtable_createdTime: '2023-06-16T17:55:35.000Z'
+  airtable_id: recJOwTAhuoamQM7C
+  title: While shifts in researcher-participant relationships can create distance,
+    they can also create connections. However, such research involves power relations
+    that are complex to navigate.
+- Challenges:
+  - recefglLZ3oJWw2SZ
+  Description: "\u201CDesigners and users ensure that the AI systems they are developing\
+    \ and deploying:\n1. Are trained and tested on properly representative, relevant,\
+    \ accurate, and generalisable datasets (Data Fairness)\n2. Have model architectures\
+    \ that do not include target variables, features, processes, or analytical structures\
+    \ (correlations, interactions, and inferences) which are unreasonable, morally\
+    \ objectionable, or unjustifiable (Design Fairness)\n3. Do not have discriminatory\
+    \ or inequitable impacts on the lives of the people they affect (Outcome Fairness)\n\
+    4. Are deployed by users sufficiently trained to implement them responsibly and\
+    \ without bias (Implementation Fairness)\u201D (Leslie, 2019, p. 14)\n\n\"Principle\
+    \ of Discriminatory Non-Harm: The designers and users of AI systems, which process\
+    \ social or demographic data pertaining to features of human subjects, societal\
+    \ patterns, or cultural formations, should prioritise the mitigation of bias and\
+    \ the exclusion of discriminatory influences on the outputs and implementations\
+    \ of their models. Prioritising discriminatory non-harm implies that the designers\
+    \ and users of AI systems ensure that the decisions and behaviours of their models\
+    \ do not generate discriminatory or inequitable impacts on affected individuals\
+    \ and communities.\" (Leslie, 2019, p. 14)\n\n\u201CAs part of this minimum safeguarding\
+    \ of discriminatory non-harm, forethought and well-informed consideration must\
+    \ be put into how you are going to define and measure the fairness of the impacts\
+    \ and outcomes of the AI system you are developing.\nThere is a great diversity\
+    \ of beliefs in the area of outcome fairness as to how to properly classify what\
+    \ makes the consequences of an algorithmically supported decision equitable, fair,\
+    \ and allocatively just. Different approaches\u2014detailed below\u2014stress\
+    \ different principles: some focus on demographic parity, some on individual fairness,\
+    \ others on error rates equitably distributed across subpopulations.\nYour determination\
+    \ of outcome fairness should heavily depend both on the specific use case for\
+    \ which the fairness of outcome is being considered and the technical feasibility\
+    \ of incorporating your chosen criteria into the construction of the AI system.\
+    \ (Note that different fairness-aware methods involve different types of technical\
+    \ interventions at the pre-processing, modelling, or postprocessing stages of\
+    \ production). Again, this means that determining your fairness definition should\
+    \ be a cooperative and multidisciplinary effort across the project team.\nYou\
+    \ will find below a summary table of some of the main definitions of outcome fairness\
+    \ that have been integrated by researchers into formal models as well as a list\
+    \ of current articles and technical resources, which should be consulted to orient\
+    \ your team to the relevant knowledge base. (Note that this is a rapidly developing\
+    \ field, so your technical team should keep updated about further advances.) The\
+    \ first four fairness types fall under the category of group fairness and allow\
+    \ for comparative criteria of non-discrimination to be considered in model construction\
+    \ and evaluation. The final two fairness types focus instead on cases of individual\
+    \ fairness, where context-specific issues of effective bias are considered and\
+    \ assessed at the level of the individual agent.\nTake note, though, that these\
+    \ technical approaches have limited scope in terms of the bigger picture issues\
+    \ of algorithmic fairness that we have already stressed. Many of the formal approaches\
+    \ work only in use cases that have distributive or allocative consequences. In\
+    \ order to carry out group comparisons, these approaches require access to data\
+    \ about sensitive/protected attributes (that may often be unavailable or unreliable)\
+    \ as well as accurate demographic information about the underlying population\
+    \ distribution. Furthermore, there are unavoidable trade-offs and inconsistences\
+    \ between these technical definitions that must be weighed in determining which\
+    \ of them are best fit for your use case. Consult those on your project team with\
+    \ the technical expertise to consider the use case appropriateness of a desired\
+    \ formal approach.\u201D (Leslie, 2019, p. 18)\n\nSome Formalisable Definitions\
+    \ of Outcome Fairness:\n- **Demographic/ Statistical Parity (group fairness):\
+    \ **An outcome is fair if each group in the selected set receives benefit in equal\
+    \ or similar proportions, i.e. if there is no correlation between a sensitive\
+    \ or protected attribute and the allocative result. This approach is intended\
+    \ to prevent disparate impact, which occurs when the outcome of an algorithmic\
+    \ process disproportionately harms members of disadvantaged or protected groups.\n\
+    - **True positive rate (group fairness): **An outcome is fair if the \u2018true\
+    \ positive\u2019 rates of an algorithmic prediction or classification are equal\
+    \ across groups. This approach is intended to align the goals of bias mitigation\
+    \ and accuracy by ensuring that the accuracy of the model is equivalent between\
+    \ relevant population subgroups. This method is also referred to as \u2018equal\
+    \ opportunity\u2019 fairness because it aims to secure equalised odds of an advantageous\
+    \ outcome for qualified individuals in a given population regardless of the protected\
+    \ or disadvantaged groups of which they are members\n- **False positive rate parity\
+    \ (group fairness): **An outcome is fair if it does not disparately mistreat people\
+    \ belonging to a given social group by misclassifying them at a higher rate than\
+    \ the members of a second social group, for this would place the members of the\
+    \ first group at an unfair disadvantage. This approach is motivated by the position\
+    \ that sensitive groups and advantaged groups should have similar error rates\
+    \ in outcomes of algorithmic decisions.\n- **Positive predictive value parity\
+    \ (group fairness): **An outcome is fair if the rates of positive predictive value\
+    \ (the fraction of correctly predicted positive cases out of all predicted positive\
+    \ cases) are equal across sensitive and advantaged groups. Outcome fairness is\
+    \ defined here in terms of a parity of precision, where the probability of members\
+    \ from different groups actually having the quality they are predicted to have\
+    \ is the same across groups.\n- **Individual fairness (individual fairness): **An\
+    \ outcome is fair if it treats individuals with similar relevant qualifications\
+    \ similarly. This approach relies on the establishment of a similarity metric\
+    \ that shows the degree to which pairs of individuals are alike with regard to\
+    \ a specific task.\n- **Counterfactual fairness (individual fairness): **An outcome\
+    \ is fair if an automated decision made about an individual belonging to a sensitive\
+    \ group would have been the same were that individual a member of a different\
+    \ group in a closest possible alternative (or counterfactual) world. Like the\
+    \ individual fairness approach, this method of defining fairness focuses on the\
+    \ specific circumstances of an affected decision subject, but, by using the tools\
+    \ of contrastive explanation, it moves beyond individual fairness insofar as it\
+    \ brings out the causal influences behind the algorithmic output. It also presents\
+    \ the possibility of offering the subject of an automated decision knowledge of\
+    \ what factors, if changed, could have influenced a different outcome. This could\
+    \ provide them with actionable recourse to change an unfavourable decision.\n\
+    (Leslie, 2019, p. 19)\n\n"
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Principles:
+  - rec42P8U9usfYCtv9
+  Reference:
+  - 'Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A
+    guide for the responsible design and implementation of AI systems in the public
+    sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  - European Commission. (2022). Ethical guidelines on the use of artificial intelligence
+    and data in teaching and learning for educators | European Education Area. European
+    Commission. https://education.ec.europa.eu/node/2285
+  Sources:
+  - recfYC5jjPmpLfSlM
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - recNzXJwCfbwBLmVU
+  - rec35PeHdUmtalypk
+  Tags:
+  - AI
+  airtable_createdTime: '2023-06-18T15:25:08.000Z'
+  airtable_id: recJvXzs5QMTqWzUF
+  title: Outcome fairness and bias in the outputs of models
+- Challenges:
+  - recwuiKe3bhSLw4xv
+  Description: "AI systems may impact on relationships between decision makers such\
+    \ that judgements previously made at a professional level must involve technology\
+    \ providers. It may not be clear in advance how the user experience of AI tools\
+    \ has been considered in evaluation, nor what input those using the tool can have\
+    \ into ongoing development. This may occur in both smaller studies (e.g., individual\
+    \ site) or larger deployment.\n\u201CWhen citizens are subject to decisions, predictions,\
+    \ or classifications produced by AI systems, situations may arise where such individuals\
+    \ are unable to hold directly accountable the parties responsible for these outcomes.\
+    \ AI systems automate cognitive functions that were previously attributable exclusively\
+    \ to accountable human agents. This can complicate the designation of responsibility\
+    \ in algorithmically generated outcomes, because the complex and distributed character\
+    \ of the design, production, and implementation processes of AI systems may make\
+    \ it difficult to pinpoint accountable parties. In cases of injury or negative\
+    \ consequence, such an accountability gap may harm the autonomy and violate the\
+    \ rights of the affected individuals.\u201D (Leslie, 2019, p. 4)\n\n**\"**The\
+    \ interface between A/IS and practitioners, as well as other stakeholders, is\
+    \ gaining broader attention in domains such as healthcare diagnostics, and there\
+    \ are many other contexts where there may be different levels of involvement with\
+    \ the technology. We should recognize that, for example, occupational therapists\
+    \ and their assistants may have on-theground expertise in working with a patient,\
+    \ who might be the \u201Cend user\u201D of a robot or social\_A/IS technology.\
+    \ In order to develop a product that is ethically aligned, stakeholders\u2019\
+    \ feedback is crucial to design a system that takes ethical and social issues\
+    \ into account. There are successful user experience (UX) design concepts, such\
+    \ as accessibility, that consider human physical disabilities, which should be\
+    \ incorporated into A/IS as they are more widely deployed. It is important to\
+    \ continuously consider the impact of A/IS through unanticipated use and on unforeseen\
+    \ interests.\"\np.130-131\n"
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recU6u0AZbcNj1ik9
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  - 'Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A
+    guide for the responsible design and implementation of AI systems in the public
+    sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  - European Commission. (2022). Ethical guidelines on the use of artificial intelligence
+    and data in teaching and learning for educators | European Education Area. European
+    Commission. https://education.ec.europa.eu/node/2285
+  Sources:
+  - recpXl48pJdKDhc6f
+  - recfYC5jjPmpLfSlM
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - recQPwyiQbPcN0G47
+  - recRTVqtvPcBS6zps
+  Tags:
+  - AI
+  - corporate-ethics
+  - education
+  airtable_createdTime: '2023-06-18T12:04:32.000Z'
+  airtable_id: recMhXPovX6fJ5ZIa
+  title: There may be lack of accountability for centering stakeholder experience
+    and agency in the design of AI driven by commercial interests
+- Challenges:
+  - recwuiKe3bhSLw4xv
+  Description: "**\"Issue: **A/IS creators have opportunities to safeguard human well-being\
+    \ by ensuring that A/IS does no harm to earth\u2019s natural systems or that A/IS\
+    \ contributes to realizing sustainable stewardship, preservation, and/or restoration\
+    \ of earth\u2019s natural systems. A/IS creators have opportunities to prevent\
+    \ A/IS from contributing to the degradation of earth\u2019s natural systems and\
+    \ hence losses to human well-being.\nIt is unwise, and in truth impossible, to\
+    \ separate the well-being of the natural environment of the planet from the well-being\
+    \ of humanity. A range of studies, from the [historic](https://www.clubofrome.org/report/the-limits-to-growth/)\
+    \ to more [recent,](https://www.nationalgeographic.com/environment/2018/10/ipcc-report-climate-change-impacts-forests-emissions/)\
+    \ prove that ecological collapse endangers human existence. Hence, the concept\
+    \ of well-being should encompass planetary wellbeing. Moreover, biodiversity and\
+    \ ecological integrity have intrinsic merit beyond simply their instrumental value\
+    \ to humans.\nTechnology has a long history of contributing to ecological degradation\
+    \ through its role in expanding the scale of resource extraction and environmental\
+    \ pollution, for example, the immense power needs of network computing, which\
+    \ leads to [climate change,](http://www.ipcc.ch/) [water scarcity](http://www.unwater.org/),\
+    \ [soil degradation](https://www.worldwildlife.org/threats/soil-erosion-and-degradation),\
+    \ [species](http://www.iucnredlist.org/) [extinction](http://www.iucnredlist.org/),\
+    \ [deforestation](http://www.wri.org/our-work/topics/forests), [biodiversity loss,](https://www.theguardian.com/news/2018/mar/12/what-is-biodiversity-and-why-does-it-matter-to-us)\
+    \ and destruction of ecosystems which in turn threatens humankind in the long\
+    \ run. These and other costs are often considered externalities and often do not\
+    \ figure into decisions or plans. At the same time, there are many examples, such\
+    \ as photovoltaics and smart grid technology that present potential ways to restore\
+    \ earth\u2019s ecosystems if undertaken within a systems approach aimed at sustainable\
+    \ economic and environmental development.\nEnvironmental justice [research ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5129282/)demonstrates\
+    \ that the negative environmental impacts of technology are commonly concentrated\
+    \ on the middle class and working poor, as well as those suffering from abject\
+    \ poverty, fleeing disaster zones, or otherwise lacking the resources to meet\
+    \ their needs. Ecological impact can thus exacerbate the economic and sociological\
+    \ effects of wealth disparities on human well-being by concentrating environmental\
+    \ injustice onto those who are less well off. Moreover, [well-being research findings](https://www.equalitytrust.org.uk/resources/the-spirit-level)\
+    \ indicate that unfair economic and social inequality has a dampening effect on\
+    \ everyone's well-being, regardless of economic or social class.\nIn these respects,\
+    \ A/IS are no exception; they can be used in ways that either help or harm the\
+    \ ecological integrity of the planet. It may be fair to say that ecological health\
+    \ and human well-being will, increasingly, depend upon A/IS creators. It is imperative\
+    \ that A/IS creators and stakeholders find ways to use A/IS to do no harm and\
+    \ to reduce the environmental degradation associated with economic growth\u2013\
+    while simultaneously identifying applications to restore the ecological health\
+    \ of the planet and thereby safeguarding the well-being of humans. For A/IS to\
+    \ reduce environmental degradation and promote wellbeing, it is required that\
+    \ not only A/IS creators act along such lines, but also that a systems approach\
+    \ is taken by all A/IS stakeholders to find solutions that safeguard human well-being\
+    \ with the understanding that human well-being is inextricable from healthy social,\
+    \ economic, and environmental systems._\"_\n_p.74-75_\n"
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Principles:
+  - recmzjcGKv3yNOxbl
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - recwQrzqPp6C7jyJs
+  Tags:
+  - AI
+  - corporate-ethics
+  airtable_createdTime: '2023-06-18T13:04:37.000Z'
+  airtable_id: recPKPxKp07OlhULb
+  title: How do we foster AI that contributes to sustainability in context of short-term
+    growth priorities?
+- Challenges:
+  - recJ6khG2kY2Tx5ae
+  Description: "Tools may mediate the interaction between researchers and participants,\
+    \ or research may be conducted in a way that is distal to human interactions with\
+    \ the inputs or outputs of the research (e.g., distal to the original capture\
+    \ of the data in the context of gathering training data; or to the use of a tool\
+    \ in the context of training an algorithm to be deployed beyond the research project).\n\
+    \"Collecting new data raises issues around meaningful informed consent, whether\
+    \ the subjects are aware of what their data and the resulting research outputs\
+    \ will be used for, how this will affect them and others, and the representation\
+    \ of humans by a necessarily more limited model. More general questions arise\
+    \ about privacy as a concept to allow data subjects self-determination and control\
+    \ over how data about them is used. Further, respect for autonomy ensures an individual\u2019\
+    s ability to make decisions for themselves, and to act upon them. Modern digital\
+    \ data collection (e.g. Application Programming Interfaces) and processing techniques\
+    \ have put the various concepts of privacy and autonomy under significant strain.\
+    \ It is therefore important for researchers to be mindful of ways to minimize\
+    \ the risk to research subjects\u2019 and any violations of privacy and autonomy\
+    \ by third parties. Further, applying technological solutions such as encryption\
+    \ are often mistakenly classed as efforts to improve privacy, while they instead\
+    \ provide more security. Similarly, not disclosing information is called confidentiality,\
+    \ not necessarily privacy.\u201D\n\n(franzke et al., 2020, p. 38)\n"
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - recLHILkx2JDFsLbX
+  Reference:
+  - 'franzke, aline shakti, Bechmann, A., Zimmer, M., Ess, C., & Association of Internet
+    Researchers (AoIR). (2020). Internet Research: Ethical Guidelines 3.0 Association
+    of Internet Researchers. AoIR. https://aoir.org/reports/ethics3.pdf'
+  - 'Markham, A., & Buchanan, E. (2012). Ethical Decision-Making and Internet Research:
+    Recommendations from the AoIR Ethics Working Committee (Version 2.0). AoIR. https://aoir.org/reports/ethics2.pdf'
+  Sources:
+  - rec6r8OkE2Q2EdiM3
+  - recQiVQ7CTC72xp6O
+  Strategies:
+  - recB7MF7TeUKH3chO
+  - recPynxbe7x5wOs5E
+  - recazD3B5XpqgOCGV
+  - recN2Lw4yXDBWLSYv
+  - recobVSYWj9jYvbgF
   Tags:
   - AI
   airtable_createdTime: '2023-06-16T16:58:37.000Z'
   airtable_id: recQWEzfzmzmfstG9
-  title: Interactions and distance between researcher-participant are impacted
+  title: Technologies mediate the interactions and distance between researchers and
+    participants
+- Challenges:
+  - recJ6khG2kY2Tx5ae
+  Description: "Technology-mediated relationships between researchers and participants\
+    \ may serve to entrench, create, or miss opportunity to challenge, injustices.\
+    \ That is through, for example:\n- power relationships arising from researcher-directed\
+    \ data selection and use,\n- lack of certainty regarding who data represents and\
+    \ its underlying meaning, and \n- potential for the burdens of data representation\
+    \ and its benefits to be inequitable, that is, data may be collected about marginalised\
+    \ communities while not serving to benefit them, or/and not be collected due to\
+    \ digital divides.\n\n"
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
+  Principles:
+  - recSqx6wklVpDzx3s
+  Reference:
+  - 'franzke, aline shakti, Bechmann, A., Zimmer, M., Ess, C., & Association of Internet
+    Researchers (AoIR). (2020). Internet Research: Ethical Guidelines 3.0 Association
+    of Internet Researchers. AoIR. https://aoir.org/reports/ethics3.pdf'
+  Sources:
+  - rec6r8OkE2Q2EdiM3
+  Strategies:
+  - rec09f7Nm4RTf6WjE
+  - recf50wvya0NXxdxz
+  - rec3q0xKZABgZf9Dg
+  Tags:
+  - AI
+  airtable_createdTime: '2023-06-16T17:54:55.000Z'
+  airtable_id: recQmyVULN0OuFA2s
+  title: Technology-mediated relationships between researchers and participants may
+    serve to entrench, create, or miss opportunity to challenge, injustices.
+- Challenges:
+  - recJ6khG2kY2Tx5ae
+  Description: "\"The research analytical process includes selecting the training\
+    \ data, cleaning the data, developing the model through steps of training, evaluating,\
+    \ adjusting, re-training the model.\" (franzke, et al., 2020 p.41)\nFrom selecting\
+    \ and understanding training data, data cleaning, model-selection and training,\
+    \ consideration of bias, and the use of any system (what is being automated and\
+    \ why). Across this process, changes in the relationships between researchers\
+    \ and those whose data is being used have significant implications. \n\n"
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Principles:
+  - recOHnq45Fq7YWsRO
+  Reference:
+  - 'franzke, aline shakti, Bechmann, A., Zimmer, M., Ess, C., & Association of Internet
+    Researchers (AoIR). (2020). Internet Research: Ethical Guidelines 3.0 Association
+    of Internet Researchers. AoIR. https://aoir.org/reports/ethics3.pdf'
+  - Fedoruk, L. (2017b). Ethics in The Scholarship of Teaching and Learning. University
+    of Calgary Taylor Institute for Teaching and Learning. https://taylorinstitute.ucalgary.ca/resources/ethics-scholarship-teaching-and-learning
+  Sources:
+  - rec6r8OkE2Q2EdiM3
+  - recQzldmBLByP78Uu
+  Strategies:
+  - recnFHf9V2VtAVJMx
+  - recDOGXIsqtXrCuSz
+  Tags:
+  - AI
+  - education
+  airtable_createdTime: '2023-06-16T17:54:57.000Z'
+  airtable_id: recQtuMpX4WaAoHhG
+  title: Decisions throughout research processes have implications for risks and benefits;
+    assessment of these is impacted by researcher-participant relationships
+- Challenges:
+  - rec3T1WLC4dg63qyI
+  Description: "There may be a perception that established models of ethics review\
+    \ have gaps in their handling of research involving AI. To some extent such gaps\
+    \ are likely to be locally based, and understanding the particular expertise at\
+    \ any given institution is important. \n\n\"Institutional ethics committees in\
+    \ the A/IS fields\nIt is unclear how research on the interface of humans and A/IS,\
+    \ animals and A/IS, and biological hazards will impact research ethical review\
+    \ boards. Norms, institutional controls, and risk metrics appropriate to the technology\
+    \ are not well established in the relevant literature and research governance\
+    \ infrastructure. Additionally, national and international regulations governing\
+    \ review of human-subjects research may explicitly or implicitly exclude A/IS\
+    \ research from their purview on the basis of legal technicalities or medical\
+    \ ethical concerns, regardless of the potential harms posed by the research.\n\
+    Research on A/IS human-machine interaction, when it involves intervention or interaction\
+    \ with identifiable human participants or their data, typically falls to the governance\
+    \ of research ethics boards, e.g., institutional review boards. The national level\
+    \ and institutional resources, e.g., hospitals and universities, necessary to\
+    \ govern ethical conduct of Human-Computer Interaction (HCI), particularly within\
+    \ the disciplines pertinent to A/IS research, are underdeveloped.\nFirst, there\
+    \ is limited international or national guidance to govern this form of research.\
+    \ Sections of IEEE standards governing research on A/IS in medical devices address\
+    \ some of the issues related to the security of A/IS enabled devices. However,\
+    \ the ethics of testing those devices for the purpose of bringing them to market\
+    \ are not developed into policies or guidance documents from recognized national\
+    \ and international bodies, e.g., U.S. Food and Drug Administration (FDA) and\
+    \ EU European Medicines Agency (EMA). Second, the bodies that typically train\
+    \ individuals to be gatekeepers for the research ethics bodies are under-resourced\
+    \ in terms of expertise for A/IS development, e.g., Public Responsibility in Medicine\
+    \ and Research (PRIM&R) and the Society of Clinical Research Associates (SoCRA).\
+    \ Third, it is not clear whether there is sufficient attention paid to A/IS ethics\
+    \ by research ethics board members or by researchers whose projects involve the\
+    \ use of human participants or their identifiable data.\nFor example, research\
+    \ pertinent to the ethics-governing research at the interface of animals\_and\
+    \ A/IS research is underdeveloped with respect to systematization for implementation\
+    \ by the Institutional Animal Care and Use Committee (IACUC) or other relevant\
+    \ committees. In institutions without a veterinary school, it is unclear that\
+    \ the organization would have the relevant resources necessary to conduct an ethical\
+    \ review of such research.\nSimilarly, research pertinent to the intersection\
+    \ of radiological, biological, and toxicological research \u2014ordinarily governed\
+    \ under institutional biosafety committees\u2014and A/IS research is not often\_\
+    found in the literature pertinent to research\_ethics or research governance.\"\
+    \np.125\n"
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  - recOHnq45Fq7YWsRO
+  Principles:
+  - recKWrfJzX52AXSIf
+  - recjViPnz3atRIOpD
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - recI7WdfNhrQxRt7F
+  Tags:
+  - AI
+  - research
+  - corporate-ethics
+  airtable_createdTime: '2023-06-18T14:49:20.000Z'
+  airtable_id: recRU6VBHZccmYrln
+  title: There may be gaps in adequacy of institutional ethics review committees to
+    provide oversight of AI research
+- Challenges:
+  - rec3T1WLC4dg63qyI
+  Description: "**\"Ownership and responsibility**\nThere is variance within the technology\
+    \ community on how it sees its responsibility regarding A/IS. The difference in\
+    \ values and behaviors are not necessarily aligned with the broader set of social\
+    \ concerns raised by public, legal, and professional communities. The current\
+    \ makeup of most organizations has clear delineations among engineering, legal,\
+    \ and marketing functions. Thus, technologists will often be incentivized in terms\
+    \ of meeting functional requirements, deadline, and financial constraints, but\
+    \ for larger social issues may say, \u201CLegal will handle that.\u201D In addition,\
+    \ in employment and management technology or work contexts, \u201Cethics\u201D\
+    \ typically refers to a code of conduct regarding professional behavior versus\
+    \ a values-driven design process mentality.\nAs such, ethics regarding professional\
+    \ conduct often implies moral issues such as integrity or the lack thereof, in\
+    \ the case of whistleblowing, for instance. However, ethics in A/IS design include\
+    \ broader considerations about the consequences of technologies.\"\np.130\n"
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  - recOHnq45Fq7YWsRO
+  Principles:
+  - recKWrfJzX52AXSIf
+  - recjViPnz3atRIOpD
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - recCN9eqkgKT3KjCB
+  Tags:
+  - AI
+  - corporate-ethics
+  airtable_createdTime: '2023-06-18T14:48:04.000Z'
+  airtable_id: recT8ABqanoxK9Qu0
+  title: It may be perceived that as long as legal compliance is met, the responsibility
+    for the impacts of AI is addressed
+- Challenges:
+  - recBc3GCNokDL220T
+  Description: |
+    **Issue: **Intelligent toys
+    ## Background
+    Children will not only be exposed to A/IS at school but also at home, while they play and while they sleep. Toys are already being sold that offer interactive, intelligent opportunities for play. Many of them collect video and audio data which is stored on company servers and either is or could be mined for profiling or marketing data.
+    There is currently little regulatory oversight. In the United States COPPA7 offers some protection for the data of children under 13. Germany has outlawed such toys using legislation banning spying equipment enacted in 1981. Corporate A/IS are being embodied in toys and given to children to play with, to talk to, tell stories to, and to explore all the personal development issues that we learn about in private play as children."
+    p.116-117
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - reczVPIH1y2OMpAJH
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  - European Commission. (2022). Ethical guidelines on the use of artificial intelligence
+    and data in teaching and learning for educators | European Education Area. European
+    Commission. https://education.ec.europa.eu/node/2285
+  Sources:
+  - recpXl48pJdKDhc6f
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - reclzrMrQSQls3PI9
+  - recOo7Pmo4FBYcu7P
+  Tags:
+  - AI
+  - education
+  airtable_createdTime: '2023-06-18T12:04:31.000Z'
+  airtable_id: recTaaKAtPIfbenZv
+  title: Non-research platforms such as smart toys may collect data about children
+    with little regulation
 - Challenges:
   - recWPbL5kB1Yh5OPf
-  Description: |+
-    "How do we educate the workforce for design for, or work with, ethical AI?"
-
-  OverarchingPrinciples (from Principles):
+  Description: "As AI capacity develops inequitably, inequitable development of education\
+    \ regarding AI (including ethics) will lead to inequities in the design, uses,\
+    \ opportunities, and benefits of AI. How do we educate the workforce for design\
+    \ for, or work with, ethical AI?\n\n\"**Issue:** Education to prepare the future\
+    \ workforce, in both HIC and LMIC, to design ethical A/IS applications or to have\
+    \ a comparative advantage in working alongside A/IS, is either lacking or unevenly\
+    \ available, risking inequality perpetuated across generations, within and between\
+    \ countries, constraining equitable growth, supporting a sustainable future, and\
+    \ achievement of the SDGs.\nMultiple international institutions, in particular\
+    \ educational engineering organizations,27 have called on universities to play\
+    \ an active role, both locally and globally, in the resolution of the enormous\
+    \ problems that the world faces in securing peace, prosperity, planet protection,\
+    \ and universal human dignity: armed conflict, social injustice, rapid climate\
+    \ change, abuse of human rights, etc. Addressing global social problems is one\
+    \ of the central objectives of many universities, transversal to their other functions,\
+    \ including research in A/IS. UNESCO points out that universities\u2019 preparation\
+    \ of future scientists and engineers for social responsibility is presently very\
+    \ limited, in view of the enormous ethical and social problems associated with\
+    \ technology.28 Enhancing the global dimension of engineering\_in undergraduate\
+    \ and postgraduate A/IS education is necessary, so that students can\_be prepared\
+    \ as technical professionals, aware\_of the opportunities and risks that A/IS\
+    \ present, and ready for work anywhere in the world in\_any sector.\nEngineering\
+    \ studies at the university and postgraduate levels is just one dimension of the\
+    \ A/IS education challenge. For instance, business, law, public policy, and medical\
+    \ students will also need to be prepared for professions where A/IS are a partner,\
+    \ and to have internalized ethical principles to guide the deployment of such\
+    \ technologies. LMIC need financial and academic support to incorporate global\
+    \ A/IS professional curricula in their own universities, and all countries need\
+    \ to develop the pipeline by preparing elementary and secondary school students\
+    \ to access such professional programs. While the need for curriculum reform is\
+    \ recognized, the impact of A/IS on various professions and socioeconomic contexts\
+    \ is, at this time, both evolving and largely undocumented. Thus, the overhaul\
+    \ of education systems at all levels should be preceded by A/IS research.\nMuch\
+    \ of LMIC education is not globally competitive today, so there is a risk that\
+    \ the global advent of A/IS could negatively affect the chances of young people\
+    \ in LMIC finding productive employment, further fueling global inequality. Education\
+    \ systems worldwide have to be reformed and transformed to fit the new demands\
+    \ of the information age, in view of the changing mix of skills demanded from\
+    \ the workforce.29 In 21st century education, it has been observed that children\
+    \ need less rote knowledge, given so much is instantly accessible on the web and\
+    \ more tools to network and innovate are available; less memory and more imagination\
+    \ should be developed; and fewer physical books and more internet access is required.\
+    \ Young people everywhere need to develop their capacities for creativity, human\
+    \ empathy, ethics, and systems thinking in order to work productively alongside\
+    \ robots and A/IS technologies. Science, Technology, Engineering, Art/design,\
+    \ and Math (STEAM) subjects need to be more extensive and more creatively taught.30\
+    \ In addition, research is needed to establish ways that a new subject, empathy,\
+    \ can be added to these crucial 21st century subjects in order to educate the\
+    \ future A/IS workforce in social skills. Instead, in rich and poor countries\
+    \ alike, children are continuing to be educated for an industrial age which has\
+    \ disappeared or never even arrived. LMIC education systems, being less entrenched\
+    \ in many countries, may have the potential to be more flexible than those in\
+    \ HIC. Perhaps A/IS can be harnessed to help educational systems to leapfrog into\
+    \ the 21st century, just as mobile phone technology enabled LMIC leapfrog over\
+    \ the phase of wired communication infrastructure.\"\np.153-156\n\n"
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recNB5h9bK4gEE9uc
   Principles:
   - recOHnq45Fq7YWsRO
   - recNB5h9bK4gEE9uc
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - rec2679E9TXh1DCL8
   Tags:
   - education
   airtable_createdTime: '2023-06-16T16:25:14.000Z'
   airtable_id: recUMRucTbQ7tySEW
-  title: An example of long-term impacts in education with respect to merit
+  title: Opportunities to engage ethically with AI are entwined with learning opportunities
+    in ways that may lead to inequities in benefits and access
+- Challenges:
+  - recBc3GCNokDL220T
+  Description: "Different forms of data require consideration of the particular issues\
+    \ in their capture, storage, processing, publication, and archiving. These considerations\
+    \ include potential for inclusion of sensitive data, the benefits and risks of\
+    \ limiting data (e.g., the potential for distorting data through removing identifiers),\
+    \ the possibility of having captured incidental data (e.g., in videoing a group\
+    \ another class member can be heard commenting the background; in collecting blog\
+    \ posts, the comments are also obtained, etc.), and what expectations of what\
+    \ is private vs public might be both for analysis and subsequent dissemination.\
+    \ \nThis is particularly salient as new methods of reidentification emerge, and\
+    \ standards of appropriateness are established in sharing original data that may\
+    \ have been made publicly available (but not for research purposes).\n"
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Principles:
+  - rec42P8U9usfYCtv9
+  Reference:
+  - 'Markham, A., & Buchanan, E. (2012). Ethical Decision-Making and Internet Research:
+    Recommendations from the AoIR Ethics Working Committee (Version 2.0). AoIR. https://aoir.org/reports/ethics2.pdf'
+  - European Commission. (2022). Ethical guidelines on the use of artificial intelligence
+    and data in teaching and learning for educators | European Education Area. European
+    Commission. https://education.ec.europa.eu/node/2285
+  - "High-Level Expert Group on AI. (2019). Ethics guidelines for trustworthy AI |\
+    \ Shaping Europe\u2019s digital future. FUTURIUM - European Commission. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai"
+  Sources:
+  - recQiVQ7CTC72xp6O
+  - rec9jnxuHOioQn4DC
+  - recnCULdYQ36cpZR7
+  Strategies:
+  - recgWFCdfcVaeaPQO
+  - recpUrzG3GpRiwqnz
+  - recOo7Pmo4FBYcu7P
+  - reciw4r1bRvx6A6Fq
+  - rec7m69DQyCw3rlFg
+  Tags:
+  - AI
+  - education
+  airtable_createdTime: '2023-06-18T12:04:31.000Z'
+  airtable_id: recVGVVfuoL5sr3oo
+  title: Gathering personal digital data requires consideration of its management,
+    potential for reidentification, and issues around (dis)aggregation
+- Challenges:
+  - recJ6khG2kY2Tx5ae
+  Description: "Research in learning settings may involve research in the tradition\
+    \ of scholarship of teaching and learning (SoTL) research, or other  'close to\
+    \ practice' approaches (e.g. action research, design research, etc.). In this\
+    \ kind of research there are power dynamics between researchers who may be both\
+    \ researcher and teacher, placing them in a position of power over their potential\
+    \ participants. Even in research conducted by researchers, but delivered via educators\
+    \ (e.g., through their use of research materials in class, or through their provision\
+    \ of research instruments such as surveys) who may act as 'gatekeepers' to the\
+    \ participants, these power relations may endure. Mediation by technologies is\
+    \ likely to alter these relationships in complex ways.\n\n\u201CBecause Instructors\
+    \ typically conduct SoTL in their classrooms (current or former), SoTL practitioners\
+    \ frequently find themselves in the dual role of instructor and researcher. Ultimately,\
+    \ the instructor-researcher in SoTL is an instructor first. As MacLean and Poole\
+    \ (2010, pg. 3) explain, \u201CThe teacher\u2019s responsibility to hold students\u2019\
+    \ educational interests paramount provides an important perspective when considering\
+    \ ethical issues for research in teaching and learning.\u201D This dual role can\
+    \ raise a set of specific ethical dilemmas that require instructor-researchers\
+    \ to plan parts of the research carefully and to ask themselves challenging questions.\
+    \ Potential ethical dilemmas can arise concerning the following areas of ethical\
+    \ consideration. In the table below, we articulate several core principles for\
+    \ ethical practice that respond to these potentially dilemmatic areas of consideration\
+    \ and elaborate on them in the remainder of the document.\u201D (Fedoruk, 2017,\
+    \ p. 4)\n\n\u201CDual roles of researchers and their associated obligations (e.g.,\
+    \ acting as both a researcher and a therapist, health care provider, caregiver,\
+    \ teacher, advisor, consultant, supervisor, student or employer) may create conflicts,\
+    \ undue influences, power imbalances or coercion that could affect relationships\
+    \ with others and affect decision-making procedures (e.g., consent of participants).\
+    \ Article 3.2(e) reminds researchers of relevant ethical duties that govern real,\
+    \ potential or perceived conflicts of interest as they relate to the consent of\
+    \ participants. To preserve and not abuse the trust on which many professional\
+    \ relationships rest, researchers should be fully cognizant of conflicts of interest\
+    \ that may arise from their dual or multiple roles, their rights and responsibilities,\
+    \ and how they can manage the conflict. When acting in dual or multiple roles,\
+    \ the researcher shall disclose the nature of the conflict to the participant\
+    \ in the consent process\u201D (TCPS2, Chapter 7, D. Researchers and Conflicts\
+    \ of Interest).\u201D (Fedoruk, 2017, p. 5)\n\n\u201CThe approach to recruitment\
+    \ is an important element in assuring voluntariness. In particular, how, when\
+    \ and where participants are approached, and who recruits them are important elements\
+    \ in assuring (or undermining) voluntariness. In considering the voluntariness\
+    \ of consent, REBs and researchers should be cognizant of situations where undue\
+    \ influence, coercion, or the offer of incentives may undermine the voluntariness\
+    \ of a participants\u2019 consent to participate in research\u201D (TCPS2, Chapter\
+    \ 3, A. General Principles, \u201CConsent Should Be Given Voluntarily\u201D).\u201D\
+    \ (Fedoruk, 2017, p. 7)\n\n\u201CConsent shall be maintained throughout the research\
+    \ project. Researchers have an ongoing duty to provide participants with all information\
+    \ relevant to their ongoing consent to participate in the research\u201D (TCPS2,\
+    \ Chapter 3, A. General Principles, \u201CConsent Shall Be an Ongoing Process\u201D\
+    ).\u201D (Fedoruk, 2017, p. 8)\n\n\u201CTaking into account the scope and objectives\
+    \ of their research, researchers should be inclusive in selecting participants.\
+    \ Researchers shall not exclude individuals from the opportunity to participate\
+    \ in research on the basis of attributes such as culture, language, religion,\
+    \ race, disability, sexual orientation, ethnicity, linguistic proficiency, gender\
+    \ or age, unless there is a valid reason for the exclusion. Application ... The\
+    \ focus, objective, nature of research and context in which the research is conducted\
+    \ inform the inclusion and exclusion criteria for a specific research project...\
+    \ Other examples include research focused on specific cultural traditions or languages,\
+    \ or on one age group...Such research should not be precluded so long as the selection\
+    \ criteria for those included in the research are germane to answering the research\
+    \ question. Researchers who plan to actively exclude particular groups should\
+    \ clarify to their REBs the grounds for the exclusion\u201D (TCPS2, Chapter 4,\
+    \ A. Appropriate Inclusion).\u201D (Fedoruk, 2017, p. 9)\n\n\u201CResearchers\
+    \ should anticipate, to the best of their ability, needs of participants, groups\
+    \ and their communities that might arise in any given research project. ... Researchers\
+    \ should consider ways to ensure the equitable distribution of any benefits of\
+    \ participation in research\u201D (TCPS2, Chapter 4, B. Inappropriate Exclusion,\
+    \ \u201CParticipants\u2019 Vulnerability and Research\u201D).\u201D (Fedoruk,\
+    \ 2017, p. 9)\n\n\u201CResearchers should normally provide copies of publications,\
+    \ or other research reports or products, arising from the research to the institution\
+    \ or organization \u2013 normally the host institution \u2013 that is best suited\
+    \ to act as a repository and disseminator of the results within the participating\
+    \ communities. This may not be necessary for jurisdictions where the results are\
+    \ readily available in print or electronically. In general, researchers should\
+    \ ensure that participating individuals, groups and communities are informed of\
+    \ how to access the results of the research. Results of the research should be\
+    \ made available to them in a culturally appropriate and meaningful format, such\
+    \ as reports in plain language in addition to technical reports\u201D (TCPS2,\
+    \ Chapter 4, B. Inappropriate Exclusion, \u201CEquitable Distribution of Research\
+    \ Benefits\u201D).\u201D (Fedoruk, 2017, p. 10)\n\n\u201CResearchers shall safeguard\
+    \ information entrusted to them and not misuse or wrongfully disclose it. Institutions\
+    \ shall support their researchers in maintaining promises of confidentiality\u201D\
+    \ (TCPS2, Chapter 5, B. Ethical Duty of Confidentiality).\u201D (Fedoruk, 2017,\
+    \ p. 11)\n\n\u201CResearchers shall describe measures for meeting confidentiality\
+    \ obligations and explain any reasonably foreseeable disclosure requirements:\
+    \ a. in application materials they submit to the REB; and b. during the consent\
+    \ process with prospective participants\u201D (TCPS2, Chapter 5, B. Ethical Duty\
+    \ of Confidentiality).\u201D (Fedoruk, 2017, p. 11)\n\n\u201CResearchers shall\
+    \ provide details to the REB regarding their proposed measures for safeguarding\
+    \ information, for the full life cycle of information: its collection, use, dissemination,\
+    \ retention and/or disposal\u201D (TCPS2, Chapter 5, C. Safeguarding Information).\u201D\
+    \ (Fedoruk, 2017, p. 12)\n\n\u201CInstitutions or organizations where research\
+    \ data are held have a responsibility to establish appropriate institutional security\
+    \ safeguards\u201D (TCPS2, Chapter 5, C. Safeguarding Information).\u201D (Fedoruk,\
+    \ 2017, p. 12)\n"
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recKdujFoPJr4ZAhZ
+  Reference:
+  - Fedoruk, L. (2017b). Ethics in The Scholarship of Teaching and Learning. University
+    of Calgary Taylor Institute for Teaching and Learning. https://taylorinstitute.ucalgary.ca/resources/ethics-scholarship-teaching-and-learning
+  Sources:
+  - recQzldmBLByP78Uu
+  Strategies:
+  - recELo3u36oZuujxN
+  Tags:
+  - education
+  airtable_createdTime: '2023-06-16T18:00:45.000Z'
+  airtable_id: recX9rdsAGiONXTVd
+  title: Research involving teacher-student relationships involves power dynamics
+- Challenges:
+  - rec3T1WLC4dg63qyI
+  Description: "\"With growing awareness of, and attention to, the potential of data\
+    \ to inform decisions across contexts, has come an increasing recognition and\
+    \ need to develop data literacy strategies that support people to learn to be\
+    \ critical of data, given this consequential nature of data use (and abuse). To\
+    \ achieve a just society, inequities in both capacity for data literacy, and the\
+    \ applications of data in society, must be addressed. A key aim is to create learning\
+    \ experiences that engage learners with issues of power and inequity, including\
+    \ those typically marginalized by data literacy education. In this way, data literacy\
+    \ and social justice learning goals are intertwined, and mutually supportive,\
+    \ in developing data literacy in learning about, through, and for social justice.\"\
+    \ Knight, Matuk, & DesPortes, (2022). \nInequities may arise in terms of the burden\
+    \ of data collection, the benefits of data use, experience of that use, and capacity\
+    \ to access data interpretation ('physical' access, and skills). As such, inequities\
+    \ in access to AI may increase, not tackle, inequality. Inequities may flow through\
+    \ in bringing together groups to design, develop, evaluate, and implement systems.\n\
+    \nKnight, S., Matuk, C., & DesPortes, K. (2022). Guest Editorial: Learning at\
+    \ the Intersection of Data Literacy and Social Justice. _Educational Technology\
+    \ & Society_. <https://opus.lib.uts.edu.au/bitstream/10453/164887/2/ETS_25_4_06.pdf>\
+    \ \n"
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
+  Principles:
+  - recSqx6wklVpDzx3s
+  Tags:
+  - education
+  airtable_createdTime: '2023-06-18T15:10:26.000Z'
+  airtable_id: recbjinwvxQkFttqg
+  title: The Intersection of Data Literacy and Social Justice in AI and decision making
 - Challenges:
   - recWPbL5kB1Yh5OPf
   Description: "Use of AI in education risks a set of long-range and indirect impacts\
@@ -127,7 +1554,7 @@
     \ across culture, context, or time. In this way the potential of AI to personalise\
     \ content may be restricted to a narrowly individualistic view of personalisation\
     \ and adaptivity. \n"
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recNB5h9bK4gEE9uc
   - recLHILkx2JDFsLbX
   Principles:
@@ -139,24 +1566,812 @@
   - education
   airtable_createdTime: '2023-06-16T12:26:38.000Z'
   airtable_id: reccjN6q8gegWbrUE
-  title: Reification, ossification, and standardisation
+  title: Reification, ossification, and standardisation reduce autonomy
+- Challenges:
+  - recwuiKe3bhSLw4xv
+  Description: "The interaction of research, stakeholders particularly in public service\
+    \ contexts, and commercial entities may give rise to perceived or actual conflicts\
+    \ of interest. These should be considered from the inception of a project through\
+    \ to intended implementation of any outcomes. Commercial entities may be involved\
+    \ in research as:\n- Funders\n- Providers of technologies being used in the research\
+    \ process (e.g., automated transcription services)\n- Providers of technologies\
+    \ being evaluated in the research\n- Co-researchers, and possibly participants\
+    \ (typically this would be considered only where they are also funding work)\n\
+    - As platforms from which data is drawn\n- As platforms from which employees are\
+    \ engaged (e.g. crowdworking platforms (in this context, researchers may explore\
+    \ the 2014 guide \\[Guidelines for Academic Requesters]\\(https://irb.northwestern.edu/docs/guidelinesforacademicrequesters-1.pdf)\
+    \ ) \n\nInstitutional policies regarding management of conflicts of interest should\
+    \ be carefully considered. \n\n\"We need independent, expert opinions that provide\
+    \ guidance to the general public regarding A/IS. Currently, there is a gap between\
+    \ how\_A/IS are marketed and their actual performance or application. We need\
+    \ to ensure that\_A/IS technology is accompanied by best-use recommendations and\
+    \ associated warnings. Additionally, we need to develop a certification scheme\
+    \ for A/IS which ensures that the technologies have been independently\_assessed\
+    \ as being safe and ethically sound.\nFor example, today it is possible for systems\
+    \ to download new self-parking functionality to cars, and no independent reviewer\
+    \ establishes or characterizes boundaries or use. Or, when a companion robot promises\
+    \ to watch your children, there is no organization that can issue an independent\
+    \ seal of approval or limitation on these devices. We need a ratings and approval\
+    \ system ready to serve social/automation technologies that will come online as\
+    \ soon as possible. We also need further government funding for research into\
+    \ how A/IS technologies can best be subjected to review, and how\_review organizations\
+    \ can consider both\_traditional health and safety issues, as well\_as ethical\
+    \ considerations.\"\np.133-134\n\n\"**Issue 3:** Challenges to evaluation by third\
+    \ parties\nA/IS should have sufficient transparency to allow evaluation by third\
+    \ parties, including regulators, consumer advocates, ethicists, post-accident\
+    \ investigators, or society at large. However, transparency can be severely limited\
+    \ in some systems, especially in those that rely on machine learning algorithms\
+    \ trained on large data sets. The data sets may not be accessible to evaluators;\
+    \ the algorithms may be proprietary information or mathematically so complex that\
+    \ they defy common-sense explanation; and even fellow software experts may be\
+    \ unable to verify reliability and efficacy of the final system because the system\u2019\
+    s specifications are opaque.\nFor less inscrutable systems, numerous techniques\
+    \ are available to evaluate the implementation of the A/IS\u2019 norm conformity.\
+    \ On one side there is formal verification, which provides a mathematical proof\
+    \ that the A/IS will always match specific normative and ethical requirements,\
+    \ typically devised in a top-down approach (see Section 2, Issue 1). This approach\
+    \ requires access to the decision-making process and the reasons for each decision\
+    \ (Fisher, Dennis, and Webster 201355). A simpler alternative, sometimes suitable\
+    \ even for machine learning systems, is to test the A/IS against a set of scenarios\
+    \ and assess how well they matches their normative requirements, e.g., acting\
+    \ in accordance with relevant norms and recognizing other agents\u2019 norm violations.\
+    \ A \u201Cred team\u201D may also devise scenarios that try to get the A/IS\_\
+    to break norms so that its vulnerabilities can\_be revealed.These different evaluation\
+    \ techniques can be assigned different levels of \u201Cstrength\u201D: strong\
+    \ ones demonstrate the exhaustive set of the\_A/IS\u2019 allowable behaviors for\
+    \ a range of criterion scenarios; weaker ones sample from criterion scenarios\
+    \ and illustrate the systems\u2019 behavior for that subsample. In the latter\
+    \ case, confidence in the A/IS\u2019 ability to meet normative requirements is\
+    \ more limited. An evaluation\u2019s concluding judgment must therefore acknowledge\
+    \ the strength of the verification technique used,\_and the expressed confidence\
+    \ in the evaluation \u2014 and in the A/IS themselves\u2014must be qualified\_\
+    by this level of strength.\nTransparency is only a necessary requirement for a\
+    \ more important long-term goal: having systems be accountable to their users\
+    \ and community members. However, this goal raises many questions such as to whom\
+    \ the A/IS are accountable, who has the right to correct the systems, and which\
+    \ kind of A/IS should be subject to accountability requirements.\"\np.185-186,\
+    \ ieee, 2019\n"
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Principles:
+  - recOHnq45Fq7YWsRO
+  Reference:
+  - 'franzke, aline shakti, Bechmann, A., Zimmer, M., Ess, C., & Association of Internet
+    Researchers (AoIR). (2020). Internet Research: Ethical Guidelines 3.0 Association
+    of Internet Researchers. AoIR. https://aoir.org/reports/ethics3.pdf'
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - rec6r8OkE2Q2EdiM3
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - rec8cNT8sPSFtMSAc
+  - recgqEckuFTILlOnz
+  - recI7WdfNhrQxRt7F
+  Tags:
+  - AI
+  - corporate-ethics
+  - education
+  airtable_createdTime: '2023-06-18T13:24:18.000Z'
+  airtable_id: recdkRK64g0b4GZlP
+  title: Work involving commercial actors may be driven by commercial interests over
+    scientific rigour impacting both the conduct of evaluation and validity of claims
+    made regarding system efficacy
+- Challenges:
+  - rec3T1WLC4dg63qyI
+  Description: "**Issue:** Values-based design\n## Background\nEthics are often treated\
+    \ as an impediment to innovation, even among those who ostensibly support ethical\
+    \ design practices. In industries that reward rapid innovation in particular,\
+    \ it is necessary to develop ethical design practices that integrate effectively\
+    \ with existing engineering workflows. Those who advocate for ethical design within\
+    \ a company should be seen as innovators seeking the best outcomes for the company,\
+    \ end users, and society. Leaders can facilitate that mindset by promoting an\
+    \ organizational structure that supports the integration of dialogue about ethics\
+    \ throughout product life cycles.\nA/IS design processes often present moments\
+    \ where ethical consequences can be highlighted. There are no universally prescribed\
+    \ models for this because organizations vary significantly in structure and culture.\
+    \ In some organizations, design team meetings may be brief and informal. In others,\
+    \ the meetings may be lengthy and structured. The transition points between discovery,\
+    \ prototyping, release, and revisions are natural contexts for conducting such\
+    \ reviews. Iterative review processes are also advisable, in part because changes\
+    \ to risk profiles over time Companies should study design processes to identify\
+    \ situations where engineers and researchers can be encouraged to raise and resolve\
+    \ questions of ethics and foster a proactive environment to realize ethically\
+    \ aligned design. Achieving a distributed responsibility for ethics requires that\
+    \ all people involved in product design are encouraged to notice and respond to\
+    \ ethical concerns. Organizations should consider how they can best encourage\
+    \ and facilitate deliberations among peers.\n## Recommendations\nOrganizations\
+    \ should identify points for formal review during product development. These reviews\
+    \ can focus on \u201Cred flags\u201D that have been identified in advance as indicators\
+    \ of risk. For example, if the datasets involve minors or focus on users from\
+    \ protected classes, then it may require additional justification or alterations\
+    \ to the research or development protocols.\ncan illustrate needs or opportunities\
+    \ for improving the final product.\n## Further Resources\n\u2022\_\_\_\_\_A. Sinclair,\
+    \ \u201C[Approaches to Organizational Culture and Ethics,](https://doi.org/10.1007/BF01845788)\u201D\
+    \ _Journal of Business Ethics, _vol._ _12, no. 1, pp. 63\u201373, 1993.\n\u2022\
+    \_\_\_\_\_Al Y. S. Chen, R. B. Sawyers, and P. F. Williams. \u201C[Reinforcing\
+    \ Ethical Decision Making Through Corporate Culture,](https://link.springer.com/article/10.1023/A:1017953517947)_\u201D\
+    \ Journal of Business Ethics _16, no. 8, pp. 855\u2013865, 1997.\n**\_**\u2022\
+    \ K. Crawford and R. Calo, \u201C[There Is a Blind Spot in AI Research,](http://www.nature.com/news/there-is-a-blind-spot-in-ai-research-1.20805)\u201D\
+    \ _Nature _538, pp. 311\u2013313, 2016.\n\n"
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Principles:
+  - recOHnq45Fq7YWsRO
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - recfcXzM3foqFNNGN
+  Tags:
+  - AI
+  - corporate-ethics
+  airtable_createdTime: '2023-06-18T17:28:15.000Z'
+  airtable_id: recfGEm2rcOTFEZVZ
+  title: How do we embed values throughout AI workflows?
+- Challenges:
+  - recBc3GCNokDL220T
+  Description: "\"**Issue**: What would it mean for a person to have individually\
+    \ controlled terms and conditions for their personal data?\n## Background\nPart\
+    \ of providing individually controlled terms and conditions for personal data\
+    \ is to help each person consider what their preferences are regarding their data\
+    \ versus dictating how they need to share it. While questions along these lines\
+    \ are framed in light of a person\u2019s privacy, their preferences also reveal\
+    \ larger values for individuals. The ethical issue is whether A/IS act in accordance\
+    \ with these values.\nThis process of investigating one\u2019s values to identify\
+    \ these preferences is a powerful step towards regaining data agency. The point\
+    \ is not only that a person\u2019s data are protected, but also that by curating\
+    \ these answers they become educated about how important their information is\
+    \ in the context of how it is shared. Most individuals also believe controlling\
+    \ their personal data only happens on the sites or social networks to which they\
+    \ belong and have no idea of the consequences of how that data may be used by\
+    \ others in the future. Agreeing to most standard terms and conditions on these\
+    \ sites largely means users consent to give up control of their personal data\
+    \ rather than play a meaningful role in defining and curating its downstream use.\_\
+    \nThe scope of how long one should or could control the downstream use of their\
+    \ data can be difficult to calculate as consent-based models of personal data\
+    \ have trained users to release rights on any claims for use of their data which\
+    \ are entirely provided to the service, manufacturer, and their partners. However,\
+    \ models like YouTube\u2019s [Content ID ](https://www.youtube.com/t/contentid)provide\
+    \ a form of precedent for thinking about how an individual\u2019s data could be\
+    \ technically protected where it is considered as an asset they could control\
+    \ and copyright. Here is language from [YouTube\u2019s site about the service:](https://support.google.com/youtube/answer/2797370?hl=en)\
+    \ \u201CCopyright owners can use a system called Content ID to easily identify\
+    \ and manage their content on YouTube. Videos uploaded to YouTube are scanned\
+    \ against a database of files that have been submitted to us by content owners.\u201D\
+    \ In this sense, the question of how long or how far downstream one\u2019s personal\
+    \ data should be protected takes on the same logic of how long a corporation\u2019\
+    s intellectual property or copyrights could be protected based on initial legal\
+    \ terms set.\nOne challenge is how to define use of data that can affect the individual\
+    \ directly, versus use of aggregated data. For example, an individual subway user\u2019\
+    s travel card, tracking their individual movements, should be protected from uses\
+    \ that identify or profile that individual to make inferences about his/her likes\
+    \ or location generally. But data provided by a user could be included in an overall\
+    \ travel system\u2019s management database, aggregated into patterns for scheduling\
+    \ and maintenance as long as the individual-level data are deleted. Where users\
+    \ have predetermined via their terms and conditions that they are willing to share\
+    \ their data for these travel systems, they can meaningfully articulate how to\
+    \ share their information.\nUnder current business models, it is common for people\
+    \ to consent to the sharing of discrete data like credit card transaction data,\
+    \ answers to test questions, or how many steps they walk. However, once aggregated\
+    \ these data and the associated insights may lead to complex and sensitive conclusions\
+    \ being drawn about individuals. This end use of the individual\u2019s data may\
+    \ not have been part of the initial sharing agreement. This is why models for\
+    \ terms and conditions created for user control typically alert people via onscreen\
+    \ or other warning methods when their predetermined preferences are\_not being\
+    \ honored.\"\np.108-110\n"
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recPg7Ov0priGGtLm
+  - recsvi4LnhEEPyQ1h
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  - European Commission. (2022). Ethical guidelines on the use of artificial intelligence
+    and data in teaching and learning for educators | European Education Area. European
+    Commission. https://education.ec.europa.eu/node/2285
+  Sources:
+  - recpXl48pJdKDhc6f
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - recwWov6KzmwU0FQW
+  - recOo7Pmo4FBYcu7P
+  Tags:
+  - AI
+  - education
+  airtable_createdTime: '2023-06-18T12:04:30.000Z'
+  airtable_id: recfjoQZIVhT0C5pW
+  title: Generic T&C statements provide limited control to individuals over their
+    own data
+- Challenges:
+  - recefglLZ3oJWw2SZ
+  Description: "\u201CBecause human beings have a hand in all stages of the construction\
+    \ of AI systems, fairness-aware design must take precautions across the AI project\
+    \ workflow to prevent bias from having a discriminatory influence. \nThis requires\
+    \ cross-stakeholder to understand the desired outcomes and appropraite measures,\
+    \ alongside consideration of any biases throughout this problem formulation that\
+    \ may lead to discriminatory or otherwise undesirable outcomes. These considerations\
+    \ should carry through into data collection, processing (and contextualisation),\
+    \ feature engineering, model building, and potential uses of models. \n"
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
+  - recOHnq45Fq7YWsRO
+  Principles:
+  - recMGB4iC5oaCtr5x
+  - recQ9DIFEsOEkCx3O
+  Reference:
+  - 'Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A
+    guide for the responsible design and implementation of AI systems in the public
+    sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  - European Commission. (2022). Ethical guidelines on the use of artificial intelligence
+    and data in teaching and learning for educators | European Education Area. European
+    Commission. https://education.ec.europa.eu/node/2285
+  Sources:
+  - recfYC5jjPmpLfSlM
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - recgswAsiepwEclOd
+  - rec35PeHdUmtalypk
+  Tags:
+  - AI
+  airtable_createdTime: '2023-06-18T16:26:15.000Z'
+  airtable_id: recftbldoHqhBBcrk
+  title: Design fairness and ensuring models address challenges communities agree
+    should be addressed
+- Challenges:
+  - rec3T1WLC4dg63qyI
+  Description: "A/IS culture and context\n## Norms vary: Background\nA responsible\
+    \ approach to embedding values into A/IS requires that algorithms and systems\
+    \ are created in a way that is sensitive to the variation of ethical practices\
+    \ and beliefs across cultures. The designers of A/IS need to be mindful of cross-cultural\
+    \ ethical variations while also respecting widely held international legal norms.\"\
+    \np.124\n\n\"**Issue 1:** Which norms should\_be identified?\n## Background\n\
+    If machines engage in human communities, then those agents will be expected to\
+    \ follow the community\u2019s social and moral norms. A necessary step in enabling\
+    \ machines to do so is to identify these norms. But which norms should be identified?\
+    \ Laws are publicly documented and therefore easy to identify, so they can be\
+    \ incorporated into A/IS as long as they do not violate humanitarian or community\
+    \ moral principles. Social and moral norms are more difficult to ascertain, as\
+    \ they are expressed through behavior, language, customs, cultural symbols, and\
+    \ artifacts. Most important, communities ranging from families to whole nations\
+    \ differ to various degrees in the norms they follow. Therefore, generating a\
+    \ universal set of norms that applies to all A/IS in all contexts is not realistic,\
+    \ but neither is it advisable to completely tailor the A/IS to individual preferences.\
+    \ We suggest that it is feasible to identify broadly observed norms of communities\
+    \ in which a technology is deployed.\nFurthermore, the difficulty of generating\
+    \ a universal set of norms is not inconsistent with the goal of seeking agreement\
+    \ over Universal Human Rights (see the \u201CGeneral Principles\u201D chapter\
+    \ of _Ethically Aligned Design_). However, these universal rights are not sufficient\
+    \ for devising A/IS that conform to the specific norms of its community. Universal\
+    \ Human Rights must, however, constrain the kinds of norms that are implemented\
+    \ in the A/IS (cf. van de Poel 20168).\nEmbedding norms in A/IS requires a careful\
+    \ understanding of the communities in which the A/IS are to be deployed. Further,\
+    \ even within a particular community, different types of A/IS will demand different\
+    \ sets of norms. The relevant norms for self-driving vehicles, for example,\_\
+    may differ greatly from those for robots used\_in healthcare. Thus, we recommend\
+    \ that to develop A/IS capable of following legal, social, and moral norms, the\
+    \ first step is to identify the norms of the specific community in which the\_\
+    A/IS are to be deployed and, in particular, norms relevant to the kinds of tasks\
+    \ and roles for which the A/IS are designed. Even when designating a narrowly\
+    \ defined community, e.g., a nursing home, an apartment complex, or a company,\
+    \ there will be variations in the norms that apply, or in their relative weighting.\
+    \ The norm identification process must heed such variation and ensure that the\
+    \ identified norms are representative, not only of the dominant subgroup in the\
+    \ community but also of vulnerable and underrepresented groups.\nThe most narrowly\
+    \ defined \u201Ccommunity\u201D is a single person, and A/IS may well have to\
+    \ adapt to the unique expectations and needs of a given individual, such as the\
+    \ arrangement of a disabled person\u2019s living accommodations. However, unique\
+    \ individual expectations must not violate norms in the larger community. Whereas\
+    \ the arrangement of someone\u2019s kitchen or the frequency with which a care\
+    \ robot checks in with a patient can be personalized without violating any community\
+    \ norms, encouraging the robot to use derogatory language to talk about certain\
+    \ social groups does violate such norms. In the next section, we discuss how A/IS\
+    \ might handle such norm conflicts.\nInnovation projects and development efforts\
+    \ for A/IS should always rely on empirical research, involving multiple disciplines\
+    \ and multiple methods; to investigate and document both context- and task-specific\
+    \ norms, spoken and unspoken, that typically apply in a particular community.\
+    \ Such a set of empirically identified norms should then guide system design.\
+    \ This process of norm identification and implementation must be iterative and\
+    \ revisable. A/IS with an initial set of implemented norms may betray biases of\
+    \ original assessments (Misra, Zitnick, Mitchell, and Girshick 20169) that can\
+    \ be revealed by interactions with, and feedback from, the relevant community.\
+    \ This leads to a process of norm updating, which is described next in Issue 2.\"\
+    \np.168-169\n\n## \"Norms change: Background\nNorms are not static. They change\
+    \ over time, in response to social progress, political change, new legal measures,\
+    \ or novel opportunities (Mack 201810). Norms can fade away when, for whatever\
+    \ reasons, fewer and fewer people adhere to them. And new norms emerge when technological\
+    \ innovation invites novel behaviors and novel standards, e.g., cell phone use\
+    \ in public.\nA/IS should be equipped with a starting set of social and legal\
+    \ norms before they are deployed in their intended community (see Issue 1), but\
+    \ this will not suffice for A/IS to behave appropriately over time. A/IS or the\
+    \ designers of A/IS, must be adept at identifying and adding new norms to its\
+    \ starting set, because the initial norm identification process in the community\
+    \ will undoubtedly have missed some norms and because the community\u2019s norms\
+    \ change.\nHumans rely on numerous capacities to update their knowledge of norms\
+    \ and learn new ones. They observe other community members\u2019 behavior and\
+    \ are sensitive to collective norm change; they explicitly ask about new norms\
+    \ when joining new communities, e.g., entering college or a job in a new town;\
+    \ and they respond to feedback from others when they exhibit uncertainty about\
+    \ norms or have violated a norm.\nLikewise, A/IS need multiple capacities to improve\
+    \ their own norm knowledge and to adapt to a community\u2019s dynamically changing\
+    \ norms. These capacities include:\n\u2022\_\_\_\_\_Processing behavioral trends\
+    \ by members of the target community and comparing them to trends predicted by\
+    \ the baseline norm system,\n\u2022\_\_\_\_\_Asking for guidance from the community\
+    \ when uncertainty about applicable norms exceeds a critical threshold,\n\u2022\
+    \_\_\_\_\_Responding to instruction from the community members who introduce a\
+    \ robot to a previously unknown context or who notice the A/IS\u2019 uncertainty\
+    \ in a familiar context, and\n\u2022\_\_\_\_\_Responding to formal or informal\
+    \ feedback from the community when the A/IS violate\_a norm.\nThe modification\
+    \ of a normative system can occur at any level of the system: it could involve\
+    \ altering the priority weightings between individual norms, changing the qualitative\
+    \ expression of a norm, or altering the quantitative parameters that enable the\
+    \ norm.\nWe recommend that the system\u2019s norm changes be transparent. That\
+    \ is, the system or its designer should consult with users, designers, and community\
+    \ representatives when adding new norms to its norm system or adjusting the priority\
+    \ or content of existing norms. Allowing a system to learn new norms without public\
+    \ or expert review has detrimental consequences (Green and Hu 201811). The form\
+    \ of consultation and the specific review process will vary by machine sophistication\u2015\
+    e.g., linguistic capacity and function/role, or a flexible social companion versus\
+    \ a task-defined medical robot\u2015and best practices will have to be established.\
+    \ In some cases, the system may document its dynamic change, and the user can\
+    \ consult this documentation as desired. In other cases, explicit announcements\
+    \ and requests for discussion with the designer may be appropriate. In yet other\
+    \ cases, the A/IS may propose changes, and the relevant human community, e.g.,\
+    \ drawn from a representative crowdsourced panel, will decide whether such changes\
+    \ should be implemented\_in the system.\_\"\np.170-171\n\n**Issue 3: **A/IS will\
+    \ face norm conflicts and need methods to resolve them.\_\n## Norms Conflict:\
+    \ Background\nOften, even within a well-specified context, no action is available\
+    \ that fulfills all obligations and prohibitions. Such situations\u2014often described\
+    \ as moral dilemmas or moral overload (Van den Hoven 201212)\u2014must be computationally\
+    \ tractable by A/IS; they cannot simply stop in their tracks and end on a logical\
+    \ contradiction. Humans resolve such situations by accepting trade-offs between\
+    \ conflicting norms, which constitute priorities of one norm or value over another\
+    \ in a given context. Such priorities may be represented in the norm system as\
+    \ hierarchical relations.\nAlong with identifying the norms within a specific\
+    \ community and task domain, empirical research must identify the ways in which\
+    \ people prioritize competing norms and resolve norm conflicts, and the ways in\
+    \ which people expect A/IS to resolve similar norm conflicts. These more local\
+    \ conflict resolutions will be further constrained by some general principles,\
+    \ such as the \u201CCommon Good Principle\u201D (Andre and Velasquez 199213) or\
+    \ local and national laws. For example, a self-driving vehicle\u2019s prioritization\
+    \ of one factor over another in its decision-making will need to reflect the laws\
+    \ and norms of the population in which the A/IS are deployed, e.g., the traffic\
+    \ laws of a U.S. state and the United States as a whole.\nSome priority orders\
+    \ can be built into a given norm network as hierarchical relations, e.g.,\_more\
+    \ general prohibitions against harm to humans typically override more specific\
+    \ norms against lying. Other priority orders can stem from the override that norms\
+    \ in the larger community\_exert on norms and preferences of an individual user.\
+    \ In the earlier example discussing personalization (see Issue 1), the A/IS of\
+    \ a racist user who demands the A/IS use derogatory language for certain social\
+    \ groups will have to resist such demands because community norms hierarchically\
+    \ override an individual user\u2019s preferences. In many cases, priority orders\
+    \ are not built in as fixed hierarchies because the priorities are themselves\
+    \ context-specific or may arise from net moral costs and benefits of the particular\
+    \ case at hand. A/IS must have learning capacities to track such variations and\
+    \ incorporate user and community input, e.g., about the subtle differences between\
+    \ contexts, so as to refine the system\u2019s norm network (see Issue 2).\nTension\
+    \ may sometimes arise between a community\u2019s social and legal norms and the\
+    \ normative considerations of designers or manufacturers. Democratic processes\
+    \ may need to be developed that resolve this tension\u2014 processes that cannot\
+    \ be presented in detail in this chapter. Often such resolution will favor the\
+    \ local laws and norms, but in some cases the community may have to be persuaded\
+    \ to accept A/IS favoring international law or broader humanitarian principles\
+    \ over, say, racist or sexist local practices.\nIn general, we recommend that\
+    \ the system\u2019s resolution of norm conflicts be transparent\u2014that is,\
+    \ documented by the system and ready to be made available to users, the relevant\
+    \ community of deployment, and third-party evaluators. Just like people explain\
+    \ to each other why they made decisions, they will expect any A/IS to be able\
+    \ to explain their decisions and be sensitive to user feedback about the appropriateness\
+    \ of the decisions. To do so, design and development of A/IS should specifically\
+    \ identify the relevant groups of humans who may request explanations and evaluate\
+    \ the systems\u2019 behaviors. In the case of a system detecting a norm conflict,\
+    \ the system should consult and offer explanations to representatives from the\
+    \ community, e.g., randomly sampled crowdsourced members or elected officials,\
+    \ as well as to third-party evaluators, with the goal of discussing and resolving\
+    \ the norm conflict. \"\np.172-174\n\n\"**Issue 1:** Not all norms of a target\
+    \ community apply equally to human and artificial agents\n## Background\nAn intuitive\
+    \ criterion for evaluations of norms embedded in A/IS would be that the A/IS norms\
+    \ should mirror the community\u2019s norms\u2014that is, the A/IS should be disposed\
+    \ to behave the same way that people expect each other to behave. However, for\
+    \ a given community and a given\_A/IS use context, A/IS and humans are unlikely\
+    \ to have identical sets of norms. People will have some unique expectations for\
+    \ humans than they do not for machines, e.g., norms governing the regulation of\
+    \ negative emotions, assuming that machines do not have such emotions. People\
+    \ may in some cases have unique expectations of A/IS that they do not have for\
+    \ humans, e.g., a robot worker, but not a human worker, is expected to work without\
+    \ regular breaks.\np.183\n"
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recU6u0AZbcNj1ik9
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - reccMqFCLOgQwWM5Q
+  Tags:
+  - AI
+  - research
+  airtable_createdTime: '2023-06-18T16:43:38.000Z'
+  airtable_id: recg4TZqdeqZcnd1w
+  title: Norms, aims, and practices are diverse and may vary by location, change over
+    time, and come into conflict
 - Challenges:
   - recWPbL5kB1Yh5OPf
-  Description: |
-    "Inequities in access to AI may increase, not tackle, inequality"
-  OverarchingPrinciples (from Principles):
+  Description: "AI tools may be used as a panacea to address well established inequities\
+    \ in resourcing, leading to two-tiered systems including in education; conversely\
+    \ access to AI may be limited by the resources available at a local, regional,\
+    \ or national level in ways that limit further access to effective AI tools and\
+    \ the economic benefits associated with them (including jobs). \n**\"Issue:**\
+    \ Vastly different power structures among and within countries create risk that\
+    \ A/IS deployment accelerates, rather than reduces, inequality in the pursuit\
+    \ of a sustainable future. It is unclear how LMIC can best implement A/IS via\
+    \ existing resources and take full advantage of the technology\u2019s potential\
+    \ to achieve a sustainable future.\nThe potential use of A/IS to create sustainable\
+    \ economic growth for LMIC is uniquely powerful. Yet, many of the debates surrounding\
+    \ A/IS take place within HIC, among highly educated and financially secure individuals.\
+    \ It is imperative that all humans, in any condition around the world, are considered\
+    \ in the general development and application of these systems to avoid the risk\
+    \ of bias, excessive inequality, classism, and general rejection of these technologies.\
+    \ With much of the financial and technical resources for A/IS development and\
+    \ deployment residing in HIC, not only are A/IS benefits more difficult to access\
+    \ for LMIC populations, but those A/IS applications that are_ _deployed outside\
+    \ of HIC realities may not be appropriate. This is for reasons of cultural/ethnic\
+    \ bias, language difficulties, or simply an inability to adapt to local internet\
+    \ infrastructure constraints.\nFurthermore, technological innovation in LMIC comes\
+    \ up against many potential obstacles, which could be considered when undertaking\
+    \ initiatives aimed at enhancing LMIC access:\n\u2022\_\_\_\_\_Reluctance to provide\
+    \ open source licensing of technological development innovations,\n\u2022\_\_\_\
+    \_\_Lack of the human capital and knowledge required to adapt HIC-developed technologies\
+    \ to resolving problems in the LMIC context, or to develop local technological\
+    \ solutions to these problems,\n\u2022\_\_\_\_\_Retention of A/IS capacity in\
+    \ LMIC due to globally uncompetitive salaries,\n\u2022\_\_\_\_\_Lack of infrastructure\
+    \ for deployment, and difficulties in taking technological solutions to where\
+    \ they are needed,\n\u2022\_\_\_\_\_Lack of organizational and business models\
+    \ for adapting technologies to the specific needs of different regions,\n\u2022\
+    \_\_\_\_\_Lack of active participation of the target population,\n\u2022\_\_\_\
+    \_\_Lack of political will to allow people to have access to technological resources,\n\
+    \u2022\_\_\_\_\_Existence of oligopolies that hinder new technological development,\n\
+    \u2022\_\_\_\_\_Lack of inclusive and high-quality education at all levels, and\n\
+    \u2022\_\_\_\_\_Bureaucratic policies ill-adapted to highly dynamic scenarios.\n\
+    For A/IS capacities and benefits to become equally available worldwide, training,\
+    \ education, and opportunities should be provided particularly for LMIC. Currently,\
+    \ access to products that facilitate A/IS research of timely topics is quite limited\
+    \ for researchers in LMIC, due to cost considerations.\nIf A/IS capacity and governance\
+    \ problems, such as relevant laws, policies, regulations, and anticorruption safeguards,\
+    \ are addressed, LMIC could have the ability to use A/IS to transform their economies\
+    \ and leapfrog into a new era of inclusive growth. Indeed, A/IS itself can contribute\
+    \ to good governance when applied to the detection of corruption in state and\
+    \ banking institutions, one of the most serious recognized constraints to investment\
+    \ in LMIC. Particular attention, however, must be paid to ensure that the use\
+    \ of A/IS is for the common good\u2014especially in the context of LMIC\u2014\
+    and does not reinforce existing socioeconomic inequities through systematic discriminatory\
+    \ bias in both design and application, or undermine fundamental rights through,\
+    \ among other issues, lax data privacy laws and practice.\"\np.145-147\n"
+  OverarchingPrinciples:
   - recSqx6wklVpDzx3s
   - recNB5h9bK4gEE9uc
   Principles:
   - recSqx6wklVpDzx3s
   - recNB5h9bK4gEE9uc
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - recnLauSoXMQCSK5c
   Tags:
   - education
   airtable_createdTime: '2023-06-16T16:25:14.000Z'
   airtable_id: reciceYsMfOtPdaaA
-  title: An example of long-term impacts in education with respect to justice
-- airtable_createdTime: '2023-06-16T17:13:47.000Z'
+  title: Inequities in access to AI may increase, not tackle, inequality
+- Challenges:
+  - recwuiKe3bhSLw4xv
+  Description: "### **Values-based ethical culture and practices for industry**\n\
+    Corporations are built to create profit while competing for market share. This\
+    \ can lead corporations to focus on growth at the expense of avoiding negative\
+    \ ethical consequences. Given the deep ethical implications of widespread deployment\
+    \ of A/IS, in addition to laws and regulations, there is a need to create values-based\
+    \ ethical culture and practices for the development and deployment of those systems.\
+    \ To do so, we need to further identify and refine corporate processes that facilitate\
+    \ values-based design.\" p.127\n\n### **Values-based leadership**\nTechnology\
+    \ leadership should give innovation teams and engineers direction regarding which\
+    \ human values and legal norms should be promoted in the design of A/IS. Cultivating\
+    \ an ethical corporate culture is an essential component of successful leadership\
+    \ in the\_A/IS domain.\" p.128\n\n### **Wellbeing should be a consideration for\
+    \ all**\n\"Increased awareness and application of well-being metrics by A/IS creators\
+    \ can create greater value, safety, and relevance to corporate communities and\
+    \ other organizations in the algorithmic age.\"\nWhile many organizations in the\
+    \ private and public sectors are increasingly aware of the need to incorporate\
+    \ well-being measures as part of their efforts, the reality is that bottom line,\
+    \ quarterly-driven shareholder growth remains a dominant goal and metric. Short\
+    \ term growth is often the priority in the private sector and public sector. As\
+    \ long as organizations exist in a larger societal system which prioritizes financial\
+    \ success, these companies will remain under pressure to deliver financial results\
+    \ that do not fully incorporate societal and environmental impacts, measurements,\
+    \ or priorities.\nRather than focus solely on the negative aspects of how A/IS\
+    \ could harm humans and environments, we seek to explore how the implementation\
+    \ of well-being metrics can help A/IS to have a measurable, positive impact on\
+    \ human well-being as well as on systems and organizations. Incorporation of well-being\
+    \ goals and measures beyond what is strictly required can benefit both private\
+    \ sector organizations\u2019 brands and public sector organizations\u2019 stability\
+    \ and reputation, as well as help realize financial savings, innovation, trust,\
+    \ and many other benefits. For instance, a companion robot outfitted to support\
+    \ seniors in assisted living situations might traditionally be launched with a\
+    \ technology development model that was popularized by Silicon Valley known as\
+    \ \u201Cmove fast and break things\u201D. The A/IS creator who rushed to bring\
+    \ the robot to market faster than the competition and who was unaware of well-being\
+    \ metrics, may have overlooked critical needs of the seniors. The robot might\
+    \ actually hurt the senior instead of helping by exacerbating isolation or feelings\
+    \ of loneliness and helplessness. While this is a hypothetical scenario, it is\
+    \ intended to demonstrate the value of linking A/IS design to well-being indicators.\n\
+    By prioritizing largely fiscal metrics of success,\_A/IS devices might fail in\
+    \ the market because of limited adoption and subpar reception. However, if during\
+    \ use of the A/IS product, success were measured in terms of relevant aspects\
+    \ of wellbeing, developers and researchers could be in a better position to attain\
+    \ funding and public support. Depending on the intended use of the A/IS product,\
+    \ well-being measures that could be used extend to emotional levels of calm or\
+    \ stress; psychological states of thriving or depression; behavioral patterns\
+    \ of engagement in community or isolation; eating, exercise and consumption habits;\
+    \ and many other aspects of human well-being. The A/IS product could significantly\
+    \ improve quality of life guided by metrics from trusted sources, such as the\
+    \ [World Health Organization,](http://www.who.int/en/) [European Social Survey,](https://www.europeansocialsurvey.org/)\_\
+    and [Sustainable Development Goal Indicators.](https://unstats.un.org/sdgs/)\n\
+    Thought leaders in the corporate arena have recognized the multifaceted need to\
+    \ utilize metrics beyond fiscal indicators. PricewaterhouseCoopers defines \u201C\
+    [total impact\u201D ](https://www.pwc.com/gx/en/services/sustainability/total-impact-measurement-management/measuring-and-managing-total-impact-a-new-language-for-business-decisions.html)as\
+    \ a \u201Cholistic view of social, environmental, fiscal and economic dimensions\u2014\
+    the big picture\u201D. Other thought-leading organizations in the public sector,\
+    \ such as the OECD, demonstrate the desire for business leaders to incorporate\
+    \ metrics of success beyond fiscal indicators for their efforts, exemplified in\
+    \ their 2017 workshop, [Measuring Business Impacts on People\u2019s WellBeing.](http://www.oecd.org/statistics/Biz4WB-Highlights-OECD.pdf)\
+    \ The [B-Corporation movement h](https://www.bcorporation.net/)as created a new\
+    \ legal status for \u201Ca new type of company that uses the power of business\
+    \ to solve social and environmental problems\u201D. Focusing on increasing stakeholder\
+    \ value versus shareholder returns alone, B-Corps are defining their brands by\
+    \ provably aligning their efforts with wider measures of well-being.\"\np73-74\n\
+    \n### **Empowerment to raise ethical concerns**\nEngineers and design teams may\
+    \ encounter obstacles to raising ethical concerns regarding their designs or design\
+    \ specifications within their organizations. Corporate culture should incentivize\
+    \ technical staff to voice the full range of ethical questions to relevant corporate\
+    \ actors throughout the full product lifecycle, including the design, development,\
+    \ and deployment phases. Because raising ethical concerns can be perceived as\
+    \ slowing or halting a design project, organizations need to consider how they\
+    \ can recognize and incentivize values-based design as an integral component of\
+    \ product development.\" p.129\n"
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recmzjcGKv3yNOxbl
+  - receFm7cGasHwpJZO
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - recZI7HDWKBU5T22v
+  - recfcXzM3foqFNNGN
+  - rec9SSyrfFkmuJkCe
+  Tags:
+  - AI
+  - corporate-ethics
+  airtable_createdTime: '2023-06-18T12:04:32.000Z'
+  airtable_id: reclJ7hlCEf4P94SA
+  title: Implementation of AI may be driven by commercial, not values-based, aims
+- Challenges:
+  - rec3T1WLC4dg63qyI
+  Description: "\"Use of black-box components\nSoftware developers regularly use \u201C\
+    black box\u201D components in their software, the functioning of which they often\
+    \ do not fully understand. \u201CDeep\u201D machine learning processes, which\
+    \ are driving many advancements in autonomous and intelligent systems, are a growing\
+    \ source of black box software. At least for the foreseeable future,\_A/IS developers\
+    \ will likely be unable to build systems that are guaranteed to operate as intended.\"\
+    \np.134-135\n"
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recKdujFoPJr4ZAhZ
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  - "High-Level Expert Group on AI. (2019). Ethics guidelines for trustworthy AI |\
+    \ Shaping Europe\u2019s digital future. FUTURIUM - European Commission. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai"
+  - 'franzke, aline shakti, Bechmann, A., Zimmer, M., Ess, C., & Association of Internet
+    Researchers (AoIR). (2020). Internet Research: Ethical Guidelines 3.0 Association
+    of Internet Researchers. AoIR. https://aoir.org/reports/ethics3.pdf'
+  Sources:
+  - recpXl48pJdKDhc6f
+  - recnCULdYQ36cpZR7
+  - rec6r8OkE2Q2EdiM3
+  Strategies:
+  - rec81gtnlFS5W2BBF
+  Tags:
+  - AI
+  - education
+  airtable_createdTime: '2023-06-18T15:02:09.000Z'
+  airtable_id: recp8G9ek0g3RAnEC
+  title: Agency may be stymied in the context of black box models
+- Challenges:
+  - rec3T1WLC4dg63qyI
+  Description: "\"Issue: Integration of ethics in\_A/IS-related degree programs\n\
+    Background\nA/IS engineers and design teams do not always thoroughly explore the\
+    \ ethical considerations implicit in their technical work and design choices.\
+    \ Moreover, the overall science, technology, engineering, and mathematics (STEM)\
+    \ field struggles with the complexity of ethical considerations, which cannot\
+    \ be readily articulated and translated into the formal languages of mathematics\
+    \ and computer programming associated with algorithms and machine learning.\n\
+    Ethical issues can easily be rendered invisible or inappropriately reduced and\
+    \ simplified in the context of technical practice. For the dangers of this approach\
+    \ see for instance, Lipton and Steinhardt (2018), listed under \u201CFurther Resources\u201D\
+    . This problem is further compounded by the fact that many STEM programs do not\
+    \ sufficiently integrate applied ethics throughout their curricula. When they\
+    \ do, often ethics is relegated to a stand-alone course or module that gives students\
+    \ little or no direct experience in ethical decision-making. Ethics education\
+    \ should be meaningful, applicable, and incorporate best practices from the broader\
+    \ field.\nThe aim of these recommendations is to prepare students for the technical\
+    \ training and engineering development methods that incorporate ethics as essential\
+    \ so that ethics,\_and relevant principles, like human rights, become naturally\
+    \ a part of the design process.\nRecommendations\n\\- Ethics training needs to\
+    \ be a core subject\_for all those in the STEM field, beginning at\_the earliest\
+    \ appropriate level and for all advanced degrees.\n\\- Effective STEM ethics curricula\
+    \ should be informed by experts outside the STEM community from a variety of cultural\
+    \ and educational backgrounds to ensure that students acquire sensitivity to a\
+    \ diversity\_of robust perspectives on ethics and design.\n\\- Such curricula\
+    \ should teach aspiring engineers, computer scientists, and statisticians about\
+    \ the relevance and impact of their decisions in designing A/IS technologies.\
+    \ Effective ethics education in STEM contexts and beyond should span primary,\
+    \ secondary, and postsecondary education, and include both universities and vocational\
+    \ training schools.\n\\- Relevant accreditation bodies should reinforce this integrated\
+    \ approach as outlined above.\nFurther Resources\n\\- IEEE P7000TM Standards Project\
+    \ for a Model Process for Addressing Ethical Concerns During System Design. IEEE\
+    \ P7000 aims to enhance corporate IT innovation practices by providing processes\
+    \ for embedding a values- and virtue-based thinking, culture, and practice into\
+    \ them.\n\\- Z. Lipton and J. Steinhardt, Troubling Trends in Machine Learning\
+    \ Scholarship. ICML conference paper, July 2018.\n\\- J. Holdren, and M. Smith.\
+    \ \u201CPreparing for the Future of Artificial Intelligence.\u201D Washington,\
+    \ DC: Executive Office of the President, National Science and Technology Council,\
+    \ 2016.\n\\- Comparing the UK, EU, and US approaches to AI and ethics: C. Cath,\
+    \ S. Wachter, B. Mittelstadt, et al., \u201CArtificial Intelligence and the \u2018\
+    Good Society\u2019: The US, EU, and UK Approach.\u201D Science and Engineering\
+    \ Ethics, vol. 24, pp. 505-528, 2017.\"\np.122\n"
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  - recOHnq45Fq7YWsRO
+  Principles:
+  - recKWrfJzX52AXSIf
+  - recjViPnz3atRIOpD
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - reck6xeMUc9jtmLr3
+  - recgswAsiepwEclOd
+  Tags:
+  - AI
+  - research
+  airtable_createdTime: '2023-06-18T14:07:26.000Z'
+  airtable_id: recpoXmwIiqv3BMWJ
+  title: Potential for harms of AI, or opportunities to maximise benefits, may not
+    be adequately addressed by teams without adequate understanding of sites of use
+    and their distinctive ethical dimensions
+- Challenges:
+  - recJ6khG2kY2Tx5ae
+  Description: "Assessing risks of harms and benefits may be challenging both in advance\
+    \ of, and over the course of, research projects involving technology-mediated\
+    \ researcher-participant relationships. This challenge is true both for the participants\
+    \ (or data subjects), and for potential harms to researchers (E.g. through exposure\
+    \ to harmful content).\n\nChallenges in assessing benefits and harms include uncertainties\
+    \ regarding:\n- the participants and their individual and group circumstances\n\
+    - platforms and the assumptions users may make regarding other's access to their\
+    \ data\n- emergent harms that would be managed through stakeholder involvement\
+    \ where direct interaction with participants was a feature of research \n- scope\
+    \ and operationalisation of harms where researchers and participants may have\
+    \ different concepts of harm or risk \n- the nature of content being collected\
+    \ and analysed, or/and of network structures in which researchers are engaged,\
+    \ where this may expose researchers to harmful content or other risks.\n\n(adapted\
+    \ from Markham and Buchanan, 2012, p. 10-11, see strategies)\n"
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Principles:
+  - recmzjcGKv3yNOxbl
+  Reference:
+  - 'franzke, aline shakti, Bechmann, A., Zimmer, M., Ess, C., & Association of Internet
+    Researchers (AoIR). (2020). Internet Research: Ethical Guidelines 3.0 Association
+    of Internet Researchers. AoIR. https://aoir.org/reports/ethics3.pdf'
+  Sources:
+  - rec6r8OkE2Q2EdiM3
+  Strategies:
+  - recY9yr9vYcOAUSEA
+  - recKDgUEDD2f1egyd
+  - recpvGxQzTNQS1smH
+  Tags:
+  - AI
+  airtable_createdTime: '2023-06-16T17:13:47.000Z'
   airtable_id: recsYgGzgIK80qUCT
+  title: Assessing risks of harms and benefits may be challenging in research involving
+    technology-mediated researcher-participant relationships.
+- Challenges:
+  - rec3T1WLC4dg63qyI
+  Description: "\"It is presently unknown** **whether long-term interaction with affective\
+    \ artifacts that lack cultural sensitivity could alter human social interaction.\n\
+    ## Background\nSystems that do not have cultural knowledge incorporated into their\
+    \ knowledge base may or may not interact effectively with humans for whom emotion\
+    \ and culture are significant. Given that interaction with A/IS may affect individuals\
+    \ and societies, it is imperative that we carefully evaluate mechanisms to promote\
+    \ beneficial affective interaction between humans and\_A/IS. Humans often use\
+    \ mirroring in order to understand and develop their norms for behavior. Certain\
+    \ machine learning approaches also address improving A/IS interaction with humans\
+    \ through mirroring human behavior. Thus, we must remember that learning via mirroring\
+    \ can go in both directions and that interacting with machines has the potential\
+    \ to impact individuals\u2019 norms, as well as societal and cultural norms. If\
+    \ affective artifacts with enhanced, different, or absent cultural sensitivity\
+    \ interact with impressionable humans this could alter their responses to social\
+    \ and cultural cues and values. The potential for A/IS to exert cultural influence\_\
+    in powerful ways, at scale, is an area of substantial concern.\"\np.91-92\n\n\"\
+    When affective systems are deployed across cultures, they could adversely affect\
+    \ the cultural, social, or religious values of the community in which they interact.\n\
+    Some philosophers argue that there are no universal ethical principles and that\
+    \ ethical norms vary from society to society. Regardless of whether universalism\
+    \ or some form of ethical relativism is true, affective systems need to respect\
+    \ the values of the cultures within which they are embedded. How systems should\
+    \ effectively reflect the values of the designers or the users of affective systems\
+    \ is not a settled discussion. There is general agreement that developers of affective\
+    \ systems should acknowledge that the systems should reflect the values of those\
+    \ with whom the systems are interacting. There is a high likelihood that when\
+    \ spanning different groups, the values imbued by the developer will be different\
+    \ from the operator or customer of that affective system, and that end-user values\
+    \ should be actively considered. Differences between affective systems and societal\
+    \ values may generate conflict situations producing undesirable results, e.g.,\
+    \ gestures or eye contact being misunderstood as rude or threatening. Thus, affective\
+    \ systems should adapt to reflect the values of the community and individuals\
+    \ where they will operate in order to avoid misunderstanding.\"\np.93\n"
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
+  Principles:
+  - recSqx6wklVpDzx3s
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - recsonQhKLmX4D1ao
+  - recHsUV9w4HKBA1w1
+  Tags:
+  - AI
+  airtable_createdTime: '2023-06-18T16:55:53.000Z'
+  airtable_id: recu8eBgTi3OTRRij
+  title: Assessing the impact of AI requires sensitivity to culturally situated human
+    social interaction
 - Challenges:
   - recWPbL5kB1Yh5OPf
   Description: "\"There are insufficient mechanisms to foresee and measure negative\
@@ -213,7 +2428,7 @@
     \ Engineering Department\u2019s course in computational sustainability presentation](https://cs.stanford.edu/~ermon/cs325/slides/lecture1-S16.pdf).\
     \ Computational sustainability technologies designed to increase social good could\
     \ also be tied to existing well-being metrics.\"\n_p.83-86_\n"
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recNB5h9bK4gEE9uc
   Principles:
@@ -233,6 +2448,7 @@
   Strategies:
   - rec7daqDHSCuc70yS
   - recZI7HDWKBU5T22v
+  - rec8dLtyDCwvjMWge
   Tags:
   - AI
   airtable_createdTime: '2023-06-16T09:54:40.000Z'
@@ -240,10 +2456,42 @@
   title: 'AI gives rise to potential harms derived from indirect, long-range, and
     dual-use '
 - Challenges:
+  - rec3T1WLC4dg63qyI
+  Description: "\"Should affective systems interact using the norms for verbal and\
+    \ nonverbal communication consistent with the norms of the society in which they\
+    \ are embedded?\n## Background\nIndividuals around the world express intentions\
+    \ differently, including the ways that they make eye contact, use gestures, or\
+    \ interpret silence. These particularities are part of an individual\u2019s and\
+    \ a society's culture and are incorporated into their affective systems in order\
+    \ to convey the intended message. To ensure that the emotional systems of autonomous\
+    \ and intelligent systems foster effective communication within a specific culture,\
+    \ an understanding of the norms/values of the community where the affective system\
+    \ will be deployed is essential.\"\np.90-91\n"
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
+  Principles:
+  - recSqx6wklVpDzx3s
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - rec9UfowPkXtPUBC9
+  Tags:
+  - AI
+  - affective-computing
+  airtable_createdTime: '2023-06-18T17:26:38.000Z'
+  airtable_id: recv7IjfbiXBr4A5q
+  title: How do we represent cross-cultural differences in communication through AI
+    systems?
+- Challenges:
   - recWPbL5kB1Yh5OPf
   Description: |
     AI has the potential to impact on how we connect and talk together, and the structure of societies. AI should avoid harms and promote pro-social engagement, recognising that both the benefits and harms of research (and broader engagement with technology) may accrue over groups.
-  OverarchingPrinciples (from Principles):
+  OverarchingPrinciples:
   - recNB5h9bK4gEE9uc
   - recLHILkx2JDFsLbX
   Principles:
@@ -263,3 +2511,195 @@
   airtable_createdTime: '2023-06-16T11:33:11.000Z'
   airtable_id: recwl0AdKj2HLIpDB
   title: Respect for human-human relationships, at individual and collective levels
+- Challenges:
+  - recJ6khG2kY2Tx5ae
+  Description: "In the content of research there are often challenges in disaggregating\
+    \ data. For example, consider classroom based research in which (1) there are\
+    \ challenges in excluding students from capture in video data, and where all students\
+    \ are using the same learning platform (which also provides research data); and\
+    \ (2) where group-work or whole-class features of the learning environment are\
+    \ central to the research which aims to avoid falling into the trap of individualistic\
+    \ learning models. How, in these cases, should consent be navigated with learners\
+    \ (who may be minors), parents, and other gatekeepers (e.g., teachers, school\
+    \ leaders)?\nThere may be circumstances where given the design of the research\
+    \ is intended to support learning, opt out, or consent waiver, approaches are\
+    \ appropriate. \n\nThe IEEE report notes the below, although it is not quite true\
+    \ to say children have no standing regarding consent (see e.g. discussion of Gillick\
+    \ competence and Fraser guidelines; this paper Harris, J., & Porcellato, L. (2018).\
+    \ Opt-out parental consent in online surveys: Ethical considerations. _Journal\
+    \ of Empirical Research on Human Research Ethics_, _13_(3), 223-229. provides\
+    \ some further interesting discussion). See also \\[Steps for Engaging Young Children\
+    \ in Research]\\(recpwpukpvgwavztb).\n\n\"**Issue: **Technology choice-making\
+    \ in schools\nChildren, as minors, have no standing to give or deny consent, or\
+    \ to control the use of their personal data. Parents only have limited choices\
+    \ in what are often school-wide implementations of educational technology. Examples\
+    \ include the use of Google applications, face recognition in security systems,\
+    \ and computer driven instruction as described above. In many cases, parents\u2019\
+    \ only choice would be to send their children to a different school, but that\
+    \ choice is seldom available.\nHow should schools make these choices? How much\
+    \ input should parents have? Should parents be able to demand technology-free\
+    \ teaching?There are many gaps in current student data regulation. In June 2018,\
+    \ CLIP, The Center on Law and Information Policy at Fordham Law School published,\
+    \ \u201DTransparency and the Marketplace for Student Data\u201D.6 This study concluded\
+    \ that \u201Cstudent lists are commercially available for purchase on the basis\
+    \ of ethnicity, affluence, religion, lifestyle, awkwardness, and even a perceived\
+    \ or predicted need for family planning services\u201D. Fordham found that the\
+    \ data market is becoming one of the largest and most profitable marketplaces\
+    \ in the United States. Data brokers have databases that store billions of data\
+    \ elements on nearly every United States consumer. However, information from students\
+    \ in the pursuit of an education should not be exploited and commercialized without\
+    \ restraint.\nFordham researchers found at least 14 data brokers who advertise\
+    \ the sale of student information. One sold lists of students as young as two\
+    \ years old. Another sold lists of student profiles on the basis of ethnicity,\
+    \ religion, economic factors, and even gawkiness.\" (IEEE, 2019, p.115-116)\n"
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recKdujFoPJr4ZAhZ
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  - 'Markham, A., & Buchanan, E. (2012). Ethical Decision-Making and Internet Research:
+    Recommendations from the AoIR Ethics Working Committee (Version 2.0). AoIR. https://aoir.org/reports/ethics2.pdf'
+  Sources:
+  - recpXl48pJdKDhc6f
+  - recQiVQ7CTC72xp6O
+  Strategies:
+  - rec6q7u9fWKUtP6mx
+  - recazD3B5XpqgOCGV
+  Tags:
+  - education
+  airtable_createdTime: '2023-06-18T11:05:52.000Z'
+  airtable_id: recz5LeVOgbgic8Jk
+  title: Data collection or/and analysis often involves methods that challenge individually
+    based participation models
+- Challenges:
+  - recefglLZ3oJWw2SZ
+  Description: "\u201CAI can be biased both at the system and the data or input level.\
+    \ Bias at the system level involves developers building their own personal biases\
+    \ into the parameters they consider or the labels they define. Although this rarely\
+    \ occurs intentionally, unintentional bias at the system level is common. This\
+    \ often occurs in two ways:\n- When developers allow systems to conflate correlation\
+    \ with causation. Take credit scores as an example. People with a low income tend\
+    \ to have lower credit scores, for a variety of reasons. If an ML system used\
+    \ to build credit scores includes the credit scores of your Facebook friends as\
+    \ a parameter, it will result in lower scores among those with low-income backgrounds,\
+    \ even if they have otherwise strong financial indicators, simply because of the\
+    \ credit scores of their friends.\n- When developers choose to include parameters\
+    \ that are proxies for known bias. For example, although developers of an algorithm\
+    \ may intentionally seek to avoid racial bias by not including race as a parameter,\
+    \ the algorithm will still have racially biased results if it includes common\
+    \ proxies for race, like income, education, or postal code.26\n\nBias at the data\
+    \ or input level occurs in a number of ways:27\n- The use of historical data that\
+    \ is biased. Because ML systems use an existing body of data to identify patterns,\
+    \ any bias in that data is naturally reproduced. For example, a system used to\
+    \ recommend admissions at a top university that uses the data of previously admitted\
+    \ students to train the model is likely to recommend upper class males over women\
+    \ and traditionally underrepresented groups.\n- When the input data are not representative\
+    \ of the target population. This is called selection bias, and results in recommendations\
+    \ that favor certain groups over another. For example, if a GPS-mapping app used\
+    \ only input data from smartphone users to estimate travel times and distances,\
+    \ it could be more accurate in wealthier areas of cities that have a higher concentration\
+    \ of smartphone users, and less accurate in poorer areas or informal settlements,\
+    \ where smartphone penetration is lower and there is sometimes no official mapping.\n\
+    - When the input data are poorly selected. In the GPS mapping app example, this\
+    \ could involve including only information related to cars, but not public transportation\
+    \ schedules or bike paths, resulting in a system that favored cars and was useless\
+    \ for buses or biking.\n- When the data are incomplete, incorrect, or outdated.\
+    \ If there is insufficient data to make certain conclusions, or the data are out\
+    \ of date, results will naturally be inaccurate. And if a machine learning model\
+    \ is not continually updated with new data that reflects current reality, it will\
+    \ naturally become less accurate over time.\n\nUnfortunately, biased data and\
+    \ biased parameters are the rule rather than the exception. Because data are produced\
+    \ by humans, the information carries all the natural human bias within it. Researchers\
+    \ have begun trying to figure out how to best deal with and mitigate bias, including\
+    \ whether it is possible to teach ML systems to learn without bias;28 however,\
+    \ this research is still in its nascent stages. For the time being, there is no\
+    \ cure for bias in AI systems\u201D (Access Now, 2018, p. 12)\n\n\u201CDesigners\
+    \ and users ensure that the AI systems they are developing and deploying:\n1.\
+    \ Are trained and tested on properly representative, relevant, accurate, and generalisable\
+    \ datasets (Data Fairness)\n2. Have model architectures that do not include target\
+    \ variables, features, processes, or analytical structures (correlations, interactions,\
+    \ and inferences) which are unreasonable, morally objectionable, or unjustifiable\
+    \ (Design Fairness)\n3. Do not have discriminatory or inequitable impacts on the\
+    \ lives of the people they affect (Outcome Fairness)\n4. Are deployed by users\
+    \ sufficiently trained to implement them responsibly and without bias (Implementation\
+    \ Fairness)\u201D (Leslie, 2019, p. 14)\n\n\\*Data Fairness\\*\n\"Responsible\
+    \ data acquisition, handling, and management is a necessary component of algorithmic\
+    \ fairness. If the results of your AI project are generated by biased, compromised,\
+    \ or skewed datasets, affected stakeholders will not adequately be protected from\
+    \ discriminatory harm. Your project team should keep in mind the following key\
+    \ elements of data fairness:\n- Representativeness: Depending on the context,\
+    \ either underrepresentation or overrepresentation of disadvantaged or legally\
+    \ protected groups in the data sample may lead to the systematic disadvantaging\
+    \ of vulnerable stakeholders in the outcomes of the trained model. To avoid such\
+    \ kinds of sampling bias, domain expertise will be crucial to assess the fit between\
+    \ the data collected or procured and the underlying population to be modelled.\
+    \ Technical team members should, if possible, offer means of remediation to correct\
+    \ for representational flaws in the sampling.\n- Fit-for-Purpose and Sufficiency:\
+    \ An important question to consider in the data collection and procurement process\
+    \ is: Will the amount of data collected be sufficient for the intended purpose\
+    \ of the project? The quantity of data collected or procured has a significant\
+    \ impact on the accuracy and reasonableness of the outputs of a trained model.\
+    \ A data sample not large enough to represent with sufficient richness the significant\
+    \ or qualifying attributes of the members of a population to be classified may\
+    \ lead to unfair outcomes. Insufficient datasets may not equitably reflect the\
+    \ qualities that should rationally be weighed in producing a justified outcome\
+    \ that is consistent with the desired purpose of the AI system. Members of the\
+    \ project team with technical and policy competences should collaborate to determine\
+    \ if the data quantity is, in this respect, sufficient and fit-for-purpose.\n\
+    - Source Integrity and Measurement Accuracy: Effective bias mitigation begins\
+    \ at the very commencement of data extraction and collection processes. Both the\
+    \ sources and instruments of measurement may introduce discriminatory factors\
+    \ into a dataset. When incorporated as inputs in the training data, biased prior\
+    \ human decisions and judgments such as prejudiced scoring, ranking, interview-data\
+    \ or evaluation\u2014will become the \u2018ground truth\u2019 of the model and\
+    \ replicate the bias in the outputs of the system. In order to secure discriminatory\
+    \ non-harm, you must do your best to make sure your data sample has optimal source\
+    \ integrity. This involves securing or confirming that the data gathering processes\
+    \ involved suitable, reliable, and impartial sources of measurement and sound\
+    \ methods of collection.\n- Timeliness and Recency: If your datasets include outdated\
+    \ data then changes in the underlying data distribution may adversely affect the\
+    \ generalisability of your trained model. Provided these distributional drifts\
+    \ reflect changing social relationship or group dynamics, this loss of accuracy\
+    \ with regard to the actual characteristics of the underlying population may introduce\
+    \ bias into your AI system. In preventing discriminatory outcomes, you should\
+    \ scrutinise the timeliness and recency of all elements of the data that constitute\
+    \ your datasets.\n- Relevance, Appropriateness and Domain Knowledge: The understanding\
+    \ and utilisation of the most appropriate sources and types of data are crucial\
+    \ for building a robust and unbiased AI system. Solid domain knowledge of the\
+    \ underlying population distribution and of the predictive or classificatory goal\
+    \ of the project is instrumental for choosing optimally relevant measurement inputs\
+    \ that contribute to the reasonable determination of the defined solution. You\
+    \ should make sure that domain experts collaborate closely with your technical\
+    \ team to assist in the determination of the optimally appropriate categories\
+    \ and sources of measurement.\"\n(Leslie, 2019, p. 15)\n"
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  - recOHnq45Fq7YWsRO
+  Principles:
+  - recQ9DIFEsOEkCx3O
+  - recjViPnz3atRIOpD
+  Reference:
+  - Access Now. (2018). HUMAN RIGHTS IN THE AGE OF ARTIFICIAL INTELLIGENCE. Access
+    Now. https://www.accessnow.org/cms/assets/uploads/2018/11/AI-and-Human-Rights.pdf
+  - "High-Level Expert Group on AI. (2019). Ethics guidelines for trustworthy AI |\
+    \ Shaping Europe\u2019s digital future. FUTURIUM - European Commission. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai"
+  - European Commission. (2022). Ethical guidelines on the use of artificial intelligence
+    and data in teaching and learning for educators | European Education Area. European
+    Commission. https://education.ec.europa.eu/node/2285
+  Sources:
+  - recH8KmnURSknCr5y
+  - recnCULdYQ36cpZR7
+  - rec9jnxuHOioQn4DC
+  Strategies:
+  - recTjwhqfrJoaRxYo
+  - recmhwo8kmYkBZ7Sy
+  - rec35PeHdUmtalypk
+  Tags:
+  - AI
+  airtable_createdTime: '2023-06-18T15:25:04.000Z'
+  airtable_id: reczbN2QKYqG695ec
+  title: Data fairness and bias at the system and the data or input level
