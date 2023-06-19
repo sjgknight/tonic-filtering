@@ -189,11 +189,9 @@
   airtable_id: recNNFrnCiGxTP4WE
   title: Financial discrimination
 - Challenges:
-  - rec5VzvnIZcaNKqDh
-  - recvQ90DajNCwPiGP
   - recefglLZ3oJWw2SZ
-  - recdmBNNa98cN8Sda
   - rec3T1WLC4dg63qyI
+  - recuUWIu0ofVYHLKA
   Description: "\u201CA school is considering how AI systems can help reduce barriers\
     \ for students with special educational needs. The school is currently trialling\
     \ an AI system to detect student support demands early on and provide tailored\
@@ -348,9 +346,8 @@
   title: A company has approached researchers to fund a small evaluation of a wellbeing
     app being deployed in local schools
 - Challenges:
-  - rec5VzvnIZcaNKqDh
-  - recvQ90DajNCwPiGP
   - rec3T1WLC4dg63qyI
+  - recuUWIu0ofVYHLKA
   Description: "\u201CA primary school is using an Intelligent Tutoring System to\
     \ automatically direct learners to resources specific to their learning needs.\
     \ The AI based system uses learner data to adapt problems to the learner\u2019\
@@ -397,11 +394,9 @@
   airtable_id: reciNqxyfUgE5XM7t
   title: "Using adaptive learning technologies to adapt to each learner\u2019s ability"
 - Challenges:
-  - rec5VzvnIZcaNKqDh
-  - recvQ90DajNCwPiGP
   - recefglLZ3oJWw2SZ
-  - recdmBNNa98cN8Sda
   - rec3T1WLC4dg63qyI
+  - recuUWIu0ofVYHLKA
   Description: "\u201CA school is looking at how AI systems can support the assessment\
     \ of student written assignments. A provider has recommended an automated essay\
     \ scoring system which uses large natural language models to assess various aspects\
@@ -509,8 +504,7 @@
   airtable_id: reco7BYWc7reRuaCh
   title: ITS
 - Challenges:
-  - rec5VzvnIZcaNKqDh
-  - recdmBNNa98cN8Sda
+  - recuUWIu0ofVYHLKA
   Description: "In 2020 parts of the UK introduced an algorithm to moderate school\
     \ leaver grades due to COVID-19 preventing use of exams, and requiring teacher-based\
     \ grading. \n\nLinks:\n\n\\* \\[Algorithms can decide your marks, your work prospects,\
@@ -537,9 +531,8 @@
   title: An algorithm is introduced to moderate student grades, aiming to ensure they
     are not overinflated
 - Challenges:
-  - rec5VzvnIZcaNKqDh
-  - recvQ90DajNCwPiGP
   - rec3T1WLC4dg63qyI
+  - recuUWIu0ofVYHLKA
   Description: "\u201CA post-primary school is considering the use of a personalised\
     \ online student dashboard which will provide feedback to learners and support\
     \ the development of their self-regulation skills. Instead of focusing on what\

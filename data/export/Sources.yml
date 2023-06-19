@@ -166,6 +166,7 @@
   - recQtuMpX4WaAoHhG
   - recdkRK64g0b4GZlP
   - recp8G9ek0g3RAnEC
+  - recfzbgUna1vE1wtt
   Description: "\u201CIf you are a student, you may find the 2002 guidelines (IRE\
     \ 2.0) a good starting point of reflection. If you are looking for a draft to\
     \ obtain informed consent, look into the appendix of the 2002 guidelines (IRE\
@@ -404,10 +405,9 @@
   - recVLyzjb1UfqbrIh
   - recWNt6W4v0xr3x0Z
   - recNNFrnCiGxTP4WE
-  Challenges:
-  - recJjTMjpfE0WHSWu
   Challenges copy:
   - reczbN2QKYqG695ec
+  - recbsVGBRocMgkD2G
   Description: "\u201CAccess Now defends and extends the digital rights of users at\
     \ risk around the world. By combining direct technical support, comprehensive\
     \ policy engagement, global advocacy, grassroots grantmaking, and convenings such\
@@ -1162,14 +1162,14 @@
 - Challenges:
   - recefglLZ3oJWw2SZ
   - recBc3GCNokDL220T
-  - recdmBNNa98cN8Sda
-  - reckPjhcWwLgjX9p5
-  - recvQ90DajNCwPiGP
   Challenges copy:
   - recMhXPovX6fJ5ZIa
   - recHUlZ9OQfNwD6fg
   - recJvXzs5QMTqWzUF
   - recftbldoHqhBBcrk
+  - rec1ldHV74MQeRllz
+  - recpxk9KZ2adMWrnD
+  - rec5facmXBZUPH3es
   Description: |
     "The Public Policy Programme at The Alan Turing Institute was set up in May 2018 with the aim of developing research, tools, and techniques that help governments innovate with data-intensive technologies and improve the quality of people's lives. We work alongside policy makers to explore how data science and artificial intelligence can inform public policy and improve the provision of public services. We believe that governments can reap the benefits of these technologies only if they make considerations of ethics and safety a first priority. This document provides end-to-end guidance on how to apply principles of AI ethics and safety to the design and implementation of algorithmic systems in the public sector. We will shortly release a workbook to bring the recommendations made in this guide to life. The workbook will contain case studies highlighting how the guidance contained here can be applied to concrete AI projects. It will also contain exercises and practical tools to help strengthen the process-based governance of your AI project. Please note, that this guide is a living document that will evolve and improve with input from users, affected stakeholders, and interested parties. We need your participation."
     p.3
@@ -1273,6 +1273,8 @@
   - recC8IlVKWmMHOorw
   - recuFqYoT6MFNqspL
   - recHUlZ9OQfNwD6fg
+  - reck3lUFUtAhNes3Y
+  - recfzbgUna1vE1wtt
   Description: "\u201CThese guidelines are addressed to all AI stakeholders designing,\
     \ developing, deploying, implementing, using or being affected by AI, including\
     \ but not limited to companies, organisations, researchers, public services, government\
@@ -1395,13 +1397,6 @@
   - recGRpoF7DA23ODSj
   - rec2ULcHUjSbbSnHL
   - rec2ajglpzbFYRivi
-  - reciH69D8oIGI1p93
-  - recrVvneRZaEutaGw
-  - rec3Fm8dyG49YU137
-  - reckyVWsglP8FLeUp
-  - recg7BIZZsvZ57fvV
-  - recebQ2NgeBCmafoX
-  - rec9Cuz3HWc9lWW23
   - recj64vAVJSm5B2ba
   - recJV8yTX0MnF3rGD
   - recb50cfuQUWDAHZW
@@ -1438,6 +1433,12 @@
   - recv7IjfbiXBr4A5q
   - recfGEm2rcOTFEZVZ
   - recC8IlVKWmMHOorw
+  - recxWhAXTqxMscDqr
+  - recx5eWOlkkg11NJX
+  - recVWprITnDX6u0QB
+  - rec0d9XwyvbDuuuN6
+  - reck3lUFUtAhNes3Y
+  - recfzbgUna1vE1wtt
   Description: "\"Autonomous and intelligent technical systems are specifically designed\
     \ to reduce the necessity for human intervention in our day-to-day lives. In so\
     \ doing, these new systems are also raising concerns about their impact on individuals\
@@ -1517,6 +1518,7 @@
   - recMgYQ7EqHAyDfi1
   - recK1gdkh8c01WaXx
   - rec6q7u9fWKUtP6mx
+  - recypFGFqJzmgFmWV
   Tags:
   - AI
   - ethics-guideline

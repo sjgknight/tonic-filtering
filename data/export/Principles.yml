@@ -5,6 +5,9 @@
   Challenges copy:
   - recVGVVfuoL5sr3oo
   - recJvXzs5QMTqWzUF
+  - rec0d9XwyvbDuuuN6
+  - recPW66Z54lKwa7hR
+  - recKFOQ4CcT6PhQoe
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -144,9 +147,6 @@
   - recU6u0AZbcNj1ik9
   title: Safeguard their autonomy, their power to express themselves, and their right
     to be heard
-- airtable_createdTime: '2023-06-16T17:54:38.000Z'
-  airtable_id: rec7AHCZzsD1BonBx
-  title: AI
 - Description: "\u201C\u2022 Design and deploy AI systems to foster and to cultivate\
     \ the welfare of all stakeholders whose interests are affected by their use \u2022\
     \ Do no harm with these technologies and minimise the risks of their misuse or\
@@ -562,8 +562,6 @@
   - recuQpwelm0FwdAib
   title: Competence
 - Challenges:
-  - recdmBNNa98cN8Sda
-  - reckPjhcWwLgjX9p5
   - recJ6khG2kY2Tx5ae
   Challenges copy:
   - recX9rdsAGiONXTVd
@@ -571,6 +569,7 @@
   - recz5LeVOgbgic8Jk
   - recp8G9ek0g3RAnEC
   - recHUlZ9OQfNwD6fg
+  - rec1ldHV74MQeRllz
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -610,13 +609,12 @@
   title: Prioritise the safety and the mental and physical integrity of people when
     scanning horizons of technological possibility and when conceiving of and deploying
     AI applications
-- Challenges:
-  - rec5VzvnIZcaNKqDh
-  Challenges copy:
+- Challenges copy:
   - recwl0AdKj2HLIpDB
   - reccjN6q8gegWbrUE
   - recQWEzfzmzmfstG9
   - recC8IlVKWmMHOorw
+  - recVWprITnDX6u0QB
   Description: |
     "1.10 Respect for human beings is a recognition of their intrinsic value. In human research, this recognition includes abiding by the values of research merit and integrity, justice and beneficence. Respect also requires having due regard for the welfare, beliefs, perceptions, customs and cultural heritage, both individual and collective, of those involved in research.
     1.11 Researchers and their institutions should respect the privacy, confidentiality and cultural sensitivities of the participants and, where relevant, of their communities. Any specific agreements made with the participants or the community should be fulfilled.
@@ -692,10 +690,6 @@
   airtable_id: recNB5h9bK4gEE9uc
   title: Consider long-range and indirect impacts
 - Challenges:
-  - recdmBNNa98cN8Sda
-  - rech9r2f3QX8ZvmkP
-  - recvQ90DajNCwPiGP
-  - recJjTMjpfE0WHSWu
   - recwuiKe3bhSLw4xv
   Challenges copy:
   - rec3wCdnHy3TpLuya
@@ -705,6 +699,12 @@
   - recdkRK64g0b4GZlP
   - recfGEm2rcOTFEZVZ
   - recAZ41hiDOn9aTOl
+  - recx5eWOlkkg11NJX
+  - recEeRFQm7xXJVNyu
+  - rec5facmXBZUPH3es
+  - recfzbgUna1vE1wtt
+  - recpxk9KZ2adMWrnD
+  - recd5xGVz6jr6WUqy
   Description: |
     "Unless proposed research has merit, and the researchers who are to carry out the research have integrity, the involvement of human participants in the research cannot be ethically justifiable." (NS, preamble)
     "1.1 Research that has merit is:
@@ -767,6 +767,7 @@
   - recHHvfADKIkX9idP
   - rec284Ax8lKHt4ljQ
   - recfjoQZIVhT0C5pW
+  - reck3lUFUtAhNes3Y
   Description: |
     "respect the privacy, confidentiality and cultural sensitivities of the participants and, where relevant, of their communities."
   OverarchingFocus:
@@ -924,6 +925,8 @@
   - recbjinwvxQkFttqg
   - recu8eBgTi3OTRRij
   - recv7IjfbiXBr4A5q
+  - recWNlnhyOUXmOo0Q
+  - recbsVGBRocMgkD2G
   Description: |
     "1.4 In research that is just:
     1. (a) taking into account the scope and objectives of the proposed research, the selection, exclusion and inclusion of categories of research participants is fair, and is accurately described in the results of the research
@@ -1429,6 +1432,8 @@
   - reclJ7hlCEf4P94SA
   - recPKPxKp07OlhULb
   - rec1UyKLba4O7X6ax
+  - rec5nljdN28sNoK3X
+  - recwVOVXU6zbH6KZ7
   Description: |
     "1.6 The likely benefit of the research must justify any risks of harm or discomfort to participants. The likely benefit may be to the participants, to the wider community, or to both.
     1.7 Researchers are responsible for:
@@ -1526,6 +1531,7 @@
   title: Societal and environmental wellbeing
 - Challenges copy:
   - recfjoQZIVhT0C5pW
+  - recxWhAXTqxMscDqr
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -1700,8 +1706,8 @@
   - recSwTdeEk6XbEgXU
   - rec9uueW1gq31CcBo
   title: Respect for human rights
-- Challenges:
-  - recdmBNNa98cN8Sda
+- Challenges copy:
+  - recpxk9KZ2adMWrnD
   Description: "\u201CExplicability is crucial for building and maintaining users\u2019\
     \ trust in AI systems. This means that processes need to be transparent, the capabilities\
     \ and purpose of AI systems openly communicated, and decisions \u2013 to the extent\
@@ -1785,6 +1791,7 @@
   Challenges copy:
   - recTaaKAtPIfbenZv
   - rec7aGSPdkdUuZ42O
+  - recg821VxieIJvgRO
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:

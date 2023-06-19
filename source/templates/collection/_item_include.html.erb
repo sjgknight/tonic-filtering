@@ -7,7 +7,22 @@
     <% end %>
   <% end %>
   <div class="card-header">
-    <span><%= item.category %></span>
+
+  <!-- ideally display item.category unless hidecategory TRUE passed in call -->
+      <span><%= item.category %></span>
+
+    <!-- display challenges as rendered value -->
+    <span>
+    <% rest_of_attrs(item).each do |attribute| %>
+      <% value = item[attribute] %>
+        <span class="text-gray-500">
+          <% if value.is_a?(Array) && attribute == 'Challenges' %>
+                      <%= render_link_values(value) %>
+                     <% end %>
+        </span>
+    <% end %>
+  </span>
+
     <h3><%= item.title %></h3>
   </div>
   <div class="card-body">

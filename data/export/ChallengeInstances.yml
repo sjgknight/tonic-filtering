@@ -1,7 +1,46 @@
 - Challenges:
-  - recuUWIu0ofVYHLKA
+  - recWxPEkLYUdWhd2q
+  Description: "\"Will use of A/IS adversely affect human psychological and emotional\
+    \ well-being in ways not otherwise foreseen?\n## Background\nA/IS may be given\
+    \ unprecedented access to human culture and human spaces\u2014both physical and\
+    \ intellectual. A/IS may communicate via natural language, may move with humanlike\
+    \ form, and may express humanlike identity, but they are not, and should not be\
+    \ regarded as, human. Incorporation of A/IS into daily life may affect human well-being\
+    \ in ways not yet anticipated. Incorporation of A/IS may alter patterns of trust\
+    \ and capability assessment between humans, and between humans and A/IS.\_\n##\
+    \ Recommendations\n1\\.\_\_\_Vigilance and robust, interdisciplinary, on-going\
+    \ research on identifying situations where\_A/IS affect human well-being, both\
+    \ positively and negatively, is necessary. Evidence of correlations between the\
+    \ increased use of\_A/IS and positive or negative individual or social outcomes\
+    \ must be explored.\_\n2\\.\_\_\_Design restrictions should be placed on the systems\
+    \ themselves to avoid machine decisions that may alter a person\u2019s life in\
+    \ unknown ways. Explanations should be available on demand in systems that may\
+    \ affect human well-being.\n## Further Resources\n\u2022\_\_\_\_\_K. Kamewari,\
+    \ M. Kato, T. Kanda, H. Ishiguro and K. Hiraki. \u201CSix-and-a-Half-Month-Old\
+    \ Children Positively Attribute Goals to Human Action and to Humanoid-Robot Motion,\u201D\
+    \ _Cognitive Development, _vol._ _20, no. 2, pp. 303\u2013320, 2005.\n\u2022\_\
+    \_\_\_\_R.A. Calvo and D. Peters, Positive Computing: Technology for Wellbeing\
+    \ and Human Potential. Cambridge, MA: MIT Press, 2014.\"\np.102\n"
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Principles:
+  - rec42P8U9usfYCtv9
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - reccMqFCLOgQwWM5Q
+  Tags:
+  - AI
+  - human-potential
   airtable_createdTime: '2023-06-18T18:57:06.000Z'
   airtable_id: rec0d9XwyvbDuuuN6
+  title: It is not clear what the impact of AI use will be on psychological and emotional
+    wellbeing
 - Challenges:
   - recWPbL5kB1Yh5OPf
   Description: "There is a paradox that personalisation may result in standardisation\
@@ -78,6 +117,36 @@
   title: While introducing technologies has impacts, so too does removing them through
     algorithmic imprints and technology aftereffects
 - Challenges:
+  - recWxPEkLYUdWhd2q
+  Description: "\u201CWhile the capacity of AI systems to curate individual experiences\
+    \ and to personalise digital services holds the promise of vastly improving consumer\
+    \ life and service delivery, this benefit also comes with potential risks. Excessive\
+    \ automation, for example, might reduce the need for human-to-human interaction,\
+    \ while algorithmically enabled hyper-personalisation, by limiting our exposure\
+    \ to worldviews different from ours, might polarise social relationships. Well-ordered\
+    \ and cohesive societies are built on relations of trust, empathy, and mutual\
+    \ understanding. As AI technologies become more prevalent, it is important that\
+    \ these relations be preserved.\u201D (Leslie, 2019, p. 5)\n"
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recKdujFoPJr4ZAhZ
+  Reference:
+  - 'Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A
+    guide for the responsible design and implementation of AI systems in the public
+    sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  Sources:
+  - recfYC5jjPmpLfSlM
+  Strategies:
+  - recspvYTySr0ANH6j
+  Tags:
+  - AI
+  - human-potential
+  airtable_createdTime: '2023-06-19T05:53:35.000Z'
+  airtable_id: rec1ldHV74MQeRllz
+  title: There is potential for breakdown in trust to arise from a loss of exposure
+    to diverse human-human interactions
+- Challenges:
   - recBc3GCNokDL220T
   Description: "\"**Issue: **How can we increase agency by providing individuals access\
     \ to services allowing them to create a trusted identity to control the safe,\
@@ -124,6 +193,11 @@
   airtable_id: rec284Ax8lKHt4ljQ
   title: It is not always clear how we can protect our identities to assure privacy
     and identity verification
+- Challenges:
+  - recuUWIu0ofVYHLKA
+  airtable_createdTime: '2023-06-19T06:06:23.000Z'
+  airtable_id: rec2OEPHyKNR33lW6
+  title: Principle of Safety, key considerations
 - Challenges:
   - rec3T1WLC4dg63qyI
   Description: "\u201CAI technologies are grounded in models, and these models are\
@@ -302,6 +376,32 @@
     these biases may not be immediately clear in unbalanced data, nor apparent in
     short-term implementation evaluations
 - Challenges:
+  - recuUWIu0ofVYHLKA
+  Description: "\u201CIrresponsible data management, negligent design and production\
+    \ processes, and questionable deployment practices can, each in their own ways,\
+    \ lead to the implementation and distribution of AI systems that produce unreliable,\
+    \ unsafe, or poor-quality outcomes. These outcomes can do direct damage to the\
+    \ wellbeing of individual persons and the public welfare. They can also undermine\
+    \ public trust in the responsible use of societally beneficial AI technologies,\
+    \ and they can create harmful inefficiencies by virtue of the dedication of limited\
+    \ public resources to inefficient or even detrimental AI technologies.\u201D (Leslie,\
+    \ 2019, p. 5)\n"
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Principles:
+  - recOHnq45Fq7YWsRO
+  Reference:
+  - 'Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A
+    guide for the responsible design and implementation of AI systems in the public
+    sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  Sources:
+  - recfYC5jjPmpLfSlM
+  Tags:
+  - AI
+  airtable_createdTime: '2023-06-19T06:06:23.000Z'
+  airtable_id: rec5facmXBZUPH3es
+  title: Concerns with merit of new systems
+- Challenges:
   - recJ6khG2kY2Tx5ae
   Description: "Research involving naturalistic interventions shifts some ethical\
     \ considerations as compared to experimental studies. These approaches include\
@@ -336,6 +436,15 @@
   title: Design of interventions in naturalistic environments should ensure risks
     of harms and potential for benefits are considered for all those impacted (including
     any 'controls')
+- Challenges:
+  - recWxPEkLYUdWhd2q
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Principles:
+  - recmzjcGKv3yNOxbl
+  airtable_createdTime: '2023-06-19T06:04:41.000Z'
+  airtable_id: rec5nljdN28sNoK3X
+  title: AI poses threats to labour
 - Challenges:
   - recefglLZ3oJWw2SZ
   Description: "\"\\*_\"Issue: \\*_A/IS are contributing to humanitarian action to\
@@ -635,6 +744,16 @@
   title: How do we provide consistent oversight of AI to ensure they are accountable
     to end-users for any conclusions?
 - Challenges:
+  - recWxPEkLYUdWhd2q
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Principles:
+  - recOHnq45Fq7YWsRO
+  airtable_createdTime: '2023-06-19T06:05:28.000Z'
+  airtable_id: recEeRFQm7xXJVNyu
+  title: "\n  Guiding questions for educators regarding Societal and Environmental\n\
+    \  Wellbeing of AI in Education\n  "
+- Challenges:
   - recBc3GCNokDL220T
   Description: "It is not always clear what data about is being used, how it is being\
     \ used, by whom, and to what end. \n\n\"Issue: What would it mean for a person\
@@ -841,6 +960,12 @@
   title: In seeking to protect participants we may assume deidentification, however
     this may serve to marginalise participant contributions to research
 - Challenges:
+  - recuUWIu0ofVYHLKA
+  airtable_createdTime: '2023-06-19T06:06:23.000Z'
+  airtable_id: recISbGibFUeCXoRj
+  title: Considerations in assessing trustworthy AI - Minimising and reporting negative
+    impacts
+- Challenges:
   - recJ6khG2kY2Tx5ae
   Description: "In research that is \\[close to practice]\\(/recb4ql0nq1tsae0w) has\
     \ significant potential to directly impact the environment in which research is\
@@ -984,6 +1109,15 @@
   airtable_id: recJvXzs5QMTqWzUF
   title: Outcome fairness and bias in the outputs of models
 - Challenges:
+  - recuUWIu0ofVYHLKA
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Principles:
+  - rec42P8U9usfYCtv9
+  airtable_createdTime: '2023-06-19T06:06:23.000Z'
+  airtable_id: recKFOQ4CcT6PhQoe
+  title: Incidental findings
+- Challenges:
   - recwuiKe3bhSLw4xv
   Description: "AI systems may impact on relationships between decision makers such\
     \ that judgements previously made at a professional level must involve technology\
@@ -1110,6 +1244,36 @@
   airtable_id: recPKPxKp07OlhULb
   title: How do we foster AI that contributes to sustainability in context of short-term
     growth priorities?
+- Challenges:
+  - recWxPEkLYUdWhd2q
+  Description: "\"Will deployment of synthetic emotions into affective systems increase\
+    \ the accessibility of A/IS? Will increased accessibility prompt unforeseen patterns\
+    \ of identification with A/IS?\n## Background\nDeliberately constructed emotions\
+    \ are designed to create empathy between humans and artifacts, which may be useful\
+    \ or even essential for human-A/IS collaboration. Synthetic emotions\_are essential\
+    \ for humans to collaborate with the\_A/IS but can also lead to failure to recognize\
+    \ that synthetic emotions can be compartmentalized and even entirely removed.\
+    \ Potential consequences for humans include different patterns of bonding, guilt,\
+    \ and trust, whether between the human and A/IS or between other humans. There\
+    \ is no coherent sense in which A/IS can be made to suffer emotional loss, because\
+    \ any such affect, even if possible, could be avoided at the stage of engineering,\
+    \ or reengineered. As such, it is not possible to allocate moral agency or responsibility\
+    \ in the senses that have been developed for human emotional bonding and thus\
+    \ sociality\"\n\np.103-102\n"
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Principles:
+  - rec42P8U9usfYCtv9
+  Strategies:
+  - rec5CFheImo8onTcd
+  - rec9UfowPkXtPUBC9
+  Tags:
+  - AI
+  - affective-computing
+  airtable_createdTime: '2023-06-19T05:53:29.000Z'
+  airtable_id: recPW66Z54lKwa7hR
+  title: As AI is anthropomorphised and used to display synthetic affective capacity,
+    it is not clear what impact this will have on human interactions and affect
 - Challenges:
   - recJ6khG2kY2Tx5ae
   Description: "Tools may mediate the interaction between researchers and participants,\
@@ -1478,6 +1642,52 @@
   title: Gathering personal digital data requires consideration of its management,
     potential for reidentification, and issues around (dis)aggregation
 - Challenges:
+  - recWxPEkLYUdWhd2q
+  Description: "\"Will extensive use of\_A/IS in society make our organizations more\
+    \ brittle by reducing human autonomy within organizations, and by replacing creative,\
+    \ affective, empathetic components\_of management chains?\n## Background\nIf human\
+    \ workers are replaced by A/IS, the possibility of corporations, governments,\
+    \ employees, and customers discovering new equilibria outside the scope of what\
+    \ the organizations\u2019 past leadership originally foresaw may be unduly limited.\
+    \ A lack of empathy based on shared needs, abilities, and disadvantages between\
+    \ organizations and customers causes disequilibria between the individuals and\
+    \ corporations and governments that exist to serve them. Opportunities for useful\
+    \ innovation may therefore be lost through automation. Collaboration requires\
+    \ enough commonality\_of collaborating intelligences to create empathy\u2014 the\
+    \ capacity to model the other\u2019s goals based\_on one\u2019s own.\nAccording\
+    \ to scientists within several fields, autonomy is a psychological need. Without\
+    \ it, humans fail to thrive, create, and innovate.\nEthically aligned design should\
+    \ support, not hinder, human autonomy or its expression.\"\n\np.100-101\n"
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recLHILkx2JDFsLbX
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - recrBZOfrDC2lKpRM
+  Tags:
+  - AI
+  - human-potential
+  airtable_createdTime: '2023-06-19T05:47:50.000Z'
+  airtable_id: recVWprITnDX6u0QB
+  title: Management may experience reduced autonomy, through automisation that limits
+    creative, affective, empathetic concerns
+- Challenges:
+  - recWxPEkLYUdWhd2q
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
+  Principles:
+  - recSqx6wklVpDzx3s
+  airtable_createdTime: '2023-06-19T06:04:43.000Z'
+  airtable_id: recWNlnhyOUXmOo0Q
+  title: Should affective AI nudge users for personal or societal benefit?
+- Challenges:
   - recJ6khG2kY2Tx5ae
   Description: "Research in learning settings may involve research in the tradition\
     \ of scholarship of teaching and learning (SoTL) research, or other  'close to\
@@ -1619,6 +1829,42 @@
   airtable_id: recbjinwvxQkFttqg
   title: The Intersection of Data Literacy and Social Justice in AI and decision making
 - Challenges:
+  - recuUWIu0ofVYHLKA
+  Description: "\u201CBecause of their statistical basis, all ML systems have error\
+    \ rates. Even though in many cases ML systems are far more accurate than human\
+    \ beings, there is danger in assuming that simply because a system\u2019s predictions\
+    \ are more accurate than a human\u2019s, the outcome is necessarily better. Even\
+    \ if the error rate is close to zero, in a tool with millions of users, thousands\
+    \ could be affected by error rates. Consider the example of Google Photos. In\
+    \ 2015 Google Photos\u2019 image recognition software was found to have a terribly\
+    \ prejudicial and offensive error: it was occasionally labeling photos of black\
+    \ people as gorillas. Because the system used a complex ML model, engineers were\
+    \ unable to figure out why this was happening. The only \u201Csolution\u201D they\
+    \ could work out to this \u201Cracist\u201D ML was merely a band-aid: they removed\
+    \ any monkey-related words from the list of image tags.\nNow, imagine a similar\
+    \ software system used by U.S Customs and Border Patrol that photographs every\
+    \ person who enters and exits the U.S. and cross-references it with a database\
+    \ of photos of known or suspected criminals and terrorists. In 2016, an estimated\
+    \ 75.9 million people arrived in the United States.31 Even if the facial recognition\
+    \ system was 99.9% accurate, the 0.1% error rate would result in 75,900 people\
+    \ being misidentified. How many of these people would be falsely identified as\
+    \ wanted criminals and detained? And what would the impact be on their lives?\
+    \ Conversely, how many known criminals would get away? Even relatively narrow\
+    \ error rates in cases such as these can have severe consequences.\u201D (Access\
+    \ Now, 2018, p. 13)\n"
+  OverarchingPrinciples:
+  - recSqx6wklVpDzx3s
+  Principles:
+  - recSqx6wklVpDzx3s
+  Reference:
+  - Access Now. (2018). HUMAN RIGHTS IN THE AGE OF ARTIFICIAL INTELLIGENCE. Access
+    Now. https://www.accessnow.org/cms/assets/uploads/2018/11/AI-and-Human-Rights.pdf
+  Sources:
+  - recH8KmnURSknCr5y
+  airtable_createdTime: '2023-06-19T06:06:23.000Z'
+  airtable_id: recbsVGBRocMgkD2G
+  title: Tyranny of averages and Accuracy paradox and the risks of false positives
+- Challenges:
   - recWPbL5kB1Yh5OPf
   Description: "Use of AI in education risks a set of long-range and indirect impacts\
     \ that may be difficult to assess. These include the risks of AI\n1. Reifying\
@@ -1650,6 +1896,16 @@
   airtable_createdTime: '2023-06-16T12:26:38.000Z'
   airtable_id: reccjN6q8gegWbrUE
   title: Reification, ossification, and standardisation reduce autonomy
+- Challenges:
+  - recuUWIu0ofVYHLKA
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Principles:
+  - recOHnq45Fq7YWsRO
+  airtable_createdTime: '2023-06-19T06:06:23.000Z'
+  airtable_id: recd5xGVz6jr6WUqy
+  title: Questions to consider in key stages of AI and machine learning based research,
+    regarding transparency and explainability
 - Challenges:
   - recwuiKe3bhSLw4xv
   Description: "The interaction of research, stakeholders particularly in public service\
@@ -1912,6 +2168,41 @@
   title: Design fairness and ensuring models address challenges communities agree
     should be addressed
 - Challenges:
+  - recuUWIu0ofVYHLKA
+  Description: "**\"Issue:** Need for better\_technical documentation\n## Background\n\
+    A/IS are often construed as fundamentally opaque and inscrutable. However, lack\
+    \ of transparency is often the result of human decision. The problem can be traced\
+    \ to a\_variety of sources, including poor documentation that excludes vital information\
+    \ about the limitations and assumptions of a system.\_Better documentation combined\
+    \ with\_internal and external auditing are crucial to\_understanding a system\u2019\
+    s ethical impact.\"\nIEEE, 2019, p.135\n"
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Principles:
+  - recOHnq45Fq7YWsRO
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  - "High-Level Expert Group on AI. (2019). Ethics guidelines for trustworthy AI |\
+    \ Shaping Europe\u2019s digital future. FUTURIUM - European Commission. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai"
+  - 'franzke, aline shakti, Bechmann, A., Zimmer, M., Ess, C., & Association of Internet
+    Researchers (AoIR). (2020). Internet Research: Ethical Guidelines 3.0 Association
+    of Internet Researchers. AoIR. https://aoir.org/reports/ethics3.pdf'
+  Sources:
+  - recpXl48pJdKDhc6f
+  - recnCULdYQ36cpZR7
+  - rec6r8OkE2Q2EdiM3
+  Strategies:
+  - rec81gtnlFS5W2BBF
+  Tags:
+  - AI
+  - corporate-ethics
+  airtable_createdTime: '2023-06-19T06:06:23.000Z'
+  airtable_id: recfzbgUna1vE1wtt
+  title: How do we ensure assumptions and limitations are clear in technical documentation?
+- Challenges:
   - rec3T1WLC4dg63qyI
   Description: "A/IS culture and context\n## Norms vary: Background\nA responsible\
     \ approach to embedding values into A/IS requires that algorithms and systems\
@@ -2094,6 +2385,16 @@
   title: Norms, aims, and practices are diverse and may vary by location, change over
     time, and come into conflict
 - Challenges:
+  - recWxPEkLYUdWhd2q
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - reczVPIH1y2OMpAJH
+  airtable_createdTime: '2023-06-19T06:05:24.000Z'
+  airtable_id: recg821VxieIJvgRO
+  title: How might AI deployed in care settings to foster intimate relationships impact
+    on relationships among humans?
+- Challenges:
   - recWPbL5kB1Yh5OPf
   Description: "AI tools may be used as a panacea to address well established inequities\
     \ in resourcing, leading to two-tiered systems including in education; conversely\
@@ -2165,6 +2466,63 @@
   airtable_createdTime: '2023-06-16T16:25:14.000Z'
   airtable_id: reciceYsMfOtPdaaA
   title: Inequities in access to AI may increase, not tackle, inequality
+- Challenges:
+  - recWxPEkLYUdWhd2q
+  Description: "\"Does the increased access to personal information about other members\
+    \ of our society, facilitated by A/IS, alter the human affective experience?\_\
+    Does this access potentially lead to a change in human autonomy?\n## Background\n\
+    Theoretical biology tells us that we should expect increased communication\u2014\
+    which A/IS facilitate\u2014 to increase group-level investment8. Extensive use\
+    \ of A/IS could change the expression of individual autonomy and in its place\
+    \ increase group-based identities. Examples of this sort\_of social alteration\
+    \ may include:\n1\\.\_\_\_Changes in the scope of monitoring and control of children\u2019\
+    s lives by parents.\n2\\.\_\_\_Decreased willingness to express opinions for fear\
+    \ of surveillance or long-term consequences of past expressions being used in\
+    \ changed temporal contexts.\n3\\.\_\_\_Utilization of customers or other end\
+    \ users to perform basic corporate business processes such as data entry as a\
+    \ barter for lower prices or access, resulting potentially in reduced tax revenues.\n\
+    4\\.\_\_\_Changes to the expression of individual autonomy could alter the diversity,\
+    \ creativity, and cohesiveness of a society. It may also alter perceptions of\
+    \ privacy and security, and social and legal liability for autonomous expressions.\n\
+    ## Recommendations\n1\\.\_\_\_Organizations, including governments, must put a\
+    \ high value on individuals\u2019 privacy and autonomy, including restricting\
+    \ the amount and age of data held about individuals specifically.\n2\\.\_\_\_\
+    Education in all forms should encourage individuation, the preservation of autonomy,\
+    \ and knowledge of the appropriate uses and limits to A/IS9.\n## Further Resources\n\
+    \u2022\_\_\_\_\_J. J. Bryson, \u201CArtificial Intelligence and Pro-Social Behavior,\u201D\
+    \ in _Collective Agency and Cooperation in Natural and Artificial Systems, _C.\
+    \ Misselhorn, Ed., pp. 281\u2013306, Springer, 2015.\n\u2022\_\_\_\_\_M. Cooke,\
+    \ \u201CA Space of One\u2019s Own: Autonomy, Privacy, Liberty,\u201D _Philosophy\
+    \ & Social Criticism, _Vol._ _25, no. 1, pp. 22\u201353, 1999.\n\u2022\_\_\_\_\
+    \_D. Peters, R.A. Calvo, R.M. Ryan, \u201CDesigning for Motivation, Engagement\
+    \ and Wellbeing in Digital Experience[\u201D _Frontiers in Psychology_](https://www.frontiersin.org/journals/psychology)\
+    \ \u2013 _Human Media Interaction_, vol. 9. pp 797, 2018.\n\u2022\_\_\_\_\_J.\
+    \ Roughgarden, M. Oishi and E. Ak\xE7ay,\n\u201CReproductive Social Behavior:\
+    \ Cooperative Games to Replace Sexual Selection.\u201D _Science _311, no. 5763,\
+    \ pp. 965\u2013969, 2006.\"\n\np.101\n"
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recPg7Ov0priGGtLm
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  - "High-Level Expert Group on AI. (2019). Ethics guidelines for trustworthy AI |\
+    \ Shaping Europe\u2019s digital future. FUTURIUM - European Commission. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai"
+  Sources:
+  - recpXl48pJdKDhc6f
+  - recnCULdYQ36cpZR7
+  Strategies:
+  - recypFGFqJzmgFmWV
+  Tags:
+  - AI
+  - human-potential
+  airtable_createdTime: '2023-06-19T05:53:32.000Z'
+  airtable_id: reck3lUFUtAhNes3Y
+  title: Access to increasing amounts of data about each other may impact our interactions
+    in ways that change human autonomy
 - Challenges:
   - recwuiKe3bhSLw4xv
   Description: "### **Values-based ethical culture and practices for industry**\n\
@@ -2364,6 +2722,38 @@
   title: Potential for harms of AI, or opportunities to maximise benefits, may not
     be adequately addressed by teams without adequate understanding of sites of use
     and their distinctive ethical dimensions
+- Challenges:
+  - recuUWIu0ofVYHLKA
+  Description: "\u201CMany machine learning models generate their results by operating\
+    \ on high dimensional correlations that are beyond the interpretive capabilities\
+    \ of human scale reasoning. In these cases, the rationale of algorithmically produced\
+    \ outcomes that directly affect decision subjects remains opaque to those subjects.\
+    \ While in some use cases, this lack of explainability may be acceptable, in some\
+    \ applications, where the processed data could harbour traces of discrimination,\
+    \ bias, inequity, or unfairness, the opaqueness of the model may be deeply problematic.\u201D\
+    \ (Leslie, 2019, p. 4-5)\n"
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  - recOHnq45Fq7YWsRO
+  Principles:
+  - recOHnq45Fq7YWsRO
+  - recxcFmvPG5wrCqpO
+  Reference:
+  - 'Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A
+    guide for the responsible design and implementation of AI systems in the public
+    sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  Sources:
+  - recfYC5jjPmpLfSlM
+  Strategies:
+  - rechaQXedBh3OsMjZ
+  - rec81gtnlFS5W2BBF
+  - recgn2UvSD4OhzGI4
+  Tags:
+  - AI
+  - education
+  airtable_createdTime: '2023-06-19T05:52:12.000Z'
+  airtable_id: recpxk9KZ2adMWrnD
+  title: Decisions with unclear grounding
 - Challenges:
   - recJ6khG2kY2Tx5ae
   Description: "Assessing risks of harms and benefits may be challenging both in advance\
@@ -2575,6 +2965,15 @@
   title: How do we represent cross-cultural differences in communication through AI
     systems?
 - Challenges:
+  - recWxPEkLYUdWhd2q
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Principles:
+  - recmzjcGKv3yNOxbl
+  airtable_createdTime: '2023-06-19T06:04:36.000Z'
+  airtable_id: recwVOVXU6zbH6KZ7
+  title: AI poses risks to the right to truthful information
+- Challenges:
   - recWPbL5kB1Yh5OPf
   Description: |
     AI has the potential to impact on how we connect and talk together, and the structure of societies. AI should avoid harms and promote pro-social engagement, recognising that both the benefits and harms of research (and broader engagement with technology) may accrue over groups.
@@ -2600,8 +2999,82 @@
   title: Respect for human-human relationships, at individual and collective levels
 - Challenges:
   - recWxPEkLYUdWhd2q
+  Description: |
+    Will A/IS nudging systems that are not fully relevant to the sociotechnical context in which they are operating cause behaviors with adverse unintended consequences?
+    ## Background
+    A well-designed nudging or suggestion system will have sophisticated enough technical capabilities for recognizing the context in which it is applying nudging actions. Assessment of the context requires perception of the scope or impact of the actions to be taken, the consequences of incorrectly or incompletely applied nudges, and acknowledgement of the uncertainties that may stem from long term consequences of a nudge7."
+    (IEEE, 2019, p.98)
+  OverarchingPrinciples:
+  - recOHnq45Fq7YWsRO
+  Principles:
+  - recOHnq45Fq7YWsRO
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - rec9TbOu2ZXUZG4A5
+  Tags:
+  - AI
+  - nudge-deception
+  airtable_createdTime: '2023-06-19T05:45:46.000Z'
+  airtable_id: recx5eWOlkkg11NJX
+  title: AI nudges may be deployed inappropriately or fail to address their target
+    outcome, in ways that are challenging for nudge-receivers to address
+- Challenges:
+  - recWxPEkLYUdWhd2q
+  Description: "\"When, if ever, and\_under which circumstances,\_is deception performed\
+    \ by affective systems acceptable?\n## Background\nDeception is commonplace in\
+    \ everyday human-human interaction. According to Kantian ethics, it is never ethically\
+    \ appropriate to lie, while utilitarian frameworks indicate that it can be acceptable\
+    \ when deception increases overall happiness. Given the diversity of views on\
+    \ ethics and the appropriateness of deception, should affective systems be designed\
+    \ to deceive? Does the non-consensual nature of deception restrict the use of\
+    \ A/IS in contexts in which deception may be required?\nIt is necessary to develop\
+    \ recommendations regarding the acceptability of deception performed by A/IS,\
+    \ specifically with respect to when and under which circumstances, if any,\_it\
+    \ is appropriate.\n1\\.\_\_\_In general, deception may be acceptable in an affective\
+    \ agent when it is used for the benefit of the person being deceived, not for\
+    \ the agent itself. For example, deception might be necessary in search and rescue\
+    \ operations or for elder- or child-care.\_\n2\\.\_\_\_For deception to be used\
+    \ under any circumstance, a logical and reasonable justification must be provided\
+    \ by the designer, and this rationale should be certified by an external authority,\
+    \ such as a licensing body\_or regulatory agency.\n## **Further resources**\n\_\
+    \u2022\_\_\_\_\_R. C. Arkin, \u201CRobots That Need to Mislead: Biologically-inspired\
+    \ Machine Deception.\u201D _IEEE Intelligent Systems _27, no. 6, pp. 60\u2013\
+    75, 2012.\n\u2022\_\_\_\_\_J. Shim and R. C. Arkin, \u201COther-Oriented Robot\
+    \ Deception: How Can a Robot\u2019s Deceptive Feedback Help Humans in HRI?\u201D\
+    \ _Eighth International Conference on Social Robotics (ICSR 2016)_, Kansas, MO.,\
+    \ November 2016.\n\u2022\_\_\_\_\_J. Shim and R. C. Arkin, \u201CThe Benefits\
+    \ of Robot Deception in Search and Rescue: Computational Approach for Deceptive\
+    \ Action Selection via Case-based Reasoning.\u201D _2015 IEEE International Symposium\
+    \ on Safety, Security, and Rescue Robotics (SSRR 2015)_, West Lafayette, IN, October\
+    \ 2015.\n\u2022\_\_\_\_\_J. Shim and R. C. Arkin, \u201CA Taxonomy of Robot Deception\
+    \ and its Benefits in HRI.\u201D _Proceedings of IEEE Systems, Man and Cybernetics\
+    \ Conference, _Manchester England, October 2013.\"\np.102-103\n"
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recsvi4LnhEEPyQ1h
+  Reference:
+  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
+    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
+    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
+    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - rec9TbOu2ZXUZG4A5
+  Tags:
+  - AI
+  - nudge-deception
   airtable_createdTime: '2023-06-18T18:38:48.000Z'
   airtable_id: recxWhAXTqxMscDqr
+  title: Longstanding concern regarding 'deception' should be applied to the context
+    of affective AI systems
 - Challenges:
   - recJ6khG2kY2Tx5ae
   Description: "In the content of research there are often challenges in disaggregating\
