@@ -141,3 +141,21 @@ These are strategies that relate to beneficence and harm avoidance.
 
 <% keys_content = partial "templates/components/getkeys", locals: { my_filters: "item[:title]&.match?(/justice|fairness/i) && item[:category] == 'Principles'" } %>
 <%= partial "templates/components/cardset", locals: { my_filters: "item[:category] == 'Strategies' && (item[:Principles].is_a?(Array) ? item[:Principles]&.compact&.any? { |principle| principle&.match?(/#{keys_content}/i) } : item[:Principles]&.match?(/#{keys_content}/i))" } %>
+
+<h3>callouts </h3>
+
+Wrap in template:
+
+> partial 'templates/components/callout', locals: { type: "information", title: "to add here", text: "tbc re: draft paper" }
+
+ type
+  when 'information' then 'teal'
+  when 'question' then 'yellow'
+  when 'link' then 'blue'
+  when 'alert' then 'red'
+  else 'white'
+
+Must have type, title, and text declared.
+Text can be transcluded, or use the markdown partial to wrap as above.
+
+
