@@ -1,170 +1,3 @@
-- Description: "Are moral and ethical boundaries crossed when the design of affective\
-    \ systems allows them to develop intimate relationships with their users?\n##\
-    \ Background\n There are many robots in development or production designed to\
-    \ focus on intimate care of children, adults, and the elderly2. While robots capable\
-    \ of participating fully in intimate relationships are not currently available,\
-    \ the potential use of such robots routinely captures the attention of the media.\
-    \ It is important that professional communities, policy makers, and the general\
-    \ public participate in development of guidelines for appropriate use of A/IS\
-    \ in this area. Those guidelines should acknowledge fundamental human rights to\
-    \ highlight potential ethical benefits and risks that may emerge, if\_and when\
-    \ affective systems interact intimately with users. Among the many areas of concern\
-    \ are the representation of care, embodiment of caring\_A/IS, and the sensitivity\
-    \ of data generated through intimate and caring relationships with\_A/IS. The\
-    \ literature suggests that there are some potential benefits to individuals and\
-    \ to society from the incorporation of caring A/IS, along with duly cautionary\
-    \ notes concerning the possibility that these systems could negatively impact\
-    \ human-to-human intimate relations3.\n## Recommendations\nAs this technology\
-    \ develops, it is important to monitor research into the development of intimate\
-    \ relationships between A/IS and humans. Research should emphasize any technical\
-    \ and normative developments that reflect use of\_A/IS in positive and therapeutic\
-    \ ways while also creating appropriate safeguards to mitigate against uses that\
-    \ contribute to problematic individual or social relationships:\n1\\.\_\_\_Intimate\
-    \ systems must not be designed or deployed in ways that contribute to stereotypes,\
-    \ gender or racial inequality,\_or the exacerbation of human misery.\n2\\.\_\_\
-    \_Intimate systems must not be designed to explicitly engage in the psychological\
-    \ manipulation of the users of these systems unless the user is made aware they\
-    \ are being manipulated and consents to this behavior. Any manipulation should\
-    \ be governed\_through an opt-in system.\n3\\.\_\_\_Caring A/IS should be designed\
-    \ to avoid contributing to user isolation from society.\_\n4\\.\_\_\_Designers\
-    \ of affective robotics must publicly acknowledge, for example, within a notice\
-    \ associated with the product, that these systems can have side effects, such\
-    \ as interfering with the relationship dynamics between human partners, causing\
-    \ attachments between the user and the A/IS that are distinct from human partnership.\n\
-    5\\.\_\_Commercially marketed A/IS for caring applications should not be presented\
-    \ to be a person in a legal sense, nor marketed as a person. Rather its artifactual,\
-    \ that is, authored, designed, and built deliberately, nature should always be\
-    \ made as transparent as possible, at least at point of sale and in available\
-    \ documentation, as noted in Section 4, Systems Supporting Human Potential.6.\_\
-    \_\_Existing laws regarding personal imagery need to be reconsidered in light\
-    \ of caring A/IS.\_In addition to other ethical considerations, it will also be\
-    \ necessary to establish conformance with local laws and mores in the context\
-    \ of caring A/IS systems.\n## Further Resources\n\u2022\_\_\_\_\_M. Boden, J.\
-    \ Bryson, D. Caldwell, K. Dautenhahn, L. Edwards, S. Kember, P.\nNewman, V. Parry,\
-    \ G. Pegman, T. Rodden and T. Sorrell, Principles of robotics: regulating robots\
-    \ in the real world. Connection Science, vol. 29, no. 2, pp. 124-129, April 2017.\n\
-    \u2022\_\_\_\_\_J. J. Bryson, M. E. Diamantis, and T. D. Grant, \u201COf, For,\
-    \ and By the People: The Legal Lacuna of Synthetic Persons.\u201D _Artificial\
-    \ Intelligence & Law_, vol. 25, no. 3, pp. 273\u2013291, Sept. 2017.\n\u2022\_\
-    \_\_\_\_M. Scheutz, \u201CThe Inherent Dangers of\nUnidirectional Emotional Bonds\
-    \ between Humans and Social Robots,\u201D in _Robot Ethics: The Ethical and Social\
-    \ Implications of Robotics,_ P. Lin, K. Abney, and G. Bekey, Eds., pp. 205. Cambridge,\
-    \ MA: MIT Press, 2011.\n"
-  Reference:
-  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
-    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
-    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
-    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
-  Sources:
-  - recpXl48pJdKDhc6f
-  Strategies:
-  - rec5CFheImo8onTcd
-  Tags:
-  - affective-computing
-  airtable_createdTime: '2023-06-05T06:05:11.000Z'
-  airtable_id: rec2ULcHUjSbbSnHL
-  title: How might AI deployed in care settings to foster intimate relationships impact
-    on relationships among humans?
-- Description: "\"Should affective systems be designed to nudge people\_for the user\u2019\
-    s personal benefit and/or for the benefit of others?\n## Background\nManipulation\
-    \ can be defined as an exercise of influence by one person or group, with the\
-    \ intention to attempt to control or modify the actions of another person or group.\
-    \ Thaler and Sunstein (2008) call the tactic of subtly modifying behavior a \u201C\
-    nudge4\u201D. Nudging mainly operates through the affective elements of a human\
-    \ rational system. Making use of a nudge might be considered appropriate in situations\
-    \ like teaching children, treating drug dependency, and in some healthcare settings.\
-    \ While nudges can be deployed to encourage individuals to express behaviors that\
-    \ have community benefits, a nudge could have unanticipated consequences for people\
-    \ whose backgrounds were not well considered in the development of the nudging\
-    \ system5. Likewise, nudges may encourage behaviors with unanticipated long-term\
-    \ effects, whether positive or negative, for the\_individual and/or society. The\
-    \ effect of\_A/IS nudging a person, such as potentially eroding or encouraging\
-    \ individual liberty, or expressing behaviors that are for the benefit others,\
-    \ should be well characterized in the design of A/IS.\n## Recommendations\n1\\\
-    .\_\_\_Systematic analyses are needed that examine the ethics and behavioral consequences\
-    \ of designing affective systems to nudge human beings prior to deployment.\n\
-    2\\.\_\_\_The user should be empowered, through an explicit opt-in system and\
-    \ readily available, comprehensible information, to recognize different types\
-    \ of A/IS nudges, regardless of whether they seek to promote beneficial social\
-    \ manipulation or to enhance consumer acceptance of commercial goals. The user\
-    \ should be able to access and check facts behind the nudges and then make a conscious\
-    \ decision to accept or reject a nudge. Nudging systems must be transparent, with\
-    \ a clear chain of accountability that includes human agents: data logging is\
-    \ required so users can know how, why, and by whom they were nudged.\n3\\.\_\_\
-    \_A/IS nudging must not become coercive and should always have an opt-in system\
-    \ policy with explicit consent.\_\n4\\.\_\_\_Additional protections against unwanted\
-    \ nudging must be put in place for vulnerable populations, such as children, or\
-    \ when informed consent cannot be obtained. Protections against unwanted nudging\
-    \ should be encouraged when nudges alter long-term behavior or when consent alone\
-    \ may not be\_a sufficient safeguard against coercion\_or exploitation.\n5\\.\_\
-    \_\_Data gathered which could reveal an individual or groups\u2019 susceptibility\
-    \ to a nudge or their emotional reaction to a nudge should not be collected or\
-    \ distributed without opt-in consent, and should only be retained transparently,\
-    \ with access restrictions in compliance with the highest requirements of data\
-    \ privacy and law.\n## Further Resources\n\u2022\_\_\_\_\_R. Thaler, and C. R.\
-    \ Sunstein, _Nudge: Improving Decision about Health, Wealth and Happiness_, New\
-    \ Haven, CT: Yale University Press, 2008.\n\u2022\_\_\_\_\_L. Bovens, \u201CThe\
-    \ Ethics of Nudge,\u201D in _Preference change: Approaches from Philosophy, Economics\
-    \ and Psychology_, T. Gr\xFCne-Yanoff and S. O. Hansson, Eds., Berlin, Germany:\
-    \ Springer, 2008 pp. 207\u2013219.\n\u2022\_\_\_\_\_S. D. Hunt and S. Vitell.\
-    \ \"A General Theory of Marketing Ethics.\" Journal of Macromarketing, vol.6,\
-    \ no. 1, pp. 5-16, June 1986.\n\u2022\_\_\_\_\_A. McStay, [Empathic Media and\
-    \ Advertising: Industry, Policy, Legal and Citizen Perspectives (the Case for\
-    \ Intimacy)](http://journals.sagepub.com/doi/pdf/10.1177/2053951716666868), Big\
-    \ Data & Society, pp. 1-11, December 2016.\n\u2022\_\_\_\_\_J. de Quintana Medina\
-    \ and P. Hermida Justo, \u201CNot All Nudges Are Automatic: Freedom of Choice\
-    \ and Informative Nudges.\u201D Working paper presented to the European Consortium\
-    \ for Political Research, Joint Session of Workshops, 2016 Behavioral Change and\
-    \ Public Policy, Pisa, Italy, 2016.\n\u2022\_\_\_\_\_ M. D. White, _[The Manipulation\
-    \ of Choice. Ethics and Libertarian Paternalism. ](http://www.palgraveconnect.com/doifinder/10.1057/9781137313577)_New\
-    \ York: Palgrave Macmillan, 2013\n\u2022\_\_\_\_\_C.R. Sunstein, The Ethics of\
-    \ Influence: Government in the Age of Behavioral Science. New York: Cambridge,\
-    \ 2016\n\u2022\_\_\_\_\_M. Scheutz, \u201C[The Affect Dilemma for Artificial Agents:\
-    \ Should We Develop Affective Artificial Agents? ](http://ieeexplore.ieee.org/document/6296668/)\u201D\
-    \ _IEEE Transactions on Affective Computing, _vol._ _3, no. 4,pp. 424\u2013433,\_\
-    Sept. 2012.\n\u2022\_\_\_\_\_A. Grinbaum, R. Chatila, L. Devillers, J.G. Ganascia,\
-    \ C. Tessier and M. Dauchet. \u201C[Ethics in Robotics Research: CERNA Recommendations,](http://ieeexplore.ieee.org/document/7822928/)\u201D\
-    \ _IEEE Robotics and Automation Magazine, _vol._ _24, no. 3,pp. 139\u2013145,\
-    \ Sept. 2017.\n\u201CDesigning Moral Technologies: Theoretical, Practical, and\
-    \ Ethical Issues\u201D Conference July 10\u201315, 2016, Monte Verit\xE0, Switzerland\"\
-    \n\np.96-97\n\n\"Governmental entities may potentially use nudging strategies,\
-    \ for example to promote the performance of charitable acts. Does the practice\
-    \ of nudging for the benefit\_of society, including nudges\_by affective systems,\
-    \ raise\_ethical concerns?\n## Background\nA few scholars have noted a potentially\
-    \ controversial practice of the future: allowing a robot or another affective\
-    \ system to nudge a user for the good of society6. For instance, if it is possible\
-    \ that a well-designed robot could effectively encourage humans to perform charitable\
-    \ acts, would it be ethically appropriate for the robot to do so? This design\
-    \ possibility illustrates just one behavioral outcome that a robot could potentially\
-    \ elicit from a user.\nGiven the persuasive power that an affective system may\
-    \ have over a user, ethical concerns related to nudging must be examined. This\
-    \ includes the significant potential for misuse.\n## Recommendations\n1\\.\_\_\
-    \_As more and more computing devices subtly and overtly influence human behavior,\
-    \ it is important to draw attention to whether it is ethically appropriate to\
-    \ pursue this type of design pathway in the context of governmental actions.\n\
-    2\\.\_\_\_ There needs to be transparency regarding who the intended beneficiaries\
-    \ are, and whether any form of deception or manipulation is going to be used to\
-    \ accomplish the intended goal.\n## Further Resources\n\u2022\_\_\_\_\_J. Borenstein\
-    \ and R. Arkin, \u201C[Robotic Nudges: Robotic Nudges: The Ethics of Engineering\
-    \ a More Socially Just Human Being Just Human Being.](https://link.springer.com/article/10.1007/s11948-015-9636-2?no-access=true)\u201D\
-    \ _Science and Engineering Ethics, _vol._ _22, no. 1,pp. 31\u201346, Feb. 2016.\n\
-    \u2022\_\_\_\_\_J. Borenstein and R. Arkin. \u201C[Nudging for Good: Robots and\
-    \ the Ethical Appropriateness of Nurturing Empathy and Charitable Behavior ](https://link.springer.com/article/10.1007/s00146-016-0684-1?no-access=true).\u201D\
-    \ _AI and Society, _vol._ _32, no. 4, pp. 499\u2013507, Nov. 2016.\"\np.97-98\n"
-  Reference:
-  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
-    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
-    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
-    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
-  Sources:
-  - recpXl48pJdKDhc6f
-  Strategies:
-  - rec9TbOu2ZXUZG4A5
-  Tags:
-  - nudge-deception
-  airtable_createdTime: '2023-06-05T06:13:01.000Z'
-  airtable_id: rec2ajglpzbFYRivi
-  title: Should affective AI nudge users for personal or societal benefit?
 - Cases:
   - reciNqxyfUgE5XM7t
   - recrVkbG0XGe2Ca0v
@@ -244,8 +77,8 @@
   Strategies:
   - recsonQhKLmX4D1ao
   Tags:
-  - research
   - AI
+  - education
   airtable_createdTime: '2023-06-18T14:17:02.000Z'
   airtable_id: rec3T1WLC4dg63qyI
   title: Effective use of AI inherently involves multiple stakeholder and disciplinary
@@ -319,13 +152,13 @@
   - recpXl48pJdKDhc6f
   Strategies:
   - recZI7HDWKBU5T22v
-  - recfcXzM3foqFNNGN
   Tags:
   - wellbeing
+  - sustainability
   airtable_createdTime: '2023-06-05T05:53:34.000Z'
   airtable_id: recA7Kh502s4UKWGo
-  title: How do we incorporate wellbeing considerations into AI impact measurement
-    and monitoring?
+  title: 'Sustainability (including social and environmental sustainability): How
+    do we incorporate wellbeing considerations into AI impact measurement and monitoring?'
 - Cases:
   - recSXcY4cnofb4zTP
   ChallengeInstances:
@@ -372,19 +205,6 @@
   airtable_createdTime: '2023-05-18T19:10:38.000Z'
   airtable_id: recBc3GCNokDL220T
   title: 'Privacy, confidentiality, data integrity and cultural norms '
-- OverarchingPrinciples:
-  - recLHILkx2JDFsLbX
-  - recLHILkx2JDFsLbX
-  - recmzjcGKv3yNOxbl
-  Principles:
-  - recU6u0AZbcNj1ik9
-  - reczVPIH1y2OMpAJH
-  - rec42P8U9usfYCtv9
-  Tags:
-  - AI
-  airtable_createdTime: '2023-05-18T13:41:32.000Z'
-  airtable_id: recCpTJXuuowqsqQa
-  title: Incidental findings
 - Description: "\"How can A/IS creators influence A/IS goals to ensure well-being,\
     \ and what can A/IS creators learn or borrow from existing models in the well-being\
     \ and other arenas?\n## Background\nAnother way to incorporate considerations\
@@ -481,9 +301,11 @@
   - recZI7HDWKBU5T22v
   Tags:
   - wellbeing
+  - sustainability
   airtable_createdTime: '2023-06-05T05:54:42.000Z'
   airtable_id: recGRpoF7DA23ODSj
-  title: How do we incorporate wellbeing considerations into AI design/development/use?
+  title: 'Sustainability (including social and environmental sustainability): How
+    do we incorporate wellbeing considerations into AI design/development/use?'
 - ChallengeInstances:
   - recX9rdsAGiONXTVd
   - recQWEzfzmzmfstG9
@@ -535,80 +357,6 @@
   airtable_id: recJ6khG2kY2Tx5ae
   title: Interactions and distance between researchers and participants are central
     to research, both when proximal, and when mediated by technologies.
-- Description: "\"**Issue:** The right to truthful information is key to a democratic\
-    \ society and to achieving sustainable development and a more equal world, but\
-    \ A/IS poses risks to this right that must be managed.\n## Background\nSocial\
-    \ media have become the dominant technological infrastructure for the dissemination\
-    \ of information such as news, opinion, advertising, etc., and are currently in\
-    \ the vanguard of the movement toward customized/targeted information based on\
-    \ user profiling that involves significant use of A/IS techniques. Analysis of\
-    \ opinion polls and trends in social networks, blogs, etc., and of the emotional\
-    \ response to news items can be used for the purposes of manipulation, facilitating\
-    \ both the selection of news that guides public opinion in the desired direction\
-    \ and the practice of sensationalism.\nThe \"personalization of the consumer experience\"\
-    , that is, the adaptation of articles to the interests, political vision, cultural\
-    \ level, education, and geographic location of the reader, is a new challenge\
-    \ for the journalism profession that expands the possibilities of manipulation.\n\
-    The information infrastructure is currently lacking in transparency, such that\
-    \ it is difficult or impossible to know (except perhaps for the infrastructure\
-    \ operator):\n\u2022\_\_\_\_\_what private information is being collected for\n\
-    user profiling and by whom,\n\u2022\_\_\_\_\_which groups are targeted and by\
-    \ whom,\n\u2022\_\_\_\_\_what information has been received by any given targeted\
-    \ group,\n\u2022\_\_\_\_\_who financed the creation and dissemination of this\
-    \ information,\n\u2022\_\_\_\_\_the percentage of the information being disseminated\
-    \ by bots, and\n\u2022\_\_\_\_\_who is financing these bots.\nMany actors have\
-    \ found this opaque infrastructure ideal for spreading politically motivated disinformation,\
-    \ which has a negative effect on the creation of a more equal world, democracy,\
-    \ and the respect for fundamental rights. This disinformation can have tragic\
-    \ consequences. For instance, human rights groups have unearthed evidence that\
-    \ the military authorities of Myanmar used Facebook for inciting hatred against\
-    \ the Rohingya Muslim minority, hatred which facilitated an ethnic cleansing campaign\
-    \ and the murder of up to 50,000 people.14 The UN determined that these actions\
-    \ constituted genocide, crimes against humanity, and war crimes.15\n## Recommendations\n\
-    To protect democracy, respect fundamental rights, and promote sustainable development,\
-    \ governments should implement a legislative agenda which prevents the spread\
-    \ of misinformation and hate speech, by:\n\u2022\_\_\_\_\_Ensuring more control\
-    \ and transparency in the use of A/IS techniques for user profiling in order to\
-    \ protect privacy and prevent user manipulation.\n\u2022\_\_\_\_\_Using A/IS techniques\
-    \ to detect untruthful information circulating in the infrastructures, overseen\
-    \ by a democratic body to prevent potential censorship.\n\u2022\_\_\_\_\_Obliging\
-    \ companies owning A/IS infrastructures to provide more transparency regarding\
-    \ their algorithms, sources of funding, services, and clients.\n\u2022\_\_\_\_\
-    \_Defining a new legal status somewhere between \"platforms\" and \"content providers\"\
-    \ for A/IS infrastructures.\n\u2022\_\_\_\_\_ Reformulating the deontological\
-    \ codes of the journalistic profession to take into account the intensive use\
-    \ of A/IS techniques foreseen\_in the future. \u2022\_\_\_\_\_Promoting the right\
-    \ to information in official documents, and developing A/IS techniques to automate\
-    \ journalistic tasks such as verification of sources and checking the accuracy\
-    \ of the information in official documents, or in the selection, hierarchy, assessment,\
-    \ and development of news, thereby contributing to objectivity and reliability.\n\
-    ## Further Resources\n\u2022\_\_\_\_\_M. Broussard, \u201CArtificial Iintelligence\
-    \ for Investigative Reporting: Using an expert system to enhance journalists\u2019\
-    \ ability to discover original public affairs stories.\u201D Digital Journalism,\
-    \ vol. 3, no. 6, pp. 814-831, 2015.\n\u2022\_\_\_\_\_M. Carlson, \u201CThe robotic\
-    \ reporter: Automated journalism and the redefinition of labor, compositional\
-    \ forms, and journalistic authority.\u201D Digital Journalism, vol. 3, no. 3,\
-    \ pp. 416-431, 2015.\n\u2022\_\_\_\_\_A. L\xF3pez Barriuso, F. de la Prieta Pintado,\
-    \ \xC1. Lozano Murciego, , D. Hern\xE1ndez de la Iglesia and J. Revuelta Herrero,\
-    \ JOUR-MAS: A Multiagent System Approach to Help Journalism Management, vol. 4,\
-    \ no. 4, 2015.\n\u2022\_\_\_\_\_P. Mozur, \u201DA Genocide Incited on Facebook\
-    \ with Posts from Myanmar\u2019s Military,\u201D _The New York Times,_ Oct. 15\
-    \ 2018. [https:// www.nytimes.com/2018/10/15/technology/ myanmar-faceboo.k-genocide.html](https://www.nytimes.com/2018/10/15/technology/myanmar-facebook-genocide.html)\n\
-    \u2022\_\_\_\_\_UK Parliament, House of Commons, Digital, Culture, Media and Sport\
-    \ Committee Disinformation and \u2018fake news\u2019: Interim Report, Fifth Report\
-    \ of Session 2017\u201319UK Parliament, Published on July 29, 2018\"\np.142-144\n"
-  Reference:
-  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
-    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
-    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
-    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
-  Sources:
-  - recpXl48pJdKDhc6f
-  Strategies:
-  - recqJAVTtqOUfypNI
-  airtable_createdTime: '2023-06-05T11:18:00.000Z'
-  airtable_id: recJV8yTX0MnF3rGD
-  title: AI poses risks to the right to truthful information
 - ChallengeInstances:
   - recC8IlVKWmMHOorw
   - rec1UyKLba4O7X6ax
@@ -620,6 +368,9 @@
     \ making in ways that may diminish human autonomy, and where it is not always\
     \ transparent what basis decisions are made on, or the evidence that systems perform\
     \ to an acceptable level in these decisions.\n"
+  Tags:
+  - AI
+  - education
   airtable_createdTime: '2023-06-18T18:10:44.000Z'
   airtable_id: recSONq7KetYgyg6K
   title: Human control of technology and accountability for technology use
@@ -677,7 +428,7 @@
   Tags:
   - AI
   - indirect-impacts
-  - wellbeing
+  - education
   airtable_createdTime: '2023-05-18T18:54:26.000Z'
   airtable_id: recWPbL5kB1Yh5OPf
   title: Research produces both direct impact, on participants and then society, while
@@ -694,173 +445,14 @@
   - rec5nljdN28sNoK3X
   - recWNlnhyOUXmOo0Q
   - recg821VxieIJvgRO
-  - recEeRFQm7xXJVNyu
   Description: |
     **Respect for human-human relationships, at individual and collective levels** AI has the potential to impact on how we connect and talk together, and the structure of societies. AI should avoid harms and promote pro-social engagement, recognising that both the benefits and harms of research (and broader engagement with technology) may accrue over groups.
+  Tags:
+  - AI
+  - education
   airtable_createdTime: '2023-06-18T18:55:37.000Z'
   airtable_id: recWxPEkLYUdWhd2q
   title: Respect for human-human relationships, at individual and collective levels
-- Description: "\"**Issue: **A/IS are changing the nature of work, disrupting employment,\
-    \ while technological change is happening too fast for existing methods of (re)training\
-    \ the workforce.\n## Background\nThe current pace of technological development\
-    \ will heavily influence changes in employment structure. In order to properly\
-    \ prepare the workforce for such evolution, actions should be proactive and not\
-    \ only reactive. The wave of automation caused by the A/IS revolution will displace\
-    \ a very large share of jobs across domains and value chains. The U.S. \u201C\
-    automated vehicle\u201D case study analyzed in the White House 2016 report_ Artificial\
-    \ Intelligence, Automation, and the Economy _is emblematic of what is at stake:\
-    \ \u201C2.2 to 3.1 million existing part- and full-time U.S. jobs are exposed\
-    \ over the next two decades, although the timeline remains uncertain.\u201D18\n\
-    The risk of unemployment for LMIC is more serious than for developed countries.\
-    \ The industry of most LMIC is labor intensive. While labor may be cheap(er) in\
-    \ LMIC economies, the ripple effects of A/IS and automation will be felt much\
-    \ more than in the HIC economies. The 2016 World Bank Development Report stated\
-    \ that the share of occupations susceptible to automation and A/IS is higher in\
-    \ LMIC than in HIC, where such jobs have already disappeared. In addition, the\
-    \ qualities which made certain jobs easy to outsource to LMIC where wages are\
-    \ lower are those that may make them easy to automate.19 An offsetting factor\
-    \ is the reality that many LMIC lack the communication, energy, and IT infrastructure\
-    \ required to support highly automated industries.20 Notwithstanding this reality,\
-    \ the World Bank estimated the automatable share of employment, unadjusted for\
-    \ adoption time lag, for LMIC ranges from 85% in Ethiopia to 62% in Argentina,\
-    \ compared to the OECD average of 57%.21\nIn the coming decades, the automation\
-    \ wave calls for higher investment and the transformation of labor market capacity\
-    \ development programs. Innovative and fair ways of funding such an investment\
-    \ are required; the solutions should be designed in cooperation with the companies\
-    \ benefiting from the increase of profitability, thanks to automation. This should\
-    \ be done in a responsible way so that the innovation cycle is not broken, and\
-    \ yet workforce capacity does not fall behind the needs of 21st century employment.\
-    \ At the same time, A/IS and other digital technologies offer real potential to\
-    \ innovate new approaches to job-search assistance, placement, and hiring processes\
-    \ in the age of personalized services. The efficiency of matching labor supply\
-    \ and demand can be tremendously enhanced by the rise of multisided platforms\
-    \ and predictive analytics, provided they do not entrench discrimination.22 The\
-    \ case of platforms, such as LinkedIn, for instance, with its 470 million registered\
-    \ users, and online job consolidators such as indeed.com and Simply Hired, are\
-    \ interesting as an evolution in hiring practices,\_at least for those able to\
-    \ access the internet.\nTailored counseling and integrated retraining programs\
-    \ also represent promising grounds for innovation. In addition, much will have\
-    \ to be done to create fair and effective lifelong skill development/training,\
-    \ infrastructures, and mechanisms capable of empowering millions of people to\
-    \ viably transition jobs, sectors, and potentially locations, and to address differential\
-    \ geographic impacts that exacerbate income and wealth disparities. Effectively\
-    \ enabling the workforce to be more mobile\u2014physically, legally, and virtually\u2014\
-    will be crucial. This implies systemic policy approaches which encompass housing,\
-    \ transportation, licensing, tax incentives, and crucially in the age of A/IS,\
-    \ universal broadband access, especially in rural areas of both HIC\_and LMIC.\n\
-    ## Recommendations\nTo thrive in the A/IS age, workers must be provided training\
-    \ in skills that improve their adaptability to rapid technological changes; programs\
-    \ should be available to any worker, with special attention to the low-skilled\
-    \ workforce. Those programs can be private, that is, sponsored by the employer,\
-    \ or publicly and freely offered through specific public channels and government\
-    \ policies, and should be available regardless of whether the worker is in between\
-    \ jobs or still employed. Specific measures include:\n\u2022\_\_\_\_\_ Offering\
-    \ new technical programs, possibly earlier than high school, to increase the workforce\
-    \ capacity to close the skills gap and thrive in employment alongside A/IS. \u2022\
-    \_\_\_\_\_Creating opportunities for apprenticeships, pilot programs, and scaling\
-    \ up data-driven evidence-based solutions that increase employment and earnings.\n\
-    \u2022\_\_\_\_\_Supporting new forms of public-private partnerships involving\
-    \ civil society, as well as new outcome-oriented financial mechanisms, e.g., social\
-    \ impact bonds, that help scale up successful innovations.\n\u2022\_\_\_\_\_Supporting\
-    \ partnerships between universities, innovation labs in corporations, and governments\
-    \ to research and incubate startups for A/IS graduates.23\n\u2022\_\_\_\_\_Developing\
-    \ regulations to hold corporations responsible for employee retraining necessary\
-    \ due to increased automation and other technological applications having impact\_\
-    on the workforce.\n\u2022\_\_\_\_\_Facilitating private sector initiatives by\
-    \ public policy for co-investment in training and retraining programs through\
-    \ tax incentives.\n\u2022\_\_\_\_\_Establishing and resourcing public policies\
-    \ that assure the survival and well-being of workers, displaced by A/IS and automation,\
-    \ who cannot be retrained.\n\u2022\_\_\_\_\_Researching complementary areas, to\
-    \ lay solid foundations for the transformation outlined above.\n\u2022\_\_\_\_\
-    \_Requiring more policy research on the dynamics of professional transitions in\
-    \ different labor market conditions.\n\u2022\_\_\_\_\_Researching the fairest\
-    \ and most efficient public-private options for financing labor force transformation\
-    \ due to A/IS.\n\u2022\_\_\_\_\_Developing national and regional future of work\
-    \ strategies based on sound research and strategic foresight.\n## Further Resources\n\
-    \u2022\_\_\_\_\_V. Cerf and D. Norfors, The People-centered Economy: The New Ecosystem\
-    \ for Work. California: IIIJ Foundation, 2018.\n\u2022\_\_\_\_\_Executive Office\
-    \ of the President. _Artificial Intelligence, Automation, and the Economy._ December\
-    \ 20, 2016.\n\u2022\_\_\_\_\_S. Kilcarr, \u201CDefining the American Dream for\
-    \ Trucking ... and the Nation, Too,\u201D _FleetOwner_, April 26, 2016.\n\u2022\
-    \_\_\_\_\_M. Mason, \u201CMillions of Californians\u2019 Jobs could be Affected\
-    \ by Automation\u2014a Scenario the next Governor has to Address,\u201D_Los Angeles\
-    \ Times_, October 14, 2018.\n\u2022\_\_\_\_\_OECD, \u201CLabor Market Programs:\
-    \ Expenditure and Participants,\u201D _OECD Employment and Labor Market Statistics\
-    \ _(database), 2016.\n\u2022\_\_\_\_\_M. Vivarelli, \u201CInnovation and Employment:\
-    \ ASurvey,\u201D Institute for the Study of Labor (IZA) Discussion Paper No. 2621,\
-    \ February 2007.\n\"\np.147-149\n\n\"**Issue: **Analysis of the\_A/IS impact on\
-    \ employment is too focused on the number and category of jobs affected, whereas\
-    \ more attention should be addressed to the complexities of changing the task\
-    \ content\_of jobs.\n## Background\nCurrent attention on automation and employment\
-    \ tends to focus on the sheer number of jobs lost or gained. It is important to\
-    \ focus the analysis on how employment structures will be changed by A/IS, rather\
-    \ than solely dwelling on the number of jobs that might be impacted. For example,\
-    \ rather than carrying out a task themselves, workers will need to shift to supervision\
-    \ of robots performing that task. Other concerns include changes in traditional\
-    \ employment structures, with an increase in flexible, contract-based temporary\
-    \ jobs, without employee protection, and a shift in task composition away from\
-    \ routine/repetitive and toward complex decision-making. This is in addition to\
-    \ the enormous need for the aforementioned retraining. Given the extent of disruption,\
-    \ workforce trends will need to measure time spent unemployed or underemployed,\
-    \ labor force participation rates, and other factors beyond simple unemployment\
-    \ numbers.\nThe _Future of Jobs 2018 _report of the World Economic Forum highlights:\_\
-    \n\u201C...the potential of new technologies to create as well as disrupt jobs\
-    \ and to improve the quality and productivity of the existing work of human employees.\
-    \ Our findings indicate that, by 2022, _augmentation _of existing jobs through\
-    \ technology may free up workers from the majority of data processing and information\
-    \ search tasks\u2014and may also increasingly support them in high-value tasks\
-    \ such as reasoning and decision-making as augmentation becomes increasingly common\
-    \ over the coming years as a way to supplement and complement human labour.\n\
-    The report predicts the shift in skill demand between today and 2022 will be significant\
-    \ and that \u201Cproactive, strategic and targeted efforts will be needed to map\
-    \ and incentivize workforce redeployment\u2026 [and therefore]... investment decisions\
-    \ [on] whether to prioritize automation or augmentation and the question of whether\
-    \ or not to invest in workforce reskilling.\n## Recommendations\nWhile there is\
-    \ evidence that robots and automation are taking jobs away in various sectors,\
-    \ a more balanced, granular, analytical, and objective treatment of A/IS impact\
-    \ on the workforce is needed to effectively inform policy making and essential\
-    \ workforce reskilling. Specifics to accomplish this include:\n\u2022\_\_\_\_\_\
-    Creating an international and independent agency able to properly disseminate\
-    \ objective statistics and inform the media, as well as the general public, about\
-    \ the impact of robotics and A/IS on jobs, tax revenue, growth,26 and well-being.\n\
-    \u2022\_\_\_\_\_Analyzing and disseminating data on how current task content of\
-    \ jobs have changed, based on a clear assessment of the automatability of the\
-    \ occupational\_description of such jobs.\n\u2022\_\_\_\_\_Promoting automation\
-    \ with augmentation, as recommended in the _Future of Jobs Report 2018_ (see chart\
-    \ on page 154), to maximize the benefit of A/IS to employment and meaningful work.\n\
-    \u2022\_\_\_\_\_Integrating more granulated dynamic mapping of the future jobs,\
-    \ tasks, activities, workplace-structures, associated work-habits, and skills\
-    \ base spurred by the A/IS revolution, in order to innovate, align, and synchronize\
-    \ skill development and training programs with future requirements. This workforce\
-    \ mapping is needed at the macro, but also crucially at the micro, levels where\
-    \ labor market programs\_are deployed.\n\u2022\_\_\_\_\_Considering both product\
-    \ and process innovation, and looking at them from a global perspective in order\
-    \ to understand properly the global impact of A/IS on employment.\n\u2022\_\_\_\
-    \_\_Proposing mechanisms for redistribution of productivity increases and developing\
-    \ an adaptation plan for the evolving labor market.\n## Further Resources\n\u2022\
-    \_\_\_\_\_E. Brynjolfsson and A. McAfee. The Second Age of Machine Intelligence:\
-    \ Work Progress and Prosperity in a Time of Brilliant Technologies. New York,\
-    \ NY: W. W. Norton & Company, 2014.\n\u2022\_\_\_\_\_P.R. Daugherty, and H.J.\
-    \ Wilson, Human + Machine: Reimagining Work in the Age of AI_. _Watertown, MA:_\
-    \ _Harvard Business Review Press, 2018.\n\u2022\_\_\_\_\_International Federation\
-    \ of Robotics. \u201CThe Impact of Robots on Productivity, Employment and Jobs,\u201D\
-    \ A positioning paper by the International Federation of Robotics, April 2017.\n\
-    \u2022\_\_\_\_\_RockEU. \u201CRobotics Coordination Action for Europe Report on\
-    \ Robotics and Employment,\u201D Deliverable D3.4.1, June 30, 2016.\n\u2022\_\_\
-    \_\_\_World Economic Forum, Centre for the New Economy and Society, _The Future\
-    \ of Jobs 2018_, Geneva: WEF 2018.\"\n150-152\n"
-  Reference:
-  - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
-    \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
-    \ Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being\
-    \ (Vol. 95, pp. 11\u201316). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2"
-  Sources:
-  - recpXl48pJdKDhc6f
-  Strategies:
-  - recg2u6ZXSRiUO8uF
-  airtable_createdTime: '2023-06-05T11:48:28.000Z'
-  airtable_id: recb50cfuQUWDAHZW
-  title: AI poses threats to labour
 - Cases:
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
@@ -941,6 +533,7 @@
   - recfYC5jjPmpLfSlM
   Tags:
   - AI
+  - education
   airtable_createdTime: '2023-05-18T13:41:32.000Z'
   airtable_id: recefglLZ3oJWw2SZ
   title: Respect for diversity, non-discrimination, and fairness
@@ -1004,18 +597,23 @@
   Sources:
   - recpXl48pJdKDhc6f
   Strategies:
-  - recZI7HDWKBU5T22v
+  - recTr6cDE4OBKV0wv
+  - rec7daqDHSCuc70yS
+  - recK1gdkh8c01WaXx
+  - recHEUOqkzQTNsAMw
   Tags:
   - wellbeing
+  - sustainability
   airtable_createdTime: '2023-06-05T05:47:17.000Z'
   airtable_id: reciNc7OeTUmnsLqg
-  title: How do we incorporate a human-rights framework into AI design/development/use?
+  title: 'Sustainability (including social and environmental sustainability): How
+    do we incorporate a human-rights framework into AI design/development/use?'
 - Description: "**\"Issue: **Current roadmaps for development and deployment of A/IS\
     \ are not aligned with or guided by their impact in the most important challenges\
     \ of humanity, defined in the seventeen United Nations Sustainable Development\
     \ Goals (SDGs), which collectively aspire to create a more equal world of prosperity,\
     \ peace, planet protection, and human dignity\_for all people.4\n## Background\n\
-    \ SDGs promoting prosperity, peace, planet protection, human dignity, and respect\
+    SDGs promoting prosperity, peace, planet protection, human dignity, and respect\
     \ for human rights of all, apply to HIC and LMIC alike. Yet ensuring that the\
     \ benefits of A/IS will accrue to humanity as a whole, leaving \u201Cno one behind\u201D\
     , requires an ethical commitment to global citizenship and well-being, and a conscious\
@@ -1107,6 +705,10 @@
     \ A\\_RES\\_70\\_1\\_E.pdf](http://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_70_1_E.pdf).\n\
     \u2022\_\_\_\_\_United Nations Global Pulse, Big Data for Development: Challenges\
     \ and Opportunities, 2012.\"\n\np139-140\n"
+  OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recLHILkx2JDFsLbX
   Reference:
   - "IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics\
     \ of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva\
@@ -1116,11 +718,18 @@
   - recpXl48pJdKDhc6f
   Strategies:
   - recouZjokdKQz88z1
+  - recK1gdkh8c01WaXx
+  - rec7daqDHSCuc70yS
+  - rec0WScLo6sUnoOQN
+  - recGS9OVQ7qAjvIYE
+  - recJMrMEZnz9rYlnD
   Tags:
   - SDGs
+  - sustainability
   airtable_createdTime: '2023-06-05T10:57:55.000Z'
   airtable_id: recj64vAVJSm5B2ba
-  title: AI could hamper, not foster, progress on SDGs
+  title: 'Sustainability (including social and environmental sustainability): AI could
+    hamper, not foster, progress on SDGs'
 - Cases:
   - reciNqxyfUgE5XM7t
   - recrVkbG0XGe2Ca0v
@@ -1131,7 +740,6 @@
   - recpxk9KZ2adMWrnD
   - recfzbgUna1vE1wtt
   - rec5facmXBZUPH3es
-  - recd5xGVz6jr6WUqy
   - recKFOQ4CcT6PhQoe
   - recbsVGBRocMgkD2G
   - recISbGibFUeCXoRj
@@ -1151,16 +759,12 @@
     \ through education and awareness in developing accountability structures (see\
     \ Principle 6), in addition to guiding new technology proactively toward beneficial\
     \ ends.\" [(IEEE, 2019, p.32-33)](https://ethics-guides.netlify.app/reccfsnzpjvw0pcue)\n"
+  Tags:
+  - AI
+  - education
   airtable_createdTime: '2023-06-18T18:56:46.000Z'
   airtable_id: recuUWIu0ofVYHLKA
   title: New technologies give rise to new potential for misuse
-- OverarchingPrinciples:
-  - recmzjcGKv3yNOxbl
-  Principles:
-  - rec42P8U9usfYCtv9
-  airtable_createdTime: '2023-05-18T18:55:13.000Z'
-  airtable_id: recv6cN7XSt5GW32Y
-  title: Sustainability
 - ChallengeInstances:
   - reclJ7hlCEf4P94SA
   - recPKPxKp07OlhULb

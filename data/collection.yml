@@ -20,9 +20,9 @@
   - test
   Cases:
   - test
-  Principles:
-  - test
   ChallengeInstances:
+  - test
+  Principles:
   - test
   Stakeholder-as-actor:
   - test
@@ -47,9 +47,7 @@
   Khan_covered: '0'
   Schiff_covered: '0'
 - Challenges:
-  - recCpTJXuuowqsqQa
   - recefglLZ3oJWw2SZ
-  - recv6cN7XSt5GW32Y
   Challenges copy:
   - recVGVVfuoL5sr3oo
   - recJvXzs5QMTqWzUF
@@ -682,7 +680,9 @@
   name: recL7CrHMutQEBBu7
   tags: []
   created_at: '2023-05-19T10:58:11.000Z'
-- Challenges copy:
+- Challenges:
+  - recj64vAVJSm5B2ba
+  Challenges copy:
   - recwl0AdKj2HLIpDB
   - reccjN6q8gegWbrUE
   - recQWEzfzmzmfstG9
@@ -787,11 +787,9 @@
   - recfGEm2rcOTFEZVZ
   - recAZ41hiDOn9aTOl
   - recx5eWOlkkg11NJX
-  - recEeRFQm7xXJVNyu
   - rec5facmXBZUPH3es
   - recfzbgUna1vE1wtt
   - recpxk9KZ2adMWrnD
-  - recd5xGVz6jr6WUqy
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -812,7 +810,6 @@
   - recZRK4rseqW5VsRL
   Strategies:
   - rec0GhefNkhJqW0c2
-  - recGS9OVQ7qAjvIYE
   - recKWkdYO98PeEKDz
   - recZPU5yTmrjPXlF2
   - recAnT7HDpWYvdJ1V
@@ -1110,9 +1107,7 @@
     and irregular (or illegal) persons in the EU who also have rights under international
     law, and – therefore in the area of AI systems.” (High-Level Expert Group on AI,
     2019, p. 11)
-- Challenges:
-  - recCpTJXuuowqsqQa
-  Challenges copy:
+- Challenges copy:
   - recMhXPovX6fJ5ZIa
   - rec3XoC08SiG83eK0
   - recg4TZqdeqZcnd1w
@@ -1578,6 +1573,8 @@
   - rec1UyKLba4O7X6ax
   - rec5nljdN28sNoK3X
   - recwVOVXU6zbH6KZ7
+  - rec2OEPHyKNR33lW6
+  - recISbGibFUeCXoRj
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -1612,6 +1609,8 @@
   - rec0WScLo6sUnoOQN
   - recJMrMEZnz9rYlnD
   - reccAKmFQRH7IiuJi
+  - recTr6cDE4OBKV0wv
+  - recouZjokdKQz88z1
   equivalentTo:
   - rec7n2TGrH9RHYpQj
   - reclPiw2VvNOSTzv5
@@ -1965,7 +1964,6 @@
   created_at: '2023-05-19T11:00:08.000Z'
 - Challenges:
   - recefglLZ3oJWw2SZ
-  - recCpTJXuuowqsqQa
   Challenges copy:
   - recTaaKAtPIfbenZv
   - rec7aGSPdkdUuZ42O
@@ -2022,7 +2020,9 @@
     the impact, address the potential risks, and realise the benefits of an AI system
     deployed and used in education. As such they guide the development, deployment
     and use of trustworthy AI systems.” (European Commission, 2022, p. 19)
-- OverarchingPrinciples:
+- ChallengeInstances:
+  - rec5facmXBZUPH3es
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recOHnq45Fq7YWsRO
   - recOHnq45Fq7YWsRO
@@ -2120,7 +2120,10 @@
     the balance between advantageous ends and individual freedom been struck? - Which
     values did the organization decide to promote, and how?"(franzke et al., 2020,
     p. 37-38)'
-- OverarchingPrinciples:
+- ChallengeInstances:
+  - rec5facmXBZUPH3es
+  - recpxk9KZ2adMWrnD
+  OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recOHnq45Fq7YWsRO
   - recLHILkx2JDFsLbX
@@ -2245,7 +2248,9 @@
     AI system. These tasks of content clarification and practical justification will
     be explored in more detail below as part of the section on transparency."(Leslie,
     2019, p.22-23)'
-- OverarchingPrinciples:
+- Challenges:
+  - recj64vAVJSm5B2ba
+  OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   Principles:
   - recmzjcGKv3yNOxbl
@@ -2257,6 +2262,7 @@
   name: rec0WScLo6sUnoOQN
   tags:
   - governance-question
+  - sustainability
   created_at: '2023-05-28T19:44:36.000Z'
   description: “Compliance with this assessment list is not evidence of legal compliance,
     nor is it intended as guidance to ensure compliance with applicable law. Given
@@ -2439,7 +2445,10 @@
     of AI in gathering data for this research project? - How will the implementation
     of the AI system or use of the model affect the norms and sensitivities?(franzke
     et al., 2020, p. 36-37)
-- OverarchingPrinciples:
+- ChallengeInstances:
+  - rec2OEPHyKNR33lW6
+  - recuFqYoT6MFNqspL
+  OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recmzjcGKv3yNOxbl
   Principles:
@@ -2459,24 +2468,17 @@
     tailored to the specific use case and context in which the system operates. In
     addition, this chapter offers a general recommendation on how to implement the
     assessment list for Trustworthy AI though a governance structure embracing both
-    operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“Compliance
-    with this assessment list is not evidence of legal compliance, nor is it intended
-    as guidance to ensure compliance with applicable law. Given the application-specificity
-    of AI systems, the assessment list will need to be tailored to the specific use
-    case and context in which the system operates. In addition, this chapter offers
-    a general recommendation on how to implement the assessment list for Trustworthy
-    AI though a governance structure embracing both operational and management level.”
-    (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY AI ASSESSMENT LIST (PILOT
-    VERSION) “Technical robustness and safety Resilience to attack and security: <U+F0FC>
-    Did you assess potential forms of attacks to which the AI system could be vulnerable?
-    <U+F0A7> Did you consider different types and natures of vulnerabilities, such as data
-    pollution, physical infrastructure, cyber-attacks? <U+F0FC> Did you put measures or systems
-    in place to ensure the integrity and resilience of the AI system against potential
-    attacks? <U+F0FC> Did you verify how your system behaves in unexpected situations and
-    environments? <U+F0FC> Did you consider to what degree your system could be dual-use?
-    If so, did you take suitable preventative measures against this case (including
-    for instance not publishing the research or deploying the system)?” (High-Level
-    Expert Group on AI, 2019, p. 27)'
+    operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY
+    AI ASSESSMENT LIST (PILOT VERSION) “Technical robustness and safety Resilience
+    to attack and security: -  Did you assess potential forms of attacks to which
+    the AI system could be vulnerable? - Did you consider different types and natures
+    of vulnerabilities, such as data pollution, physical infrastructure, cyber-attacks?
+    - Did you put measures or systems in place to ensure the integrity and resilience
+    of the AI system against potential attacks? - Did you verify how your system behaves
+    in unexpected situations and environments? - Did you consider to what degree your
+    system could be dual-use? If so, did you take suitable preventative measures against
+    this case (including for instance not publishing the research or deploying the
+    system)?” (High-Level Expert Group on AI, 2019, p. 27)'
 - ChallengeInstances:
   - rec5l10QTYprjeewa
   OverarchingPrinciples:
@@ -2506,8 +2508,7 @@
     students’ privacy?(Fedoruk, 2017, p. 2)
 - ChallengeInstances:
   - recPW66Z54lKwa7hR
-  Challenges:
-  - rec2ULcHUjSbbSnHL
+  - recg821VxieIJvgRO
   Sources:
   - recpXl48pJdKDhc6f
   title: Monitor impact of affective AI in care on human-human relationships and implement
@@ -2614,6 +2615,8 @@
   - recuFqYoT6MFNqspL
   Challenges:
   - recWPbL5kB1Yh5OPf
+  - recj64vAVJSm5B2ba
+  - reciNc7OeTUmnsLqg
   OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recNB5h9bK4gEE9uc
@@ -2899,7 +2902,9 @@
     for the specific research project? - Is it possible to contain the potential malevolent
     future uses by design? - Up to which hypothetical data reuse moment is it appropriate
     to hold the researcher responsible? (franazke, 2020, p45-46)'
-- OverarchingPrinciples:
+- ChallengeInstances:
+  - recbsVGBRocMgkD2G
+  OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recmzjcGKv3yNOxbl
   - recOHnq45Fq7YWsRO
@@ -2921,25 +2926,18 @@
     tailored to the specific use case and context in which the system operates. In
     addition, this chapter offers a general recommendation on how to implement the
     assessment list for Trustworthy AI though a governance structure embracing both
-    operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“Compliance
-    with this assessment list is not evidence of legal compliance, nor is it intended
-    as guidance to ensure compliance with applicable law. Given the application-specificity
-    of AI systems, the assessment list will need to be tailored to the specific use
-    case and context in which the system operates. In addition, this chapter offers
-    a general recommendation on how to implement the assessment list for Trustworthy
-    AI though a governance structure embracing both operational and management level.”
-    (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY AI ASSESSMENT LIST (PILOT
-    VERSION) Technical robustness and safety“Reliability and reproducibility“<U+F0FC> Did
-    you put in place a strategy to monitor and test if the AI system is meeting the
-    goals, purposes and intended applications? <U+F0A7> Did you test whether specific contexts
-    or particular conditions need to be taken into account to ensure reproducibility?
-    <U+F0A7> Did you put in place verification methods to measure and ensure different aspects
-    of the system's reliability and reproducibility? <U+F0A7> Did you put in place processes
-    to describe when an AI system fails in certain types of settings? <U+F0A7> Did you clearly
-    document and operationalise these processes for the testing and verification of
-    the reliability of AI systems? <U+F0A7> Did you establish mechanisms of communication
-    to assure (end-)users of the system’s reliability?” (High-Level Expert Group on
-    AI, 2019, p. 28)
+    operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY
+    AI ASSESSMENT LIST (PILOT VERSION) Technical robustness and safety“Reliability
+    and reproducibility- Did you put in place a strategy to monitor and test if the
+    AI system is meeting the goals, purposes and intended applications? - Did you
+    test whether specific contexts or particular conditions need to be taken into
+    account to ensure reproducibility? - Did you put in place verification methods
+    to measure and ensure different aspects of the system's reliability and reproducibility?
+    - Did you put in place processes to describe when an AI system fails in certain
+    types of settings? - Did you clearly document and operationalise these processes
+    for the testing and verification of the reliability of AI systems? - Did you establish
+    mechanisms of communication to assure (end-)users of the system’s reliability?”
+    (High-Level Expert Group on AI, 2019, p. 28)
 - ChallengeInstances:
   - reclJ7hlCEf4P94SA
   Sources:
@@ -2967,8 +2965,7 @@
 - ChallengeInstances:
   - recxWhAXTqxMscDqr
   - recx5eWOlkkg11NJX
-  Challenges:
-  - rec2ajglpzbFYRivi
+  - recWNlnhyOUXmOo0Q
   OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recOHnq45Fq7YWsRO
@@ -3143,7 +3140,10 @@
     London: Sage, 2018.M. Price, “[Facial Expressions—Including Fear— May Not Be as
     Universal as We Thought.](http://www.sciencemag.org/news/2016/10/facial-expressions-including-fear-may-not-be-universal-we-thought)”
     _Science, _October 17, 2016."p.90-91'
-- OverarchingPrinciples:
+- ChallengeInstances:
+  - rec1UyKLba4O7X6ax
+  - rec2OEPHyKNR33lW6
+  OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recmzjcGKv3yNOxbl
   Principles:
@@ -3163,37 +3163,30 @@
     tailored to the specific use case and context in which the system operates. In
     addition, this chapter offers a general recommendation on how to implement the
     assessment list for Trustworthy AI though a governance structure embracing both
-    operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“Compliance
-    with this assessment list is not evidence of legal compliance, nor is it intended
-    as guidance to ensure compliance with applicable law. Given the application-specificity
-    of AI systems, the assessment list will need to be tailored to the specific use
-    case and context in which the system operates. In addition, this chapter offers
-    a general recommendation on how to implement the assessment list for Trustworthy
-    AI though a governance structure embracing both operational and management level.”
-    (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY AI ASSESSMENT LIST (PILOT
-    VERSION) Technical robustness and safety“Fallback plan and general safety: <U+F0FC> Did
-    you ensure that your system has a sufficient fallback plan if it encounters adversarial
-    attacks or other unexpected situations (for example technical switching procedures
-    or asking for a human operator before proceeding)? <U+F0FC> Did you consider the level
-    of risk raised by the AI system in this specific use case? <U+F0A7> Did you put any process
-    in place to measure and assess risks and safety? <U+F0A7> Did you provide the necessary
-    information in case of a risk for human physical integrity? <U+F0A7> Did you consider
-    an insurance policy to deal with potential damage from the AI system? <U+F0A7> Did you
-    identify potential safety risks of (other) foreseeable uses of the technology,
-    including accidental or malicious misuse? Is there a plan to mitigate or manage
-    these risks? <U+F0FC> Did you assess whether there is a probable chance that the AI system
-    may cause damage or harm to users or third parties? Did you assess the likelihood,
-    potential damage, impacted audience and severity? <U+F0A7> Did you consider the liability
-    and consumer protection rules, and take them into account? <U+F0A7> Did you consider
-    the potential impact or safety risk to the environment or to animals? <U+F0A7> Did your
-    risk analysis include whether security or network problems such as cybersecurity
-    hazards could pose safety risks or damage due to unintentional behaviour of the
-    AI system? <U+F0FC> Did you estimate the likely impact of a failure of your AI system
-    when it provides wrong results, becomes unavailable, or provides societally unacceptable
-    results (for example discrimination)? <U+F0A7> Did you define thresholds and did you
-    put governance procedures in place to trigger alternative/fallback plans? <U+F0A7> Did
-    you define and test fallback plans?” (High-Level Expert Group on AI, 2019, p.
-    27)'
+    operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY
+    AI ASSESSMENT LIST (PILOT VERSION) Technical robustness and safety“Fallback plan
+    and general safety: - Did you ensure that your system has a sufficient fallback
+    plan if it encounters adversarial attacks or other unexpected situations (for
+    example technical switching procedures or asking for a human operator before proceeding)?
+    - Did you consider the level of risk raised by the AI system in this specific
+    use case? - Did you put any process in place to measure and assess risks and safety?
+    - Did you provide the necessary information in case of a risk for human physical
+    integrity? - Did you consider an insurance policy to deal with potential damage
+    from the AI system? - Did you identify potential safety risks of (other) foreseeable
+    uses of the technology, including accidental or malicious misuse? Is there a plan
+    to mitigate or manage these risks? - Did you assess whether there is a probable
+    chance that the AI system may cause damage or harm to users or third parties?
+    Did you assess the likelihood, potential damage, impacted audience and severity?
+    - Did you consider the liability and consumer protection rules, and take them
+    into account?- Did you consider the potential impact or safety risk to the environment
+    or to animals? - Did your risk analysis include whether security or network problems
+    such as cybersecurity hazards could pose safety risks or damage due to unintentional
+    behaviour of the AI system? - Did you estimate the likely impact of a failure
+    of your AI system when it provides wrong results, becomes unavailable, or provides
+    societally unacceptable results (for example discrimination)? - Did you define
+    thresholds and did you put governance procedures in place to trigger alternative/fallback
+    plans? - Did you define and test fallback plans?” (High-Level Expert Group on
+    AI, 2019, p. 27)'
 - ChallengeInstances:
   - recHUlZ9OQfNwD6fg
   OverarchingPrinciples:
@@ -3293,7 +3286,9 @@
     been identified, strengthen areas of weakness that have possible discriminatory
     consequences, and take proactive bias-prevention measures in areas that have been
     identified to pose potential future risks.(Leslie, 2019, p. 20-23)'
-- OverarchingPrinciples:
+- ChallengeInstances:
+  - recfzbgUna1vE1wtt
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recmzjcGKv3yNOxbl
   Principles:
@@ -3393,7 +3388,9 @@
     - Are data subjects empowered to decide which data is collected and which inferences
     are made about them? - Can the data subject have access to their data? Can they
     choose to withdraw their data from the system?”(franzke et al., 2020, p. 38-40)'
-- OverarchingPrinciples:
+- ChallengeInstances:
+  - recbsVGBRocMgkD2G
+  OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recmzjcGKv3yNOxbl
   - recOHnq45Fq7YWsRO
@@ -3415,24 +3412,18 @@
     tailored to the specific use case and context in which the system operates. In
     addition, this chapter offers a general recommendation on how to implement the
     assessment list for Trustworthy AI though a governance structure embracing both
-    operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“Compliance
-    with this assessment list is not evidence of legal compliance, nor is it intended
-    as guidance to ensure compliance with applicable law. Given the application-specificity
-    of AI systems, the assessment list will need to be tailored to the specific use
-    case and context in which the system operates. In addition, this chapter offers
-    a general recommendation on how to implement the assessment list for Trustworthy
-    AI though a governance structure embracing both operational and management level.”
-    (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY AI ASSESSMENT LIST (PILOT
-    VERSION) Technical robustness and safety“Accuracy <U+F0FC> Did you assess what level
-    and definition of accuracy would be required in the context of the AI system and
-    use case? <U+F0A7> Did you assess how accuracy is measured and assured? <U+F0A7> Did you put
-    in place measures to ensure that the data used is comprehensive and up to date?
-    <U+F0A7> Did you put in place measures in place to assess whether there is a need for
-    additional data, for example to improve accuracy or to eliminate bias? <U+F0FC> Did you
-    verify what harm would be caused if the AI system makes inaccurate predictions?
-    <U+F0FC> Did you put in place ways to measure whether your system is making an unacceptable
-    amount of inaccurate predictions? <U+F0FC> Did you put in place a series of steps to
-    increase the system's accuracy?” (High-Level Expert Group on AI, 2019, p. 27)
+    operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY
+    AI ASSESSMENT LIST (PILOT VERSION) Technical robustness and safety“Accuracy -  Did
+    you assess what level and definition of accuracy would be required in the context
+    of the AI system and use case? - Did you assess how accuracy is measured and assured?
+    - Did you put in place measures to ensure that the data used is comprehensive
+    and up to date? - Did you put in place measures in place to assess whether there
+    is a need for additional data, for example to improve accuracy or to eliminate
+    bias? - Did you verify what harm would be caused if the AI system makes inaccurate
+    predictions? - Did you put in place ways to measure whether your system is making
+    an unacceptable amount of inaccurate predictions? - Did you put in place a series
+    of steps to increase the system's accuracy?” (High-Level Expert Group on AI, 2019,
+    p. 27)
 - ChallengeInstances:
   - recT8ABqanoxK9Qu0
   Sources:
@@ -3475,7 +3466,10 @@
     discussion and reflection about them with colleagues? - What are you learning
     from your project that can inform future practice related to ethical issues in
     the scholarship of teaching and learning?(Fedoruk, 2017, p. 3)'
-- OverarchingPrinciples:
+- ChallengeInstances:
+  - recfzbgUna1vE1wtt
+  - rec3XoC08SiG83eK0
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
@@ -3500,23 +3494,23 @@
     addition, this chapter offers a general recommendation on how to implement the
     assessment list for Trustworthy AI though a governance structure embracing both
     operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY
-    AI ASSESSMENT LIST (PILOT VERSION) “Communication: <U+F0FC> Did you communicate to (end-)users
+    AI ASSESSMENT LIST (PILOT VERSION) “Communication: - Did you communicate to (end-)users
     – through a disclaimer or any other means – that they are interacting with an
-    AI system and not with another human? Did you label your AI system as such? <U+F0FC>
+    AI system and not with another human? Did you label your AI system as such? -
     Did you establish mechanisms to inform (end-)users on the reasons and criteria
-    behind the AI system’s outcomes? <U+F0A7> Did you communicate this clearly and intelligibly
-    to the intended audience? <U+F0A7> Did you establish processes that consider users’ feedback
-    and use this to adapt the system? <U+F0A7> Did you communicate around potential or perceived
-    risks, such as bias? <U+F0A7> Depending on the use case, did you consider communication
+    behind the AI system’s outcomes? - Did you communicate this clearly and intelligibly
+    to the intended audience? - Did you establish processes that consider users’ feedback
+    and use this to adapt the system? - Did you communicate around potential or perceived
+    risks, such as bias? - Depending on the use case, did you consider communication
     and transparency towards other audiences, third parties or the general public?
-    <U+F0FC> Did you clarify the purpose of the AI system and who or what may benefit from
-    the product/service? <U+F0A7> Did you specify usage scenarios for the product and clearly
+    - Did you clarify the purpose of the AI system and who or what may benefit from
+    the product/service? - Did you specify usage scenarios for the product and clearly
     communicate these to ensure that it is understandable and appropriate for the
-    intended audience? <U+F0A7> Depending on the use case, did you think about human psychology
+    intended audience? - Depending on the use case, did you think about human psychology
     and potential limitations, such as risk of confusion, confirmation bias or cognitive
-    fatigue? <U+F0FC> Did you clearly communicate characteristics, limitations and potential
-    shortcomings of the AI system? <U+F0A7> In case of the system''s development: to whoever
-    is deploying it into a product or service? <U+F0A7> In case of the system''s deployment:
+    fatigue? - Did you clearly communicate characteristics, limitations and potential
+    shortcomings of the AI system? - In case of the system''s development: to whoever
+    is deploying it into a product or service? - In case of the system''s deployment:
     to the (end-)user or consumer?” (High-Level Expert Group on AI, 2019, p. 29)'
 - ChallengeInstances:
   - recX9rdsAGiONXTVd
@@ -3781,22 +3775,23 @@
     their own agent to the relationship without constraints that would make some guardians
     inherently incompatible or subject to censorship.•Vulnerable parts of the population
     will need protection in the process of granting access."p.111 IEEE 2019 report'
-- OverarchingPrinciples:
+- Challenges:
+  - recj64vAVJSm5B2ba
+  OverarchingPrinciples:
   - recSqx6wklVpDzx3s
   - recmzjcGKv3yNOxbl
-  - recOHnq45Fq7YWsRO
   Principles:
   - recZToVrPeFlFq0Aw
   - recmzjcGKv3yNOxbl
-  - recOHnq45Fq7YWsRO
   Sources:
   - recfYC5jjPmpLfSlM
-  title: Principle of Sustainability, key considerations
+  title: Principle of Sustainability, key considerations and impact assessment
   category: Strategies
   name: recGS9OVQ7qAjvIYE
   tags:
   - reflection-discussion
   - impact-assessment
+  - sustainability
   created_at: '2023-05-19T11:43:19.000Z'
   description: '"SustainabilityDesigners and users of AI systems should remain aware
     that these technologies may have transformative and long-term effects on individuals
@@ -3919,7 +3914,9 @@
     Has the model been properly retuned and retrained to accommodate changes in the
     environment?Dates of Public Consultation on Beta-Phase Impacts: Date of Next Planned
     Beta Phase Re-Assessment:"(Leslie, 2019, p.23-24)'
-- OverarchingPrinciples:
+- Challenges:
+  - reciNc7OeTUmnsLqg
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
   - reckb3cgfeDh1EeUP
@@ -3928,7 +3925,8 @@
   title: Consider tensions and absolute rights
   category: Strategies
   name: recHEUOqkzQTNsAMw
-  tags: []
+  tags:
+  - sustainability
   created_at: '2023-05-28T18:58:31.000Z'
   description: “Tensions may arise between the above principles, for which there is
     no fixed solution. In line with the EU fundamental commitment to democratic engagement,
@@ -4076,7 +4074,9 @@
     com/abstract=2779647](https://ssrn.com/abstract=2779647). [Accessed Nov. 1, 2018].•R.
     Calo, “[Consumer Subject Review Boards: A Thought Experiment](https://www.stanfordlawreview.org/online/privacy-and-big-data-consumer-subject-review-boards/).”
     _Stanford Law Review Online _66 97, Sept. 2013.'
-- OverarchingPrinciples:
+- Challenges:
+  - recj64vAVJSm5B2ba
+  OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   Principles:
   - recmzjcGKv3yNOxbl
@@ -4087,6 +4087,7 @@
   name: recJMrMEZnz9rYlnD
   tags:
   - governance-question
+  - sustainability
   created_at: '2023-05-28T19:45:48.000Z'
   description: '“Compliance with this assessment list is not evidence of legal compliance,
     nor is it intended as guidance to ensure compliance with applicable law. Given
@@ -4139,7 +4140,7 @@
     doctrine of fair use, this is not a guarantee of protection against copyright
     infringement.)” (Markham and Buchanan, 2012, p. 10)
 - ChallengeInstances:
-  - recC8IlVKWmMHOorw
+  - recISbGibFUeCXoRj
   OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recOHnq45Fq7YWsRO
@@ -4209,6 +4210,8 @@
   - rec3wCdnHy3TpLuya
   Challenges:
   - recWPbL5kB1Yh5OPf
+  - recj64vAVJSm5B2ba
+  - reciNc7OeTUmnsLqg
   OverarchingPrinciples:
   - recNB5h9bK4gEE9uc
   Principles:
@@ -4222,25 +4225,25 @@
   created_at: '2023-06-16T10:28:36.000Z'
   description: '## RecommendationsTo understand the impact of A/IS on society, it
     is necessary to consider product and process innovation, as well as wider sociocultural
-    and ethical implications, from a global perspective, including the following:•Exploring
-    the development of algorithms capable of detecting and reporting discrimination,
+    and ethical implications, from a global perspective, including the following:-
+    Exploring the development of algorithms capable of detecting and reporting discrimination,
     cyberbullying, deceptive content and identities, etc., and of notifying competent
     authorities; recognizing that the use of such algorithms must address ethical
     concerns related to algorithm explainability as well as take into account the
-    risk to certain aspects of human rights, notably to privacy and freedom from oppression.•Developing
-    a globally recognized professional Code of Ethics with and for technology companies.•Identifying
-    social disorders, such as depression, anxiety, psychological violence, political
-    manipulation, etc., correlated with the use ofA/IS-based technologies as a world
-    health problem; monitoring and measuring their impact.•Elaborating metrics measuring
-    how, where and on whom there is a cultural impact of newA/IS-based technologies.•T.
-    Luong, “Thermostats, Locks and Lights: Digital Tools of Domestic Abuse,” _The
-    New York Times_, June 23, 2018, [https://www. nytimes.com/2018/06/23/technology/smarthome-devices-domestic-abuse.html](https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html).•J.
-    Naughton, “The internet of things has opened up a new frontier of domestic abuse.”
-    The Guardian, July 2018.•M. Pianta, Innovation and Employment, Handbook of Innovation_.
-    _Oxford, U.K.: Oxford University Press, 2003.•M.J. Salganik, Bit by Bit. Princeton,
-    NJ: Princeton University Press 2018.•J. Torresen, “A Review of Future and Ethical
-    Perspectives of Robotics and AI” Frontiers in Robotics and AI, Jan. 15, 2018.
-    [Online]. Available: [https://doi.org/10.3389/ frobt.2017.00075](https://doi.org/10.3389/frobt.2017.00075).
+    risk to certain aspects of human rights, notably to privacy and freedom from oppression.-
+    Developing a globally recognized professional Code of Ethics with and for technology
+    companies.- Identifying social disorders, such as depression, anxiety, psychological
+    violence, political manipulation, etc., correlated with the use ofA/IS-based technologies
+    as a world health problem; monitoring and measuring their impact.- Elaborating
+    metrics measuring how, where and on whom there is a cultural impact of newA/IS-based
+    technologies.- T. Luong, “Thermostats, Locks and Lights: Digital Tools of Domestic
+    Abuse,” _The New York Times_, June 23, 2018, [https://www. nytimes.com/2018/06/23/technology/smarthome-devices-domestic-abuse.html](https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html).-
+    J. Naughton, “The internet of things has opened up a new frontier of domestic
+    abuse.” The Guardian, July 2018.- M. Pianta, Innovation and Employment, Handbook
+    of Innovation_. _Oxford, U.K.: Oxford University Press, 2003.- M.J. Salganik,
+    Bit by Bit. Princeton, NJ: Princeton University Press 2018.- J. Torresen, “A Review
+    of Future and Ethical Perspectives of Robotics and AI” Frontiers in Robotics and
+    AI, Jan. 15, 2018. [Online]. Available: [https://doi.org/10.3389/ frobt.2017.00075](https://doi.org/10.3389/frobt.2017.00075).
     [Accessed Nov. 1, 2018]."p.141-142'
 - ChallengeInstances:
   - recsYgGzgIK80qUCT
@@ -4265,7 +4268,9 @@
     the potential risks? - Is the research aiming at a good or desirable goal? - Can
     we be sure the data collected from online sites, fora, communities, is “legitimate”
     and “valuable”?” (Markham and Buchanan, 2012, p. 11)
-- OverarchingPrinciples:
+- ChallengeInstances:
+  - rec2OEPHyKNR33lW6
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recmzjcGKv3yNOxbl
   Principles:
@@ -4613,7 +4618,10 @@
     ‘perceived privacy’16 or the notion that individuals might care more about the
     appropriate flow of information as defining it as public or private17?” (Markham
     and Buchanan, 2012, p. 8-9)'
-- OverarchingPrinciples:
+- ChallengeInstances:
+  - rec2OEPHyKNR33lW6
+  - recC8IlVKWmMHOorw
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
   - recLHILkx2JDFsLbX
@@ -4637,23 +4645,23 @@
     assessment list for Trustworthy AI though a governance structure embracing both
     operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY
     AI ASSESSMENT LIST (PILOT VERSION) 1\. Human agency and oversight Fundamental
-    rights: <U+F0FC> Did you carry out a fundamental rights impact assessment where there
-    could be a negative impact on fundamental rights? Did you identify and document
-    potential trade-offs made between the different principles and rights? <U+F0FC> Does
+    rights: -  Did you carry out a fundamental rights impact assessment where there
+    could be a negative impact on fundamental rights? - Did you identify and document
+    potential trade-offs made between the different principles and rights? - Does
     the AI system interact with decisions by human (end) users (e.g. recommended actions
-    or decisions to take, presenting of options)? <U+F0A7> Could the AI system affect human
+    or decisions to take, presenting of options)? - Could the AI system affect human
     autonomy by interfering with the (end) user’s decision-making process in an unintended
-    way? <U+F0A7> Did you consider whether the AI system should communicate to (end) users
+    way? - Did you consider whether the AI system should communicate to (end) users
     that a decision, content, advice or outcome is the result of an algorithmic decision?
-    <U+F0A7> In case of a chat bot or other conversational system, are the human end users
+    - In case of a chat bot or other conversational system, are the human end users
     made aware that they are interacting with a non-human agent?” (High-Level Expert
-    Group on AI, 2019, p. 26)“<U+F0FC> Is there is a self-learning or autonomous AI system
+    Group on AI, 2019, p. 26)- "Is there is a self-learning or autonomous AI system
     or use case? If so, did you put in place more specific mechanisms of control and
-    oversight? <U+F0A7> Which detection and response mechanisms did you establish to assess
-    whether something could go wrong” (High-Level Expert Group on AI, 2019, p. 26)“<U+F0A7>
-    Did you ensure a stop button or procedure to safely abort an operation where needed?
-    Does this procedure abort the process entirely, in part, or delegate control to
-    a human?” (High-Level Expert Group on AI, 2019, p. 27)'
+    oversight? - Which detection and response mechanisms did you establish to assess
+    whether something could go wrong” (High-Level Expert Group on AI, 2019, p. 26)-
+    "Did you ensure a stop button or procedure to safely abort an operation where
+    needed? - Does this procedure abort the process entirely, in part, or delegate
+    control to a human?” (High-Level Expert Group on AI, 2019, p. 27)'
 - ChallengeInstances:
   - recJvXzs5QMTqWzUF
   OverarchingPrinciples:
@@ -4833,6 +4841,8 @@
 - Cases:
   - recOOmVQviRyJGvea
   - recAlOHJhEy5nDwA6
+  ChallengeInstances:
+  - recfzbgUna1vE1wtt
   OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recOHnq45Fq7YWsRO
@@ -4854,12 +4864,12 @@
   tags:
   - reflection-questions
   created_at: '2023-05-19T13:37:48.000Z'
-  description: • Is there sufficient security in place to protect against data breaches?
-    • Is there a strategy to monitor and test if the AI system is meeting the goals,
-    purposes and intended applications? • Are the appropriate oversight mechanisms
-    in place for data collection, storage, processing, minimisation and use? • Is
+  description: '- Is there sufficient security in place to protect against data breaches?
+    - Is there a strategy to monitor and test if the AI system is meeting the goals,
+    purposes and intended applications? - Are the appropriate oversight mechanisms
+    in place for data collection, storage, processing, minimisation and use? - Is
     information available to assure learners and parents of the system’s technical
-    robustness and safety?
+    robustness and safety?'
 - ChallengeInstances:
   - reczbN2QKYqG695ec
   OverarchingPrinciples:
@@ -4912,13 +4922,20 @@
     or metrics to measure and test the applied definition of fairness? - Did you establish
     mechanisms to ensure fairness in your AI systems? Did you consider other potential
     mechanisms?” (High-Level Expert Group on AI, 2019, p. 30)'
-- Sources:
+- Challenges:
+  - reciNc7OeTUmnsLqg
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Principles:
+  - recmzjcGKv3yNOxbl
+  Sources:
   - recnCULdYQ36cpZR7
   title: Considerations in assessing trustworthy AI - Fundamental rights
   category: Strategies
   name: recTr6cDE4OBKV0wv
   tags:
   - governance-question
+  - sustainability
   created_at: '2023-05-28T19:10:10.000Z'
   description: '“Compliance with this assessment list is not evidence of legal compliance,
     nor is it intended as guidance to ensure compliance with applicable law. Given
@@ -4926,27 +4943,22 @@
     tailored to the specific use case and context in which the system operates. In
     addition, this chapter offers a general recommendation on how to implement the
     assessment list for Trustworthy AI though a governance structure embracing both
-    operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“Compliance
-    with this assessment list is not evidence of legal compliance, nor is it intended
-    as guidance to ensure compliance with applicable law. Given the application-specificity
-    of AI systems, the assessment list will need to be tailored to the specific use
-    case and context in which the system operates. In addition, this chapter offers
-    a general recommendation on how to implement the assessment list for Trustworthy
-    AI though a governance structure embracing both operational and management level.”
-    (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY AI ASSESSMENT LIST (PILOT
-    VERSION) 1\. Human agency and oversight Fundamental rights: <U+F0FC> Did you carry out
-    a fundamental rights impact assessment where there could be a negative impact
-    on fundamental rights? Did you identify and document potential trade-offs made
-    between the different principles and rights? <U+F0FC> Does the AI system interact with
-    decisions by human (end) users (e.g. recommended actions or decisions to take,
-    presenting of options)? <U+F0A7> Could the AI system affect human autonomy by interfering
-    with the (end) user’s decision-making process in an unintended way? <U+F0A7> Did you
-    consider whether the AI system should communicate to (end) users that a decision,
-    content, advice or outcome is the result of an algorithmic decision? <U+F0A7> In case
-    of a chat bot or other conversational system, are the human end users made aware
-    that they are interacting with a non-human agent?” (High-Level Expert Group on
-    AI, 2019, p. 26)'
-- Sources:
+    operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY
+    AI ASSESSMENT LIST (PILOT VERSION) 1\. Human agency and oversight Fundamental
+    rights: - Did you carry out a fundamental rights impact assessment where there
+    could be a negative impact on fundamental rights? - Did you identify and document
+    potential trade-offs made between the different principles and rights? - Does
+    the AI system interact with decisions by human (end) users (e.g. recommended actions
+    or decisions to take, presenting of options)? - Could the AI system affect human
+    autonomy by interfering with the (end) user’s decision-making process in an unintended
+    way? - Did you consider whether the AI system should communicate to (end) users
+    that a decision, content, advice or outcome is the result of an algorithmic decision?
+    - In case of a chat bot or other conversational system, are the human end users
+    made aware that they are interacting with a non-human agent?” (High-Level Expert
+    Group on AI, 2019, p. 26)'
+- ChallengeInstances:
+  - reclJ7hlCEf4P94SA
+  Sources:
   - recpXl48pJdKDhc6f
   title: Roles regarding ethics should have leadership capacity, to foster ethical
     culture across the organisation
@@ -5094,7 +5106,6 @@
   - reclJ7hlCEf4P94SA
   - rec3XoC08SiG83eK0
   Challenges:
-  - reciNc7OeTUmnsLqg
   - recA7Kh502s4UKWGo
   - recGRpoF7DA23ODSj
   - recWPbL5kB1Yh5OPf
@@ -5794,7 +5805,10 @@
     the researcher still seek subjects’/participants’ consent in a non-regulatory
     manner? - If informed consent is warranted, how will the researcher ensure that
     participants are truly informed?”(Markham and Buchanan, 2012, p. 11)
-- OverarchingPrinciples:
+- ChallengeInstances:
+  - rec3XoC08SiG83eK0
+  - recISbGibFUeCXoRj
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recmzjcGKv3yNOxbl
   - recmzjcGKv3yNOxbl
@@ -5819,9 +5833,9 @@
     addition, this chapter offers a general recommendation on how to implement the
     assessment list for Trustworthy AI though a governance structure embracing both
     operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY
-    AI ASSESSMENT LIST (PILOT VERSION) “Accountability “Documenting trade-offs:<U+F0FC> Did
+    AI ASSESSMENT LIST (PILOT VERSION) “Accountability “Documenting trade-offs:- Did
     you establish a mechanism to identify relevant interests and values implicated
-    by the AI system and potential trade-offs between them? <U+F0FC> How do you decide on
+    by the AI system and potential trade-offs between them? - How do you decide on
     such trade-offs? Did you ensure that the trade-off decision was documented?” (High-Level
     Expert Group on AI, 2019, p. 31) c
 - ChallengeInstances:
@@ -5928,7 +5942,9 @@
     York: Oxford University Press, 2008. This book describes some of the challenges
     of having a one-size-fits-all approach to embedding human values in autonomous
     systems. "p.172-174'
-- OverarchingPrinciples:
+- ChallengeInstances:
+  - rec5facmXBZUPH3es
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recLHILkx2JDFsLbX
   Principles:
@@ -5949,16 +5965,16 @@
     addition, this chapter offers a general recommendation on how to implement the
     assessment list for Trustworthy AI though a governance structure embracing both
     operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY
-    AI ASSESSMENT LIST (PILOT VERSION) “Transparency Traceability: <U+F0FC> Did you establish
+    AI ASSESSMENT LIST (PILOT VERSION) “Transparency Traceability: Did you establish
     measures that can ensure traceability? This could entail documenting the following
-    methods: <U+F0D8> Methods used for designing and developing the algorithmic system: o
-    Rule-based AI systems: the method of programming or how the model was built; o
+    methods: - Methods used for designing and developing the algorithmic system:     -
+    Rule-based AI systems: the method of programming or how the model was built;     -
     Learning-based AI systems; the method of training the algorithm, including which
-    input data was gathered and selected, and how this occurred.<U+F0D8> Methods used to
-    test and validate the algorithmic system: o Rule-based AI systems; the scenarios
-    or cases used in order to test and validate; o Learning-based model: information
-    about the data used to test and validate. <U+F0D8> Outcomes of the algorithmic system:
-    o The outcomes of or decisions taken by the algorithm, as well as potential other
+    input data was gathered and selected, and how this occurred.- Methods used to
+    test and validate the algorithmic system:     - Rule-based AI systems; the scenarios
+    or cases used in order to test and validate;     - Learning-based model: information
+    about the data used to test and validate. Outcomes of the algorithmic system:
+    - The outcomes of or decisions taken by the algorithm, as well as potential other
     decisions that would result from different cases (for example, for other subgroups
     of users).” (High-Level Expert Group on AI, 2019, p. 28-29)'
 - Cases:
@@ -6022,8 +6038,6 @@
 - ChallengeInstances:
   - reclJ7hlCEf4P94SA
   - recfGEm2rcOTFEZVZ
-  Challenges:
-  - recA7Kh502s4UKWGo
   Sources:
   - recpXl48pJdKDhc6f
   title: Corporations should implement "ethics filters" throughout the development
@@ -6111,8 +6125,8 @@
     and democracy: - Did you assess the broader societal impact of the AI system’s
     use beyond the individual (end-)user, such as potentially indirectly affected
     stakeholders?” (High-Level Expert Group on AI, 2019, p. 31)'
-- Challenges:
-  - recb50cfuQUWDAHZW
+- ChallengeInstances:
+  - rec5nljdN28sNoK3X
   OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   Principles:
@@ -6190,7 +6204,9 @@
     Coordination Action for Europe Report on Robotics and Employment,” Deliverable
     D3.4.1, June 30, 2016.•World Economic Forum, Centre for the New Economy and Society,
     _The Future of Jobs 2018_, Geneva: WEF 2018."150-152'
-- OverarchingPrinciples:
+- ChallengeInstances:
+  - recVGVVfuoL5sr3oo
+  OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   Principles:
   - rec42P8U9usfYCtv9
@@ -7777,52 +7793,57 @@
     and Buchanan, 2012, p. 8)
 - Challenges:
   - recj64vAVJSm5B2ba
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Principles:
+  - recmzjcGKv3yNOxbl
   Sources:
   - recpXl48pJdKDhc6f
   title: Explicitly consider how AI may foster and hamper SDG progress
   category: Strategies
   name: recouZjokdKQz88z1
-  tags: []
+  tags:
+  - sustainability
   created_at: '2023-06-05T11:16:58.000Z'
   description: '## **"**RecommendationsThe current range of A/IS applications in sectors
     crucial to the SDGs, and to excluded populations everywhere, should be studied,
     with the strengths, weaknesses, and potential of the most significant recent applications
     analyzed, and the best ones developed at scale. Specific objectives to consider
-    include:•Identifying and experimenting withA/IS technologies relevant to the SDGs,such
-    as: big data for development relevant to, for example, agriculture and medical
-    tele-diagnosis; geographic information systems needed in public service planning,
-    disaster prevention, emergency planning, and disease monitoring; control systems
-    used in, for example, naturalizing intelligent cities through energy and traffic
-    control and management of urban agriculture; applications that promote human empathy
-    focused on diminishing violence and exclusion and increasing well-being.•Promoting
-    the potential role of A/IS in sustainable development by collaboration between
-    national and international government agencies and non-governmental organizations
-    (NGOs) in technology sectors.•Analyzing the cost of and proposing strategies for
-    publicly providing internet access forall, as a means of diminishing the gap inA/IS’
-    potential benefit to humanity, particularly between urban and rural populations
-    in HIC and LMIC alike.•Investing in the documentation and dissemination of innovative
+    include:- Identifying and experimenting withA/IS technologies relevant to the
+    SDGs,such as: big data for development relevant to, for example, agriculture and
+    medical tele-diagnosis; geographic information systems needed in public service
+    planning, disaster prevention, emergency planning, and disease monitoring; control
+    systems used in, for example, naturalizing intelligent cities through energy and
+    traffic control and management of urban agriculture; applications that promote
+    human empathy focused on diminishing violence and exclusion and increasing well-being.-
+    Promoting the potential role of A/IS in sustainable development by collaboration
+    between national and international government agencies and non-governmental organizations
+    (NGOs) in technology sectors.- Analyzing the cost of and proposing strategies
+    for publicly providing internet access forall, as a means of diminishing the gap
+    inA/IS’ potential benefit to humanity, particularly between urban and rural populations
+    in HIC and LMIC alike.- Investing in the documentation and dissemination of innovative
     applications ofA/IS that advance the resolution of identified societal issues
-    and the SDGs.•Researching sustainable energy to power A/IS computational capacity.•Investing
-    in the development of transparent monitoring frameworks to track the concrete
-    results of donations by international organizations, corporations, independent
-    agencies, and the State, to ensure efficiency and accountability in applied A/IS.•Developing
-    national legal, policy, and fiscal measures to encourage competition in theA/IS
-    domestic markets and the flourishingof scalable A/IS applications.•Integrating
-    the SDGs into the core of private sector business strategies and adding SDG indicators
-    to companies’ key performance indicators, going beyond corporate social responsibility
-    (CSR).•Applying the well-being indicators10 to evaluate A/IS’ impact from multiple
-    perspectives in HIC and LMIC alike.## Further reading•R. Van Est and J.B.A. Gerritsen,
-    with assistance of L. Kool, Human Rights in the Robot Age: Challenges arising
-    from the use of Robots, Artificial Intelligence and Augmented Reality Expert Report
-    written for the Committee on Culture, Science, Education and Media of the Parliamentary
-    Assembly of the Council of Europe (PACE), The Hague: Rathenau Instituut 2017.•World
-    Economic Forum Global Future Council on Human Rights 2016-18, “White Paper: How
-    to Prevent Discriminatory Outcomes in Machine Learning,” World Economic Forum,
-    March 2018.•United Nations General Assembly, _Transforming Our World: The 2030
-    Agenda for Sustainable Development_ (A/RES/70/1: 21 October 2015) Preamble. [http://www.un.org/
-    en/development/desa/population/migration/ generalassembly/docs/globalcompact/
-    A\_RES\_70\_1\_E.pdf](http://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_70_1_E.pdf).•United
-    Nations Global Pulse, Big Data for Development: Challenges and Opportunities,
+    and the SDGs.- Researching sustainable energy to power A/IS computational capacity.-
+    Investing in the development of transparent monitoring frameworks to track the
+    concrete results of donations by international organizations, corporations, independent
+    agencies, and the State, to ensure efficiency and accountability in applied A/IS.-
+    Developing national legal, policy, and fiscal measures to encourage competition
+    in theA/IS domestic markets and the flourishingof scalable A/IS applications.-
+    Integrating the SDGs into the core of private sector business strategies and adding
+    SDG indicators to companies’ key performance indicators, going beyond corporate
+    social responsibility (CSR).- Applying the well-being indicators10 to evaluate
+    A/IS’ impact from multiple perspectives in HIC and LMIC alike.## Further reading-
+    R. Van Est and J.B.A. Gerritsen, with assistance of L. Kool, Human Rights in the
+    Robot Age: Challenges arising from the use of Robots, Artificial Intelligence
+    and Augmented Reality Expert Report written for the Committee on Culture, Science,
+    Education and Media of the Parliamentary Assembly of the Council of Europe (PACE),
+    The Hague: Rathenau Instituut 2017.- World Economic Forum Global Future Council
+    on Human Rights 2016-18, “White Paper: How to Prevent Discriminatory Outcomes
+    in Machine Learning,” World Economic Forum, March 2018.- United Nations General
+    Assembly, _Transforming Our World: The 2030 Agenda for Sustainable Development_
+    (A/RES/70/1: 21 October 2015) Preamble. [http://www.un.org/ en/development/desa/population/migration/
+    generalassembly/docs/globalcompact/ A\_RES\_70\_1\_E.pdf](http://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_70_1_E.pdf).-
+    United Nations Global Pulse, Big Data for Development: Challenges and Opportunities,
     2012."p139-140'
 - ChallengeInstances:
   - recVGVVfuoL5sr3oo
@@ -7896,7 +7917,9 @@
     if the researcher limits the project duration to a shorter amount of operation
     time? And does this conflict with the ability of the researcher to conduct the
     research in question?” (franzke et al., 2020, p. 40)'
-- OverarchingPrinciples:
+- ChallengeInstances:
+  - recbsVGBRocMgkD2G
+  OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   - recLHILkx2JDFsLbX
   - recmzjcGKv3yNOxbl
@@ -7923,31 +7946,24 @@
     tailored to the specific use case and context in which the system operates. In
     addition, this chapter offers a general recommendation on how to implement the
     assessment list for Trustworthy AI though a governance structure embracing both
-    operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“Compliance
-    with this assessment list is not evidence of legal compliance, nor is it intended
-    as guidance to ensure compliance with applicable law. Given the application-specificity
-    of AI systems, the assessment list will need to be tailored to the specific use
-    case and context in which the system operates. In addition, this chapter offers
-    a general recommendation on how to implement the assessment list for Trustworthy
-    AI though a governance structure embracing both operational and management level.”
-    (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY AI ASSESSMENT LIST (PILOT
-    VERSION) “Diversity, non-discrimination and fairness “Accessibility and universal
-    design: <U+F0FC> Did you ensure that the AI system accommodates a wide range of individual
-    preferences and abilities? <U+F0A7> Did you assess whether the AI system usable by those
-    with special needs or disabilities or those at risk of exclusion? How was this
-    designed into the system and how is it verified? <U+F0A7> Did you ensure that information
-    about the AI system is accessible also to users of assistive technologies? <U+F0A7> Did
-    you involve or consult this community during the development phase of the AI system?
-    <U+F0FC> Did you take the impact of your AI system on the potential user audience into
-    account? <U+F0A7> Did you assess whether the team involved in building the AI system
-    is representative of your target user audience? Is it representative of the wider
-    population, considering also of other groups who might tangentially be impacted?
-    <U+F0A7> Did you assess whether there could be persons or groups who might be disproportionately
-    affected by negative implications? <U+F0A7> Did you get feedback from other teams or
-    groups that represent different backgrounds and experiences?” (High-Level Expert
-    Group on AI, 2019, p. 30)'
-- Challenges:
-  - recJV8yTX0MnF3rGD
+    operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY
+    AI ASSESSMENT LIST (PILOT VERSION) “Diversity, non-discrimination and fairness
+    “Accessibility and universal design: - Did you ensure that the AI system accommodates
+    a wide range of individual preferences and abilities? - Did you assess whether
+    the AI system usable by those with special needs or disabilities or those at risk
+    of exclusion? How was this designed into the system and how is it verified? -
+    Did you ensure that information about the AI system is accessible also to users
+    of assistive technologies? - Did you involve or consult this community during
+    the development phase of the AI system? - Did you take the impact of your AI system
+    on the potential user audience into account? - Did you assess whether the team
+    involved in building the AI system is representative of your target user audience?
+    Is it representative of the wider population, considering also of other groups
+    who might tangentially be impacted? - Did you assess whether there could be persons
+    or groups who might be disproportionately affected by negative implications? -
+    Did you get feedback from other teams or groups that represent different backgrounds
+    and experiences?” (High-Level Expert Group on AI, 2019, p. 30)'
+- ChallengeInstances:
+  - recwVOVXU6zbH6KZ7
   OverarchingPrinciples:
   - recmzjcGKv3yNOxbl
   Principles:
@@ -8074,7 +8090,9 @@
     and ](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00797/full)[Wellbeing
     in Digital Experience](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00797/full),”_
     Frontiers in Psychology_– Human Media Interaction, vol. 9, pp 797, 2018.""p.100-101'
-- OverarchingPrinciples:
+- ChallengeInstances:
+  - rec5facmXBZUPH3es
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   Principles:
   - recgDkzdE9dfpTxCK
@@ -8161,7 +8179,9 @@
     and control? - Does the AI system enhance or augment human capabilities? - Did
     you take safeguards to prevent overconfidence in or overreliance on the AI system
     for work processes?”(High-Level Expert Group on AI, 2019, p. 26)'
-- OverarchingPrinciples:
+- ChallengeInstances:
+  - recbsVGBRocMgkD2G
+  OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   Principles:
   - recOHnq45Fq7YWsRO
@@ -8366,7 +8386,9 @@
     Interaction_, vol. 9. pp 797, 2018.- J. Roughgarden, M. Oishi and E. Akçay, “Reproductive
     Social Behavior: Cooperative Games to Replace Sexual Selection.” _Science _311,
     no. 5763, pp. 965–969, 2006."(IEEE, 2019, p.101('
-- OverarchingPrinciples:
+- ChallengeInstances:
+  - recHHvfADKIkX9idP
+  OverarchingPrinciples:
   - recLHILkx2JDFsLbX
   - recOHnq45Fq7YWsRO
   Principles:
@@ -8387,9 +8409,9 @@
     addition, this chapter offers a general recommendation on how to implement the
     assessment list for Trustworthy AI though a governance structure embracing both
     operational and management level.” (High-Level Expert Group on AI, 2019, p. 24)“TRUSTWORTHY
-    AI ASSESSMENT LIST (PILOT VERSION) “Accountability Auditability: <U+F0FC> Did you establish
+    AI ASSESSMENT LIST (PILOT VERSION) “Accountability Auditability: - Did you establish
     mechanisms that facilitate the system’s auditability, such as ensuring traceability
-    and logging of the AI system’s processes and outcomes? <U+F0FC> Did you ensure, in applications
+    and logging of the AI system’s processes and outcomes? - Did you ensure, in applications
     affecting fundamental rights (including safety-critical applications) that the
     AI system can be audited independently?” (High-Level Expert Group on AI, 2019,
     p. 31)'
@@ -9013,162 +9035,6 @@
   name: recskjpMFnQ0emSKI
   tags: []
   created_at: '2023-06-08T06:38:41.000Z'
-- Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
-    on Ethics of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J.
-    Silva Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and
-    Well-Being (Vol. 95, pp. 11–16). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2
-  Sources:
-  - recpXl48pJdKDhc6f
-  Strategies:
-  - rec5CFheImo8onTcd
-  title: How might AI deployed in care settings to foster intimate relationships impact
-    on relationships among humans?
-  category: Challenges
-  name: rec2ULcHUjSbbSnHL
-  tags:
-  - affective-computing
-  created_at: '2023-06-05T06:05:11.000Z'
-  description: 'Are moral and ethical boundaries crossed when the design of affective
-    systems allows them to develop intimate relationships with their users?## Background
-    There are many robots in development or production designed to focus on intimate
-    care of children, adults, and the elderly2. While robots capable of participating
-    fully in intimate relationships are not currently available, the potential use
-    of such robots routinely captures the attention of the media. It is important
-    that professional communities, policy makers, and the general public participate
-    in development of guidelines for appropriate use of A/IS in this area. Those guidelines
-    should acknowledge fundamental human rights to highlight potential ethical benefits
-    and risks that may emerge, ifand when affective systems interact intimately with
-    users. Among the many areas of concern are the representation of care, embodiment
-    of caringA/IS, and the sensitivity of data generated through intimate and caring
-    relationships withA/IS. The literature suggests that there are some potential
-    benefits to individuals and to society from the incorporation of caring A/IS,
-    along with duly cautionary notes concerning the possibility that these systems
-    could negatively impact human-to-human intimate relations3.## RecommendationsAs
-    this technology develops, it is important to monitor research into the development
-    of intimate relationships between A/IS and humans. Research should emphasize any
-    technical and normative developments that reflect use ofA/IS in positive and therapeutic
-    ways while also creating appropriate safeguards to mitigate against uses that
-    contribute to problematic individual or social relationships:1\.Intimate systems
-    must not be designed or deployed in ways that contribute to stereotypes, gender
-    or racial inequality,or the exacerbation of human misery.2\.Intimate systems must
-    not be designed to explicitly engage in the psychological manipulation of the
-    users of these systems unless the user is made aware they are being manipulated
-    and consents to this behavior. Any manipulation should be governedthrough an opt-in
-    system.3\.Caring A/IS should be designed to avoid contributing to user isolation
-    from society.4\.Designers of affective robotics must publicly acknowledge, for
-    example, within a notice associated with the product, that these systems can have
-    side effects, such as interfering with the relationship dynamics between human
-    partners, causing attachments between the user and the A/IS that are distinct
-    from human partnership.5\.Commercially marketed A/IS for caring applications should
-    not be presented to be a person in a legal sense, nor marketed as a person. Rather
-    its artifactual, that is, authored, designed, and built deliberately, nature should
-    always be made as transparent as possible, at least at point of sale and in available
-    documentation, as noted in Section 4, Systems Supporting Human Potential.6.Existing
-    laws regarding personal imagery need to be reconsidered in light of caring A/IS.In
-    addition to other ethical considerations, it will also be necessary to establish
-    conformance with local laws and mores in the context of caring A/IS systems.##
-    Further Resources•M. Boden, J. Bryson, D. Caldwell, K. Dautenhahn, L. Edwards,
-    S. Kember, P.Newman, V. Parry, G. Pegman, T. Rodden and T. Sorrell, Principles
-    of robotics: regulating robots in the real world. Connection Science, vol. 29,
-    no. 2, pp. 124-129, April 2017.•J. J. Bryson, M. E. Diamantis, and T. D. Grant,
-    “Of, For, and By the People: The Legal Lacuna of Synthetic Persons.” _Artificial
-    Intelligence & Law_, vol. 25, no. 3, pp. 273–291, Sept. 2017.•M. Scheutz, “The
-    Inherent Dangers ofUnidirectional Emotional Bonds between Humans and Social Robots,”
-    in _Robot Ethics: The Ethical and Social Implications of Robotics,_ P. Lin, K.
-    Abney, and G. Bekey, Eds., pp. 205. Cambridge, MA: MIT Press, 2011.'
-- Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
-    on Ethics of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J.
-    Silva Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and
-    Well-Being (Vol. 95, pp. 11–16). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2
-  Sources:
-  - recpXl48pJdKDhc6f
-  Strategies:
-  - rec9TbOu2ZXUZG4A5
-  title: Should affective AI nudge users for personal or societal benefit?
-  category: Challenges
-  name: rec2ajglpzbFYRivi
-  tags:
-  - nudge-deception
-  created_at: '2023-06-05T06:13:01.000Z'
-  description: '"Should affective systems be designed to nudge peoplefor the user’s
-    personal benefit and/or for the benefit of others?## BackgroundManipulation can
-    be defined as an exercise of influence by one person or group, with the intention
-    to attempt to control or modify the actions of another person or group. Thaler
-    and Sunstein (2008) call the tactic of subtly modifying behavior a “nudge4”. Nudging
-    mainly operates through the affective elements of a human rational system. Making
-    use of a nudge might be considered appropriate in situations like teaching children,
-    treating drug dependency, and in some healthcare settings. While nudges can be
-    deployed to encourage individuals to express behaviors that have community benefits,
-    a nudge could have unanticipated consequences for people whose backgrounds were
-    not well considered in the development of the nudging system5. Likewise, nudges
-    may encourage behaviors with unanticipated long-term effects, whether positive
-    or negative, for theindividual and/or society. The effect ofA/IS nudging a person,
-    such as potentially eroding or encouraging individual liberty, or expressing behaviors
-    that are for the benefit others, should be well characterized in the design of
-    A/IS.## Recommendations1\.Systematic analyses are needed that examine the ethics
-    and behavioral consequences of designing affective systems to nudge human beings
-    prior to deployment.2\.The user should be empowered, through an explicit opt-in
-    system and readily available, comprehensible information, to recognize different
-    types of A/IS nudges, regardless of whether they seek to promote beneficial social
-    manipulation or to enhance consumer acceptance of commercial goals. The user should
-    be able to access and check facts behind the nudges and then make a conscious
-    decision to accept or reject a nudge. Nudging systems must be transparent, with
-    a clear chain of accountability that includes human agents: data logging is required
-    so users can know how, why, and by whom they were nudged.3\.A/IS nudging must
-    not become coercive and should always have an opt-in system policy with explicit
-    consent.4\.Additional protections against unwanted nudging must be put in place
-    for vulnerable populations, such as children, or when informed consent cannot
-    be obtained. Protections against unwanted nudging should be encouraged when nudges
-    alter long-term behavior or when consent alone may not bea sufficient safeguard
-    against coercionor exploitation.5\.Data gathered which could reveal an individual
-    or groups’ susceptibility to a nudge or their emotional reaction to a nudge should
-    not be collected or distributed without opt-in consent, and should only be retained
-    transparently, with access restrictions in compliance with the highest requirements
-    of data privacy and law.## Further Resources•R. Thaler, and C. R. Sunstein, _Nudge:
-    Improving Decision about Health, Wealth and Happiness_, New Haven, CT: Yale University
-    Press, 2008.•L. Bovens, “The Ethics of Nudge,” in _Preference change: Approaches
-    from Philosophy, Economics and Psychology_, T. Grüne-Yanoff and S. O. Hansson,
-    Eds., Berlin, Germany: Springer, 2008 pp. 207–219.•S. D. Hunt and S. Vitell. "A
-    General Theory of Marketing Ethics." Journal of Macromarketing, vol.6, no. 1,
-    pp. 5-16, June 1986.•A. McStay, [Empathic Media and Advertising: Industry, Policy,
-    Legal and Citizen Perspectives (the Case for Intimacy)](http://journals.sagepub.com/doi/pdf/10.1177/2053951716666868),
-    Big Data & Society, pp. 1-11, December 2016.•J. de Quintana Medina and P. Hermida
-    Justo, “Not All Nudges Are Automatic: Freedom of Choice and Informative Nudges.”
-    Working paper presented to the European Consortium for Political Research, Joint
-    Session of Workshops, 2016 Behavioral Change and Public Policy, Pisa, Italy, 2016.•
-    M. D. White, _[The Manipulation of Choice. Ethics and Libertarian Paternalism.
-    ](http://www.palgraveconnect.com/doifinder/10.1057/9781137313577)_New York: Palgrave
-    Macmillan, 2013•C.R. Sunstein, The Ethics of Influence: Government in the Age
-    of Behavioral Science. New York: Cambridge, 2016•M. Scheutz, “[The Affect Dilemma
-    for Artificial Agents: Should We Develop Affective Artificial Agents? ](http://ieeexplore.ieee.org/document/6296668/)”
-    _IEEE Transactions on Affective Computing, _vol._ _3, no. 4,pp. 424–433,Sept.
-    2012.•A. Grinbaum, R. Chatila, L. Devillers, J.G. Ganascia, C. Tessier and M.
-    Dauchet. “[Ethics in Robotics Research: CERNA Recommendations,](http://ieeexplore.ieee.org/document/7822928/)”
-    _IEEE Robotics and Automation Magazine, _vol._ _24, no. 3,pp. 139–145, Sept. 2017.“Designing
-    Moral Technologies: Theoretical, Practical, and Ethical Issues” Conference July
-    10–15, 2016, Monte Verità, Switzerland"p.96-97"Governmental entities may potentially
-    use nudging strategies, for example to promote the performance of charitable acts.
-    Does the practice of nudging for the benefitof society, including nudgesby affective
-    systems, raiseethical concerns?## BackgroundA few scholars have noted a potentially
-    controversial practice of the future: allowing a robot or another affective system
-    to nudge a user for the good of society6. For instance, if it is possible that
-    a well-designed robot could effectively encourage humans to perform charitable
-    acts, would it be ethically appropriate for the robot to do so? This design possibility
-    illustrates just one behavioral outcome that a robot could potentially elicit
-    from a user.Given the persuasive power that an affective system may have over
-    a user, ethical concerns related to nudging must be examined. This includes the
-    significant potential for misuse.## Recommendations1\.As more and more computing
-    devices subtly and overtly influence human behavior, it is important to draw attention
-    to whether it is ethically appropriate to pursue this type of design pathway in
-    the context of governmental actions.2\. There needs to be transparency regarding
-    who the intended beneficiaries are, and whether any form of deception or manipulation
-    is going to be used to accomplish the intended goal.## Further Resources•J. Borenstein
-    and R. Arkin, “[Robotic Nudges: Robotic Nudges: The Ethics of Engineering a More
-    Socially Just Human Being Just Human Being.](https://link.springer.com/article/10.1007/s11948-015-9636-2?no-access=true)”
-    _Science and Engineering Ethics, _vol._ _22, no. 1,pp. 31–46, Feb. 2016.•J. Borenstein
-    and R. Arkin. “[Nudging for Good: Robots and the Ethical Appropriateness of Nurturing
-    Empathy and Charitable Behavior ](https://link.springer.com/article/10.1007/s00146-016-0684-1?no-access=true).”
-    _AI and Society, _vol._ _32, no. 4, pp. 499–507, Nov. 2016."p.97-98'
 - Cases:
   - reciNqxyfUgE5XM7t
   - recrVkbG0XGe2Ca0v
@@ -9199,8 +9065,8 @@
   category: Challenges
   name: rec3T1WLC4dg63qyI
   tags:
-  - research
   - AI
+  - education
   created_at: '2023-06-18T14:17:02.000Z'
   description: '**Considerations for ethical AI include clarity or accountability
     regarding the purposes of technology, and its role in decision processes.** **Clarity**
@@ -9265,13 +9131,13 @@
   - recpXl48pJdKDhc6f
   Strategies:
   - recZI7HDWKBU5T22v
-  - recfcXzM3foqFNNGN
-  title: How do we incorporate wellbeing considerations into AI impact measurement
-    and monitoring?
+  title: 'Sustainability (including social and environmental sustainability): How
+    do we incorporate wellbeing considerations into AI impact measurement and monitoring?'
   category: Challenges
   name: recA7Kh502s4UKWGo
   tags:
   - wellbeing
+  - sustainability
   created_at: '2023-06-05T05:53:34.000Z'
   description: '"How can A/IS creators incorporate well-being intotheir work?## BackgroundWithout
     practical ways of incorporating well-being metrics to guide, measure, and monitor
@@ -9370,20 +9236,6 @@
     a person’s more basic right to pursue their goals and life plans free from unchosen
     influence.” (Leslie, 2019, p. 5) '
 - OverarchingPrinciples:
-  - recLHILkx2JDFsLbX
-  - recLHILkx2JDFsLbX
-  - recmzjcGKv3yNOxbl
-  Principles:
-  - recU6u0AZbcNj1ik9
-  - reczVPIH1y2OMpAJH
-  - rec42P8U9usfYCtv9
-  title: Incidental findings
-  category: Challenges
-  name: recCpTJXuuowqsqQa
-  tags:
-  - AI
-  created_at: '2023-05-18T13:41:32.000Z'
-- OverarchingPrinciples:
   - recOHnq45Fq7YWsRO
   - recLHILkx2JDFsLbX
   Principles:
@@ -9397,11 +9249,13 @@
   - recpXl48pJdKDhc6f
   Strategies:
   - recZI7HDWKBU5T22v
-  title: How do we incorporate wellbeing considerations into AI design/development/use?
+  title: 'Sustainability (including social and environmental sustainability): How
+    do we incorporate wellbeing considerations into AI design/development/use?'
   category: Challenges
   name: recGRpoF7DA23ODSj
   tags:
   - wellbeing
+  - sustainability
   created_at: '2023-06-05T05:54:42.000Z'
   description: '"How can A/IS creators influence A/IS goals to ensure well-being,
     and what can A/IS creators learn or borrow from existing models in the well-being
@@ -9526,82 +9380,15 @@
     the site of implementation. Complex power dynamics should be considered between
     researchers (who may fulfil dual roles), and other stakeholders such as teachers,
     students, administrators, and technology providers.
-- Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
-    on Ethics of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J.
-    Silva Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and
-    Well-Being (Vol. 95, pp. 11–16). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2
-  Sources:
-  - recpXl48pJdKDhc6f
-  Strategies:
-  - recqJAVTtqOUfypNI
-  title: AI poses risks to the right to truthful information
-  category: Challenges
-  name: recJV8yTX0MnF3rGD
-  tags: []
-  created_at: '2023-06-05T11:18:00.000Z'
-  description: '"**Issue:** The right to truthful information is key to a democratic
-    society and to achieving sustainable development and a more equal world, but A/IS
-    poses risks to this right that must be managed.## BackgroundSocial media have
-    become the dominant technological infrastructure for the dissemination of information
-    such as news, opinion, advertising, etc., and are currently in the vanguard of
-    the movement toward customized/targeted information based on user profiling that
-    involves significant use of A/IS techniques. Analysis of opinion polls and trends
-    in social networks, blogs, etc., and of the emotional response to news items can
-    be used for the purposes of manipulation, facilitating both the selection of news
-    that guides public opinion in the desired direction and the practice of sensationalism.The
-    "personalization of the consumer experience", that is, the adaptation of articles
-    to the interests, political vision, cultural level, education, and geographic
-    location of the reader, is a new challenge for the journalism profession that
-    expands the possibilities of manipulation.The information infrastructure is currently
-    lacking in transparency, such that it is difficult or impossible to know (except
-    perhaps for the infrastructure operator):•what private information is being collected
-    foruser profiling and by whom,•which groups are targeted and by whom,•what information
-    has been received by any given targeted group,•who financed the creation and dissemination
-    of this information,•the percentage of the information being disseminated by bots,
-    and•who is financing these bots.Many actors have found this opaque infrastructure
-    ideal for spreading politically motivated disinformation, which has a negative
-    effect on the creation of a more equal world, democracy, and the respect for fundamental
-    rights. This disinformation can have tragic consequences. For instance, human
-    rights groups have unearthed evidence that the military authorities of Myanmar
-    used Facebook for inciting hatred against the Rohingya Muslim minority, hatred
-    which facilitated an ethnic cleansing campaign and the murder of up to 50,000
-    people.14 The UN determined that these actions constituted genocide, crimes against
-    humanity, and war crimes.15## RecommendationsTo protect democracy, respect fundamental
-    rights, and promote sustainable development, governments should implement a legislative
-    agenda which prevents the spread of misinformation and hate speech, by:•Ensuring
-    more control and transparency in the use of A/IS techniques for user profiling
-    in order to protect privacy and prevent user manipulation.•Using A/IS techniques
-    to detect untruthful information circulating in the infrastructures, overseen
-    by a democratic body to prevent potential censorship.•Obliging companies owning
-    A/IS infrastructures to provide more transparency regarding their algorithms,
-    sources of funding, services, and clients.•Defining a new legal status somewhere
-    between "platforms" and "content providers" for A/IS infrastructures.• Reformulating
-    the deontological codes of the journalistic profession to take into account the
-    intensive use of A/IS techniques foreseenin the future. •Promoting the right to
-    information in official documents, and developing A/IS techniques to automate
-    journalistic tasks such as verification of sources and checking the accuracy of
-    the information in official documents, or in the selection, hierarchy, assessment,
-    and development of news, thereby contributing to objectivity and reliability.##
-    Further Resources•M. Broussard, “Artificial Iintelligence for Investigative Reporting:
-    Using an expert system to enhance journalists’ ability to discover original public
-    affairs stories.” Digital Journalism, vol. 3, no. 6, pp. 814-831, 2015.•M. Carlson,
-    “The robotic reporter: Automated journalism and the redefinition of labor, compositional
-    forms, and journalistic authority.” Digital Journalism, vol. 3, no. 3, pp. 416-431,
-    2015.•A. López Barriuso, F. de la Prieta Pintado, Á. Lozano Murciego, , D. Hernández
-    de la Iglesia and J. Revuelta Herrero, JOUR-MAS: A Multiagent System Approach
-    to Help Journalism Management, vol. 4, no. 4, 2015.•P. Mozur, ”A Genocide Incited
-    on Facebook with Posts from Myanmar’s Military,” _The New York Times,_ Oct. 15
-    2018. [https:// www.nytimes.com/2018/10/15/technology/ myanmar-faceboo.k-genocide.html](https://www.nytimes.com/2018/10/15/technology/myanmar-facebook-genocide.html)•UK
-    Parliament, House of Commons, Digital, Culture, Media and Sport Committee Disinformation
-    and ‘fake news’: Interim Report, Fifth Report of Session 2017–19UK Parliament,
-    Published on July 29, 2018"p.142-144'
 - ChallengeInstances:
   - recC8IlVKWmMHOorw
   - rec1UyKLba4O7X6ax
   title: Human control of technology and accountability for technology use
   category: Challenges
   name: recSONq7KetYgyg6K
-  tags: []
+  tags:
+  - AI
+  - education
   created_at: '2023-06-18T18:10:44.000Z'
   description: Through the inception, design, development, implementation, evaluation,
     and decommissioning human control of technology is central to considerations of
@@ -9641,7 +9428,7 @@
   tags:
   - AI
   - indirect-impacts
-  - wellbeing
+  - education
   created_at: '2023-05-18T18:54:26.000Z'
   description: 'AI has potential to have impact beyond just on the participants involved
     into society, and it may not be clear what these impacts will be.Immediate or
@@ -9681,167 +9468,18 @@
   - rec5nljdN28sNoK3X
   - recWNlnhyOUXmOo0Q
   - recg821VxieIJvgRO
-  - recEeRFQm7xXJVNyu
   title: Respect for human-human relationships, at individual and collective levels
   category: Challenges
   name: recWxPEkLYUdWhd2q
-  tags: []
+  tags:
+  - AI
+  - education
   created_at: '2023-06-18T18:55:37.000Z'
   description: '**Respect for human-human relationships, at individual and collective
     levels** AI has the potential to impact on how we connect and talk together, and
     the structure of societies. AI should avoid harms and promote pro-social engagement,
     recognising that both the benefits and harms of research (and broader engagement
     with technology) may accrue over groups.'
-- Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
-    on Ethics of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J.
-    Silva Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and
-    Well-Being (Vol. 95, pp. 11–16). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2
-  Sources:
-  - recpXl48pJdKDhc6f
-  Strategies:
-  - recg2u6ZXSRiUO8uF
-  title: AI poses threats to labour
-  category: Challenges
-  name: recb50cfuQUWDAHZW
-  tags: []
-  created_at: '2023-06-05T11:48:28.000Z'
-  description: '"**Issue: **A/IS are changing the nature of work, disrupting employment,
-    while technological change is happening too fast for existing methods of (re)training
-    the workforce.## BackgroundThe current pace of technological development will
-    heavily influence changes in employment structure. In order to properly prepare
-    the workforce for such evolution, actions should be proactive and not only reactive.
-    The wave of automation caused by the A/IS revolution will displace a very large
-    share of jobs across domains and value chains. The U.S. “automated vehicle” case
-    study analyzed in the White House 2016 report_ Artificial Intelligence, Automation,
-    and the Economy _is emblematic of what is at stake: “2.2 to 3.1 million existing
-    part- and full-time U.S. jobs are exposed over the next two decades, although
-    the timeline remains uncertain.”18The risk of unemployment for LMIC is more serious
-    than for developed countries. The industry of most LMIC is labor intensive. While
-    labor may be cheap(er) in LMIC economies, the ripple effects of A/IS and automation
-    will be felt much more than in the HIC economies. The 2016 World Bank Development
-    Report stated that the share of occupations susceptible to automation and A/IS
-    is higher in LMIC than in HIC, where such jobs have already disappeared. In addition,
-    the qualities which made certain jobs easy to outsource to LMIC where wages are
-    lower are those that may make them easy to automate.19 An offsetting factor is
-    the reality that many LMIC lack the communication, energy, and IT infrastructure
-    required to support highly automated industries.20 Notwithstanding this reality,
-    the World Bank estimated the automatable share of employment, unadjusted for adoption
-    time lag, for LMIC ranges from 85% in Ethiopia to 62% in Argentina, compared to
-    the OECD average of 57%.21In the coming decades, the automation wave calls for
-    higher investment and the transformation of labor market capacity development
-    programs. Innovative and fair ways of funding such an investment are required;
-    the solutions should be designed in cooperation with the companies benefiting
-    from the increase of profitability, thanks to automation. This should be done
-    in a responsible way so that the innovation cycle is not broken, and yet workforce
-    capacity does not fall behind the needs of 21st century employment. At the same
-    time, A/IS and other digital technologies offer real potential to innovate new
-    approaches to job-search assistance, placement, and hiring processes in the age
-    of personalized services. The efficiency of matching labor supply and demand can
-    be tremendously enhanced by the rise of multisided platforms and predictive analytics,
-    provided they do not entrench discrimination.22 The case of platforms, such as
-    LinkedIn, for instance, with its 470 million registered users, and online job
-    consolidators such as indeed.com and Simply Hired, are interesting as an evolution
-    in hiring practices,at least for those able to access the internet.Tailored counseling
-    and integrated retraining programs also represent promising grounds for innovation.
-    In addition, much will have to be done to create fair and effective lifelong skill
-    development/training, infrastructures, and mechanisms capable of empowering millions
-    of people to viably transition jobs, sectors, and potentially locations, and to
-    address differential geographic impacts that exacerbate income and wealth disparities.
-    Effectively enabling the workforce to be more mobile—physically, legally, and
-    virtually—will be crucial. This implies systemic policy approaches which encompass
-    housing, transportation, licensing, tax incentives, and crucially in the age of
-    A/IS, universal broadband access, especially in rural areas of both HICand LMIC.##
-    RecommendationsTo thrive in the A/IS age, workers must be provided training in
-    skills that improve their adaptability to rapid technological changes; programs
-    should be available to any worker, with special attention to the low-skilled workforce.
-    Those programs can be private, that is, sponsored by the employer, or publicly
-    and freely offered through specific public channels and government policies, and
-    should be available regardless of whether the worker is in between jobs or still
-    employed. Specific measures include:• Offering new technical programs, possibly
-    earlier than high school, to increase the workforce capacity to close the skills
-    gap and thrive in employment alongside A/IS. •Creating opportunities for apprenticeships,
-    pilot programs, and scaling up data-driven evidence-based solutions that increase
-    employment and earnings.•Supporting new forms of public-private partnerships involving
-    civil society, as well as new outcome-oriented financial mechanisms, e.g., social
-    impact bonds, that help scale up successful innovations.•Supporting partnerships
-    between universities, innovation labs in corporations, and governments to research
-    and incubate startups for A/IS graduates.23•Developing regulations to hold corporations
-    responsible for employee retraining necessary due to increased automation and
-    other technological applications having impacton the workforce.•Facilitating private
-    sector initiatives by public policy for co-investment in training and retraining
-    programs through tax incentives.•Establishing and resourcing public policies that
-    assure the survival and well-being of workers, displaced by A/IS and automation,
-    who cannot be retrained.•Researching complementary areas, to lay solid foundations
-    for the transformation outlined above.•Requiring more policy research on the dynamics
-    of professional transitions in different labor market conditions.•Researching
-    the fairest and most efficient public-private options for financing labor force
-    transformation due to A/IS.•Developing national and regional future of work strategies
-    based on sound research and strategic foresight.## Further Resources•V. Cerf and
-    D. Norfors, The People-centered Economy: The New Ecosystem for Work. California:
-    IIIJ Foundation, 2018.•Executive Office of the President. _Artificial Intelligence,
-    Automation, and the Economy._ December 20, 2016.•S. Kilcarr, “Defining the American
-    Dream for Trucking ... and the Nation, Too,” _FleetOwner_, April 26, 2016.•M.
-    Mason, “Millions of Californians’ Jobs could be Affected by Automation—a Scenario
-    the next Governor has to Address,”_Los Angeles Times_, October 14, 2018.•OECD,
-    “Labor Market Programs: Expenditure and Participants,” _OECD Employment and Labor
-    Market Statistics _(database), 2016.•M. Vivarelli, “Innovation and Employment:
-    ASurvey,” Institute for the Study of Labor (IZA) Discussion Paper No. 2621, February
-    2007."p.147-149"**Issue: **Analysis of theA/IS impact on employment is too focused
-    on the number and category of jobs affected, whereas more attention should be
-    addressed to the complexities of changing the task contentof jobs.## BackgroundCurrent
-    attention on automation and employment tends to focus on the sheer number of jobs
-    lost or gained. It is important to focus the analysis on how employment structures
-    will be changed by A/IS, rather than solely dwelling on the number of jobs that
-    might be impacted. For example, rather than carrying out a task themselves, workers
-    will need to shift to supervision of robots performing that task. Other concerns
-    include changes in traditional employment structures, with an increase in flexible,
-    contract-based temporary jobs, without employee protection, and a shift in task
-    composition away from routine/repetitive and toward complex decision-making. This
-    is in addition to the enormous need for the aforementioned retraining. Given the
-    extent of disruption, workforce trends will need to measure time spent unemployed
-    or underemployed, labor force participation rates, and other factors beyond simple
-    unemployment numbers.The _Future of Jobs 2018 _report of the World Economic Forum
-    highlights:“...the potential of new technologies to create as well as disrupt
-    jobs and to improve the quality and productivity of the existing work of human
-    employees. Our findings indicate that, by 2022, _augmentation _of existing jobs
-    through technology may free up workers from the majority of data processing and
-    information search tasks—and may also increasingly support them in high-value
-    tasks such as reasoning and decision-making as augmentation becomes increasingly
-    common over the coming years as a way to supplement and complement human labour.The
-    report predicts the shift in skill demand between today and 2022 will be significant
-    and that “proactive, strategic and targeted efforts will be needed to map and
-    incentivize workforce redeployment… [and therefore]... investment decisions [on]
-    whether to prioritize automation or augmentation and the question of whether or
-    not to invest in workforce reskilling.## RecommendationsWhile there is evidence
-    that robots and automation are taking jobs away in various sectors, a more balanced,
-    granular, analytical, and objective treatment of A/IS impact on the workforce
-    is needed to effectively inform policy making and essential workforce reskilling.
-    Specifics to accomplish this include:•Creating an international and independent
-    agency able to properly disseminate objective statistics and inform the media,
-    as well as the general public, about the impact of robotics and A/IS on jobs,
-    tax revenue, growth,26 and well-being.•Analyzing and disseminating data on how
-    current task content of jobs have changed, based on a clear assessment of the
-    automatability of the occupationaldescription of such jobs.•Promoting automation
-    with augmentation, as recommended in the _Future of Jobs Report 2018_ (see chart
-    on page 154), to maximize the benefit of A/IS to employment and meaningful work.•Integrating
-    more granulated dynamic mapping of the future jobs, tasks, activities, workplace-structures,
-    associated work-habits, and skills base spurred by the A/IS revolution, in order
-    to innovate, align, and synchronize skill development and training programs with
-    future requirements. This workforce mapping is needed at the macro, but also crucially
-    at the micro, levels where labor market programsare deployed.•Considering both
-    product and process innovation, and looking at them from a global perspective
-    in order to understand properly the global impact of A/IS on employment.•Proposing
-    mechanisms for redistribution of productivity increases and developing an adaptation
-    plan for the evolving labor market.## Further Resources•E. Brynjolfsson and A.
-    McAfee. The Second Age of Machine Intelligence: Work Progress and Prosperity in
-    a Time of Brilliant Technologies. New York, NY: W. W. Norton & Company, 2014.•P.R.
-    Daugherty, and H.J. Wilson, Human + Machine: Reimagining Work in the Age of AI_.
-    _Watertown, MA:_ _Harvard Business Review Press, 2018.•International Federation
-    of Robotics. “The Impact of Robots on Productivity, Employment and Jobs,” A positioning
-    paper by the International Federation of Robotics, April 2017.•RockEU. “Robotics
-    Coordination Action for Europe Report on Robotics and Employment,” Deliverable
-    D3.4.1, June 30, 2016.•World Economic Forum, Centre for the New Economy and Society,
-    _The Future of Jobs 2018_, Geneva: WEF 2018."150-152'
 - Cases:
   - recOOmVQviRyJGvea
   - recmS3zSMbR3ofAR5
@@ -9874,6 +9512,7 @@
   name: recefglLZ3oJWw2SZ
   tags:
   - AI
+  - education
   created_at: '2023-05-18T13:41:32.000Z'
   description: '**Respect for diversity, non-discrimination, and fairness** respect
     for persons includes respect for difference, non-discrimination, and fairness
@@ -9937,12 +9576,17 @@
   Sources:
   - recpXl48pJdKDhc6f
   Strategies:
-  - recZI7HDWKBU5T22v
-  title: How do we incorporate a human-rights framework into AI design/development/use?
+  - recTr6cDE4OBKV0wv
+  - rec7daqDHSCuc70yS
+  - recK1gdkh8c01WaXx
+  - recHEUOqkzQTNsAMw
+  title: 'Sustainability (including social and environmental sustainability): How
+    do we incorporate a human-rights framework into AI design/development/use?'
   category: Challenges
   name: reciNc7OeTUmnsLqg
   tags:
   - wellbeing
+  - sustainability
   created_at: '2023-06-05T05:47:17.000Z'
   description: Human rights law is related to, but distinct from, the pursuit of well-being.
     Incorporating a human-rights framework as an essential basis for A/IS creators
@@ -9986,7 +9630,11 @@
     engaged in promoting them.The [Oxford Human Rights Hub ](http://ohrh.law.ox.ac.uk/why-artificial-intelligence-is-already-a-human-rights-issue/)reports
     on how and why technologies surrounding artificial intelligence raise human rights
     issues"p.76-77
-- Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
+- OverarchingPrinciples:
+  - recLHILkx2JDFsLbX
+  Principles:
+  - recLHILkx2JDFsLbX
+  Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
     on Ethics of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J.
     Silva Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and
     Well-Being (Vol. 95, pp. 11–16). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2
@@ -9994,101 +9642,107 @@
   - recpXl48pJdKDhc6f
   Strategies:
   - recouZjokdKQz88z1
-  title: AI could hamper, not foster, progress on SDGs
+  - recK1gdkh8c01WaXx
+  - rec7daqDHSCuc70yS
+  - rec0WScLo6sUnoOQN
+  - recGS9OVQ7qAjvIYE
+  - recJMrMEZnz9rYlnD
+  title: 'Sustainability (including social and environmental sustainability): AI could
+    hamper, not foster, progress on SDGs'
   category: Challenges
   name: recj64vAVJSm5B2ba
   tags:
   - SDGs
+  - sustainability
   created_at: '2023-06-05T10:57:55.000Z'
   description: '**"Issue: **Current roadmaps for development and deployment of A/IS
     are not aligned with or guided by their impact in the most important challenges
     of humanity, defined in the seventeen United Nations Sustainable Development Goals
     (SDGs), which collectively aspire to create a more equal world of prosperity,
-    peace, planet protection, and human dignityfor all people.4## Background SDGs
-    promoting prosperity, peace, planet protection, human dignity, and respect for
-    human rights of all, apply to HIC and LMIC alike. Yet ensuring that the benefits
-    of A/IS will accrue to humanity as a whole, leaving “no one behind”, requires
-    an ethical commitment to global citizenship and well-being, and a conscious effort
-    to counter the nature of the tech economy, with its tendency to concentrate wealth
-    within high income populations. Implementation of the SDGs should benefit excluded
-    sectors of society in every country, regardless of A/IS infrastructure.“The Road
-    to Dignity by 2030” document of the UN Secretary General reports on resources
-    and methods for implementing the 2030 Agenda for Sustainable Development and emphasizes
-    the importance of science, technology, and innovation for a sustainable future.5
-    The UN Secretary General posits that:“A sustainable future will require that we
-    act now to phase out unsustainable technologies and to invest in innovation and
-    in the development of clean and sound technologies for sustainable development.
-    We must ensure that they are fairly priced, broadly disseminated and fairly absorbed,
-    including to and by developing countries.” (para. 120)A/IS are among the technologies
-    that can play an important role in the solution of the deep social problems plaguing
-    our global civilization, contributing to the transformation of society away from
-    an unsustainable, unequal socioeconomic system, towards one that realizes the
-    vision of universal human dignity, peace, and prosperity.However, with all the
-    potential benefits ofA/IS, there are also risks. For example, givenA/IS technology’s
-    immense power needs, without new sources of sustainable energy harnessed to power
-    A/IS in the future, there is a risk that it will increase fossil fuel use and
-    have a negative impact on the environment and the climate.While 45% of the world’s
-    population is not connected to the internet, they are not necessarily excluded
-    from A/IS’ potential benefits: in LMIC mobile networks can provide data for A/IS
-    applications. However, only those connected are likely to benefit from the income-producing
-    potential of internet technologies. In 2017, internet penetration in HIC left
-    behind certain portions of the population often in rural or remote areas; 12%
-    of U.S. residents and 20% of residents across Europe were unable to access the
-    internet. In Asia with its concentration of LMIC, 52% of the population, on average,
-    had no access, a statistic skewed by the large population of China, where internet
-    penetration reached 45% of the population. In numerous other countries in the
-    region, 99% of residents had no access. This nearly total exclusion also exists
-    in several countries in Africa, where the overall internet penetration is only
-    35%: 2 of every 3 residents in Africa have no access.6 Those with no internet
-    access also do not generate data needed to “train” A/IS, and are thereby excluded
-    from benefits of the technology, the development of which risks systematic discriminatory
-    bias, particularly against people from minority populations, and those living
-    in rural areas, or in low-income countries. As a comparison, one study estimated
-    that “in the US, just one home automation product can generate a data point every
-    six seconds.”7 In Mozambique, where about 90% of the population lack internet
-    access, “the average household generates zero digital data points.”8 With mobile
-    phones generating much of the data needed for developing A/IS applications in
-    LMIC, unequal phone ownership may build in bias. For example, there is a risk
-    of discrimination against women, who across LMIC are 14% less likely than men
-    to own a mobile phone, and in South Asia where 38% are less likely to own a mobile
-    phone.9## RecommendationsThe current range of A/IS applications in sectors crucial
-    to the SDGs, and to excluded populations everywhere, should be studied, with the
-    strengths, weaknesses, and potential of the most significant recent applications
-    analyzed, and the best ones developed at scale. Specific objectives to consider
-    include:•Identifying and experimenting withA/IS technologies relevant to the SDGs,such
-    as: big data for development relevant to, for example, agriculture and medical
-    tele-diagnosis; geographic information systems needed in public service planning,
-    disaster prevention, emergency planning, and disease monitoring; control systems
-    used in, for example, naturalizing intelligent cities through energy and traffic
-    control and management of urban agriculture; applications that promote human empathy
-    focused on diminishing violence and exclusion and increasing well-being.•Promoting
-    the potential role of A/IS in sustainable development by collaboration between
-    national and international government agencies and non-governmental organizations
-    (NGOs) in technology sectors.•Analyzing the cost of and proposing strategies for
-    publicly providing internet access forall, as a means of diminishing the gap inA/IS’
-    potential benefit to humanity, particularly between urban and rural populations
-    in HIC and LMIC alike.•Investing in the documentation and dissemination of innovative
-    applications ofA/IS that advance the resolution of identified societal issues
-    and the SDGs.•Researching sustainable energy to power A/IS computational capacity.•Investing
-    in the development of transparent monitoring frameworks to track the concrete
-    results of donations by international organizations, corporations, independent
-    agencies, and the State, to ensure efficiency and accountability in applied A/IS.•Developing
-    national legal, policy, and fiscal measures to encourage competition in theA/IS
-    domestic markets and the flourishingof scalable A/IS applications.•Integrating
-    the SDGs into the core of private sector business strategies and adding SDG indicators
-    to companies’ key performance indicators, going beyond corporate social responsibility
-    (CSR).•Applying the well-being indicators10 to evaluate A/IS’ impact from multiple
-    perspectives in HIC and LMIC alike.## Further reading•R. Van Est and J.B.A. Gerritsen,
-    with assistance of L. Kool, Human Rights in the Robot Age: Challenges arising
-    from the use of Robots, Artificial Intelligence and Augmented Reality Expert Report
-    written for the Committee on Culture, Science, Education and Media of the Parliamentary
-    Assembly of the Council of Europe (PACE), The Hague: Rathenau Instituut 2017.•World
-    Economic Forum Global Future Council on Human Rights 2016-18, “White Paper: How
-    to Prevent Discriminatory Outcomes in Machine Learning,” World Economic Forum,
-    March 2018.•United Nations General Assembly, _Transforming Our World: The 2030
-    Agenda for Sustainable Development_ (A/RES/70/1: 21 October 2015) Preamble. [http://www.un.org/
-    en/development/desa/population/migration/ generalassembly/docs/globalcompact/
-    A\_RES\_70\_1\_E.pdf](http://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_70_1_E.pdf).•United
+    peace, planet protection, and human dignityfor all people.4## BackgroundSDGs promoting
+    prosperity, peace, planet protection, human dignity, and respect for human rights
+    of all, apply to HIC and LMIC alike. Yet ensuring that the benefits of A/IS will
+    accrue to humanity as a whole, leaving “no one behind”, requires an ethical commitment
+    to global citizenship and well-being, and a conscious effort to counter the nature
+    of the tech economy, with its tendency to concentrate wealth within high income
+    populations. Implementation of the SDGs should benefit excluded sectors of society
+    in every country, regardless of A/IS infrastructure.“The Road to Dignity by 2030”
+    document of the UN Secretary General reports on resources and methods for implementing
+    the 2030 Agenda for Sustainable Development and emphasizes the importance of science,
+    technology, and innovation for a sustainable future.5 The UN Secretary General
+    posits that:“A sustainable future will require that we act now to phase out unsustainable
+    technologies and to invest in innovation and in the development of clean and sound
+    technologies for sustainable development. We must ensure that they are fairly
+    priced, broadly disseminated and fairly absorbed, including to and by developing
+    countries.” (para. 120)A/IS are among the technologies that can play an important
+    role in the solution of the deep social problems plaguing our global civilization,
+    contributing to the transformation of society away from an unsustainable, unequal
+    socioeconomic system, towards one that realizes the vision of universal human
+    dignity, peace, and prosperity.However, with all the potential benefits ofA/IS,
+    there are also risks. For example, givenA/IS technology’s immense power needs,
+    without new sources of sustainable energy harnessed to power A/IS in the future,
+    there is a risk that it will increase fossil fuel use and have a negative impact
+    on the environment and the climate.While 45% of the world’s population is not
+    connected to the internet, they are not necessarily excluded from A/IS’ potential
+    benefits: in LMIC mobile networks can provide data for A/IS applications. However,
+    only those connected are likely to benefit from the income-producing potential
+    of internet technologies. In 2017, internet penetration in HIC left behind certain
+    portions of the population often in rural or remote areas; 12% of U.S. residents
+    and 20% of residents across Europe were unable to access the internet. In Asia
+    with its concentration of LMIC, 52% of the population, on average, had no access,
+    a statistic skewed by the large population of China, where internet penetration
+    reached 45% of the population. In numerous other countries in the region, 99%
+    of residents had no access. This nearly total exclusion also exists in several
+    countries in Africa, where the overall internet penetration is only 35%: 2 of
+    every 3 residents in Africa have no access.6 Those with no internet access also
+    do not generate data needed to “train” A/IS, and are thereby excluded from benefits
+    of the technology, the development of which risks systematic discriminatory bias,
+    particularly against people from minority populations, and those living in rural
+    areas, or in low-income countries. As a comparison, one study estimated that “in
+    the US, just one home automation product can generate a data point every six seconds.”7
+    In Mozambique, where about 90% of the population lack internet access, “the average
+    household generates zero digital data points.”8 With mobile phones generating
+    much of the data needed for developing A/IS applications in LMIC, unequal phone
+    ownership may build in bias. For example, there is a risk of discrimination against
+    women, who across LMIC are 14% less likely than men to own a mobile phone, and
+    in South Asia where 38% are less likely to own a mobile phone.9## RecommendationsThe
+    current range of A/IS applications in sectors crucial to the SDGs, and to excluded
+    populations everywhere, should be studied, with the strengths, weaknesses, and
+    potential of the most significant recent applications analyzed, and the best ones
+    developed at scale. Specific objectives to consider include:•Identifying and experimenting
+    withA/IS technologies relevant to the SDGs,such as: big data for development relevant
+    to, for example, agriculture and medical tele-diagnosis; geographic information
+    systems needed in public service planning, disaster prevention, emergency planning,
+    and disease monitoring; control systems used in, for example, naturalizing intelligent
+    cities through energy and traffic control and management of urban agriculture;
+    applications that promote human empathy focused on diminishing violence and exclusion
+    and increasing well-being.•Promoting the potential role of A/IS in sustainable
+    development by collaboration between national and international government agencies
+    and non-governmental organizations (NGOs) in technology sectors.•Analyzing the
+    cost of and proposing strategies for publicly providing internet access forall,
+    as a means of diminishing the gap inA/IS’ potential benefit to humanity, particularly
+    between urban and rural populations in HIC and LMIC alike.•Investing in the documentation
+    and dissemination of innovative applications ofA/IS that advance the resolution
+    of identified societal issues and the SDGs.•Researching sustainable energy to
+    power A/IS computational capacity.•Investing in the development of transparent
+    monitoring frameworks to track the concrete results of donations by international
+    organizations, corporations, independent agencies, and the State, to ensure efficiency
+    and accountability in applied A/IS.•Developing national legal, policy, and fiscal
+    measures to encourage competition in theA/IS domestic markets and the flourishingof
+    scalable A/IS applications.•Integrating the SDGs into the core of private sector
+    business strategies and adding SDG indicators to companies’ key performance indicators,
+    going beyond corporate social responsibility (CSR).•Applying the well-being indicators10
+    to evaluate A/IS’ impact from multiple perspectives in HIC and LMIC alike.## Further
+    reading•R. Van Est and J.B.A. Gerritsen, with assistance of L. Kool, Human Rights
+    in the Robot Age: Challenges arising from the use of Robots, Artificial Intelligence
+    and Augmented Reality Expert Report written for the Committee on Culture, Science,
+    Education and Media of the Parliamentary Assembly of the Council of Europe (PACE),
+    The Hague: Rathenau Instituut 2017.•World Economic Forum Global Future Council
+    on Human Rights 2016-18, “White Paper: How to Prevent Discriminatory Outcomes
+    in Machine Learning,” World Economic Forum, March 2018.•United Nations General
+    Assembly, _Transforming Our World: The 2030 Agenda for Sustainable Development_
+    (A/RES/70/1: 21 October 2015) Preamble. [http://www.un.org/ en/development/desa/population/migration/
+    generalassembly/docs/globalcompact/ A\_RES\_70\_1\_E.pdf](http://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_70_1_E.pdf).•United
     Nations Global Pulse, Big Data for Development: Challenges and Opportunities,
     2012."p139-140'
 - Cases:
@@ -10101,7 +9755,6 @@
   - recpxk9KZ2adMWrnD
   - recfzbgUna1vE1wtt
   - rec5facmXBZUPH3es
-  - recd5xGVz6jr6WUqy
   - recKFOQ4CcT6PhQoe
   - recbsVGBRocMgkD2G
   - recISbGibFUeCXoRj
@@ -10109,7 +9762,9 @@
   title: New technologies give rise to new potential for misuse
   category: Challenges
   name: recuUWIu0ofVYHLKA
-  tags: []
+  tags:
+  - AI
+  - education
   created_at: '2023-06-18T18:56:46.000Z'
   description: '**Inappropriate use **"New technologies give rise to greater risk
     of deliberate or accidental misuse, and this is especially true for A/IS. A/IS
@@ -10125,15 +9780,6 @@
     lawyers, governments, etc., all have a role to play through education and awareness
     in developing accountability structures (see Principle 6), in addition to guiding
     new technology proactively toward beneficial ends." [(IEEE, 2019, p.32-33)](https://ethics-guides.netlify.app/reccfsnzpjvw0pcue)'
-- OverarchingPrinciples:
-  - recmzjcGKv3yNOxbl
-  Principles:
-  - rec42P8U9usfYCtv9
-  title: Sustainability
-  category: Challenges
-  name: recv6cN7XSt5GW32Y
-  tags: []
-  created_at: '2023-05-18T18:55:13.000Z'
 - ChallengeInstances:
   - reclJ7hlCEf4P94SA
   - recPKPxKp07OlhULb
@@ -10321,6 +9967,7 @@
   - recdkRK64g0b4GZlP
   - recp8G9ek0g3RAnEC
   - recfzbgUna1vE1wtt
+  - rec5facmXBZUPH3es
   Link: https://aoir.org/reports/ethics3.pdf
   Reference: |
     franzke, aline shakti, Bechmann, A., Zimmer, M., Ess, C., & Association of Internet Researchers (AoIR). (2020). _Internet Research: Ethical Guidelines 3.0 Association of Internet Researchers_. AoIR. <https://aoir.org/reports/ethics3.pdf>
@@ -10412,6 +10059,7 @@
   - recftbldoHqhBBcrk
   - reczbN2QKYqG695ec
   - recC8IlVKWmMHOorw
+  - recfzbgUna1vE1wtt
   Link: https://education.ec.europa.eu/node/2285
   OverarchingPrinciples:
   - recLHILkx2JDFsLbX
@@ -11302,6 +10950,7 @@
   - rec1ldHV74MQeRllz
   - recpxk9KZ2adMWrnD
   - rec5facmXBZUPH3es
+  - rec2OEPHyKNR33lW6
   Link: https://doi.org/10.5281/ZENODO.3240529
   OverarchingPrinciples:
   - recLHILkx2JDFsLbX
@@ -11421,6 +11070,12 @@
   - recHUlZ9OQfNwD6fg
   - reck3lUFUtAhNes3Y
   - recfzbgUna1vE1wtt
+  - recISbGibFUeCXoRj
+  - rec1UyKLba4O7X6ax
+  - rec2OEPHyKNR33lW6
+  - recbsVGBRocMgkD2G
+  - rec5facmXBZUPH3es
+  - rec3XoC08SiG83eK0
   Link: https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
   OverarchingPrinciples:
   - recLHILkx2JDFsLbX
@@ -11539,11 +11194,7 @@
   - reciNc7OeTUmnsLqg
   - recA7Kh502s4UKWGo
   - recGRpoF7DA23ODSj
-  - rec2ULcHUjSbbSnHL
-  - rec2ajglpzbFYRivi
   - recj64vAVJSm5B2ba
-  - recJV8yTX0MnF3rGD
-  - recb50cfuQUWDAHZW
   - recefglLZ3oJWw2SZ
   - recWPbL5kB1Yh5OPf
   - recJ6khG2kY2Tx5ae
@@ -11583,6 +11234,12 @@
   - rec0d9XwyvbDuuuN6
   - reck3lUFUtAhNes3Y
   - recfzbgUna1vE1wtt
+  - rec2OEPHyKNR33lW6
+  - recISbGibFUeCXoRj
+  - recwVOVXU6zbH6KZ7
+  - rec5nljdN28sNoK3X
+  - recWNlnhyOUXmOo0Q
+  - recg821VxieIJvgRO
   Link: https://doi.org/10.1007/978-3-030-12524-0_2
   OverarchingPrinciples:
   - recLHILkx2JDFsLbX
@@ -13031,6 +12688,12 @@
   - recmzjcGKv3yNOxbl
   Principles:
   - recmzjcGKv3yNOxbl
+  Reference: High-Level Expert Group on AI. (2019). Ethics guidelines for trustworthy
+    AI | Shaping Europe’s digital future. FUTURIUM - European Commission. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
+  Sources:
+  - recnCULdYQ36cpZR7
+  Strategies:
+  - recAMa23XxDLEzMn8
   title: While introducing technologies has impacts, so too does removing them through
     algorithmic imprints and technology aftereffects
   category: ChallengeInstances
@@ -13130,11 +12793,277 @@
     will be used."p.112-113 IEEE report'
 - Challenges:
   - recuUWIu0ofVYHLKA
-  title: Principle of Safety, key considerations
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Principles:
+  - recmzjcGKv3yNOxbl
+  Reference:
+  - 'Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A
+    guide for the responsible design and implementation of AI systems in the public
+    sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  - IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics
+    of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva Sequeira,
+    G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being (Vol.
+    95, pp. 11–16). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2
+  - High-Level Expert Group on AI. (2019). Ethics guidelines for trustworthy AI |
+    Shaping Europe’s digital future. FUTURIUM - European Commission. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
+  Sources:
+  - recfYC5jjPmpLfSlM
+  - recpXl48pJdKDhc6f
+  - recnCULdYQ36cpZR7
+  Strategies:
+  - recKWkdYO98PeEKDz
+  - rec4oGONFgYMu3JGf
+  - recAMa23XxDLEzMn8
+  - recNHvwgyFPXERuJ8
+  title: Ensuring safe use of AI involves consideration of social and technical issues
   category: ChallengeInstances
   name: rec2OEPHyKNR33lW6
-  tags: []
+  tags:
+  - AI
   created_at: '2023-06-19T06:06:23.000Z'
+  description: '"Beyond safeguarding the sustainability of your AI project as it relates
+    to its social impacts on individual wellbeing and public welfare, your project
+    team must also confront the related challenge of technical sustainability or safety.
+    A technically sustainable AI system is safe, accurate, reliable, secure, and robust.
+    Securing these goals, however, is a difficult and unremitting task.Because AI
+    systems operate in a world filled with uncertainty, volatility, and flux, the
+    challenge of building safe and reliable AI can be especially daunting. This job,
+    however, must be met head-on. Only by making the goal of producing safe and reliable
+    AI technologies central to your project, will you be able to mitigate risks of
+    your system failing at scale when faced with real-world unknowns and unforeseen
+    events. The issue of AI safety is of paramount importance, because these potential
+    failures may both produce harmful outcomes and undermine public trust.In order
+    to safeguard that your AI system functions safely, you must prioritise the technical
+    objectives of accuracy, reliability, security, and robustness. This requires that
+    your technical team put careful forethought into how to construct a system that
+    accurately and dependably operates in accordance with its designers’ expectations
+    even when confronted with unexpected changes, anomalies, and perturbations. Building
+    an AI system that meets these safety goals also requires rigorous testing, validation,
+    and re-assessment as well as the integration of adequate mechanisms of oversight
+    and control into its real-world operation.**_Accuracy, reliability, security,
+    and robustness_**__It is important that you gain a strong working knowledge of
+    each of the safety relevant operational objectives (accuracy, reliability, security,
+    and robustness):- Accuracy and Performance Metrics: In machine learning, the accuracy
+    of a model is the proportion of examples for which it generates a correct output.
+    This performance measure is also sometimes characterised conversely as an error
+    rate or the fraction of cases for which the model produces an incorrect output.
+    Keep in mind that, in some instances, the choice of an acceptable error rate or
+    accuracy level can be adjusted in accordance with the use case specific needs
+    of the application. In other instances, it may be largely set by a domain established
+    benchmark.As a performance metric, accuracy should be a central component to establishing
+    and nuancing your team’s approach to safe AI. That said, specifying a reasonable
+    performance level for your system may also often require you to refine or exchange
+    your measure of accuracy. For instance, if certain errors are more significant
+    or costly than others, a metric for total cost can be integrated into your model
+    so that the cost of one class of errors can be weighed against that of another.
+    Likewise, if the precision and sensitivity of the system in detecting uncommon
+    events is a priority (say, in instances of the medical diagnosis of rare cases
+    of a disease), you can use the technique of precision and recall. This method
+    of addressing imbalanced classification would allow you to weigh the proportion
+    of the system’s correct detections—both of frequent and of rare outcomes—against
+    the proportion of actual detections of the rare event (i.e. the ratio of the true
+    detections of the rare outcome to the sum of the true detections of that outcome
+    and the missed detections or false negatives for that outcome).In general, measuring
+    accuracy in the face of uncertainty is a challenge that must be given significant
+    thought. The confidence level of your AI system will depend heavily on problems
+    inherent in attempts to model a chaotic and changing reality. Concerns about accuracy
+    must cope with issues of unavoidable noise present in the data sample, architectural
+    uncertainties generated by the possibility that a given model is missing relevant
+    features of the underlying distribution, and inevitable changes in input data
+    over time.- Reliability: The objective of reliability is that an AI system behaves
+    exactly as its designers intended and anticipated. A reliable system adheres to
+    the specifications it was programmed to carry out. Reliability is therefore a
+    measure of consistency and can establish confidence in the safety of a system
+    based upon the dependability with which it operationally conforms to its intended
+    functionality.- Security: The goal of security encompasses the protection of several
+    operational dimensions of an AI system when confronted with possible adversarial
+    attack. A secure system is capable of maintaining the integrity of the information
+    that constitutes it. This includes protecting its architecture from the unauthorised
+    modification or damage of any of its component parts. A secure system also remains
+    continuously functional and accessible to its authorised users and keeps confidential
+    and private information secure even under hostile or adversarial conditions.-
+    Robustness: The objective of robustness can be thought of as the goal that an
+    AI system functions reliably and accurately under harsh conditions. These conditions
+    may include adversarial intervention, implementer error, or skewed goal-execution
+    by an automated learner (in reinforcement learning applications). The measure
+    of robustness is therefore the strength of a system’s integrity and the soundness
+    of its operation in response to difficult conditions, adversarial attacks, perturbations,
+    data poisoning, and undesirable reinforcement learning behaviour.**_Risks posed
+    to accuracy and reliability:_**Concept Drift: Once trained, most machine learning
+    systems operate on static models of the world that have been built from historical
+    data which have become fixed in the systems’ parameters. This freezing of the
+    model before it is released ‘into the wild’ makes its accuracy and reliability
+    especially vulnerable to changes in the underlying distribution of data. When
+    the historical data that have crystallised into the trained model’s architecture
+    cease to reflect the population concerned, the model’s mapping function will no
+    longer be able to accurately and reliably transform its inputs into its target
+    output values. These systems can quickly become prone to error in unexpected and
+    harmful ways.There has been much valuable research done on methods of detecting
+    and mitigating concept and distribution drift, and you should consult with your
+    technical team to ensure that its members have familiarised themselves with this
+    research and have sufficient knowledge of the available ways to confront the issue.
+    In all cases, you should remain vigilant to the potentially rapid concept drifts
+    that may occur in the complex, dynamic, and evolving environments in which your
+    AI project will intervene. Remaining aware of these transformations in the data
+    is crucial for safe AI, and your team should actively formulate an action plan
+    to anticipate and to mitigate their impacts on the performance of your system.Brittleness:
+    Another possible challenge to the accuracy and reliability of machine learning
+    systems arises from the inherent imitations of the systems themselves. Many of
+    the high- performing machine learning models such as deep neural nets (DNN) rely
+    on massive amounts of data and brute force repetition of training examples to
+    tune the thousands, millions, or even billions of parameters, which collectively
+    generate their outputs.However, when they are actually running in an unpredictable
+    world, these systems may have difficulty processing unfamiliar events and scenarios.
+    They may make unexpected and serious mistakes, because they have neither the capacity
+    to contextualise the problems they are programmed to solve nor the common-sense
+    ability to determine the relevance of new ‘unknowns’. Moreover, these mistakes
+    may remain unexplainable given the high- dimensionality and computational complexity
+    of their mathematical structures. This fragility or brittleness can have especially
+    significant consequences in safety-critical applications like fully automated
+    transportation and medical decision support systems where undetectable changes
+    in inputs may lead to significant failures. While progress is being made in finding
+    ways to make these models more robust, it is crucial to consider safety first
+    when weighing up their viability.**_Risks posed to security and robustness_**__Adversarial
+    Attack: Adversarial attacks on machine learning models maliciously modify input
+    data—often in imperceptible ways—to induce them into misclassification or incorrect
+    prediction. For instance, by undetectably altering a few pixels on a picture,
+    an adversarial attacker can mislead a model into generating an incorrect output
+    (like identifying a panda as a gibbon or a ‘stop’ sign as a ‘speed limit’ sign)
+    with an extremely high confidence. While a good amount of attention has been paid
+    to the risks that adversarial attacks pose in deep learning applications like
+    computer vision, these kinds of perturbations are also effective across a vast
+    range of machine learning techniques and uses such as spam filtering and malware
+    detection.These vulnerabilities of AI systems to adversarial examples have serious
+    consequences for AI safety. The existence of cases where subtle but targeted perturbations
+    cause models to be misled into gross miscalculation and incorrect decisions have
+    potentially serious safety implication for the adoption of critical systems like
+    applications in autonomous transportation, medical imaging, and security and surveillance.
+    In response to concerns about the threats posed to a safe and trusted environment
+    for AI technologies by adversarial attacks a field called adversarial machine
+    learning has emerged over the past several years.Work in this area focuses on
+    securing systems from disruptive perturbations at all points of vulnerability
+    across the AI pipeline.One of the major safety strategies that has arisen from
+    this research is an approach called model hardening, which has advanced techniques
+    that combat adversarial attacks by strengthening the architectural components
+    of the systems. Model hardening techniques may include adversarial training, where
+    training data is methodically enlarged to include adversarial examples. Other
+    model hardening methods involve architectural modification, regularisation, and
+    data pre-processing manipulation. A second notable safety strategy is run- time
+    detection, where the system is augmented with a discovery apparatus that can identify
+    and trace in real-time the existence of adversarial examples. You should consult
+    with members of your technical team to ensure that the risks of adversarial attack
+    have been taken into account and mitigated throughout the AI lifecycle. A valuable
+    collection of resources to combat adversarial attack can be found at [https://github.com/IBM/adversarial-](https://github.com/IBM/adversarial-robustness-toolbox)
+    [robustness-toolbox](https://github.com/IBM/adversarial-robustness-toolbox) .Data
+    Poisoning: A different but related type of adversarial attack is called data poisoning.
+    This threat to safe and reliable AI involves a malicious compromise of data sources
+    at the point of collection and pre-processing. Data poisoning occurs when an adversary
+    modifies or manipulates part of the dataset upon which a model will be trained,
+    validated, and tested. By altering a selected subset of training inputs, a poisoning
+    attack can induce a trained AI system into curated misclassification, systemic
+    malfunction, and poor performance. An especially concerning dimension of targeted
+    data poisoning is that an adversary may introduce a ‘backdoor’ into the infected
+    model whereby the trained system functions normally until it processes maliciously
+    selected inputs that trigger error or failure.In order to combat data poisoning,
+    your technical team should become familiar with the state of the art in filtering
+    and detecting poisoned data. However, such technical solutions are not enough.
+    Data poisoning is possible because data collection and procurement often involves
+    potentially unreliable or questionable sources. When data originates in uncontrollable
+    environments like the internet, social media, or the Internet of Things, many
+    opportunities present themselves to ill-intentioned attackers, who aim to manipulate
+    training examples. Likewise, in third- party data curation processes (such as
+    ‘crowdsourced’ labelling, annotation, and content identification), attackers may
+    simply handcraft malicious inputs.Your project team should focus on the best practices
+    of responsible data management, so that they are able to tend to data quality
+    as an end-to-end priority.- Misdirected Reinforcement Learning Behaviour: A different
+    set of safety risks emerges from the approach to machine learning called reinforcement
+    learning (RL). In the more widely applied methods of supervised learning that
+    have largely been the focus of this guide, a model transforms inputs into outputs
+    according to a fixed mapping function that has resulted from its passively received
+    training. In RL, by contrast, the learner system actively solves problems by engaging
+    with its environment through trial and error. This exploration and ‘problem-solving’
+    behaviour is determined by the objective of maximising a reward function that
+    is defined by its designers.This flexibility in the model, however, comes at the
+    price of potential safety risks. An RL system, which is operating in the real-world
+    without sufficient controls, may determine a reward-optimising course of action
+    that is optimal for achieving its desired objective but harmful to people. Because
+    these models lack context-awareness, common sense, empathy, and understanding,
+    they are unable to identify, on their own, scenarios that may have damaging consequences
+    but that were not anticipated and constrained by their programmers. This is a
+    difficult problem, because the unbounded complexity of the world makes anticipating
+    all of its pitfalls and detrimental variables veritably impossible.Existing strategies
+    to mitigate such risks of misdirected reinforcement learning behaviour include:-
+    Running extensive simulations during the testing stage, so that appropriate measures
+    of constraint can be programmed into the system- Continuous inspection and monitoring
+    of the system, so that its behaviour can be better predicted and understood- Finding
+    ways to make the system more interpretable so that its decisions can be better
+    assessed- Hard-wiring mechanisms into the system that enable human override and
+    system shut-down**End-to-End AI Safety**The safety risks you face in your AI project
+    will depend, among other factors, on the sort of algorithm(s) and machine learning
+    techniques you are using, the type of applications in which those techniques are
+    going to be deployed, the provenance of your data, the way you are specifying
+    your objective, and the problem domain in which that specification applies. As
+    a best practice, regardless of this variability of techniques and circumstances,
+    safety considerations of accuracy, reliability, security, and robustness should
+    be in operation at every stage of your AI project lifecycle.This should involve
+    both rigorous protocols of testing, validating, verifying, and monitoring the
+    safety of the system and the performance of AI safety self-assessments by relevant
+    members of your team at each stage of the workflow. Such self-assessments should
+    evaluate how your team’s design and implementation practices line up with the
+    safety objectives of accuracy, reliability, security, and robustness. Your AI
+    safety self-assessments should be logged across the workflow on a single document
+    in a running fashion that allows review and re-assessment."(Leslie, 2019, p26-30)###
+    IEEE Report"Operational failures and, in particular, violations of a system’s
+    embedded community norms, are unavoidable, both during system testing and during
+    deployment. Not only are implementations never perfect, but A/IS with embedded
+    norms will update or expand their norms over time (see Section 1, Issue 2) and
+    interactions in the social world are particularly complex and uncertain. Thus,
+    prevention and mitigation strategies must be adopted, and we sample four possible
+    ones.First, anticipating the process of evaluation during the implementation phase
+    requires defining criteria and metrics for such evaluation, which in turn better
+    allows the detection and mitigation of failures. Metrics will include:- Technical
+    variables, such as traceability and verifiability,- User-level variables such
+    as reliability, understandable explanations, and responsiveness to feedback, and-
+    Community-level variables such as justified trust (see Issue 2) and the collective
+    belief that A/IS are generally creating social benefits rather than, for example,
+    technological unemployment.Second, a systematic risk analysis and management approach
+    can be useful (Oetzel and Spiekermann 201443) for an application to privacy norms.
+    This approach tries to anticipate potential points of failure, e.g., norm violations,
+    and, where possible, develops some ways to reduce or remove the effects of failures.
+    Successful behavior, and occasional failures, can then iteratively improve predictions
+    andmitigation attempts.Third, because not all risks and failures are predictable
+    (Brundage et al 201844; Vanderelst and Winfield 201845), especially in complex
+    human-machine interactions in social contexts, additional mitigation mechanisms
+    must be made available. Designers are strongly encouraged to augment the architectures
+    of their systems with components that handle unanticipated norm violations with
+    a fail-safe, such as the symbolic “gateway” agents discussed in Section 2, Issue
+    1. Designers should identify a number of strict laws, that is, task- and community-specific
+    norms that should never be violated, and the failsafe components should continuously
+    monitor operations against possible violations of these laws. In case of violations,
+    the higher-order gateway agent should take appropriate actions, such as safely
+    disabling the system’s operation, or greatly limiting its scope of operation,
+    until the source of failure is identified. The failsafe components need to be
+    understandable, extremely reliable, and protected against security breaches, which
+    can be achieved, for example, by validating them carefully and not letting them
+    adapt their parameters during execution.Fourth, once failures have occurred, responsible
+    entities, e.g., corporate, government, science, and engineering, shall create
+    a publicly accessible database with undesired outcomes caused by specific A/IS
+    systems. The database would include descriptions of the problem, background information
+    on how the problem was detected, which context it occurred in, and how it was
+    addressed.In summary, we offer the following recommendation.## RecommendationBecause
+    designers and developers cannot anticipate all possible operating conditions and
+    potential failures of A/IS, multiple strategies to mitigate the chance and magnitude
+    of harmmust be in place.### Further Resources•M. Brundage, S. Avin, J. Clark,
+    H. Toner, P. Eckersley, B. Garfunkel, A. Dafoe, P. Scharre, T. Zeitzo, et al.
+    " “The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and
+    Mitigation,” CoRR abs/1802.07228 [cs.AI]. 2018. <https://arxiv.org/abs/1802.07228>•M.
+    C. Oetzel and S. Spiekermann, “A Systematic Methodology for Privacy Impact Assessments:
+    A Design Science Approach.” _European Journal of Information Systems_, vol._ _23,
+    pp. 126–150, 2014. [https://link.springer. com/article/10.1057/ejis.2013.18](https://link.springer.com/article/10.1057/ejis.2013.18)•D.
+    Vanderelst and A.F. Winfield, 2018 “The Dark Side of Ethical Robots,” In Proc.
+    The First AAAI/ACM Conf. on Artificial Intelligence, Ethics and Society, New Orleans,
+    LA, Feb. 1 -3, 2018."p.180-181'
 - Challenges:
   - rec3T1WLC4dg63qyI
   OverarchingPrinciples:
@@ -13149,12 +13078,17 @@
   - 'Cardona, M. A., Rodríguez, R. J., & Ishmael, K. (2023). Artificial Intelligence
     and the Future of Teaching and Learning: Insights and Recommendations. U.S. Department
     of Education, Office of Educational Technology. https://www2.ed.gov/documents/ai-report/ai-report.pdf'
+  - High-Level Expert Group on AI. (2019). Ethics guidelines for trustworthy AI |
+    Shaping Europe’s digital future. FUTURIUM - European Commission. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
   Sources:
   - recpXl48pJdKDhc6f
   - recY4zreDoWrsbsv7
+  - recnCULdYQ36cpZR7
   Strategies:
   - recZI7HDWKBU5T22v
   - recqY2lEigz82Xmh5
+  - recEHwRaLD44KPk8v
+  - reccAKmFQRH7IiuJi
   title: Defining desired outcomes - including general wellbeing - requires stakeholder
     involvement
   category: ChallengeInstances
@@ -13316,11 +13250,24 @@
   - recOHnq45Fq7YWsRO
   Principles:
   - recOHnq45Fq7YWsRO
-  Reference: 'Leslie, D. (2019). Understanding artificial intelligence ethics and
-    safety: A guide for the responsible design and implementation of AI systems in
-    the public sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  Reference:
+  - 'Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A
+    guide for the responsible design and implementation of AI systems in the public
+    sector. The Alan Turing Institute. https://doi.org/10.5281/ZENODO.3240529'
+  - 'franzke, aline shakti, Bechmann, A., Zimmer, M., Ess, C., & Association of Internet
+    Researchers (AoIR). (2020). Internet Research: Ethical Guidelines 3.0 Association
+    of Internet Researchers. AoIR. https://aoir.org/reports/ethics3.pdf'
+  - High-Level Expert Group on AI. (2019). Ethics guidelines for trustworthy AI |
+    Shaping Europe’s digital future. FUTURIUM - European Commission. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
   Sources:
   - recfYC5jjPmpLfSlM
+  - rec6r8OkE2Q2EdiM3
+  - recnCULdYQ36cpZR7
+  Strategies:
+  - rec0GhefNkhJqW0c2
+  - recsAAZKwCyesrHK6
+  - recdtW2BdWmY6WSP5
+  - rec03QV2RUJkP3dfo
   title: Concerns with merit of new systems
   category: ChallengeInstances
   name: rec5facmXBZUPH3es
@@ -13376,11 +13323,93 @@
   - recmzjcGKv3yNOxbl
   Principles:
   - recmzjcGKv3yNOxbl
+  Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
+    on Ethics of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J.
+    Silva Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and
+    Well-Being (Vol. 95, pp. 11–16). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - recg2u6ZXSRiUO8uF
   title: AI poses threats to labour
   category: ChallengeInstances
   name: rec5nljdN28sNoK3X
-  tags: []
+  tags:
+  - AI
+  - labour-impact
   created_at: '2023-06-19T06:04:41.000Z'
+  description: '"**Issue: **A/IS are changing the nature of work, disrupting employment,
+    while technological change is happening too fast for existing methods of (re)training
+    the workforce.## BackgroundThe current pace of technological development will
+    heavily influence changes in employment structure. In order to properly prepare
+    the workforce for such evolution, actions should be proactive and not only reactive.
+    The wave of automation caused by the A/IS revolution will displace a very large
+    share of jobs across domains and value chains. The U.S. “automated vehicle” case
+    study analyzed in the White House 2016 report_ Artificial Intelligence, Automation,
+    and the Economy _is emblematic of what is at stake: “2.2 to 3.1 million existing
+    part- and full-time U.S. jobs are exposed over the next two decades, although
+    the timeline remains uncertain.”18The risk of unemployment for LMIC is more serious
+    than for developed countries. The industry of most LMIC is labor intensive. While
+    labor may be cheap(er) in LMIC economies, the ripple effects of A/IS and automation
+    will be felt much more than in the HIC economies. The 2016 World Bank Development
+    Report stated that the share of occupations susceptible to automation and A/IS
+    is higher in LMIC than in HIC, where such jobs have already disappeared. In addition,
+    the qualities which made certain jobs easy to outsource to LMIC where wages are
+    lower are those that may make them easy to automate.19 An offsetting factor is
+    the reality that many LMIC lack the communication, energy, and IT infrastructure
+    required to support highly automated industries.20 Notwithstanding this reality,
+    the World Bank estimated the automatable share of employment, unadjusted for adoption
+    time lag, for LMIC ranges from 85% in Ethiopia to 62% in Argentina, compared to
+    the OECD average of 57%.21In the coming decades, the automation wave calls for
+    higher investment and the transformation of labor market capacity development
+    programs. Innovative and fair ways of funding such an investment are required;
+    the solutions should be designed in cooperation with the companies benefiting
+    from the increase of profitability, thanks to automation. This should be done
+    in a responsible way so that the innovation cycle is not broken, and yet workforce
+    capacity does not fall behind the needs of 21st century employment. At the same
+    time, A/IS and other digital technologies offer real potential to innovate new
+    approaches to job-search assistance, placement, and hiring processes in the age
+    of personalized services. The efficiency of matching labor supply and demand can
+    be tremendously enhanced by the rise of multisided platforms and predictive analytics,
+    provided they do not entrench discrimination.22 The case of platforms, such as
+    LinkedIn, for instance, with its 470 million registered users, and online job
+    consolidators such as indeed.com and Simply Hired, are interesting as an evolution
+    in hiring practices,at least for those able to access the internet.Tailored counseling
+    and integrated retraining programs also represent promising grounds for innovation.
+    In addition, much will have to be done to create fair and effective lifelong skill
+    development/training, infrastructures, and mechanisms capable of empowering millions
+    of people to viably transition jobs, sectors, and potentially locations, and to
+    address differential geographic impacts that exacerbate income and wealth disparities.
+    Effectively enabling the workforce to be more mobile—physically, legally, and
+    virtually—will be crucial. This implies systemic policy approaches which encompass
+    housing, transportation, licensing, tax incentives, and crucially in the age of
+    A/IS, universal broadband access, especially in rural areas of both HICand LMIC."p.147-149"**Issue:
+    **Analysis of theA/IS impact on employment is too focused on the number and category
+    of jobs affected, whereas more attention should be addressed to the complexities
+    of changing the task contentof jobs.## BackgroundCurrent attention on automation
+    and employment tends to focus on the sheer number of jobs lost or gained. It is
+    important to focus the analysis on how employment structures will be changed by
+    A/IS, rather than solely dwelling on the number of jobs that might be impacted.
+    For example, rather than carrying out a task themselves, workers will need to
+    shift to supervision of robots performing that task. Other concerns include changes
+    in traditional employment structures, with an increase in flexible, contract-based
+    temporary jobs, without employee protection, and a shift in task composition away
+    from routine/repetitive and toward complex decision-making. This is in addition
+    to the enormous need for the aforementioned retraining. Given the extent of disruption,
+    workforce trends will need to measure time spent unemployed or underemployed,
+    labor force participation rates, and other factors beyond simple unemployment
+    numbers.The _Future of Jobs 2018 _report of the World Economic Forum highlights:“...the
+    potential of new technologies to create as well as disrupt jobs and to improve
+    the quality and productivity of the existing work of human employees. Our findings
+    indicate that, by 2022, _augmentation _of existing jobs through technology may
+    free up workers from the majority of data processing and information search tasks—and
+    may also increasingly support them in high-value tasks such as reasoning and decision-making
+    as augmentation becomes increasingly common over the coming years as a way to
+    supplement and complement human labour.The report predicts the shift in skill
+    demand between today and 2022 will be significant and that “proactive, strategic
+    and targeted efforts will be needed to map and incentivize workforce redeployment…
+    [and therefore]... investment decisions [on] whether to prioritize automation
+    or augmentation and the question of whether or not to invest in workforce reskilling."150-152'
 - Challenges:
   - recefglLZ3oJWw2SZ
   OverarchingPrinciples:
@@ -13650,8 +13679,8 @@
   - recegTm800wJXGjO1
   - recgn2UvSD4OhzGI4
   - recWm6C6wOuVr6UCX
-  - recJyzFLE9ry4YEbb
   - recrBZOfrDC2lKpRM
+  - recNHvwgyFPXERuJ8
   title: How do we provide consistent oversight of AI to ensure they are accountable
     to end-users for any conclusions?
   category: ChallengeInstances
@@ -13668,18 +13697,6 @@
     of _Ethically Aligned Design_, but here the recommendations are used as they apply
     to the narrow scope of this chapter .p.132-133'
 - Challenges:
-  - recWxPEkLYUdWhd2q
-  OverarchingPrinciples:
-  - recOHnq45Fq7YWsRO
-  Principles:
-  - recOHnq45Fq7YWsRO
-  title: "\n  Guiding questions for educators regarding Societal and Environmental\n
-    \ Wellbeing of AI in Education\n  "
-  category: ChallengeInstances
-  name: recEeRFQm7xXJVNyu
-  tags: []
-  created_at: '2023-06-19T06:05:28.000Z'
-- Challenges:
   - recBc3GCNokDL220T
   OverarchingPrinciples:
   - recLHILkx2JDFsLbX
@@ -13693,6 +13710,7 @@
   - recpXl48pJdKDhc6f
   Strategies:
   - recG86YsfXnKY9kNc
+  - reczFKqCos9f1opXO
   title: It is not always clear how our data is being used, or how we could find out
   category: ChallengeInstances
   name: recHHvfADKIkX9idP
@@ -13882,12 +13900,36 @@
     in \[Ethical Visual Research Methods]\(/recyweamynkerwieb).'
 - Challenges:
   - recuUWIu0ofVYHLKA
+  OverarchingPrinciples:
+  - recmzjcGKv3yNOxbl
+  Principles:
+  - recmzjcGKv3yNOxbl
+  Reference:
+  - IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative on Ethics
+    of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J. Silva Sequeira,
+    G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and Well-Being (Vol.
+    95, pp. 11–16). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2
+  - High-Level Expert Group on AI. (2019). Ethics guidelines for trustworthy AI |
+    Shaping Europe’s digital future. FUTURIUM - European Commission. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
+  Sources:
+  - recpXl48pJdKDhc6f
+  - recnCULdYQ36cpZR7
+  Strategies:
+  - recJyzFLE9ry4YEbb
+  - reccAKmFQRH7IiuJi
   title: Considerations in assessing trustworthy AI - Minimising and reporting negative
     impacts
   category: ChallengeInstances
   name: recISbGibFUeCXoRj
-  tags: []
+  tags:
+  - AI
   created_at: '2023-06-19T06:06:23.000Z'
+  description: In considering whether to trust a particular use of AI, the possible
+    negative impacts should be available, and assessed in the particular context.
+    This is particularly important because "The algorithms behind A/IS are not subject
+    to consistent oversight. This lack of assessment causes concern because end users
+    have no account of how a certain algorithm or system came to its conclusions."
+    (IEEE, 2019 p.132-133)
 - Challenges:
   - recJ6khG2kY2Tx5ae
   OverarchingPrinciples:
@@ -14036,8 +14078,21 @@
   title: Incidental findings
   category: ChallengeInstances
   name: recKFOQ4CcT6PhQoe
-  tags: []
+  tags:
+  - AI
   created_at: '2023-06-19T06:06:23.000Z'
+  description: 'AI raises new issues regarding potential of ''incidental findings''
+    - discoveries that are not the primary reason for the data capture, but may be
+    meaningful. These are typically discussed in a health context in which, for example,
+    a test is conducted to investigate one issue, but data (imaging/genomic, etc.)
+    also reveals information that may be indicative of a separate issue. These are
+    ethically challenging because they raise questions regarding consent, and the
+    actionability of such information, particularly in contexts where our ability
+    to identify features in data may have grown at a faster rate than our ability
+    to safely interpret such features for actionable outcomes.For some discussion
+    of this issue in neuroscience research in education, see:Donna Coch (2007) Neuroimaging
+    research with children: ethical issues and case scenarios, Journal of Moral Education,
+    36:1, 1-18, DOI: \[10.1080/03057240601185430]\(https://doi.org/10.1080/03057240601185430)'
 - Challenges:
   - recwuiKe3bhSLw4xv
   OverarchingPrinciples:
@@ -14546,6 +14601,7 @@
   - reciw4r1bRvx6A6Fq
   - rec7m69DQyCw3rlFg
   - recypFGFqJzmgFmWV
+  - recgNdOlcMTiussUk
   title: Gathering personal digital data requires consideration of its management,
     potential for reidentification, and issues around (dis)aggregation
   category: ChallengeInstances
@@ -14607,11 +14663,47 @@
   - recSqx6wklVpDzx3s
   Principles:
   - recSqx6wklVpDzx3s
+  Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
+    on Ethics of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J.
+    Silva Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and
+    Well-Being (Vol. 95, pp. 11–16). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - rec9TbOu2ZXUZG4A5
   title: Should affective AI nudge users for personal or societal benefit?
   category: ChallengeInstances
   name: recWNlnhyOUXmOo0Q
-  tags: []
+  tags:
+  - AI
   created_at: '2023-06-19T06:04:43.000Z'
+  description: '"Governmental entities may potentially use nudging strategies, for
+    example to promote the performance of charitable acts. Does the practice of nudging
+    for the benefitof society, including nudgesby affective systems, raiseethical
+    concerns?## BackgroundA few scholars have noted a potentially controversial practice
+    of the future: allowing a robot or another affective system to nudge a user for
+    the good of society6. For instance, if it is possible that a well-designed robot
+    could effectively encourage humans to perform charitable acts, would it be ethically
+    appropriate for the robot to do so? This design possibility illustrates just one
+    behavioral outcome that a robot could potentially elicit from a user.Given the
+    persuasive power that an affective system may have over a user, ethical concerns
+    related to nudging must be examined. This includes the significant potential for
+    misuse.."p.97-98"Should affective systems be designed to nudge peoplefor the user’s
+    personal benefit and/or for the benefit of others?## BackgroundManipulation can
+    be defined as an exercise of influence by one person or group, with the intention
+    to attempt to control or modify the actions of another person or group. Thaler
+    and Sunstein (2008) call the tactic of subtly modifying behavior a “nudge4”. Nudging
+    mainly operates through the affective elements of a human rational system. Making
+    use of a nudge might be considered appropriate in situations like teaching children,
+    treating drug dependency, and in some healthcare settings. While nudges can be
+    deployed to encourage individuals to express behaviors that have community benefits,
+    a nudge could have unanticipated consequences for people whose backgrounds were
+    not well considered in the development of the nudging system5. Likewise, nudges
+    may encourage behaviors with unanticipated long-term effects, whether positive
+    or negative, for theindividual and/or society. The effect ofA/IS nudging a person,
+    such as potentially eroding or encouraging individual liberty, or expressing behaviors
+    that are for the benefit others, should be well characterized in the design of
+    A/IS."p.96-97'
 - Challenges:
   - recJ6khG2kY2Tx5ae
   OverarchingPrinciples:
@@ -14752,14 +14844,26 @@
   - recSqx6wklVpDzx3s
   Principles:
   - recSqx6wklVpDzx3s
-  Reference: Access Now. (2018). HUMAN RIGHTS IN THE AGE OF ARTIFICIAL INTELLIGENCE.
-    Access Now. https://www.accessnow.org/cms/assets/uploads/2018/11/AI-and-Human-Rights.pdf
+  Reference:
+  - Access Now. (2018). HUMAN RIGHTS IN THE AGE OF ARTIFICIAL INTELLIGENCE. Access
+    Now. https://www.accessnow.org/cms/assets/uploads/2018/11/AI-and-Human-Rights.pdf
+  - High-Level Expert Group on AI. (2019). Ethics guidelines for trustworthy AI |
+    Shaping Europe’s digital future. FUTURIUM - European Commission. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
   Sources:
   - recH8KmnURSknCr5y
-  title: Tyranny of averages and Accuracy paradox and the risks of false positives
+  - recnCULdYQ36cpZR7
+  Strategies:
+  - recBUdrJ8n1tIJLTz
+  - rec95I69E1YcGg0Sa
+  - recq6GeKNegFQdzS9
+  - recvVsXM40mlnmhqP
+  title: 'The complexity of actionable ''accuracy'' and reliability in the context
+    of uncertain uses and users: False positives, the tyranny of averages, and operationalising
+    measures'
   category: ChallengeInstances
   name: recbsVGBRocMgkD2G
-  tags: []
+  tags:
+  - AI
   created_at: '2023-06-19T06:06:23.000Z'
   description: '“Because of their statistical basis, all ML systems have error rates.
     Even though in many cases ML systems are far more accurate than human beings,
@@ -14814,18 +14918,6 @@
     may not change across culture, context, or time. In this way the potential of
     AI to personalise content may be restricted to a narrowly individualistic view
     of personalisation and adaptivity. '
-- Challenges:
-  - recuUWIu0ofVYHLKA
-  OverarchingPrinciples:
-  - recOHnq45Fq7YWsRO
-  Principles:
-  - recOHnq45Fq7YWsRO
-  title: Questions to consider in key stages of AI and machine learning based research,
-    regarding transparency and explainability
-  category: ChallengeInstances
-  name: recd5xGVz6jr6WUqy
-  tags: []
-  created_at: '2023-06-19T06:06:23.000Z'
 - Challenges:
   - recwuiKe3bhSLw4xv
   OverarchingPrinciples:
@@ -15099,18 +15191,27 @@
   - 'franzke, aline shakti, Bechmann, A., Zimmer, M., Ess, C., & Association of Internet
     Researchers (AoIR). (2020). Internet Research: Ethical Guidelines 3.0 Association
     of Internet Researchers. AoIR. https://aoir.org/reports/ethics3.pdf'
+  - European Commission. (2022). Ethical guidelines on the use of artificial intelligence
+    and data in teaching and learning for educators | European Education Area. European
+    Commission. https://education.ec.europa.eu/node/2285
   Sources:
   - recpXl48pJdKDhc6f
   - recnCULdYQ36cpZR7
   - rec6r8OkE2Q2EdiM3
+  - rec9jnxuHOioQn4DC
   Strategies:
   - rec81gtnlFS5W2BBF
-  title: How do we ensure assumptions and limitations are clear in technical documentation?
+  - recTWhZ88TbQLcNaQ
+  - recAnT7HDpWYvdJ1V
+  - recEHwRaLD44KPk8v
+  title: The intended uses, assumptions, and limitations of tools must be clear to
+    all users including via technical documentation
   category: ChallengeInstances
   name: recfzbgUna1vE1wtt
   tags:
   - AI
   - corporate-ethics
+  - education
   created_at: '2023-06-19T06:06:23.000Z'
   description: '**"Issue:** Need for bettertechnical documentation## BackgroundA/IS
     are often construed as fundamentally opaque and inscrutable. However, lack of
@@ -15298,12 +15399,38 @@
   - recLHILkx2JDFsLbX
   Principles:
   - reczVPIH1y2OMpAJH
+  Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
+    on Ethics of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J.
+    Silva Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and
+    Well-Being (Vol. 95, pp. 11–16). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - rec5CFheImo8onTcd
   title: How might AI deployed in care settings to foster intimate relationships impact
     on relationships among humans?
   category: ChallengeInstances
   name: recg821VxieIJvgRO
-  tags: []
+  tags:
+  - AI
+  - affective-computing
   created_at: '2023-06-19T06:05:24.000Z'
+  description: Are moral and ethical boundaries crossed when the design of affective
+    systems allows them to develop intimate relationships with their users?## BackgroundThere
+    are many robots in development or production designed to focus on intimate care
+    of children, adults, and the elderly2. While robots capable of participating fully
+    in intimate relationships are not currently available, the potential use of such
+    robots routinely captures the attention of the media. It is important that professional
+    communities, policy makers, and the general public participate in development
+    of guidelines for appropriate use of A/IS in this area. Those guidelines should
+    acknowledge fundamental human rights to highlight potential ethical benefits and
+    risks that may emerge, ifand when affective systems interact intimately with users.
+    Among the many areas of concern are the representation of care, embodiment of
+    caringA/IS, and the sensitivity of data generated through intimate and caring
+    relationships withA/IS. The literature suggests that there are some potential
+    benefits to individuals and to society from the incorporation of caring A/IS,
+    along with duly cautionary notes concerning the possibility that these systems
+    could negatively impact human-to-human intimate relations3."p.94
 - Challenges:
   - recWPbL5kB1Yh5OPf
   OverarchingPrinciples:
@@ -15445,6 +15572,7 @@
   - recZI7HDWKBU5T22v
   - recfcXzM3foqFNNGN
   - rec9SSyrfFkmuJkCe
+  - recV8WjuiXlfbVN5d
   title: Implementation of AI may be driven by commercial, not values-based, aims
   category: ChallengeInstances
   name: reclJ7hlCEf4P94SA
@@ -15638,6 +15766,7 @@
   - rechaQXedBh3OsMjZ
   - rec81gtnlFS5W2BBF
   - recgn2UvSD4OhzGI4
+  - rec0GhefNkhJqW0c2
   title: Decisions with unclear grounding
   category: ChallengeInstances
   name: recpxk9KZ2adMWrnD
@@ -15769,6 +15898,7 @@
   - recZI7HDWKBU5T22v
   - rec8dLtyDCwvjMWge
   - recffbHgJO0d179DG
+  - rec4oGONFgYMu3JGf
   title: 'AI gives rise to potential harms derived from indirect, long-range, and
     dual-use '
   category: ChallengeInstances
@@ -15864,11 +15994,54 @@
   - recmzjcGKv3yNOxbl
   Principles:
   - recmzjcGKv3yNOxbl
+  Reference: IEEEE, Chatila, R., & Havens, J. C. (2019). The IEEE Global Initiative
+    on Ethics of Autonomous and Intelligent Systems. In M. I. Aldinhas Ferreira, J.
+    Silva Sequeira, G. Singh Virk, M. O. Tokhi, & E. E. Kadar (Eds.), Robotics and
+    Well-Being (Vol. 95, pp. 11–16). Springer International Publishing. https://doi.org/10.1007/978-3-030-12524-0_2
+  Sources:
+  - recpXl48pJdKDhc6f
+  Strategies:
+  - recqJAVTtqOUfypNI
   title: AI poses risks to the right to truthful information
   category: ChallengeInstances
   name: recwVOVXU6zbH6KZ7
-  tags: []
+  tags:
+  - AI
+  - human-potential
   created_at: '2023-06-19T06:04:36.000Z'
+  description: '"**Issue:** The right to truthful information is key to a democratic
+    society and to achieving sustainable development and a more equal world, but A/IS
+    poses risks to this right that must be managed.## BackgroundSocial media have
+    become the dominant technological infrastructure for the dissemination of information
+    such as news, opinion, advertising, etc., and are currently in the vanguard of
+    the movement toward customized/targeted information based on user profiling that
+    involves significant use of A/IS techniques. Analysis of opinion polls and trends
+    in social networks, blogs, etc., and of the emotional response to news items can
+    be used for the purposes of manipulation, facilitating both the selection of news
+    that guides public opinion in the desired direction and the practice of sensationalism.The
+    "personalization of the consumer experience", that is, the adaptation of articles
+    to the interests, political vision, cultural level, education, and geographic
+    location of the reader, is a new challenge for the journalism profession that
+    expands the possibilities of manipulation.The information infrastructure is currently
+    lacking in transparency, such that it is difficult or impossible to know (except
+    perhaps for the infrastructure operator):•what private information is being collected
+    foruser profiling and by whom,•which groups are targeted and by whom,•what information
+    has been received by any given targeted group,•who financed the creation and dissemination
+    of this information,•the percentage of the information being disseminated by bots,
+    and•who is financing these bots.Many actors have found this opaque infrastructure
+    ideal for spreading politically motivated disinformation, which has a negative
+    effect on the creation of a more equal world, democracy, and the respect for fundamental
+    rights. This disinformation can have tragic consequences. For instance, human
+    rights groups have unearthed evidence that the military authorities of Myanmar
+    used Facebook for inciting hatred against the Rohingya Muslim minority, hatred
+    which facilitated an ethnic cleansing campaign and the murder of up to 50,000
+    people.14 The UN determined that these actions constituted genocide, crimes against
+    humanity, and war crimes.15ocide Incited on Facebook with Posts from Myanmar’s
+    Military,” _The New York Times,_ Oct. 15 2018. [https:// www.nytimes.com/2018/10/15/technology/
+    myanmar-faceboo.k-genocide.html](https://www.nytimes.com/2018/10/15/technology/myanmar-facebook-genocide.html)•UK
+    Parliament, House of Commons, Digital, Culture, Media and Sport Committee Disinformation
+    and ‘fake news’: Interim Report, Fifth Report of Session 2017–19UK Parliament,
+    Published on July 29, 2018"p.142-144'
 - Challenges:
   - recWPbL5kB1Yh5OPf
   OverarchingPrinciples:

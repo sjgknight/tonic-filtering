@@ -167,6 +167,7 @@
   - recdkRK64g0b4GZlP
   - recp8G9ek0g3RAnEC
   - recfzbgUna1vE1wtt
+  - rec5facmXBZUPH3es
   Description: "\u201CIf you are a student, you may find the 2002 guidelines (IRE\
     \ 2.0) a good starting point of reflection. If you are looking for a draft to\
     \ obtain informed consent, look into the appendix of the 2002 guidelines (IRE\
@@ -257,6 +258,7 @@
   - recftbldoHqhBBcrk
   - reczbN2QKYqG695ec
   - recC8IlVKWmMHOorw
+  - recfzbgUna1vE1wtt
   Description: "\u201CThese Guidelines are to be used in schools across Europe and\
     \ we shall actively promote them through the Erasmus+ programme. Collectively\
     \ or individually, teachers and school leaders will now have a solid basis to\
@@ -1170,6 +1172,7 @@
   - rec1ldHV74MQeRllz
   - recpxk9KZ2adMWrnD
   - rec5facmXBZUPH3es
+  - rec2OEPHyKNR33lW6
   Description: |
     "The Public Policy Programme at The Alan Turing Institute was set up in May 2018 with the aim of developing research, tools, and techniques that help governments innovate with data-intensive technologies and improve the quality of people's lives. We work alongside policy makers to explore how data science and artificial intelligence can inform public policy and improve the provision of public services. We believe that governments can reap the benefits of these technologies only if they make considerations of ethics and safety a first priority. This document provides end-to-end guidance on how to apply principles of AI ethics and safety to the design and implementation of algorithmic systems in the public sector. We will shortly release a workbook to bring the recommendations made in this guide to life. The workbook will contain case studies highlighting how the guidance contained here can be applied to concrete AI projects. It will also contain exercises and practical tools to help strengthen the process-based governance of your AI project. Please note, that this guide is a living document that will evolve and improve with input from users, affected stakeholders, and interested parties. We need your participation."
     p.3
@@ -1275,6 +1278,12 @@
   - recHUlZ9OQfNwD6fg
   - reck3lUFUtAhNes3Y
   - recfzbgUna1vE1wtt
+  - recISbGibFUeCXoRj
+  - rec1UyKLba4O7X6ax
+  - rec2OEPHyKNR33lW6
+  - recbsVGBRocMgkD2G
+  - rec5facmXBZUPH3es
+  - rec3XoC08SiG83eK0
   Description: "\u201CThese guidelines are addressed to all AI stakeholders designing,\
     \ developing, deploying, implementing, using or being affected by AI, including\
     \ but not limited to companies, organisations, researchers, public services, government\
@@ -1395,11 +1404,7 @@
   - reciNc7OeTUmnsLqg
   - recA7Kh502s4UKWGo
   - recGRpoF7DA23ODSj
-  - rec2ULcHUjSbbSnHL
-  - rec2ajglpzbFYRivi
   - recj64vAVJSm5B2ba
-  - recJV8yTX0MnF3rGD
-  - recb50cfuQUWDAHZW
   - recefglLZ3oJWw2SZ
   - recWPbL5kB1Yh5OPf
   - recJ6khG2kY2Tx5ae
@@ -1439,6 +1444,12 @@
   - rec0d9XwyvbDuuuN6
   - reck3lUFUtAhNes3Y
   - recfzbgUna1vE1wtt
+  - rec2OEPHyKNR33lW6
+  - recISbGibFUeCXoRj
+  - recwVOVXU6zbH6KZ7
+  - rec5nljdN28sNoK3X
+  - recWNlnhyOUXmOo0Q
+  - recg821VxieIJvgRO
   Description: "\"Autonomous and intelligent technical systems are specifically designed\
     \ to reduce the necessity for human intervention in our day-to-day lives. In so\
     \ doing, these new systems are also raising concerns about their impact on individuals\

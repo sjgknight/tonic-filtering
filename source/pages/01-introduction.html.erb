@@ -182,8 +182,32 @@ Across the national statement, and the review materials (Fjeld, Schiff, and High
 
 Ethical action, and the particular activities we engage in - including teaching, research, and data processing - are governed by legal and contractual obligations. These are not the focus of this guideline, and you should ensure you are familiar with and clear about these considerations.
 
+However, whatever our work involves, it occurs in wider society Particularly in the context of research:
 
-> “AI systems should serve to maintain and foster democratic processes and respect the plurality of values and life choices of individuals. AI systems must not undermine democratic processes, human deliberation or democratic voting systems. AI systems must also embed a commitment to ensure that they do not operate in ways that undermine the foundational commitments upon which the rule of law is founded, mandatory laws and regulation, and to ensure due process and equality before the law.” (High-Level Expert Group on AI, 2019, p. 11)" /reckb3cgfedh1eeup
+> ethical reflection should include consideration of “...Societal and environmental wellbeing including sustainability and environmental friendliness, social impact, society, and democracy.” [(European Commission, 2022, p. 18)](/recqdghz7l1cgnqeu).
+
+This includes that:
+
+> “AI systems should serve to maintain and foster democratic processes and respect the plurality of values and life choices of individuals. AI systems must not undermine democratic processes, human deliberation or democratic voting systems. AI systems must also embed a commitment to ensure that they do not operate in ways that undermine the foundational commitments upon which the rule of law is founded, mandatory laws and regulation, and to ensure due process and equality before the law.” [(High-Level Expert Group on AI, 2019, p. 11)](/reckb3cgfedh1eeup)
+
+Crucially:
+
+> "A/IS technologies can be narrowly conceived from an ethical standpoint. They can be legal, profitable, and safe in their usage, yet not positively contribute to human and environmental wellbeing. This means technologies created with the best intentions, but without considering wellbeing, can still have dramatic negative consequences on people’s mental health, emotions, sense of themselves, their autonomy, their ability to achieve their goals, and other dimensions of wellbeing."[(IEEE, 2019, p.23-24)](/recefm7cgashwpjzo)
+
+<% callout_content = partial "templates/components/includeset", locals: { my_filters: "item[:category] == 'Challenge' && (item[:tags].include? 'sustainability')" } %>
+
+<!-- and display them -->
+<%= partial 'templates/components/callout', locals: { type: "information", title: "Some of these concerns for the impact of AI in society include", text: "#{callout_content}"} %>
+
+These overarching concerns are linked to some big picture strategies for considering the trajectory of AI.
+
+<% keys_challenges = partial "templates/components/getkeys", locals: { my_filters: "(item[:category] == 'Challenges') && (item[:tags]&.include?(/'sustainability'/i))" } %>
+
+<!-- lookup those keys -->
+<% callout_content = partial "templates/components/includeset", locals: { my_filters: "item[:category] == 'Strategies' && (item[:Challenges].is_a?(Array) ? item[:Challenges]&.compact&.any? { |x| x&.match?(/#{keys_challenges}/i) } : item[:Challenges]&.match?(/#{keys_challenges}/i))" } %>
+
+<!-- and display them -->
+<%= partial 'templates/components/callout', locals: { type: "information", title: "Overarching strategies for considering the impact of AI on sustainability", text: "#{callout_content}"} %>
 
 
 ## Principles overview
@@ -202,10 +226,6 @@ Although these principles are broadly common across research ethics systems, it 
 - Beneficence
 - Justice
 - Worth - without this it cannot be justifiable
-
-Research occurs in wider society, and thus ethical reflection should include consideration of “Societal and environmental wellbeing including sustainability and environmental friendliness, social impact, society, and democracy.” (European Commission, 2022, p. 18)" (/recqdghz7l1cgnqeu)
-
-"A/IS technologies can be narrowly conceived from an ethical standpoint. They can be legal, profitable, and safe in their usage, yet not positively contribute to human and environmental well-being. This means technologies created with the best intentions, but without considering well-being, can still have dramatic negative consequences on people’s mental health, emotions, sense of themselves, their autonomy, their ability to achieve their goals, and other dimensions of well-being."[(IEEE, 2019, p.23-24)](/recefm7cgashwpjzo)
 
 <%= partial 'templates/components/callout', locals: { type: "", title: "Is this worthwhile? ’Worthwhile’ can mean both that:", text: "
 1.	they produce outcomes we that address our shared values (they have ‘worth’), <br>
