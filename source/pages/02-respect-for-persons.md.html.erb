@@ -27,7 +27,7 @@ Autonomy is normally taken to comprise:
 
 #### Specific ethical concepts arising in the context of technology
 
-<%= partial 'templates/components/callout', locals: { type: "alert", title: "here to edit", text: "check this, these are now drawn from the same table as the concepts in the introduction and so the thread should be clear." } %>
+<%= partial 'templates/components/callout', locals: { type: "alert", title: "here to review", text: "check this, these are now drawn from the same table as the concepts in the introduction and so the thread should be clear." } %>
 
 <!-- first get the keys of principle matching respect for persons -->
 
@@ -45,7 +45,7 @@ Autonomy is normally taken to comprise:
 
 #### And for education
 
-<%= partial 'templates/components/callout', locals: { type: "alert", title: "here to edit", text: "check this, these are now drawn from the same table as the concepts in the introduction and so the thread should be clear" } %>
+<%= partial 'templates/components/callout', locals: { type: "alert", title: "here to review", text: "check this, these are now drawn from the same table as the concepts in the introduction and so the thread should be clear" } %>
 
 <!-- then get the ChallengeInstances of challenges with those keys, and matching tag -->
 <% callout_content = partial "templates/components/includeset", locals: { my_filters: "item[:category] == 'ChallengeInstances' && (item[:tags].include? 'education') && (item[:OverarchingPrinciples].is_a?(Array) ? item[:OverarchingPrinciples]&.compact&.any? { |x| x&.match?(/#{keys_principles}/i) } : item[:OverarchingPrinciples]&.match?(/#{keys_principles}/i))" } %>
@@ -53,11 +53,12 @@ Autonomy is normally taken to comprise:
 <!-- and display them -->
 <%= partial 'templates/components/callout', locals: { type: "information", title: "How is education research different?", text: "#{callout_content}"} %>
 
-“Accountability including auditability, minimisation and reporting of negative impact, trade-offs, and redress. These considerations and requirements can help educators, school leaders and technology providers to adequately assess the impact, address the potential risks, and realise the benefits of an AI system deployed and used in education. As such they guide the development, deployment and use of trustworthy AI systems.” [(European Commission, 2022, p. 19)](/reczcrrifbqqpn8ix)
-
 #### Raw text
 
 <%= partial 'templates/components/callout', locals: { type: "alert", title: "What to keep of this", text: "tbc"} %>
+
+“Accountability including auditability, minimisation and reporting of negative impact, trade-offs, and redress. These considerations and requirements can help educators, school leaders and technology providers to adequately assess the impact, address the potential risks, and realise the benefits of an AI system deployed and used in education. As such they guide the development, deployment and use of trustworthy AI systems.” [(European Commission, 2022, p. 19)](/reczcrrifbqqpn8ix)
+
 
 Considerations regarding respect for persons may be distinctive in the context of AI. That is for two reasons:
 
