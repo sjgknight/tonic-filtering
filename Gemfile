@@ -15,9 +15,6 @@ gem 'slim'
 # gem "middleman-blog", "~> 4.0"
 # gem 'tzinfo-data', '~> 1.2021', '>= 1.2021.5'
 
-<<<<<<< HEAD
 gem 'less', '2.6.0'
 gem 'therubyracer', '0.12.3'
-=======
-gem 'less', '2.6.0'
->>>>>>> 09a501ab09f8e0995d1f679b6773e32d4e301db8
+
