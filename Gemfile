@@ -9,6 +9,8 @@ gem 'listen'
 gem 'redcarpet'
 gem 'kramdown'
 gem 'builder'
+gem 'liquid'
+gem 'slim'
 
 # gem "middleman-blog", "~> 4.0"
 # gem 'tzinfo-data', '~> 1.2021', '>= 1.2021.5'
