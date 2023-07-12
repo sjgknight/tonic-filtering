@@ -16,6 +16,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.12.2)
+    commonjs (0.2.7)
     concurrent-ruby (1.2.0)
     contracts (0.14.0)
     dotenv (2.8.1)
@@ -41,6 +42,8 @@ GEM
     iso8601 (0.13.0)
     kramdown (2.4.0)
       rexml
+    less (2.6.0)
+      commonjs (~> 0.2.7)
     liquid (5.4.0)
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -149,6 +152,7 @@ PLATFORMS
 DEPENDENCIES
   builder
   kramdown
+  less (= 2.6.0)
   liquid
   listen
   middleman (~> 4.4)
