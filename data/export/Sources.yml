@@ -155,9 +155,7 @@
   airtable_id: rec6VgPcUOVnAu0uO
   title: British Sociological Association ethics guidelines including for digital
     research and social media
-- Challenges:
-  - recJ6khG2kY2Tx5ae
-  Challenges copy:
+- ChallengeInstances:
   - rec3wCdnHy3TpLuya
   - rec4F8A2UI0uvFh3O
   - recQWEzfzmzmfstG9
@@ -168,6 +166,8 @@
   - recp8G9ek0g3RAnEC
   - recfzbgUna1vE1wtt
   - rec5facmXBZUPH3es
+  Challenges:
+  - recJ6khG2kY2Tx5ae
   Description: "\u201CIf you are a student, you may find the 2002 guidelines (IRE\
     \ 2.0) a good starting point of reflection. If you are looking for a draft to\
     \ obtain informed consent, look into the appendix of the 2002 guidelines (IRE\
@@ -247,7 +247,7 @@
   - recmS3zSMbR3ofAR5
   - recSXcY4cnofb4zTP
   - recAlOHJhEy5nDwA6
-  Challenges copy:
+  ChallengeInstances:
   - recuFqYoT6MFNqspL
   - recfjoQZIVhT0C5pW
   - recTaaKAtPIfbenZv
@@ -407,7 +407,7 @@
   - recVLyzjb1UfqbrIh
   - recWNt6W4v0xr3x0Z
   - recNNFrnCiGxTP4WE
-  Challenges copy:
+  ChallengeInstances:
   - reczbN2QKYqG695ec
   - recbsVGBRocMgkD2G
   Description: "\u201CAccess Now defends and extends the digital rights of users at\
@@ -655,13 +655,13 @@
   airtable_createdTime: '2023-06-08T15:01:40.000Z'
   airtable_id: recQXTU23awCZtU2a
   title: Schiff-review AI Ethics Global Document Collection
-- Challenges:
-  - recJ6khG2kY2Tx5ae
-  Challenges copy:
+- ChallengeInstances:
   - recQWEzfzmzmfstG9
   - recVGVVfuoL5sr3oo
   - recI3S7M3KOMg2C4m
   - recz5LeVOgbgic8Jk
+  Challenges:
+  - recJ6khG2kY2Tx5ae
   Description: "\u201CThis document aligns with and extends the first AoIR document.\
     \ This document represents a series of considerations designed to support and\
     \ inform those responsible for making decisions about the ethics of internet research.\
@@ -693,14 +693,14 @@
   airtable_createdTime: '2023-05-19T07:13:58.000Z'
   airtable_id: recQiVQ7CTC72xp6O
   title: AoIR report 2
-- Challenges:
-  - recJ6khG2kY2Tx5ae
-  Challenges copy:
+- ChallengeInstances:
   - recX9rdsAGiONXTVd
   - recBfwOfoB68ghQAV
   - rec5l10QTYprjeewa
   - recJOwTAhuoamQM7C
   - recQtuMpX4WaAoHhG
+  Challenges:
+  - recJ6khG2kY2Tx5ae
   Description: "\u201CThis new Taylor Institute Guide takes the researcher through\
     \ the essentials of the Canadian standards for ethical practice in the scholarship\
     \ of teaching and learning (SoTL). It began with Lisa Fedoruk\u2019s review of\
@@ -794,7 +794,7 @@
 - Cases:
   - reco7BYWc7reRuaCh
   - recHAwvOykeiUxFsY
-  Challenges copy:
+  ChallengeInstances:
   - rec3XoC08SiG83eK0
   - recC8IlVKWmMHOorw
   Description: "\u201CWe will consider \u201Ceducational technology\u201D (edtech)\
@@ -1161,10 +1161,7 @@
   airtable_createdTime: '2023-06-05T14:13:41.000Z'
   airtable_id: recctRdjoSccU3vcD
   title: PANELFIT guidelines for data protection
-- Challenges:
-  - recefglLZ3oJWw2SZ
-  - recBc3GCNokDL220T
-  Challenges copy:
+- ChallengeInstances:
   - recMhXPovX6fJ5ZIa
   - recHUlZ9OQfNwD6fg
   - recJvXzs5QMTqWzUF
@@ -1173,6 +1170,9 @@
   - recpxk9KZ2adMWrnD
   - rec5facmXBZUPH3es
   - rec2OEPHyKNR33lW6
+  Challenges:
+  - recefglLZ3oJWw2SZ
+  - recBc3GCNokDL220T
   Description: |
     "The Public Policy Programme at The Alan Turing Institute was set up in May 2018 with the aim of developing research, tools, and techniques that help governments innovate with data-intensive technologies and improve the quality of people's lives. We work alongside policy makers to explore how data science and artificial intelligence can inform public policy and improve the provision of public services. We believe that governments can reap the benefits of these technologies only if they make considerations of ethics and safety a first priority. This document provides end-to-end guidance on how to apply principles of AI ethics and safety to the design and implementation of algorithmic systems in the public sector. We will shortly release a workbook to bring the recommendations made in this guide to life. The workbook will contain case studies highlighting how the guidance contained here can be applied to concrete AI projects. It will also contain exercises and practical tools to help strengthen the process-based governance of your AI project. Please note, that this guide is a living document that will evolve and improve with input from users, affected stakeholders, and interested parties. We need your participation."
     p.3
@@ -1269,7 +1269,7 @@
   airtable_createdTime: '2023-06-05T14:45:30.000Z'
   airtable_id: recl6lvnjffHMH8K1
   title: British Society of Gerontology ethical guidelines
-- Challenges copy:
+- ChallengeInstances:
   - recVGVVfuoL5sr3oo
   - recp8G9ek0g3RAnEC
   - reczbN2QKYqG695ec
@@ -1400,16 +1400,7 @@
   airtable_createdTime: '2023-06-05T14:18:23.000Z'
   airtable_id: recoJTiIbIxoY001E
   title: Research Ethics in Machine Learning
-- Challenges:
-  - reciNc7OeTUmnsLqg
-  - recA7Kh502s4UKWGo
-  - recGRpoF7DA23ODSj
-  - recj64vAVJSm5B2ba
-  - recefglLZ3oJWw2SZ
-  - recWPbL5kB1Yh5OPf
-  - recJ6khG2kY2Tx5ae
-  - rec3T1WLC4dg63qyI
-  Challenges copy:
+- ChallengeInstances:
   - recuFqYoT6MFNqspL
   - recwl0AdKj2HLIpDB
   - rec3wCdnHy3TpLuya
@@ -1450,6 +1441,15 @@
   - rec5nljdN28sNoK3X
   - recWNlnhyOUXmOo0Q
   - recg821VxieIJvgRO
+  Challenges:
+  - reciNc7OeTUmnsLqg
+  - recA7Kh502s4UKWGo
+  - recGRpoF7DA23ODSj
+  - recj64vAVJSm5B2ba
+  - recefglLZ3oJWw2SZ
+  - recWPbL5kB1Yh5OPf
+  - recJ6khG2kY2Tx5ae
+  - rec3T1WLC4dg63qyI
   Description: "\"Autonomous and intelligent technical systems are specifically designed\
     \ to reduce the necessity for human intervention in our day-to-day lives. In so\
     \ doing, these new systems are also raising concerns about their impact on individuals\

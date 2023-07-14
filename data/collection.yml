@@ -1,6 +1,6 @@
-- Challenges:
+- ChallengeInstances:
   - test
-  Challenges copy:
+  Challenges:
   - test
   OverarchingFocus:
   - test
@@ -20,8 +20,6 @@
   - test
   Cases:
   - test
-  ChallengeInstances:
-  - test
   Principles:
   - test
   Stakeholder-as-actor:
@@ -33,6 +31,8 @@
   Imported table:
   - test
   Imported table 2:
+  - test
+  incidents_v1 copy:
   - test
   title: test
   description: test
@@ -46,14 +46,14 @@
   Jobin_covered: '0'
   Khan_covered: '0'
   Schiff_covered: '0'
-- Challenges:
-  - recefglLZ3oJWw2SZ
-  Challenges copy:
+- ChallengeInstances:
   - recVGVVfuoL5sr3oo
   - recJvXzs5QMTqWzUF
   - rec0d9XwyvbDuuuN6
   - recPW66Z54lKwa7hR
   - recKFOQ4CcT6PhQoe
+  Challenges:
+  - recefglLZ3oJWw2SZ
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -557,7 +557,7 @@
     to do so, the entity accountable for the decision must be identifiable, and the
     decision-making processes should be explicable.” (High-Level Expert Group on AI,
     2019, p. 13-14)'
-- Challenges copy:
+- ChallengeInstances:
   - recpoXmwIiqv3BMWJ
   - recT8ABqanoxK9Qu0
   - recRU6VBHZccmYrln
@@ -628,15 +628,15 @@
     Fordham Law Review, 2018.W. Smart, C. Grimm, and W. Hartzog, “[An Education Theory
     of Fault for Autonomous Systems](http://www.werobot2017.com/wp-content/uploads/2017/03/Smart-Grimm-Hartzog-Education-We-Robot.pdf)”,
     2017. p.33-34'
-- Challenges:
-  - recJ6khG2kY2Tx5ae
-  Challenges copy:
+- ChallengeInstances:
   - recX9rdsAGiONXTVd
   - recBfwOfoB68ghQAV
   - recz5LeVOgbgic8Jk
   - recp8G9ek0g3RAnEC
   - recHUlZ9OQfNwD6fg
   - rec1ldHV74MQeRllz
+  Challenges:
+  - recJ6khG2kY2Tx5ae
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -680,14 +680,14 @@
   name: recL7CrHMutQEBBu7
   tags: []
   created_at: '2023-05-19T10:58:11.000Z'
-- Challenges:
-  - recj64vAVJSm5B2ba
-  Challenges copy:
+- ChallengeInstances:
   - recwl0AdKj2HLIpDB
   - reccjN6q8gegWbrUE
   - recQWEzfzmzmfstG9
   - recC8IlVKWmMHOorw
   - recVWprITnDX6u0QB
+  Challenges:
+  - recj64vAVJSm5B2ba
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -734,7 +734,7 @@
     unable to make their own decisions or have diminished capacity to do so, respect
     for them involves empowering them where possible and providing for their protection
     as necessary." (NS 1.10-1.13)'
-- Challenges copy:
+- ChallengeInstances:
   - recI3S7M3KOMg2C4m
   - recftbldoHqhBBcrk
   OverarchingFocus:
@@ -754,9 +754,7 @@
   name: recMGB4iC5oaCtr5x
   tags: []
   created_at: '2023-05-18T14:26:57.000Z'
-- Challenges:
-  - recWPbL5kB1Yh5OPf
-  Challenges copy:
+- ChallengeInstances:
   - recuFqYoT6MFNqspL
   - recwl0AdKj2HLIpDB
   - rec3wCdnHy3TpLuya
@@ -765,6 +763,8 @@
   - rec16WOKdMVKAiBSJ
   - recUMRucTbQ7tySEW
   - reciceYsMfOtPdaaA
+  Challenges:
+  - recWPbL5kB1Yh5OPf
   OverarchingFocus:
   - Long-range-impacts
   OverarchingPrinciples:
@@ -776,9 +776,7 @@
   name: recNB5h9bK4gEE9uc
   tags: []
   created_at: '2023-06-05T05:32:52.000Z'
-- Challenges:
-  - recwuiKe3bhSLw4xv
-  Challenges copy:
+- ChallengeInstances:
   - rec3wCdnHy3TpLuya
   - recUMRucTbQ7tySEW
   - recQtuMpX4WaAoHhG
@@ -790,6 +788,8 @@
   - rec5facmXBZUPH3es
   - recfzbgUna1vE1wtt
   - recpxk9KZ2adMWrnD
+  Challenges:
+  - recwuiKe3bhSLw4xv
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -854,14 +854,14 @@
     conduct3. (c) conducting research honestly4. (d) disseminating and communicating
     results, whether favourable or unfavourable, in ways that permit scrutiny and
     contribute to public knowledge and understanding."(NS 1.1-1.3)'
-- Challenges:
-  - recBc3GCNokDL220T
-  - recJ6khG2kY2Tx5ae
-  Challenges copy:
+- ChallengeInstances:
   - recHHvfADKIkX9idP
   - rec284Ax8lKHt4ljQ
   - recfjoQZIVhT0C5pW
   - reck3lUFUtAhNes3Y
+  Challenges:
+  - recBc3GCNokDL220T
+  - recJ6khG2kY2Tx5ae
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -888,13 +888,13 @@
   created_at: '2023-05-19T07:41:54.000Z'
   description: '"respect the privacy, confidentiality and cultural sensitivities of
     the participants and, where relevant, of their communities."'
-- Challenges:
+- ChallengeInstances:
+  - recftbldoHqhBBcrk
+  - reczbN2QKYqG695ec
+  Challenges:
   - reciNc7OeTUmnsLqg
   - recA7Kh502s4UKWGo
   - recGRpoF7DA23ODSj
-  Challenges copy:
-  - recftbldoHqhBBcrk
-  - reczbN2QKYqG695ec
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -1022,7 +1022,7 @@
     such as workers, women, persons with disabilities, ethnic minorities, children,
     consumers or others at risk of exclusion.” (High-Level Expert Group on AI, 2019,
     p. 11)
-- Challenges copy:
+- ChallengeInstances:
   - rec4F8A2UI0uvFh3O
   - reciceYsMfOtPdaaA
   - recQmyVULN0OuFA2s
@@ -1107,7 +1107,7 @@
     and irregular (or illegal) persons in the EU who also have rights under international
     law, and – therefore in the area of AI systems.” (High-Level Expert Group on AI,
     2019, p. 11)
-- Challenges copy:
+- ChallengeInstances:
   - recMhXPovX6fJ5ZIa
   - rec3XoC08SiG83eK0
   - recg4TZqdeqZcnd1w
@@ -1314,12 +1314,12 @@
   name: recduyDUAsQdJ4EMy
   tags: []
   created_at: '2023-05-19T11:00:14.000Z'
-- Challenges:
+- ChallengeInstances:
+  - reclJ7hlCEf4P94SA
+  Challenges:
   - reciNc7OeTUmnsLqg
   - recA7Kh502s4UKWGo
   - recGRpoF7DA23ODSj
-  Challenges copy:
-  - reclJ7hlCEf4P94SA
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -1470,7 +1470,7 @@
   name: recint2IxoR8aILCp
   tags: []
   created_at: '2023-05-18T14:27:54.000Z'
-- Challenges copy:
+- ChallengeInstances:
   - recpoXmwIiqv3BMWJ
   - recT8ABqanoxK9Qu0
   - recRU6VBHZccmYrln
@@ -1563,7 +1563,7 @@
   name: reclur1ImQFlLyYof
   tags: []
   created_at: '2023-05-19T09:41:35.000Z'
-- Challenges copy:
+- ChallengeInstances:
   - recuFqYoT6MFNqspL
   - rec16WOKdMVKAiBSJ
   - recsYgGzgIK80qUCT
@@ -1686,7 +1686,7 @@
   description: “Societal and environmental wellbeing including sustainability and
     environmental friendliness, social impact, society, and democracy.” (European
     Commission, 2022, p. 18)
-- Challenges copy:
+- ChallengeInstances:
   - recfjoQZIVhT0C5pW
   - recxWhAXTqxMscDqr
   OverarchingFocus:
@@ -1876,7 +1876,7 @@
     Standards Institute BS8611:2016, Robots and Robotic Devices. [Guide to the Ethical
     Design and Application of Robots and ](http://shop.bsigroup.com/ProductDetail?pid=000000000030320089)Robotic
     Systems"p.21-22'
-- Challenges copy:
+- ChallengeInstances:
   - recpxk9KZ2adMWrnD
   OverarchingFocus:
   - Fundamental-right
@@ -1962,12 +1962,12 @@
   name: recyigniIRfB6DPTu
   tags: []
   created_at: '2023-05-19T11:00:08.000Z'
-- Challenges:
-  - recefglLZ3oJWw2SZ
-  Challenges copy:
+- ChallengeInstances:
   - recTaaKAtPIfbenZv
   - rec7aGSPdkdUuZ42O
   - recg821VxieIJvgRO
+  Challenges:
+  - recefglLZ3oJWw2SZ
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -9955,9 +9955,7 @@
   created_at: '2023-06-05T14:21:37.000Z'
   description: British Sociological Association ethics guidelines including for digital
     research and social media
-- Challenges:
-  - recJ6khG2kY2Tx5ae
-  Challenges copy:
+- ChallengeInstances:
   - rec3wCdnHy3TpLuya
   - rec4F8A2UI0uvFh3O
   - recQWEzfzmzmfstG9
@@ -9968,6 +9966,8 @@
   - recp8G9ek0g3RAnEC
   - recfzbgUna1vE1wtt
   - rec5facmXBZUPH3es
+  Challenges:
+  - recJ6khG2kY2Tx5ae
   Link: https://aoir.org/reports/ethics3.pdf
   Reference: |
     franzke, aline shakti, Bechmann, A., Zimmer, M., Ess, C., & Association of Internet Researchers (AoIR). (2020). _Internet Research: Ethical Guidelines 3.0 Association of Internet Researchers_. AoIR. <https://aoir.org/reports/ethics3.pdf>
@@ -10048,7 +10048,7 @@
   - recmS3zSMbR3ofAR5
   - recSXcY4cnofb4zTP
   - recAlOHJhEy5nDwA6
-  Challenges copy:
+  ChallengeInstances:
   - recuFqYoT6MFNqspL
   - recfjoQZIVhT0C5pW
   - recTaaKAtPIfbenZv
@@ -10209,7 +10209,7 @@
   - recVLyzjb1UfqbrIh
   - recWNt6W4v0xr3x0Z
   - recNNFrnCiGxTP4WE
-  Challenges copy:
+  ChallengeInstances:
   - reczbN2QKYqG695ec
   - recbsVGBRocMgkD2G
   Link: https://www.accessnow.org/cms/assets/uploads/2018/11/AI-and-Human-Rights.pdf
@@ -10447,13 +10447,13 @@
   - research-paper
   created_at: '2023-06-08T15:01:40.000Z'
   description: A review piece
-- Challenges:
-  - recJ6khG2kY2Tx5ae
-  Challenges copy:
+- ChallengeInstances:
   - recQWEzfzmzmfstG9
   - recVGVVfuoL5sr3oo
   - recI3S7M3KOMg2C4m
   - recz5LeVOgbgic8Jk
+  Challenges:
+  - recJ6khG2kY2Tx5ae
   Link: https://aoir.org/reports/ethics2.pdf
   Reference: |
     Markham, A., & Buchanan, E. (2012). Ethical Decision-Making and Internet Research: Recommendations from the AoIR Ethics Working Committee (Version 2.0). AoIR. <https://aoir.org/reports/ethics2.pdf>
@@ -10486,14 +10486,14 @@
     audience of other stakeholders such as review boards, ethicists, and students,
     by providing a current discussion of important ethical issues and pertinent literature
     in the field” (Markham and Buchanan, 2012, p. 2)
-- Challenges:
-  - recJ6khG2kY2Tx5ae
-  Challenges copy:
+- ChallengeInstances:
   - recX9rdsAGiONXTVd
   - recBfwOfoB68ghQAV
   - rec5l10QTYprjeewa
   - recJOwTAhuoamQM7C
   - recQtuMpX4WaAoHhG
+  Challenges:
+  - recJ6khG2kY2Tx5ae
   Link: https://taylorinstitute.ucalgary.ca/resources/ethics-scholarship-teaching-and-learning
   Reference: |
     Fedoruk, L. (2017b). _Ethics in The Scholarship of Teaching and Learning_. University of Calgary Taylor Institute for Teaching and Learning. <https://taylorinstitute.ucalgary.ca/resources/ethics-scholarship-teaching-and-learning>
@@ -10582,7 +10582,7 @@
 - Cases:
   - reco7BYWc7reRuaCh
   - recHAwvOykeiUxFsY
-  Challenges copy:
+  ChallengeInstances:
   - rec3XoC08SiG83eK0
   - recC8IlVKWmMHOorw
   Link: https://www2.ed.gov/documents/ai-report/ai-report.pdf
@@ -10939,10 +10939,7 @@
     aimed at showing the legal issues regarding data processing. An impressive amount
     of information about ethical issues can be found in the SHERPA project website
     (<https://www.project-sherpa.eu/>)
-- Challenges:
-  - recefglLZ3oJWw2SZ
-  - recBc3GCNokDL220T
-  Challenges copy:
+- ChallengeInstances:
   - recMhXPovX6fJ5ZIa
   - recHUlZ9OQfNwD6fg
   - recJvXzs5QMTqWzUF
@@ -10951,6 +10948,9 @@
   - recpxk9KZ2adMWrnD
   - rec5facmXBZUPH3es
   - rec2OEPHyKNR33lW6
+  Challenges:
+  - recefglLZ3oJWw2SZ
+  - recBc3GCNokDL220T
   Link: https://doi.org/10.5281/ZENODO.3240529
   OverarchingPrinciples:
   - recLHILkx2JDFsLbX
@@ -11061,7 +11061,7 @@
     are flagged4. Ethical research practice - discusses issues around research practice
     e.g. teamwork, interpersonal considerations, piloting of methods5. New ways of
     working - flags key institutional considerations (ethics committees, etc.).
-- Challenges copy:
+- ChallengeInstances:
   - recVGVVfuoL5sr3oo
   - recp8G9ek0g3RAnEC
   - reczbN2QKYqG695ec
@@ -11190,16 +11190,7 @@
     addressing two kinds of reader here: on the one hand specialists, and on the other
     hand anyone interested, whether decisionmakers or ordinary citizens.” (ALLISTENE,
     2018, p. 7)'
-- Challenges:
-  - reciNc7OeTUmnsLqg
-  - recA7Kh502s4UKWGo
-  - recGRpoF7DA23ODSj
-  - recj64vAVJSm5B2ba
-  - recefglLZ3oJWw2SZ
-  - recWPbL5kB1Yh5OPf
-  - recJ6khG2kY2Tx5ae
-  - rec3T1WLC4dg63qyI
-  Challenges copy:
+- ChallengeInstances:
   - recuFqYoT6MFNqspL
   - recwl0AdKj2HLIpDB
   - rec3wCdnHy3TpLuya
@@ -11240,6 +11231,15 @@
   - rec5nljdN28sNoK3X
   - recWNlnhyOUXmOo0Q
   - recg821VxieIJvgRO
+  Challenges:
+  - reciNc7OeTUmnsLqg
+  - recA7Kh502s4UKWGo
+  - recGRpoF7DA23ODSj
+  - recj64vAVJSm5B2ba
+  - recefglLZ3oJWw2SZ
+  - recWPbL5kB1Yh5OPf
+  - recJ6khG2kY2Tx5ae
+  - rec3T1WLC4dg63qyI
   Link: https://doi.org/10.1007/978-3-030-12524-0_2
   OverarchingPrinciples:
   - recLHILkx2JDFsLbX
@@ -11452,6 +11452,9 @@
   - recAlOHJhEy5nDwA6
   - recSXcY4cnofb4zTP
   - recpFE7h6QhaEpNAQ
+  incidents_v1 copy:
+  - recpBtdEIEVrtFwhF
+  - recUa09j0MsKexnpG
   title: Parents
   category: Stakeholders
   name: rec0af1wTjdFwMqsw
@@ -11510,6 +11513,8 @@
   - recpsmy3isA1Ghocx
   Imported table 2:
   - 138, 140, 141
+  incidents_v1 copy:
+  - recLu1bBOmOQh5bSv
   title: students
   category: Stakeholders
   name: recAfu9YgjjTC9oPe
@@ -11542,6 +11547,8 @@
   - recSXcY4cnofb4zTP
   - recAlOHJhEy5nDwA6
   - recpFE7h6QhaEpNAQ
+  incidents_v1 copy:
+  - recbic1u96lfBtJSR
   title: Technology-providers
   category: Stakeholders
   name: recGRt9lWJvxx5GAE
@@ -11625,6 +11632,11 @@
   - recSXcY4cnofb4zTP
   - recAlOHJhEy5nDwA6
   - recpFE7h6QhaEpNAQ
+  incidents_v1 copy:
+  - recbic1u96lfBtJSR
+  - recl8xz4xdIwQL3dI
+  - recVQaSRldL4N3asx
+  - recjBw6gsqS9FzDtS
   title: Policy-makers
   category: Stakeholders
   name: recSaPtMj9rxfu4uu
