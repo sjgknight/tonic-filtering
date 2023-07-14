@@ -14,7 +14,7 @@
           <% permalink = frontmatter['permalink'] || page.sub('.html.erb', '') %>
           <% title = frontmatter['title'] || File.basename(page, '.*').capitalize %>
           <li>
-            <a href="<%= permalink %>"
+            <a href="<%= url_for(permalink) %>"
               class="block py-2 px-4 text-gray-700 hover:bg-gray-100 transition-colors duration-300 ease-in-out">
               <%= title %>
             </a>
