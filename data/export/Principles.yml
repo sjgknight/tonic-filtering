@@ -1,11 +1,11 @@
-- Challenges:
-  - recefglLZ3oJWw2SZ
-  Challenges copy:
+- ChallengeInstances:
   - recVGVVfuoL5sr3oo
   - recJvXzs5QMTqWzUF
   - rec0d9XwyvbDuuuN6
   - recPW66Z54lKwa7hR
   - recKFOQ4CcT6PhQoe
+  Challenges:
+  - recefglLZ3oJWw2SZ
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -488,7 +488,7 @@
   equivalentTo:
   - recSqx6wklVpDzx3s
   title: Fairness
-- Challenges copy:
+- ChallengeInstances:
   - recpoXmwIiqv3BMWJ
   - recT8ABqanoxK9Qu0
   - recRU6VBHZccmYrln
@@ -559,15 +559,15 @@
   childOf:
   - recuQpwelm0FwdAib
   title: Competence
-- Challenges:
-  - recJ6khG2kY2Tx5ae
-  Challenges copy:
+- ChallengeInstances:
   - recX9rdsAGiONXTVd
   - recBfwOfoB68ghQAV
   - recz5LeVOgbgic8Jk
   - recp8G9ek0g3RAnEC
   - recHUlZ9OQfNwD6fg
   - rec1ldHV74MQeRllz
+  Challenges:
+  - recJ6khG2kY2Tx5ae
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -607,14 +607,14 @@
   title: Prioritise the safety and the mental and physical integrity of people when
     scanning horizons of technological possibility and when conceiving of and deploying
     AI applications
-- Challenges:
-  - recj64vAVJSm5B2ba
-  Challenges copy:
+- ChallengeInstances:
   - recwl0AdKj2HLIpDB
   - reccjN6q8gegWbrUE
   - recQWEzfzmzmfstG9
   - recC8IlVKWmMHOorw
   - recVWprITnDX6u0QB
+  Challenges:
+  - recj64vAVJSm5B2ba
   Description: |
     "1.10 Respect for human beings is a recognition of their intrinsic value. In human research, this recognition includes abiding by the values of research merit and integrity, justice and beneficence. Respect also requires having due regard for the welfare, beliefs, perceptions, customs and cultural heritage, both individual and collective, of those involved in research.
     1.11 Researchers and their institutions should respect the privacy, confidentiality and cultural sensitivities of the participants and, where relevant, of their communities. Any specific agreements made with the participants or the community should be fulfilled.
@@ -651,7 +651,7 @@
   - recRbUmCzD09d6KZS
   - recSwTdeEk6XbEgXU
   title: Respect for persons
-- Challenges copy:
+- ChallengeInstances:
   - recI3S7M3KOMg2C4m
   - recftbldoHqhBBcrk
   OverarchingFocus:
@@ -669,9 +669,7 @@
   childOf:
   - recSqx6wklVpDzx3s
   title: Fairness in distribution of burden and benefits of research
-- Challenges:
-  - recWPbL5kB1Yh5OPf
-  Challenges copy:
+- ChallengeInstances:
   - recuFqYoT6MFNqspL
   - recwl0AdKj2HLIpDB
   - rec3wCdnHy3TpLuya
@@ -680,6 +678,8 @@
   - rec16WOKdMVKAiBSJ
   - recUMRucTbQ7tySEW
   - reciceYsMfOtPdaaA
+  Challenges:
+  - recWPbL5kB1Yh5OPf
   OverarchingFocus:
   - Long-range-impacts
   OverarchingPrinciples:
@@ -689,9 +689,7 @@
   airtable_createdTime: '2023-06-05T05:32:52.000Z'
   airtable_id: recNB5h9bK4gEE9uc
   title: Consider long-range and indirect impacts
-- Challenges:
-  - recwuiKe3bhSLw4xv
-  Challenges copy:
+- ChallengeInstances:
   - rec3wCdnHy3TpLuya
   - recUMRucTbQ7tySEW
   - recQtuMpX4WaAoHhG
@@ -703,6 +701,8 @@
   - rec5facmXBZUPH3es
   - recfzbgUna1vE1wtt
   - recpxk9KZ2adMWrnD
+  Challenges:
+  - recwuiKe3bhSLw4xv
   Description: |
     "Unless proposed research has merit, and the researchers who are to carry out the research have integrity, the involvement of human participants in the research cannot be ethically justifiable." (NS, preamble)
     "1.1 Research that has merit is:
@@ -757,14 +757,14 @@
   airtable_createdTime: '2023-05-18T14:26:57.000Z'
   airtable_id: recOHnq45Fq7YWsRO
   title: Merit and Integrity
-- Challenges:
-  - recBc3GCNokDL220T
-  - recJ6khG2kY2Tx5ae
-  Challenges copy:
+- ChallengeInstances:
   - recHHvfADKIkX9idP
   - rec284Ax8lKHt4ljQ
   - recfjoQZIVhT0C5pW
   - reck3lUFUtAhNes3Y
+  Challenges:
+  - recBc3GCNokDL220T
+  - recJ6khG2kY2Tx5ae
   Description: |
     "respect the privacy, confidentiality and cultural sensitivities of the participants and, where relevant, of their communities."
   OverarchingFocus:
@@ -789,13 +789,13 @@
   childOf:
   - recLHILkx2JDFsLbX
   title: Privacy
-- Challenges:
+- ChallengeInstances:
+  - recftbldoHqhBBcrk
+  - reczbN2QKYqG695ec
+  Challenges:
   - reciNc7OeTUmnsLqg
   - recA7Kh502s4UKWGo
   - recGRpoF7DA23ODSj
-  Challenges copy:
-  - recftbldoHqhBBcrk
-  - reczbN2QKYqG695ec
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
@@ -914,7 +914,7 @@
   - reczVPIH1y2OMpAJH
   - recKdujFoPJr4ZAhZ
   title: Equality, non-discrimination and solidarity
-- Challenges copy:
+- ChallengeInstances:
   - rec4F8A2UI0uvFh3O
   - reciceYsMfOtPdaaA
   - recQmyVULN0OuFA2s
@@ -987,7 +987,7 @@
   airtable_createdTime: '2023-05-25T18:05:21.000Z'
   airtable_id: recTLqwMltPHHQDxH
   title: Citizens' rights
-- Challenges copy:
+- ChallengeInstances:
   - recMhXPovX6fJ5ZIa
   - rec3XoC08SiG83eK0
   - recg4TZqdeqZcnd1w
@@ -1186,12 +1186,12 @@
     conceiving and developing. Think about the ramifications of their effects and
     externalities for others around the globe, for future generations, and for the
     biosphere as a whole
-- Challenges:
+- ChallengeInstances:
+  - reclJ7hlCEf4P94SA
+  Challenges:
   - reciNc7OeTUmnsLqg
   - recA7Kh502s4UKWGo
   - recGRpoF7DA23ODSj
-  Challenges copy:
-  - reclJ7hlCEf4P94SA
   Description: "**A/IS creators shall adopt increased human well-being as a primary\
     \ success criterion for development.**\n## Background\nFor A/IS technologies to\
     \ demonstrably advance benefit for humanity, we need to be able to define and\
@@ -1332,7 +1332,7 @@
   childOf:
   - recOHnq45Fq7YWsRO
   title: do research that is justifiable by potential benefit
-- Challenges copy:
+- ChallengeInstances:
   - recpoXmwIiqv3BMWJ
   - recT8ABqanoxK9Qu0
   - recRU6VBHZccmYrln
@@ -1419,7 +1419,7 @@
   - rectPrYetyr4YIuq8
   title: Safeguard the integrity of interpersonal dialogue, meaningful human connection,
     and social cohesion
-- Challenges copy:
+- ChallengeInstances:
   - recuFqYoT6MFNqspL
   - rec16WOKdMVKAiBSJ
   - recsYgGzgIK80qUCT
@@ -1528,7 +1528,7 @@
   airtable_createdTime: '2023-06-08T06:31:30.000Z'
   airtable_id: recqdGhz7l1cGnQeU
   title: Societal and environmental wellbeing
-- Challenges copy:
+- ChallengeInstances:
   - recfjoQZIVhT0C5pW
   - recxWhAXTqxMscDqr
   OverarchingFocus:
@@ -1705,7 +1705,7 @@
   - recSwTdeEk6XbEgXU
   - rec9uueW1gq31CcBo
   title: Respect for human rights
-- Challenges copy:
+- ChallengeInstances:
   - recpxk9KZ2adMWrnD
   Description: "\u201CExplicability is crucial for building and maintaining users\u2019\
     \ trust in AI systems. This means that processes need to be transparent, the capabilities\
@@ -1784,12 +1784,12 @@
   - recNB5h9bK4gEE9uc
   title: Use AI to empower and to advance the interests and well-being of as many
     individuals as possible
-- Challenges:
-  - recefglLZ3oJWw2SZ
-  Challenges copy:
+- ChallengeInstances:
   - recTaaKAtPIfbenZv
   - rec7aGSPdkdUuZ42O
   - recg821VxieIJvgRO
+  Challenges:
+  - recefglLZ3oJWw2SZ
   OverarchingFocus:
   - Fundamental-right
   OverarchingPrinciples:
