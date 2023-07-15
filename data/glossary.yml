@@ -1,0 +1,8 @@
+- term: gatekeeper
+  definition: A static site generator written in Ruby.
+- term: ethics
+  definition: A template language used by Jekyll to generate dynamic content.
+- term: Markdown
+  definition: A lightweight markup language used to format plain text.
+- term: dignity
+  definition: a test for this

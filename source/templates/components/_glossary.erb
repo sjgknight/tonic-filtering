@@ -1,0 +1,13 @@
+<h1>Glossary</h1>
+
+<% data.glossary.each do |entry| %>
+  <% term_title = entry['term'] %>
+  <% definition = entry['definition'] %>
+
+  <div id="glossary-<%= term_title.downcase %>" class="pb-4">
+    <a href="#glossary-<%= term_title.downcase %>" class="text-blue-500 hover:underline">
+      <strong><%= term_title %>: </strong>
+    </a>
+    <%= definition %>
+  </div>
+<% end %>
