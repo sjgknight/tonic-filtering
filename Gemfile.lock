@@ -16,7 +16,6 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.12.2)
-    commonjs (0.2.7)
     concurrent-ruby (1.2.0)
     contracts (0.14.0)
     dotenv (2.8.1)
@@ -42,9 +41,6 @@ GEM
     iso8601 (0.13.0)
     kramdown (2.4.0)
       rexml
-    less (2.6.0)
-      commonjs (~> 0.2.7)
-    liquid (5.4.0)
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
@@ -125,9 +121,6 @@ GEM
     sassc (2.4.0)
       ffi (~> 1.9)
     servolux (0.13.0)
-    slim (5.1.0)
-      temple (~> 0.10.0)
-      tilt (>= 2.0.6, < 2.2)
     temple (0.10.0)
     thor (1.2.1)
     tilt (2.0.11)
@@ -152,14 +145,11 @@ PLATFORMS
 DEPENDENCIES
   builder
   kramdown
-  less (= 2.6.0)
-  liquid
   listen
   middleman (~> 4.4)
   middleman-inline_svg (~> 0.1)
   middleman-livereload (~> 3.4)
   redcarpet
-  slim
   video_info (~> 4.0)
 
 BUNDLED WITH

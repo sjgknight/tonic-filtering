@@ -8,6 +8,12 @@ set :build_dir, 'docs'
 # extensions
 require 'lib/extensions/permalink.rb'
 activate :permalink
+#require 'lib/extensions/glossary.rb'
+require 'lib/extensions/hyperlink_glossary_entries.rb'
+#require 'lib/extensions/enrich_glossary_entries.rb'
+
+
+#see https://stackoverflow.com/questions/74626830/implementing-a-glossary-in-jekyll
 #redirect "about.html", to: "pages/about.html"
 #redirect "snippets.html", to: "pages/snippets.html"
 
@@ -30,6 +36,9 @@ configure :build do
   activate :asset_hash
   activate :minify_css
   activate :relative_assets
+  activate :hyperlink_glossary_entries
+#  activate :enrich_glossary_entries
+#  activate :glossary_link_generator
 end
 
 set :markdown_engine, :redcarpet
@@ -46,6 +55,7 @@ end
 
 Tonic.start(self)
 
+
 #base_url is mentioned in a few places as a way to set the base url
 #this would be useful e.g. where using github pages which is in a subdir
 #I couldn't get it working in any of
@@ -59,4 +69,3 @@ Tonic.start(self)
   #set :base_url, "/tonic-filtering"
 #the new config.yaml field cardurl does what I wanted
 #I'm also using permalink extension from https://www.beesbot.com/middleman-permalinks-in-frontmatter/middleman-permalinks-in-frontmatter
-
