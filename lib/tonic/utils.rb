@@ -17,21 +17,21 @@ module Tonic
     def render_tags(tags)
       return if !tags
 
-      tags.sort.map do |tag|
+      tags.uniq.sort.uniq.map do |tag|
         "<span class='tag'>#{tag}</span>"
       end.join(" ")
     end
 
     def render_tag_links(tags)
       return if !tags
-        tags.sort.map do |tag|
+        tags.compact.uniq.sort.map do |tag|
         "<a href='#{config.cardurl}?tags=#{tag}' class='tag'>#{tag}</a>".html_safe
       end.join(" ")
     end
 
     def render_principle_links(principles)
       return if !principles
-        "<b>Principles:</b>" + principles.sort.map do |principle|
+        "<b>Principles:</b>" + principles.compact.uniq.sort.map do |principle|
         "<a href='#{config.cardurl}?global=#{principle}' class='tag'>#{data.collection.select { |item| item.name == principle }.map(&:title).join}</a>".html_safe
       end.join(" ")
     end
@@ -58,7 +58,7 @@ end
 
 def render_link_values(value)
   value.map do |v|
-      matching_items = data.collection.select { |item| item.name == v }
+      matching_items = data.collection.uniq.select { |item| item.name == v }
       titles = matching_items.map(&:title).join(", ")
       link_url = "/#{v}"
       link_url = link_url.downcase
