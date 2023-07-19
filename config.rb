@@ -37,6 +37,9 @@ configure :build do
   activate :minify_css
   activate :relative_assets
   activate :hyperlink_glossary_entries
+  activate :alias, {
+    "/cards/" => "/cards",
+  }
 #  activate :enrich_glossary_entries
 #  activate :glossary_link_generator
 end
