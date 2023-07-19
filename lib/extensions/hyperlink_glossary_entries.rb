@@ -15,8 +15,8 @@ class HyperlinkGlossaryEntries < Middleman::Extension
 
     html_files = builder.app.sitemap.resources.select {
       |resource| resource.ext == '.html' &&
-      (!resource.path.include?('glossary') ||
-      !resource.path.include?('cards'))
+      !resource.path.include?('glossary') &&
+      !resource.path.include?('cards')
     }
 
     #puts html_files
@@ -63,8 +63,8 @@ class HyperlinkGlossaryEntries < Middleman::Extension
   def processable?(resource)
     resource.is_a?(Middleman::Sitemap::Resource) &&
       resource.ext == '.html' &&
-       (!resource.path.include?('glossary') ||
-      !resource.path.include?('cards')) &&
+      !resource.path.include?('glossary') &&
+      !resource.path.include?('cards') &&
       app.data['glossary'] != false
   end
 
