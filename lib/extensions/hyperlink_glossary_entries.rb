@@ -68,35 +68,55 @@ class HyperlinkGlossaryEntries < Middleman::Extension
       app.data['glossary'] != false
   end
 
-  # Process the HTML body to replace glossary entries with hyperlinks
-  def process_html_body(html, title, glossary_entries)
-    glossary_entries.each do |glossary_entry|
-      glossary_term = glossary_entry['term'].to_s.downcase
-      glossary_link = '/glossary#glossary-' + glossary_term
-      glossary_definition = glossary_entry['definition'].to_s.gsub('"', '&quot;')
+def process_html_body(html, title, glossary_entries)
+  # Define a regex to match script tags
+  script_tag_regex = /<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/i
 
-      # Find all instances of <a> or <hx> tags and their locations in the HTML
-      tags_matches = html.enum_for(:scan, /<(a|h\d)[^>]*>[\s\S]*?<\/\1>/i).map { Regexp.last_match }
-      #tags_matches = html.enum_for(:scan, /<(a|h\d)[^>]*>.*?<\/\1>/i).map { Regexp.last_match }
-      tags_locations = tags_matches.map { |match| match.offset(0) }
+  # Split the HTML content by script tags and process only the non-script parts
+  parts = html.split(script_tag_regex)
+  parts.map! do |part|
+    # Process the part unless it's a script tag
+    if !part.match?(script_tag_regex)
+      process_html_part(part, title, glossary_entries)
+    else
+      part
+    end
+  end
 
-      # Replace the glossary term instances outside <a> or <hx> tags with hyperlinks
-      html.gsub!(/\b#{Regexp.escape(glossary_term)}\b/i) do |match|
-        # Check if the match falls within any <a> or <hx> tags
-        if tags_locations.none? { |location| location[0] <= Regexp.last_match.offset(0)[0] && location[1] >= Regexp.last_match.offset(0)[1] }
+  # Join the processed parts back together
+  html = parts.join
+
+  html
+end
+
+def process_html_part(part, title, glossary_entries)
+  glossary_entries.each do |glossary_entry|
+    glossary_term = glossary_entry['term'].to_s.downcase
+    glossary_link = '/glossary#glossary-' + glossary_term
+    glossary_definition = glossary_entry['definition'].to_s.gsub('"', '&quot;')
+
+    # Find all instances of <a> or <hx> tags and their locations in the HTML
+    tags_matches = part.enum_for(:scan, /<(a|h\d)[^>]*>[\s\S]*?<\/\1>/i).map { Regexp.last_match }
+    tags_locations = tags_matches.map { |match| match.offset(0) }
+
+    # Replace the glossary term instances outside <a> or <hx> tags with hyperlinks
+    part.gsub!(/\b#{Regexp.escape(glossary_term)}\b/i) do |match|
+      # Check if the match falls within any <a> or <hx> tags
+      if tags_locations.none? { |location| location[0] <= Regexp.last_match.offset(0)[0] && location[1] >= Regexp.last_match.offset(0)[1] }
         glossary_link_with_tooltip = "<a href=\"#{glossary_link}\" class=\"group inline-block relative\">
           <span class=\"text-blue-400 hover:text-blue-600 transition-colors duration-300 focus:outline-none focus:ring focus:ring-blue-300 focus:ring-opacity-50\">#{match}</span>
           <span class=\"group-hover:opacity-100 transition-opacity bg-gray-800 px-1 text-sm text-gray-100 rounded-md absolute left-1/2 -translate-x-1/2 translate-y-2 w-auto opacity-0 m-4 mx-auto\">#{glossary_definition}</span>
         </a>"
 
         "#{glossary_link_with_tooltip}"
-        else
-          match
-        end
+      else
+        match
       end
     end
-    html
   end
+
+  part
+end
 end
 
 # Register the extension with Middleman
