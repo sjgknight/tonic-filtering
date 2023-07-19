@@ -70,7 +70,8 @@ class HyperlinkGlossaryEntries < Middleman::Extension
       glossary_definition = glossary_entry['definition'].to_s.gsub('"', '&quot;')
 
       # Find all instances of <a> or <hx> tags and their locations in the HTML
-      tags_matches = html.enum_for(:scan, /<(a|h\d)[^>]*>.*?<\/\1>/i).map { Regexp.last_match }
+      tags_matches = html.enum_for(:scan, /<(a|h\d)[^>]*>[\s\S]*?<\/\1>/i).map { Regexp.last_match }
+      #tags_matches = html.enum_for(:scan, /<(a|h\d)[^>]*>.*?<\/\1>/i).map { Regexp.last_match }
       tags_locations = tags_matches.map { |match| match.offset(0) }
 
       # Replace the glossary term instances outside <a> or <hx> tags with hyperlinks
