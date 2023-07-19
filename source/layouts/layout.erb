@@ -26,12 +26,6 @@
     <script>
       window.config = JSON.parse(JSON.stringify(<%= config.to_json %>));
 
-       <% if current_page.url == config.cardurl || current_page.url == config.cardurl + '/' %>
-
-        window.collection = JSON.parse(JSON.stringify(<%= tonic_collection.to_json %>));
-
-      <% end %>
-
     </script>
 
   </body>

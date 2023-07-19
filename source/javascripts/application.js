@@ -7,8 +7,7 @@ import AppCtrl from './controllers/app'
 
 const App = new RalixApp({
   routes: {
-    '/.*': AppCtrl,
-    '/.*\\/': AppCtrl
+    '/.*': AppCtrl
   },
 })
 
