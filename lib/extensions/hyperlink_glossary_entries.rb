@@ -63,6 +63,8 @@ class HyperlinkGlossaryEntries < Middleman::Extension
   def processable?(resource)
     resource.is_a?(Middleman::Sitemap::Resource) &&
       resource.ext == '.html' &&
+       (!resource.path.include?('glossary') ||
+      !resource.path.include?('cards')) &&
       app.data['glossary'] != false
   end
 
