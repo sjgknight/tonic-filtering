@@ -36,7 +36,7 @@ configure :build do
   activate :asset_hash
   activate :minify_css
   activate :relative_assets
-#  activate :hyperlink_glossary_entries
+  activate :hyperlink_glossary_entries
 #  activate :enrich_glossary_entries
 #  activate :glossary_link_generator
 end

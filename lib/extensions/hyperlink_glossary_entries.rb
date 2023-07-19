@@ -13,7 +13,11 @@ class HyperlinkGlossaryEntries < Middleman::Extension
     #html_files = Dir.glob(File.join(builder.app.config[:build_dir], '**/*.html'))
     #html_files = Dir.glob("docs/**/*.html")
 
-    html_files = builder.app.sitemap.resources.select { |resource| resource.ext == '.html' && !resource.path.include?('glossary') }
+    html_files = builder.app.sitemap.resources.select {
+      |resource| resource.ext == '.html' &&
+      (!resource.path.include?('glossary') ||
+      !resource.path.include?('cards'))
+    }
 
     #puts html_files
 
