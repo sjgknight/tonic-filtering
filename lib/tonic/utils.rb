@@ -17,21 +17,21 @@ module Tonic
     def render_tags(tags)
       return if !tags
 
-      tags.sort.map do |tag|
+      tags.sort.uniq.map do |tag|
         "<span class='tag'>#{tag}</span>"
       end.join(" ")
     end
 
     def render_tag_links(tags)
       return if !tags
-        tags.compact.sort.map do |tag|
+        tags.compact.uniq.sort.map do |tag|
         "<a href='#{config.cardurl}?tags=#{tag}' class='tag'>#{tag}</a>".html_safe
       end.join(" ")
     end
 
     def render_principle_links(principles)
       return if !principles
-        "<b>Principles:</b>" + principles.compact.sort.map do |principle|
+        "<b>Principles:</b>" + principles.compact.uniq.sort.map do |principle|
         "<a href='#{config.cardurl}?global=#{principle}' class='tag'>#{data.collection.select { |item| item.name == principle }.map(&:title).join}</a>".html_safe
       end.join(" ")
     end
@@ -40,7 +40,7 @@ module Tonic
   fields.map do |field|
     next unless current_page.data[field]
 
-    values = data.collection.flat_map(&field).compact.sort
+    values = data.collection.flat_map(&field).compact.sort.uniq
     next if values.empty?
 
     link_html = values.map do |value|
