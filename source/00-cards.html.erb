@@ -3,13 +3,6 @@ title: Cards
 permalink: "cards"
 ---
 
-<%= javascript_include_tag "application" %>
-    <script>
-
-    window.collection = JSON.parse(JSON.stringify(<%= tonic_collection.to_json %>));
-
-    </script>
-
 <div class="flex min-h-screen">
   <%= partial "templates/components/sidebar" unless config.hide_filters %>
 
